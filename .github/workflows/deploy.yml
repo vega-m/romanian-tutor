@@ -23,14 +23,13 @@ jobs:
       - name: Build site
         run: |
           mkdir -p site
-          # Copy web app files
-          cp -r web/* site/
-          # Copy content directory alongside web files
+          # Copy web app files (exclude the content symlink)
+          cp -r web/index.html site/
+          cp -r web/css site/
+          cp -r web/js site/
+          cp -r web/data site/
+          # Copy content directory
           cp -r content site/
-          # Copy data directory if it's separate
-          if [ -d web/data ]; then
-            cp -r web/data site/data
-          fi
           # Add .nojekyll to prevent Jekyll processing
           touch site/.nojekyll
 
