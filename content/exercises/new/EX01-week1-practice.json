@@ -1,0 +1,189 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX01-week1-practice",
+  "title": "Săptămâna 1 — Exerciții Practice: Alfabet, Diacritice, Salutări",
+  "titleRo": "Săptămâna 1 — Exerciții Practice: Alfabet, Diacritice, Salutări",
+  "cefrLevel": "A1",
+  "prerequisites": [
+    "G01-alphabet-reading"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "These practical exercises will help you master Romanian diacritics, pronunciation rules, and basic greetings. Fill in missing diacritics, choose correct pronunciation rules, find and fix errors, and practice writing a short self-introduction.",
+  "instructionsRo": "Aceste exerciții practice vă vor ajuta să stăpâniți diacriticele românești, regulile de pronunție și salutările de bază. Completați diacriticele lipsă, alegeți regulile de pronunție corecte, găsiți și corectați erorile și exersați scrierea unei scurte autoprezentări.",
+  "sourceWeek": 1,
+  "exercises": [
+    {
+      "id": "ex01_001",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritics in this Romanian sentence: 'Buna dimineata! Cum te numesti?'",
+      "promptRo": "Completați diacriticele lipsă în această propoziție românească: 'Buna dimineata! Cum te numesti?'",
+      "sentence": "Buna dimineata! Cum te numesti?",
+      "answer": "Bună dimineața! Cum te numești?",
+      "acceptableAnswers": [
+        "Bună dimineața! Cum te numești?"
+      ],
+      "explanation": "Three corrections: 'Bună' (not 'Buna'), 'dimineața' (needs 'ă' and 'ț'), 'numești' (needs 'ș'). Romanian greetings and common phrases must use proper diacritics.",
+      "explanationRo": "Trei corecturi: 'Bună' (nu 'Buna'), 'dimineața' (necesită 'ă' și 'ț'), 'numești' (necesită 'ș'). Salutările și expresiile comune din română trebuie să folosească diacritice corecte."
+    },
+    {
+      "id": "ex01_002",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritics: 'Ma numesc Ion si invat limba romana in tara mea.'",
+      "promptRo": "Completați diacriticele lipsă: 'Ma numesc Ion si invat limba romana in tara mea.'",
+      "sentence": "Ma numesc Ion si invat limba romana in tara mea.",
+      "answer": "Mă numesc Ion și învăț limba română în țara mea.",
+      "acceptableAnswers": [
+        "Mă numesc Ion și învăț limba română în țara mea."
+      ],
+      "explanation": "Five corrections: 'Mă' (ă), 'și' (ș), 'învăț' (ă, ț), 'română' (â), 'în' (î), 'țara' (ț). This sentence now uses all five Romanian special letters: ă, â, î, ș, ț.",
+      "explanationRo": "Cinci corecturi: 'Mă' (ă), 'și' (ș), 'învăț' (ă, ț), 'română' (â), 'în' (î), 'țara' (ț). Această propoziție folosește acum toate cele cinci litere speciale românești: ă, â, î, ș, ț."
+    },
+    {
+      "id": "ex01_003",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritics: 'Noapte buna! Visuri placute!'",
+      "promptRo": "Completați diacriticele lipsă: 'Noapte buna! Visuri placute!'",
+      "sentence": "Noapte buna! Visuri placute!",
+      "answer": "Noapte bună! Vise plăcute!",
+      "acceptableAnswers": [
+        "Noapte bună! Vise plăcute!",
+        "Noapte bună! Visuri plăcute!"
+      ],
+      "explanation": "Corrections: 'bună' (ă), 'plăcute' (ă). Note: 'Visuri' is also acceptable; 'Vise' is the more common conversational form. Both need 'ă' in 'plăcute'.",
+      "explanationRo": "Corecturi: 'bună' (ă), 'plăcute' (ă). Notă: 'Visuri' este de asemenea acceptabil; 'Vise' este forma mai comună în conversație. Ambele necesită 'ă' în 'plăcute'."
+    },
+    {
+      "id": "ex01_004",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritics: 'Ma numesc Ion si sunt din Timisoara.'",
+      "promptRo": "Completați diacriticele lipsă: 'Ma numesc Ion si sunt din Timisoara.'",
+      "sentence": "Ma numesc Ion si sunt din Timisoara.",
+      "answer": "Mă numesc Ion și sunt din Timișoara.",
+      "acceptableAnswers": [
+        "Mă numesc Ion și sunt din Timișoara."
+      ],
+      "explanation": "Three corrections: 'Mă' (ă), 'și' (ș), 'Timișoara' (ș). 'ș' is always needed for the /ʃ/ sound. The conjunction 'și' (and) must use 'ș', not 's'.",
+      "explanationRo": "Trei corecturi: 'Mă' (ă), 'și' (ș), 'Timișoara' (ș). 'ș' este mereu necesar pentru sunetul /ʃ/. Conjuncția 'și' (și) trebuie să folosească 'ș', nu 's'."
+    },
+    {
+      "id": "ex01_005",
+      "type": "multiple-choice",
+      "prompt": "Which pronunciation rule is correct for the letter 'c' in Romanian?",
+      "promptRo": "Care regulă de pronunție este corectă pentru litera 'c' în română?",
+      "answer": "Before a, o, u it sounds like /k/; before e, i it sounds like /tʃ/ (English 'ch')",
+      "options": [
+        "'c' always sounds like /k/ regardless of the next letter",
+        "Before a, o, u it sounds like /k/; before e, i it sounds like /tʃ/ (English 'ch')",
+        "Before a, o, u it sounds like /s/; before e, i it sounds like /k/",
+        "'c' always sounds like /tʃ/ (English 'ch') regardless of the next letter"
+      ],
+      "explanation": "The letter 'c' has two sounds: /k/ before a, o, u (e.g., 'casă', 'coastă', 'curând') and /tʃ/ before e, i (e.g., 'cer', 'cine'). To get /k/ before e or i, write 'ch' (e.g., 'chemare').",
+      "explanationRo": "Litera 'c' are două sunete: /k/ înainte de a, o, u (ex. 'casă', 'coastă', 'curând') și /tʃ/ înainte de e, i (ex. 'cer', 'cine'). Pentru a obține /k/ înainte de e sau i, se scrie 'ch' (ex. 'chemare')."
+    },
+    {
+      "id": "ex01_006",
+      "type": "multiple-choice",
+      "prompt": "Which pronunciation rule is correct for the letter 'g' in Romanian?",
+      "promptRo": "Care regulă de pronunție este corectă pentru litera 'g' în română?",
+      "answer": "Before a, o, u it sounds like /ɡ/; before e, i it sounds like /dʒ/ (English 'j')",
+      "options": [
+        "'g' always sounds like /ɡ/ regardless of the next letter",
+        "Before a, o, u it sounds like /ɡ/; before e, i it sounds like /dʒ/ (English 'j')",
+        "Before a, o, u it sounds like /dʒ/; before e, i it sounds like /ɡ/",
+        "'g' always sounds like /x/ (like 'ch' in Scottish 'loch')"
+      ],
+      "explanation": "The letter 'g' has two sounds: /ɡ/ before a, o, u (e.g., 'grădină', 'gorilă', 'gust') and /dʒ/ before e, i (e.g., 'geam', 'girafă'). To get /ɡ/ before e or i, write 'gh' (e.g., 'ghem', 'ghid').",
+      "explanationRo": "Litera 'g' are două sunete: /ɡ/ înainte de a, o, u (ex. 'grădină', 'gorilă', 'gust') și /dʒ/ înainte de e, i (ex. 'geam', 'girafă'). Pentru a obține /ɡ/ înainte de e sau i, se scrie 'gh' (ex. 'ghem', 'ghid')."
+    },
+    {
+      "id": "ex01_007",
+      "type": "multiple-choice",
+      "prompt": "Which statement about the â/î rule is correct?",
+      "promptRo": "Care afirmație despre regula â/î este corectă?",
+      "answer": "Both â and î represent the same sound /ɨ/, but â is used inside words and î at the beginning or end",
+      "options": [
+        "â and î represent different sounds and cannot be interchanged",
+        "Both â and î represent the same sound /ɨ/, but â is used inside words and î at the beginning or end",
+        "â is only used in proper nouns and î in common words",
+        "î is used in formal writing and â in informal speech"
+      ],
+      "explanation": "Both â and î represent the same sound /ɨ/ (like 'u' in 'roses'). The orthographic rule: use 'â' in the middle of words (e.g., 'rămâne', 'cântec') and 'î' at the beginning (e.g., 'începe') or end (e.g., 'a învăța') of words. Exception: the single-word 'sâmbătă', 'sânger', and derivatives of 'sân' (blood).",
+      "explanationRo": "Atât â cât și î reprezintă același sunet /ɨ/ (ca 'u' în 'roses'). Regula ortografică: se folosește 'â' în mijlocul cuvintelor (ex. 'rămâne', 'cântec') și 'î' la început (ex. 'începe') sau sfârșit (ex. 'a învăța') al cuvintelor. Excepție: cuvântul singular 'sâmbătă', 'sânger' și derivatele lui 'sân' (sânge)."
+    },
+    {
+      "id": "ex01_008",
+      "type": "error-correction",
+      "prompt": "Find and correct all diacritic errors: 'Sunteti din Romania? Da, sunt din Bucuresti.'",
+      "promptRo": "Găsiți și corectați toate erorile de diacritic: 'Sunteti din Romania? Da, sunt din Bucuresti.'",
+      "sentence": "Sunteti din Romania? Da, sunt din Bucuresti.",
+      "answer": "Sunteți din România? Da, sunt din București.",
+      "explanation": "Three main diacritic corrections: 'Sunteți' (needs 'ț'), 'România' (needs 'â'), and 'București' (needs 'ș' and 'ț'). Using correct diacritics is essential for formal Romanian writing.",
+      "explanationRo": "Trei corecturi principale de diacritice: 'Sunteți' (necesită 'ț'), 'România' (necesită 'â') și 'București' (necesită 'ș' și 'ț'). Folosirea diacriticelor corecte este esențială pentru scrierea formală în limba română."
+    },
+    {
+      "id": "ex01_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the pronunciation/diacritic error: 'Citesc o carte frumoasa despre tara noastra.'",
+      "promptRo": "Găsiți și corectați eroarea de pronunție/diacritic: 'Citesc o carte frumoasa despre tara noastra.'",
+      "sentence": "Citesc o carte frumoasa despre tara noastra.",
+      "answer": "Citesc o carte frumoasă despre țara noastră.",
+      "explanation": "Three corrections: 'frumoasă' (needs 'ă'), 'țara' (needs 'ț'), 'noastră' (needs 'ă'). Each of these words contains at least one special Romanian letter that changes pronunciation.",
+      "explanationRo": "Trei corecturi: 'frumoasă' (necesită 'ă'), 'țara' (necesită 'ț'), 'noastră' (necesită 'ă'). Fiecare dintre aceste cuvinte conține cel puțin o literă specială românească care schimbă pronunția."
+    },
+    {
+      "id": "ex01_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the diacritic error: 'In romana, cuvantul scoala inseamna school.'",
+      "promptRo": "Găsiți și corectați eroarea de diacritic: 'In romana, cuvantul scoala inseamna school.'",
+      "sentence": "In romana, cuvantul scoala inseamna school.",
+      "answer": "În română, cuvântul școală înseamnă school.",
+      "explanation": "Five corrections: 'În' (needs 'î' at the beginning of the word), 'română' (needs 'ă'), 'cuvântul' (needs 'â' in the middle), 'școală' (needs 'ș', not 's'), 'înseamnă' (needs 'ă'). This sentence demonstrates the â/î rule and the importance of 'ș'.",
+      "explanationRo": "Cinci corecturi: 'În' (necesită 'î' la începutul cuvântului), 'română' (necesită 'ă'), 'cuvântul' (necesită 'â' în mijloc), 'școală' (necesită 'ș', nu 's'), 'înseamnă' (necesită 'ă'). Această propoziție demonstrează regula â/î și importanța lui 'ș'."
+    },
+    {
+      "id": "ex01_011",
+      "type": "writing",
+      "prompt": "Write a short self-introduction in Romanian (5-8 sentences). Include:\n- A greeting (e.g., Bună ziua! / Salut!)\n- Your name (Mă numesc...)\n- Where you are from (Sunt din...)\n- Why you are learning Romanian (Vreau să învăț româna pentru că...)\n- A closing (La revedere! / Pe curând!)\n\nPay special attention to using the correct diacritics (ă, â, î, ș, ț) in every word.",
+      "promptRo": "Scrieți o scurtă autoprezentare în română (5-8 propoziții). Includeți:\n- Un salut (ex. Bună ziua! / Salut!)\n- Numele dumneavoastră (Mă numesc...)\n- De unde sunteți (Sunt din...)\n- De ce învățați româna (Vreau să învăț româna pentru că...)\n- O încheiere (La revedere! / Pe curând!)\n\nAcordați o atenție deosebită folosirii diacriticelor corecte (ă, â, î, ș, ț) în fiecare cuvânt.",
+      "answer": "Model answer:\n\nBună ziua! Mă numesc Maria și sunt din Italia. Sunt studentă și învăț româna pentru că vreau să lucrez în România. Îmi place foarte mult limba română și cultura românească. În timpul liber, ascult muzică și citesc cărți. Pe curând!",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Diacritics",
+            "description": "Correct use of ă, â, î, ș, ț throughout the text (e.g., Mă, numesc, România, învăț, îmi, curând)",
+            "maxPoints": 4
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Uses appropriate greetings and self-introduction phrases from Week 1 (Bună ziua, Mă numesc, Sunt din, Vreau să, La revedere, Pe curând)",
+            "maxPoints": 3
+          },
+          {
+            "name": "Spelling",
+            "description": "Correct overall spelling including proper use of ș/ț (e.g., școală, țară) and â/î rule (e.g., România, învăț)",
+            "maxPoints": 3
+          }
+        ],
+        "totalPoints": 10
+      },
+      "explanation": "A good self-introduction in Romanian uses the phrases learned in Week 1: greeting with 'Bună ziua' or 'Salut', introducing yourself with 'Mă numesc...' and 'Sunt din...', explaining your motivation with 'Vreau să învăț...', and closing with 'La revedere' or 'Pe curând'. Pay attention to diacritics in every word.",
+      "explanationRo": "O autoprezentare bună în română folosește expresiile învățate în Săptămâna 1: salutul cu 'Bună ziua' sau 'Salut', prezentarea cu 'Mă numesc...' și 'Sunt din...', explicarea motivației cu 'Vreau să învăț...' și încheierea cu 'La revedere' sau 'Pe curând'. Acordați atenție diacriticelor în fiecare cuvânt."
+    },
+    {
+      "id": "ex01_012",
+      "type": "translation",
+      "direction": "ro-to-en",
+      "prompt": "Translate the following Romanian greetings and phrases into English:",
+      "promptRo": "Traduceți următoarele salutări și expresii românești în engleză:",
+      "sentence": "Bună dimineața! Cum te numești? Mă numesc Ana. Sunt din România. La revedere!",
+      "answer": "Good morning! What is your name? My name is Ana. I am from Romania. Goodbye!",
+      "acceptableAnswers": [
+        "Good morning! What is your name? My name is Ana. I am from Romania. Goodbye!",
+        "Good morning! What's your name? My name is Ana. I'm from Romania. Goodbye!"
+      ],
+      "explanation": "These are essential Romanian greetings and self-introduction phrases. 'Bună dimineața' = Good morning, 'Cum te numești?' = What is your name?, 'Mă numesc' = My name is / I call myself, 'Sunt din' = I am from, 'La revedere' = Goodbye.",
+      "explanationRo": "Acestea sunt salutări și expresii de autoprezentare esențiale în română. 'Bună dimineața' = Bună dimineața, 'Cum te numești?' = Cum te numești?, 'Mă numesc' = Mă numesc / Îmi spun, 'Sunt din' = Sunt din, 'La revedere' = La revedere."
+    }
+  ]
+}

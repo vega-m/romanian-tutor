@@ -1,0 +1,246 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G19-numerals",
+  "title": "Numerale și Cuantificatori",
+  "titleEn": "Numerals & Quantifiers",
+  "cefrLevel": "A2-B1",
+  "prerequisites": ["G03-noun-gender", "G09-present-tense"],
+  "estimatedMinutes": 40,
+  "introduction": "Numerals in Romanian are used to quantify objects, people, and abstract concepts. While the cardinal numbers are straightforward, they often undergo gender agreement (one/two) and phonetic changes in compound forms. For B1, mastering dates, time, and ordinal sequences is essential.",
+  "introductionRo": "Numeralele în limba română sunt folosite pentru a cuantifica obiecte, persoane și concepte abstracte. În timp ce numeralele cardinale sunt relativ simple, acestea suferă adesea acord de gen (unu/una, doi/două) și modificări fonetice în formele compuse. Pentru nivelul B1, stăpânirea datelor, a orei și a secvențelor ordinale este esențială.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Cardinal Numerals (0-10)",
+      "headingRo": "Numeralul Cardinal (0-10)",
+      "content": "Cardinal numerals are the basic building blocks for counting. Note that the numbers 'one' and 'two' change their form to match the gender of the noun they quantify.",
+      "contentRo": "Numeralele cardinale constituie baza sistemului de numărare. Rețineți că numerele „unu” și „doi” își schimbă forma pentru a se acorda cu genul substantivului pe care îl determină.",
+      "table": {
+        "headers": ["Number", "Romanian", "Pronunciation", "Gender note"],
+        "rows": [
+          ["0", "zero", "/'ze.ro/", "invariable"],
+          ["1", "unu (m.), una (f.)", "/'u.nu/", "agrees in gender"],
+          ["2", "doi (m.), două (f./n.)", "/doi/ /'do.ə/", "plural form agrees"],
+          ["3", "trei", "/trej/", "invariable"],
+          ["4", "patru", "/'pa.tru/", "invariable"],
+          ["5", "cinci", "/tʃink/", "invariable"],
+          ["6", "șase", "/'ʃa.se/", "invariable"],
+          ["7", "șapte", "/'ʃap.te/", "invariable"],
+          ["8", "opt", "/opt/", "invariable"],
+          ["9", "nouă", "/'no.wə/", "invariable"],
+          ["10", "zece", "/'ze.tʃe/", "invariable"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Cardinal Numbers 11-19",
+      "headingRo": "Numerale Cardinale 11-19",
+      "content": "Numbers 11-19 are formed with the suffix '-sprezece' (literally 'over ten'). Note that 'unu' changes to 'un' and 'doi' to 'doi' before the suffix.",
+      "contentRo": "Numerele 11-19 se formează cu sufixul '-sprezece' (literal 'peste zece'). Observați că 'unu' devine 'un' și 'doi' rămâne 'doi' înaintea sufixului.",
+      "table": {
+        "headers": ["Number", "Romanian", "Pronunciation"],
+        "rows": [
+          ["11", "unsprezece", "/un'spre.ze.tʃe/"],
+          ["12", "doisprezece", "/doj'spre.ze.tʃe/"],
+          ["13", "treisprezece", "/trej'spre.ze.tʃe/"],
+          ["14", "patrusprezece", "/pa.tru'spre.ze.tʃe/"],
+          ["15", "cincisprezece", "/tʃink'spre.ze.tʃe/"],
+          ["16", "șaisprezece", "/'ʃaj'spre.ze.tʃe/"],
+          ["17", "șaptesprezece", "/'ʃap.te'spre.ze.tʃe/"],
+          ["18", "optsprezece", "/op'spre.ze.tʃe/"],
+          ["19", "nouăsprezece", "/no.wə'spre.ze.tʃe/"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Tens, Hundreds, Thousands",
+      "headingRo": "Zecile, Sutele, Miiile",
+      "content": "Tens follow a regular pattern. Hundreds and thousands have their own special forms.",
+      "contentRo": "Zecile urmează un model regulat. Sutele și miile au forme proprii speciale.",
+      "table": {
+        "headers": ["Number", "Romanian", "Notes"],
+        "rows": [
+          ["20", "douăzeci", "două + zeci (two tens)"],
+          ["30", "treizeci", "trei + zeci"],
+          ["40", "patruzeci", "patru + zeci"],
+          ["50", "cincizeci", "cinci + zeci"],
+          ["60", "șaizeci", "șase + zeci"],
+          ["70", "șaptezeci", "șapte + zeci"],
+          ["80", "optzeci", "opt + zeci"],
+          ["90", "nouăzeci", "nouă + zeci"],
+          ["100", "o sută", "'o' is the article"],
+          ["200", "două sute", "sute is plural here"],
+          ["300", "trei sute", ""],
+          ["1,000", "o mie", "'o' is the article"],
+          ["2,000", "două mii", "mii is plural here"],
+          ["1,000,000", "un milion", "masculine noun"],
+          ["1,000,000,000", "un miliard", "masculine noun"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Compound Numbers (21, 35, 142, etc.)",
+      "headingRo": "Numere Compuse (21, 35, 142, etc.)",
+      "content": "Compound numbers are formed with 'și' (and) between tens and units: 21 = douăzeci și unu. For hundreds with tens/units: 142 = o sută patruzeci și doi.",
+      "contentRo": "Numerele compuse se formează cu 'și' (și) între zeci și unități: 21 = douăzeci și unu. Pentru sute cu zeci/unități: 142 = o sută patruzeci și doi.",
+      "examples": [
+        {
+          "ro": "Am douăzeci și trei de ani. (I am 23 years old.)",
+          "en": "Note the 'de' after the numeral when followed by a noun.",
+          "notes": "With years, use 'de' before 'ani': douăzeci și trei de ani."
+        },
+        {
+          "ro": "Costă trei sute cincizeci și doi de lei. (It costs 352 lei.)",
+          "en": "Hundreds and tens/units are joined by 'și' only between the last two parts.",
+          "notes": "o sută patruzeci și doi (142), NOT o sută și patruzeci și doi."
+        },
+        {
+          "ro": "Sunt un milion două sute treizeci de mii de locuitori. (There are 1,230,000 inhabitants.)",
+          "en": "Large numbers use 'de' before 'locuitori' but not between numeral components.",
+          "notes": "The 'de' only appears before the noun, not between numeral parts."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Ordinal Numbers",
+      "headingRo": "Numerale Ordinale",
+      "content": "Ordinal numbers indicate position or order. They are adjectives and must agree with the noun in gender and number. They are often used with the definite article.",
+      "contentRo": "Numeralele ordinale indică poziția sau ordinea. Sunt adjective și trebuie să fie de acord cu substantivul în gen și număr. Sunt adesea folosite cu articolul hotărât.",
+      "table": {
+        "headers": ["Ordinal", "Masculine", "Feminine", "Neuter", "Example"],
+        "rows": [
+          ["1st", "primul", "prima", "primul", "primul rând (the first row)"],
+          ["2nd", "al doilea", "a doua", "al doilea", "a doua oară (the second time)"],
+          ["3rd", "al treilea", "a treia", "al treilea", "al treilea etaj (the 3rd floor)"],
+          ["4th", "al patrulea", "a patra", "al patrulea", "a patra zi (the 4th day)"],
+          ["5th", "al cincilea", "a cincea", "al cincilea", "al cincilea capitol (the 5th chapter)"],
+          ["10th", "al zecelea", "a zecea", "al zecelea", "al zecelea an (the 10th year)"],
+          ["20th", "al douăzecilea", "a douăzecea", "al douăzecilea", "al douăzecilea secol (the 20th century)"],
+          ["100th", "al o sutălea", "a o suta", "al o sutălea", "al o sutălea loc (the 100th place)"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Fractions and Decimals",
+      "headingRo": "Fracții și Zecimale",
+      "content": "Fractions use ordinal numbers for the denominator. Decimals use a comma (virgulă) in Romanian, not a period.",
+      "contentRo": "Fracțiile folosesc numerale ordinale pentru numitor. Zecimalele folosesc virgulă în română, nu punct.",
+      "examples": [
+        {
+          "ro": "o treime (1/3), două treimi (2/3), trei sferturi (3/4)",
+          "en": "Fraction = numerator (cardinal) + denominator (ordinal in plural)",
+          "notes": "o treime = one third, o jumătate = one half, un sfert = one quarter"
+        },
+        {
+          "ro": "3,14 (trei virgulă paisprezece)",
+          "en": "Decimals use comma: 3,14 NOT 3.14",
+          "notes": "In Romanian: virgulă = comma, punct = period. Decimal separator is virgulă."
+        },
+        {
+          "ro": "Un sfert de oră. (A quarter of an hour / 15 minutes.)",
+          "en": "Common time expression using a fraction.",
+          "notes": "'Un sfert de oră' = 15 minutes, 'o jumătate de oră' = 30 minutes."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Collective Numerals",
+      "headingRo": "Numerale Colective",
+      "content": "Collective numerals express groups of people or things. They are formed with 'amândoi/amândouă' (both), 'toți/toate' (all), and the suffix '-i' for groups.",
+      "contentRo": "Numeralele colective exprimă grupuri de persoane sau lucruri. Se formează cu 'amândoi/amândouă' (ambii), 'toți/toate' (toți) și sufixul '-i' pentru grupuri.",
+      "table": {
+        "headers": ["Meaning", "Form", "Example"],
+        "rows": [
+          ["both (m.)", "amândoi", "Amândoi băieții sunt aici."],
+          ["both (f.)", "amândouă", "Amândouă cărțile sunt bune."],
+          ["all (m.)", "toți", "Toți studenții au venit."],
+          ["all (f.)", "toate", "Toate fetele au plecat."],
+          ["the two of us", "noi doi", "Noi doi vom merge."],
+          ["the three of them", "ei trei", "Ei trei au rezolvat problema."],
+          ["a pair (m.)", "o pereche", "O pereche de pantofi."],
+          ["a pair (f.)", "o pereche", "O pereche de șosete."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Approximate Quantifiers",
+      "headingRo": "Cuantificatori Aproximativi",
+      "content": "Romanian has many ways to express approximate quantities, which are very useful in everyday speech and in the B1 exam.",
+      "contentRo": "Româna are multe modalități de a exprima cantități aproximative, foarte utile în vorbirea de zi cu zi și la examenul B1.",
+      "table": {
+        "headers": ["Romanian", "English", "Example"],
+        "rows": [
+          ["aproximativ", "approximately", "aproximativ 50 de persoane"],
+          ["cam", "about / around", "cam 20 de minute"],
+          ["circa", "approximately (formal)", "circa 100 de participanți"],
+          ["peste", "over / more than", "peste 200 de pagini"],
+          ["sub", "under / less than", "sub 10 grade"],
+          ["mai mult de", "more than", "mai mult de 5 ori"],
+          ["mai puțin de", "less than", "mai puțin de un kilometru"],
+          ["vreo", "some / about (colloquial)", "vreo 30 de lei"],
+          ["câteva", "several / a few", "câteva zile"],
+          ["mulți / multe", "many / much", "mulți oameni, multe cărți"],
+          ["puțini / puține", "few / little", "puțini bani, puține idei"],
+          ["suficient", "enough", "suficient timp"]
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "heading": "B1 Exam Tip",
+      "content": "In the B1 exam, numbers frequently appear in reading comprehension texts (dates, statistics, prices) and in listening exercises. Practice both recognizing numbers in written form and producing them correctly. Pay special attention to the difference between 'sută' (100) and 'sută' as a numeral vs. 'sută' in compound expressions like 'o sută la sută' (100%).",
+      "contentRo": "La examenul B1, numerele apar frecvent în textele de citire (date, statistici, prețuri) și în exercițiile de ascultare. Exersează atât recunoașterea numerelor în formă scrisă, cât și producerea lor corectă. Acordă atenție specială diferenței dintre 'sută' (100) ca numeral și 'sută' în expresii compuse ca 'o sută la sută' (100%)."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Watch out for these frequent numeral errors:",
+      "contentRo": "Fii atent la aceste greșeli frecvente cu numeralele:",
+      "rules": [
+        "Don't forget gender agreement: 'doi băieți' (m.) vs. 'două fete' (f.)",
+        "Don't use 'și' between hundreds and tens: 'o sută patruzeci' NOT 'o sută și patruzeci'",
+        "Don't confuse 'o sută' (100) with 'o sută de' (+ noun): 'o sută de lei'",
+        "Don't use a period for decimals: write '3,14' NOT '3.14'",
+        "Don't forget the article with ordinals: 'primul' NOT 'prim' (except feminine: 'prima')"
+      ],
+      "examples": [
+        {
+          "ro": "CORRECT: Am doi frați și o soră. / INCORRECT: Am două frați.",
+          "en": "'Doi' is masculine plural for 'frați'; 'două' is for feminine/neuter.",
+          "notes": "Gender agreement is mandatory with 1 and 2."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Cardinal numbers: 0-10 are the building blocks; 11-19 use '-sprezece'",
+    "Tens: '-zeci' suffix (douăzeci, treizeci, etc.)",
+    "Compound numbers use 'și' between tens and units: douăzeci și unu (21)",
+    "Gender agreement: unu/una (1), doi/două (2) must agree with the noun",
+    "Ordinal numbers: primul, al doilea, al treilea... (agree in gender/number)",
+    "Fractions: o jumătate (1/2), un sfert (1/4), o treime (1/3)",
+    "Decimals use comma: 3,14 (trei virgulă paisprezece)",
+    "Collective numerals: amândoi (both m.), toți (all m.), noi doi (the two of us)",
+    "Approximate quantifiers: cam, circa, peste, sub, vreo, câteva"
+  ],
+  "summaryPointsRo": [
+    "Numere cardinale: 0-10 sunt cărămizile de bază; 11-19 folosesc '-sprezece'",
+    "Zecile: sufixul '-zeci' (douăzeci, treizeci, etc.)",
+    "Numere compuse folosesc 'și' între zeci și unități: douăzeci și unu (21)",
+    "Acordul de gen: unu/una (1), doi/două (2) trebuie să fie de acord cu substantivul",
+    "Numerale ordinale: primul, al doilea, al treilea... (acord de gen/număr)",
+    "Fracții: o jumătate (1/2), un sfert (1/4), o treime (1/3)",
+    "Zecimale folosesc virgulă: 3,14 (trei virgulă paisprezece)",
+    "Numerale colective: amândoi (ambii m.), toți (toți m.), noi doi (noi doi)",
+    "Cuantificatori aproximativi: cam, circa, peste, sub, vreo, câteva"
+  ],
+  "relatedExercises": []
+}

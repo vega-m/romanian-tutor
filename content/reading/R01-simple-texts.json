@@ -1,0 +1,129 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R01-simple-texts",
+  "title": "Texte Simple",
+  "titleEn": "Simple Texts",
+  "cefrLevel": "A1",
+  "texts": [
+    {
+      "id": "r01_001",
+      "title": "Prezentare",
+      "titleEn": "Introduction",
+      "text": "Bună! Mă numesc Maria și am douăzeci și cinci de ani. Sunt din București, dar acum locuiesc în străinătate. Învăț româna pentru că vreau să vorbesc cu familia mea. Mama mea este din România, iar tata este din Moldova. Eu vorbesc engleză și puțină română, dar vreau să învăț mai mult. Îmi place să citesc și să gătesc. Mâine am o lecție de română. Pe curând!",
+      "translation": "Hi! My name is Maria and I am twenty-five years old. I'm from Bucharest, but now I live abroad. I'm learning Romanian because I want to speak with my family. My mother is from Romania, and my father is from Moldova. I speak English and a little Romanian, but I want to learn more. I like to read and cook. Tomorrow I have a Romanian lesson. See you soon!",
+      "vocabularyNotes": [
+        {"word": "mă numesc", "meaning": "my name is (lit. I call myself)", "notes": "Reflexive form of 'a numi'"},
+        {"word": "străinătate", "meaning": "abroad / foreign country", "notes": "feminine noun"},
+        {"word": "învăț", "meaning": "I learn / I study", "notes": "From 'a învăța', 1st conjugation"},
+        {"word": "vreau să", "meaning": "I want to", "notes": "'vreau' = I want, 'să' = subjunctive marker"},
+        {"word": "pe curând", "meaning": "see you soon", "notes": "Common informal farewell"}
+      ],
+      "questions": [
+        {
+          "id": "r01_q1",
+          "type": "comprehension",
+          "question": "Câți ani are Maria?",
+          "questionEn": "How old is Maria?",
+          "answer": "25 (douăzeci și cinci)",
+          "acceptableAnswers": ["25", "douăzeci și cinci", "douazeci si cinci"],
+          "options": null
+        },
+        {
+          "id": "r01_q2",
+          "type": "multiple-choice",
+          "question": "De unde este mama Mariei?",
+          "questionEn": "Where is Maria's mother from?",
+          "options": ["Moldova", "București", "România", "Străinătate"],
+          "answer": "România"
+        },
+        {
+          "id": "r01_q3",
+          "type": "comprehension",
+          "question": "Ce limbi vorbește Maria?",
+          "questionEn": "What languages does Maria speak?",
+          "answer": "Engleză și puțină română",
+          "acceptableAnswers": ["engleză și puțină română", "engleza si putina romana", "engleză", "engleză și română"],
+          "options": null
+        },
+        {
+          "id": "r01_q4",
+          "type": "multiple-choice",
+          "question": "Ce îi place Mariei să facă?",
+          "questionEn": "What does Maria like to do?",
+          "options": ["Să danseze și să cânte", "Să citească și să gătească", "Să călătorească", "Să joace fotbal"],
+          "answer": "Să citească și să gătească"
+        },
+        {
+          "id": "r01_q5",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'pe curând'?",
+          "questionEn": "What does 'pe curând' mean?",
+          "answer": "see you soon",
+          "acceptableAnswers": ["see you soon", "la revedere curând"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r01_002",
+      "title": "O Zi Simplă",
+      "titleEn": "A Simple Day",
+      "text": "Azi este luni. Mă scol la șapte dimineața. Fac cafea și mănânc pâine cu unt și brânză. Apoi merg la birou cu autobuzul. La birou lucrez opt ore. La prânz mănânc la cantină — azi am supă de legume și salată. După-amiază, termin lucrul la cinci. Merg acasă și fac sport. Seara, citesc o carte sau vizionez un film. La nouă pregătesc cina. Mănânc și apoi mă uit la telefon puțin. La unsprezece mă duc la culcare. Este o zi obișnuită, dar mă bucur de ea.",
+      "translation": "Today is Monday. I wake up at seven in the morning. I make coffee and eat bread with butter and cheese. Then I go to the office by bus. At the office I work eight hours. At lunch I eat at the canteen — today I had vegetable soup and salad. In the afternoon, I finish work at five. I go home and exercise. In the evening, I read a book or watch a movie. At nine I prepare dinner. I eat and then I look at my phone a little. At eleven I go to bed. It's an ordinary day, but I enjoy it.",
+      "vocabularyNotes": [
+        {"word": "dimineața", "meaning": "in the morning", "notes": "Adverb of time"},
+        {"word": "pâine", "meaning": "bread", "notes": "feminine noun (f.)"},
+        {"word": "birou", "meaning": "office / desk", "notes": "neuter noun (n.)"},
+        {"word": "cantină", "meaning": "canteen / cafeteria", "notes": "feminine noun (f.)"},
+        {"word": "obișnuit", "meaning": "ordinary / usual", "notes": "adjective, masculine form"},
+        {"word": "a se bucura", "meaning": "to enjoy / to be glad", "notes": "Reflexive verb"}
+      ],
+      "questions": [
+        {
+          "id": "r01_q6",
+          "type": "multiple-choice",
+          "question": "La ce oră se scoală naratorul?",
+          "questionEn": "What time does the narrator wake up?",
+          "options": ["La șase", "La șapte", "La opt", "La nouă"],
+          "answer": "La șapte"
+        },
+        {
+          "id": "r01_q7",
+          "type": "comprehension",
+          "question": "Ce mănâncă la micul dejun?",
+          "questionEn": "What does the narrator eat for breakfast?",
+          "answer": "Pâine cu unt și brânză",
+          "acceptableAnswers": ["pâine cu unt și brânză", "paine cu unt si branza"],
+          "options": null
+        },
+        {
+          "id": "r01_q8",
+          "type": "multiple-choice",
+          "question": "Cum merge la birou?",
+          "questionEn": "How does the narrator get to the office?",
+          "options": ["Pe jos", "Cu mașina", "Cu autobuzul", "Cu metroul"],
+          "answer": "Cu autobuzul"
+        },
+        {
+          "id": "r01_q9",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'obișnuit' în acest context?",
+          "questionEn": "What does 'obișnuit' mean in this context?",
+          "answer": "ordinary / usual / normal",
+          "acceptableAnswers": ["ordinary", "usual", "normal", "obișnuit"],
+          "options": null
+        },
+        {
+          "id": "r01_q10",
+          "type": "comprehension",
+          "question": "La ce oră se duce la culcare?",
+          "questionEn": "What time does the narrator go to bed?",
+          "answer": "La unsprezece",
+          "acceptableAnswers": ["la unsprezece", "11", "unsprezece"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E16-conditional-imperative",
+  "title": "Conditional and Imperative Drill",
+  "titleRo": "Exerciții de Condițional și Imperativ",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G15-conditional",
+    "G16-imperative"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Practice the Romanian conditional (aș, ai, ar...) and imperative (moods for commands and wishes) in context.",
+  "instructionsRo": "Exersează condiționalul (aș, ai, ar...) și imperativul românesc (moduri pentru comenzi și dorințe) în context.",
+  "sourceWeek": 9,
+  "exercises": [
+    {
+      "id": "e16_001",
+      "type": "fill-blank",
+      "prompt": "Complete the conditional sentence: Dacă aș avea timp, ___ (I would travel).",
+      "promptRo": "Completează propoziția condițională: Dacă aș avea timp, ___ .",
+      "sentence": "Dacă aș avea timp, ___ în Europa.",
+      "answer": "aș călători",
+      "acceptableAnswers": [
+        "aș călători",
+        "aș calatori"
+      ],
+      "explanation": "Present conditional: aș + infinitive (long form). 'Aș călători' = I would travel. The conditional mood uses 'aș, ai, ar, am, ați, ar' + infinitive.",
+      "explanationRo": "Condiționalul prezent: aș + infinitiv (forma lungă). 'Aș călători' = aș călători. Modul condițional folosește 'aș, ai, ar, am, ați, ar' + infinitiv."
+    },
+    {
+      "id": "e16_002",
+      "type": "multiple-choice",
+      "prompt": "What is the 2nd person singular imperative of 'a vorbi' (to speak)?",
+      "promptRo": "Care este imperativul persoana a II-a singular a lui 'a vorbi' (a vorbi)?",
+      "answer": "vorbește",
+      "options": [
+        "vorbește",
+        "vorbă",
+        "a vorbi",
+        "vorbind"
+      ],
+      "explanation": "The imperative 2nd person singular of 'a vorbi' is 'vorbește'. For verbs in the 4th conjugation (-i), the imperative often drops the final -i and adds -ește: a vorbi -> vorbește.",
+      "explanationRo": "Imperativul persoana a II-a singular a lui 'a vorbi' este 'vorbește'. Pentru verbele de a 4-a conjugare (-i), imperativul deseori pierde -i final și adaugă -ește: a vorbi -> vorbește.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e16_003",
+      "type": "fill-blank",
+      "prompt": "Form the conditional 3rd person plural: Ei ___ (they would come).",
+      "promptRo": "Formează condiționalul persoana a III-a plural: Ei ___ .",
+      "sentence": "Dacă ar avea bilet, ei ___ la concert.",
+      "answer": "ar veni",
+      "acceptableAnswers": [
+        "ar veni"
+      ],
+      "explanation": "3rd person plural conditional: ar + infinitive. 'Ar veni' = they would come. The conditional auxiliary 'ar' is the same for both 3rd person singular and plural.",
+      "explanationRo": "Condiționalul persoana a III-a plural: ar + infinitiv. 'Ar veni' = ar veni. Auxiliarul condițional 'ar' este același pentru persoana a III-a singular și plural."
+    },
+    {
+      "id": "e16_004",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct imperative (tu form) of 'a citi' (to read)?",
+      "promptRo": "Care este imperativul corect (forma tu) a lui 'a citi' (a citi)?",
+      "answer": "citește",
+      "options": [
+        "citi",
+        "citește",
+        "a citi",
+        "cititor"
+      ],
+      "explanation": "Imperative of 'a citi' (4th conj.): citește (tu), citiți (voi). For -i verbs, the 2nd person singular imperative typically ends in -ește.",
+      "explanationRo": "Imperativul lui 'a citi' (a 4-a conj.): citește (tu), citiți (voi). Pentru verbele în -i, imperativul persoana a II-a singular se termină de obicei în -ește.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e16_005",
+      "type": "fill-blank",
+      "prompt": "Complete the conditional: ___ (You-formal would like) o cafea?",
+      "promptRo": "Completează condiționalul: ___ o cafea?",
+      "sentence": "___ o cafea, domnule?",
+      "answer": "Ați dori",
+      "acceptableAnswers": [
+        "Ați dori"
+      ],
+      "explanation": "Polite conditional: ați + infinitive. 'Ați dori' = you would like (formal). This is the standard polite form in Romanian: 'Ați dori o cafea?' (Would you like a coffee?).",
+      "explanationRo": "Condițional politicos: ați + infinitiv. 'Ați dori' = ați dori (formal). Aceasta este forma standard politicoasă în română: 'Ați dori o cafea?'"
+    },
+    {
+      "id": "e16_006",
+      "type": "multiple-choice",
+      "prompt": "What is the negative imperative of 'a merge' (to go) in the tu form?",
+      "promptRo": "Care este imperativul negativ a lui 'a merge' (a merge) la persoana tu?",
+      "answer": "nu merge",
+      "options": [
+        "nu mergi",
+        "nu merge",
+        "nu a merge",
+        "nu merse"
+      ],
+      "explanation": "Negative imperative (tu): nu + infinitive (without 'a'). 'Nu merge' = don't go. For the 'tu' form, the negative imperative always uses the infinitive form.",
+      "explanationRo": "Imperativ negativ (tu): nu + infinitiv (fără 'a'). 'Nu merge' = nu merge. Pentru forma 'tu', imperativul negativ folosește întotdeauna forma de infinitiv."
+    },
+    {
+      "id": "e16_007",
+      "type": "fill-blank",
+      "prompt": "Complete the polite imperative (voi form) of 'a aștepta' (to wait): ___ , vă rog!",
+      "promptRo": "Completează imperativul politicos (forma voi) a lui 'a aștepta' (a aștepta): ___ , vă rog!",
+      "sentence": "___ , vă rog!",
+      "answer": "Așteptați",
+      "acceptableAnswers": [
+        "Așteptați"
+      ],
+      "explanation": "Polite imperative (voi form) of 'a aștepta': așteptați. For 1st conjugation verbs, the voi imperative is the same as the voi indicative present form.",
+      "explanationRo": "Imperativ politicos (forma voi) a lui 'a aștepta': așteptați. Pentru verbele de a 1-a conjugare, imperativul voi este același cu forma indicativului prezent voi."
+    },
+    {
+      "id": "e16_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the conditional mood correctly to express a wish?",
+      "promptRo": "Care propoziție folosește corect modul condițional pentru a exprima o dorință?",
+      "answer": "Aș vrea să vizitez România.",
+      "options": [
+        "Voiam să vizitez România.",
+        "Aș vrea să vizitez România.",
+        "Voi vizita România.",
+        "Vizitez România."
+      ],
+      "explanation": "'Aș vrea' (I would like) + subjunctive is the standard way to express a wish politely. 'Voiam' = I wanted (past), 'Voi vizita' = I will visit (future), 'Vizitez' = I visit (present).",
+      "explanationRo": "'Aș vrea' (aș vrea) + subjonctiv este modul standard de a exprima politicos o dorință. 'Voiam' = voiam (trecut), 'Voi vizita' = voi vizita (viitor), 'Vizitez' = vizitez (prezent).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e16_009",
+      "type": "fill-blank",
+      "prompt": "Complete: Dacă ___ (she would know) limba, ar traduce textul.",
+      "promptRo": "Completează: Dacă ___ limba, ar traduce textul.",
+      "sentence": "Dacă ___ limba, ar traduce textul.",
+      "answer": "ar ști",
+      "acceptableAnswers": [
+        "ar ști"
+      ],
+      "explanation": "3rd person singular conditional: ar + infinitive. 'Ar ști' = she would know. This is the 'if' clause (protasis) of a conditional sentence.",
+      "explanationRo": "Condiționalul persoana a III-a singular: ar + infinitiv. 'Ar ști' = ar ști. Aceasta este propoziția condițională (protasis) a unei fraze condiționale."
+    },
+    {
+      "id": "e16_010",
+      "type": "multiple-choice",
+      "prompt": "Which form is the imperative (tu) of 'a scrie' (to write)?",
+      "promptRo": "Care formă este imperativul (tu) a lui 'a scrie' ?",
+      "answer": "scrie",
+      "options": [
+        "scri",
+        "scrie",
+        "a scrie",
+        "scris"
+      ],
+      "explanation": "Imperative of 'a scrie' (3rd conj.): scrie (tu), scrieți (voi). The imperative form is the same as the 3rd person singular present indicative.",
+      "explanationRo": "Imperativul lui 'a scrie' (a 3-a conj.): scrie (tu), scrieți (voi). Forma imperativului este aceeași cu persoana a III-a singular prezent indicativ."
+    }
+  ]
+}

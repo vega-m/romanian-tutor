@@ -1,0 +1,127 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E03-noun-gender-drill",
+  "title": "Noun Gender Identification",
+  "titleRo": "Identificarea Genului Substantivelor",
+  "cefrLevel": "A1",
+  "prerequisites": ["G03-noun-gender"],
+  "estimatedMinutes": 15,
+  "instructions": "Identify the gender of Romanian nouns. Remember: masculine ends in consonant or -u, feminine ends in -ă/-e/-ea, neuter ends in -u or -o, and some are irregular.",
+  "instructionsRo": "Identifică genul substantivelor românești. Masculinul se termină în consoană sau -u, femininul în -ă/-e/-ea, neutru în -u sau -o, dar sunt și excepții.",
+  "sourceWeek": 2,
+  "exercises": [
+    {
+      "id": "e03_001",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'carte' (book)?",
+      "promptRo": "Ce gen este substantivul 'carte' (carte)?",
+      "answer": "feminine",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Carte' ends in -e and is feminine. Its definite article is 'cartea'.",
+      "explanationRo": "'Carte' se termină în -e și este feminin. Articolul său hotărât este 'cartea'.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_002",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'copac' (tree)?",
+      "promptRo": "Ce gen este substantivul 'copac' (copac)?",
+      "answer": "masculine",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Copac' is masculine. Plural is 'copaci' (masculine). Neuter nouns typically change gender in the plural, but 'copac' follows the masculine pattern (un copac, doi copaci).",
+      "explanationRo": "'Copac' este masculin. Pluralul este 'copaci' (masculin). Substantivele neutre își schimbă genul la plural, dar 'copac' urmează tiparul masculin.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_003",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'floare' (flower)?",
+      "promptRo": "Ce gen este substantivul 'floare' (floare)?",
+      "answer": "feminine",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Floare' ends in -e and is feminine. Definite article: floarea.",
+      "explanationRo": "'Floare' se termină în -e și este feminin. Articol hotărât: floarea.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_004",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'tablou' (painting/picture)?",
+      "promptRo": "Ce gen este substantivul 'tablou' (tablou)?",
+      "answer": "neuter",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Tablou' ends in -ou and is neuter. Definite article: tabloul. Neuter nouns ending in -ou are common.",
+      "explanationRo": "'Tablou' se termină în -ou și este neutru. Articol hotărât: tabloul. Substantivele neutre terminate în -ou sunt frecvente.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_005",
+      "type": "fill-blank",
+      "prompt": "Identify the gender of 'munte' (mountain): ___",
+      "promptRo": "Identifică genul lui 'munte' (munte): ___",
+      "sentence": "Genul substantivului 'munte' este: ___",
+      "answer": "masculine",
+      "acceptableAnswers": ["masculine", "masculin", "m"],
+      "explanation": "'Munte' ends in -e but is masculine! It's an exception. Definite article: muntele.",
+      "explanationRo": "'Munte' se termină în -e dar este masculin! Este o excepție. Articol hotărât: muntele.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_006",
+      "type": "multiple-choice",
+      "prompt": "What gender is 'câine' (dog)?",
+      "promptRo": "Ce gen este 'câine' (câine)?",
+      "answer": "masculine",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Câine' ends in -e but is masculine. Definite article: câinele. Many words for male animals end in -e but are masculine.",
+      "explanationRo": "'Câine' se termină în -e dar este masculin. Articol hotărât: câinele. Multe cuvinte pentru animale masculi se termină în -e dar sunt masculine.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_007",
+      "type": "multiple-choice",
+      "prompt": "What gender is 'informație' (information)?",
+      "promptRo": "Ce gen este 'informație' (informație)?",
+      "answer": "feminine",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Informație' is feminine (ends in -ie). Plural: informații. Definite article: informația.",
+      "explanationRo": "'Informație' este feminin (se termină în -ie). Plural: informații. Articol hotărât: informația.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_008",
+      "type": "fill-blank",
+      "prompt": "The noun 'nume' (name) is ___ gender.",
+      "promptRo": "Substantivul 'nume' (nume) este de genul ___.",
+      "sentence": "Substantivul 'nume' este de genul: ___",
+      "answer": "neuter",
+      "acceptableAnswers": ["neuter", "neutru", "n"],
+      "explanation": "'Nume' is neuter. Definite article: numele. Many abstract nouns in Romanian are neuter.",
+      "explanationRo": "'Nume' este neutru. Articol hotărât: numele. Multe substantive abstracte în română sunt neutre.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_009",
+      "type": "multiple-choice",
+      "prompt": "Which ending is most commonly associated with FEMININE nouns?",
+      "promptRo": "Care terminație este cel mai des asociată cu substantivele FEMININE?",
+      "answer": "-ă",
+      "options": ["-consoană", "-ă", "-u", "-o"],
+      "explanation": "The ending -ă is the most reliable indicator of feminine gender. Examples: casă, fată, masă.",
+      "explanationRo": "Terminația -ă este cel mai sigur indicator al genului feminin. Exemple: casă, fată, masă.",
+      "sourceGrammarId": "G03-noun-gender"
+    },
+    {
+      "id": "e03_010",
+      "type": "multiple-choice",
+      "prompt": "What gender is 'televizor' (television)?",
+      "promptRo": "Ce gen este 'televizor' (televizor)?",
+      "answer": "neuter",
+      "options": ["masculine", "feminine", "neuter"],
+      "explanation": "'Televizor' is neuter. Singular: un televizor (masculine form). Plural: două televizoare (feminine form). Most inanimate objects ending in consonants are neuter.",
+      "explanationRo": "'Televizor' este neutru. Singular: un televizor. Plural: două televizoare. Majoritatea obiectelor inanimate terminate în consoane sunt neutre.",
+      "sourceGrammarId": "G03-noun-gender"
+    }
+  ]
+}

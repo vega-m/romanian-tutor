@@ -1,0 +1,201 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G15-conditional",
+  "title": "Condiționalul (Modul Condițional-Optativ)",
+  "titleEn": "The Conditional Mood",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G10-past-compound", "G14-subjunctive"],
+  "estimatedMinutes": 35,
+  "introduction": "The conditional-optative mood (condiționalul) is used to express hypothetical actions, wishes, and polite requests. It corresponds to the English 'would' and is essential for sophisticated social interactions and argumentation at a B1 level.",
+  "introductionRo": "Modul condițional-optativ se folosește pentru a exprima acțiuni ipotetice, dorințe și cereri politicoase. Acesta corespunde structurii englezești cu „would” și este esențial pentru interacțiunile sociale sofisticate și pentru argumentare la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Conditional",
+      "headingRo": "Formarea Condiționalului",
+      "content": "The conditional is formed using a special set of auxiliary forms followed by the infinitive of the main verb (without the 'a' marker). Note that these auxiliaries are distinct from the present or imperfect forms of 'a vrea'.",
+      "contentRo": "Condiționalul se formează folosind un set special de forme auxiliare, urmate de infinitivul verbului de bază (fără particula „a”). Rețineți că acești auxiliari sunt diferiți de formele de prezent sau imperfect ale verbului „a vrea”.",
+      "table": {
+        "headers": ["Person", "Auxiliary", "Infinitive", "a mânca (to eat) [ACC]", "a merge (to go)", "a scrie (to write) [ACC/DAT]"],
+        "rows": [
+          ["eu", "aș", "mânca", "aș mânca", "aș merge", "aș scrie"],
+          ["tu", "ai", "mânca", "ai mânca", "ai merge", "ai scrie"],
+          ["el/ea", "ar", "mânca", "ar mânca", "ar merge", "ar scrie"],
+          ["noi", "am", "mânca", "am mânca", "am merge", "am scrie"],
+          ["voi", "ați", "mânca", "ați mânca", "ați merge", "ați scrie"],
+          ["ei/ele", "ar", "mânca", "ar mânca", "ar merge", "ar scrie"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aș vrea o cafea. (I would like a coffee.)",
+          "en": "aș vrea = I would want/like — the most common polite request in Romanian.",
+          "notes": "'Aș vrea' is used constantly in restaurants, shops, and everyday interactions."
+        },
+        {
+          "ro": "Ar fi bine să mergem. (It would be good to go.)",
+          "en": "ar fi = it would be — conditional of 'a fi'.",
+          "notes": "'Ar fi bine' is a very common way to make suggestions politely."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Conditional of a fi and a avea",
+      "headingRo": "Condiționalul lui a fi și a avea",
+      "content": "The conditional of the most important irregular verbs:",
+      "contentRo": "Condiționalul celor mai importante verbe neregulate:",
+      "table": {
+        "headers": ["Person", "a fi (to be)", "a avea (to have) [ACC]", "a vrea (to want) [ACC]", "a putea (can)"],
+        "rows": [
+          ["eu", "aș fi", "aș avea", "aș vrea", "aș putea"],
+          ["tu", "ai fi", "ai avea", "ai vrea", "ai putea"],
+          ["el/ea", "ar fi", "ar avea", "ar vrea", "ar putea"],
+          ["noi", "am fi", "am avea", "am vrea", "am putea"],
+          ["voi", "ați fi", "ați avea", "ați vrea", "ați putea"],
+          ["ei/ele", "ar fi", "ar avea", "ar vrea", "ar putea"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aș fi fericit dacă aș câștiga. (I would be happy if I won.)",
+          "en": "aș fi = I would be — conditional of a fi.",
+          "notes": "Note: 'dacă aș câștiga' uses the conditional after 'dacă' for hypothetical conditions."
+        },
+        {
+          "ro": "Ar fi trebuit să vii. (You should have come.)",
+          "en": "ar fi trebuit = it would have been necessary — conditional + past participle of a trebui.",
+          "notes": "This expresses a past obligation that wasn't fulfilled."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Uses of the Conditional",
+      "headingRo": "Folosiri ale Condiționalului",
+      "content": "The conditional has several important uses in Romanian:",
+      "contentRo": "Condiționalul are mai multe întrebuințări importante în română:",
+      "table": {
+        "headers": ["Use", "Example (ro)", "Example (en)", "Notes"],
+        "rows": [
+          ["Polite request", "Aș vrea o apă, vă rog.", "I would like a water, please.", "Most common use in daily life"],
+          ["Hypothetical situation", "Dacă aș avea bani, aș călători.", "If I had money, I would travel.", "Irreal condition"],
+          ["Wish", "Aș vrea să vin.", "I wish I could come.", "Using aș vrea + subjunctive"],
+          ["Advice", "Ar trebui să mănânci.", "You should eat.", "Polite recommendation"],
+          ["Politeness", "Aș putea să vă întreb ceva?", "Could I ask you something?", "Very polite request"],
+          ["Regret", "Aș fi venit dacă aș fi știut.", "I would have come if I had known.", "Past counterfactual"],
+          ["Reported speech", "El a spus că ar veni.", "He said he would come.", "Future in the past"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aș putea să vă ajut? (Could I help you?)",
+          "en": "Using the conditional makes requests much more polite than the imperative.",
+          "notes": "Compare: 'Poți să mă ajuți?' (Can you help me?) vs. 'Aș putea să vă ajut?' (Could I help you?)"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Hypothetical Scenarios (B1 Focus)",
+      "headingRo": "Scenarii Ipotetice (Focus B1)",
+      "content": "A core B1 skill is the ability to discuss imaginary or hypothetical situations. Use these templates to express what you 'would' do in different contexts.",
+      "contentRo": "O competență de bază la nivelul B1 este capacitatea de a discuta despre situații imaginare sau ipotetice. Folosește aceste modele pentru a exprima ce „ai face” în diferite contexte.",
+      "table": {
+        "headers": ["Prompt", "Meaning", "Example Response"],
+        "rows": [
+          ["Ce ai face dacă...?", "What would you do if...?", "Aș călători în toată lumea."],
+          ["Cum ar fi dacă...?", "How would it be if...?", "Ar fi foarte interesant."],
+          ["Unde ai merge...?", "Where would you go...?", "M-aș duce la munte."],
+          ["Cine ar putea...?", "Who could...?", "Colegul meu ar putea să ne ajute."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Conditional Sentences (If...then...)",
+      "headingRo": "Propoziții Conditionale (Dacă...atunci...)",
+      "content": "Romanian conditional sentences follow patterns similar to English, but with some differences:",
+      "contentRo": "Propozițiile conditionale românești urmează modele similare cu engleza, dar cu câteva diferențe:",
+      "table": {
+        "headers": ["Type", "Condition (if clause)", "Result (main clause)", "Example"],
+        "rows": [
+          ["Real/Possible", "Dacă + present indicative", "Present / Future / Imperative", "Dacă ai timp, vino. (If you have time, come.)"],
+          ["Hypothetical (present)", "Dacă + conditional", "Conditional", "Dacă aș avea timp, aș veni. (If I had time, I would come.)"],
+          ["Counterfactual (past)", "Dacă + conditional past", "Conditional past", "Dacă aș fi știut, aș fi venit. (If I had known, I would have come.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Dacă aș fi în locul tău, aș accepta oferta. (If I were in your place, I would accept the offer.)",
+          "en": "Both clauses use the conditional: 'dacă aș fi' (if I were) + 'aș accepta' (I would accept).",
+          "notes": "In Romanian, both clauses use the conditional for hypothetical present situations."
+        },
+        {
+          "ro": "Dacă plouă, stăm acasă. (If it rains, we stay home.)",
+          "en": "Real condition: present indicative in both clauses.",
+          "notes": "This is a possible condition — it might actually rain."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "The Conditional for Politeness",
+      "content": "One of the most practical uses of the conditional is for politeness. Using the conditional instead of the indicative makes requests sound much more refined:",
+      "contentRo": "Una dintre cele mai practice utilizări ale condiționalului este pentru politețe. Folosirea condiționalului în locul indicativului face cererile să sune mult mai rafinate:",
+      "rules": [
+        "Aș vrea... (I would like...) — instead of Vreau... (I want...)",
+        "Aș putea...? (Could I...?) — instead of Pot...? (Can I...?)",
+        "Ar fi bine să... (It would be good to...) — instead of Trebuie să... (You must...)",
+        "Ați putea să...? (Could you...?) — instead of Poți să...? (Can you...?)",
+        "Ar trebui să... (You/We should...) — polite recommendation"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using the conditional:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești condiționalul:",
+      "rules": [
+        "Don't add 'a' before the infinitive: 'aș merge' (not 'aș a merge')",
+        "Don't confuse 'aș' (I would) with 'aș' (I would, from a vrea imperfect) — they're the same",
+        "Don't use the future tense in 'if' clauses for hypothetical conditions: 'dacă aș avea' (not 'dacă voi avea')",
+        "Remember: 'ar fi' (it would be) is very common — learn it well",
+        "Don't confuse conditional 'aș' with present 'eu aș' (this form doesn't exist — aș is always conditional)"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Aș vrea să mergem la cinema. (I would like us to go to the cinema.)",
+          "en": "'aș vrea' (conditional) + 'să mergem' (subjunctive) — a very common pattern.",
+          "notes": "Note: 'să mergem' uses the subjunctive, not the conditional. The conditional auxiliary 'aș' applies to 'vrea'."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Conditional = aș/ai/ar/am/ați/ar + infinitive (without 'a')",
+    "aș fi (I would be), aș avea (I would have), aș putea (I could)",
+    "Used for: polite requests, hypothetical situations, wishes, advice, reported speech",
+    "Polite request: Aș vrea... (I would like...), Aș putea...? (Could I...?)",
+    "Conditional sentences: Dacă + conditional → conditional (hypothetical present)",
+    "Real conditions: Dacă + present → present/future (possible conditions)",
+    "Past counterfactual: Dacă + conditional past → conditional past",
+    "Ar trebui să... = You/We should... (polite recommendation)",
+    "Reported speech: El a spus că ar veni. (He said he would come.)",
+    "Don't add 'a' before the infinitive in the conditional"
+  ],
+  "summaryPointsRo": [
+    "Condițional = aș/ai/ar/am/ați/ar + infinitiv (fără 'a')",
+    "aș fi (aș fi), aș avea (aș avea), aș putea (aș putea)",
+    "Se folosește pentru: cereri politicoase, situații ipotetice, dorințe, sfaturi, discurs indirect",
+    "Cerere politicoasă: Aș vrea... (Aș vrea...), Aș putea...? (Aș putea...?)",
+    "Propoziții conditionale: Dacă + condițional → condițional (ipotetic prezent)",
+    "Condiții reale: Dacă + prezent → prezent/viitor (condiții posibile)",
+    "Contrafactual trecut: Dacă + condițional trecut → condițional trecut",
+    "Ar trebui să... = Ar trebui să... (recomandare politicoasă)",
+    "Discurs indirect: El a spus că ar veni. (El a spus că ar veni.)",
+    "Nu adăuga 'a' înaintea infinitivului în condițional"
+  ],
+  "relatedExercises": ["E16-conditional-imperative"]
+}

@@ -1,0 +1,204 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E23-exam-writing-1",
+  "title": "Exerciții de Scriere - Examen B1",
+  "titleRo": "Exerciții de Scriere în Format de Examen B1",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order",
+    "G19-numerals",
+    "G11-past-simple"
+  ],
+  "estimatedMinutes": 40,
+  "instructions": "These writing prompts are modeled on the B1 exam format. For each prompt, write a text following the instructions given. Typical B1 writing tasks include formal letters (80-100 words), opinion texts (80-120 words), and descriptions (80-100 words). Pay attention to register (formal vs. informal), connectors, and correct grammar.",
+  "instructionsRo": "Aceste teme de scriere sunt modelate pe formatul examenului B1. Pentru fiecare temă, scrieți un text urmând instrucțiunile date. Tipicele sarcini de scriere B1 includ scrisori oficiale (80-100 cuvinte), texte de opinie (80-120 cuvinte) și descrieri (80-100 cuvinte). Acordați atenție registrelor (formal vs. informal), conectorilor și gramaticii corecte.",
+  "sourceWeek": 12,
+  "exercises": [
+    {
+      "id": "e23_001",
+      "type": "writing",
+      "prompt": "FORMAL LETTER (80-100 words): Write a formal letter to the manager of a cultural center requesting information about Romanian language courses. Include:\n- Greeting (formal)\n- Who you are and why you are writing\n- Specific questions about the courses (schedule, price, level)\n- Closing (formal)\n\nUse formal register: 'Stimate domnule/doamnă...', 'Vă adresez...', 'Cu deosebită considerație'.",
+      "promptRo": "SCRISOARE OFICIALĂ (80-100 cuvinte): Scrieți o scrisoare oficială către managerul unui centru cultural solicitând informații despre cursurile de limba română. Includeți:\n- Salut (formal)\n- Cine sunteți și de ce scrieți\n- Întrebări specifice despre cursuri (program, preț, nivel)\n- Încheiere (formal)\n\nFolosiți registru formal: 'Stimate domnule/doamnă...', 'Vă adresez...', 'Cu deosebită considerație'.",
+      "answer": "Model answer:\n\nStimate domnule director,\n\nSubsemnatul, [Nume], vă adresez respectuoasa cerere de a mă informa în legătură cu cursurile de limba română organizate de centrul dumneavoastră.\n\nAș dori să știu următoarele: care este programul cursurilor și când încep? Care este taxa de participare? Există cursuri pentru nivelul B1?\n\nVă mulțumesc anticipat pentru informații și rămân la dispoziția dumneavoastră pentru orice detalii suplimentare.\n\nCu deosebită considerație,\n[Nume]",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Register",
+            "description": "Uses formal language consistently (Vă adresez, respectuos, Cu deosebită considerație)",
+            "maxPoints": 3
+          },
+          {
+            "name": "Content",
+            "description": "Includes greeting, introduction, specific questions, closing",
+            "maxPoints": 3
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct verb forms, articles, clitic placement",
+            "maxPoints": 2
+          },
+          {
+            "name": "Connectors",
+            "description": "Uses appropriate connectors (de asemenea, în plus, aș dori să știu)",
+            "maxPoints": 1
+          },
+          {
+            "name": "Length",
+            "description": "80-100 words",
+            "maxPoints": 1
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "e23_002",
+      "type": "writing",
+      "prompt": "OPINION TEXT (80-120 words): Write your opinion on the following topic: 'Technology helps or harms communication between people.'\n\nInclude:\n- An introduction stating your opinion\n- At least two arguments with examples\n- A conclusion\n\nUse connectors: 'În primul rând', 'în al doilea rând', 'de asemenea', 'totuși', 'în concluzie'.",
+      "promptRo": "TEXT DE OPINIE (80-120 cuvinte): Scrieți opinia dumneavoastră despre următorul subiect: 'Tehnologia ajută sau dăunează comunicării între oameni.'\n\nIncludeți:\n- O introducere care să vă exprime opinia\n- Cel puțin două argumente cu exemple\n- O concluzie\n\nFolosiți conectori: 'În primul rând', 'în al doilea rând', 'de asemenea', 'totuși', 'în concluzie'.",
+      "answer": "Model answer:\n\nÎn opinia mea, tehnologia are atât avantaje, cât și dezavantaje în ceea ce privește comunicarea.\n\nÎn primul rând, aplicațiile de mesagerie și videoconferințele ne permit să comunicăm cu familia și prietenii din alte țări. De exemplu, pot vorbi cu părinții mei în fiecare zi prin apeluri video, chiar dacă locuiesc în străinătate.\n\nÎn al doilea rând, totuși, tinerii petrec prea mult timp pe telefon și comunică mai puțin față în față. De asemenea, rețelele de socializare pot crea o falsă impresie de conexiune.\n\nÎn concluzie, consider că tehnologia ne ajută dacă o folosim cu moderație, dar trebuie să acordăm atenție și comunicării directe.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Structure",
+            "description": "Clear introduction, body with arguments, conclusion",
+            "maxPoints": 3
+          },
+          {
+            "name": "Arguments",
+            "description": "At least two well-developed arguments with examples",
+            "maxPoints": 3
+          },
+          {
+            "name": "Connectors",
+            "description": "Uses at least 3 formal connectors correctly",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct tenses, agreement, word order",
+            "maxPoints": 1
+          },
+          {
+            "name": "Length",
+            "description": "80-120 words",
+            "maxPoints": 1
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "e23_003",
+      "type": "writing",
+      "prompt": "DESCRIPTION (80-100 words): Describe a traditional Romanian holiday that you know about. Include:\n- What the holiday is and when it takes place\n- How people celebrate it\n- Traditional food or activities\n- Your personal opinion about this holiday\n\nUse vocabulary from the culture theme: tradiție, sărbătoare, obicei, folclor, etc.",
+      "promptRo": "DESCRIERE (80-100 cuvinte): Descrieți o sărbătoare tradițională românească pe care o cunoașteți. Includeți:\n- Ce sărbătoare este și când are loc\n- Cum o sărbătoresc oamenii\n- Mâncare tradițională sau activități\n- Opinia dumneavoastră personală despre această sărbătoare\n\nFolosiți vocabular din tema culturii: tradiție, sărbătoare, obicei, folclor etc.",
+      "answer": "Model answer:\n\nPaștele este una dintre cele mai importante sărbători tradiționale din România. Are loc în fiecare an, în luna aprilie sau mai, și este sărbătorit atât de creștini ortodocși, cât și de catolici.\n\nOamenii sărbătoresc Paștele mergând la biserică în noaptea de Înviere. Dimineața, familia se adună pentru masa de Paște, unde se mănâncă ouă roșii, cozonac și drob. Un obicei frumos este ciocnitul ouălor.\n\nÎn opinia mea, Paștele este o sărbătoare care ne apropie de familie și de tradițiile noastre. Îmi place foarte mult atmosfera caldă și bucuria pe care o aduce.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Content",
+            "description": "Covers all required points: what, when, how, food/activities, opinion",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Uses appropriate culture vocabulary (sărbătoare, tradiție, obicei)",
+            "maxPoints": 3
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct tenses (especially present for description), agreement",
+            "maxPoints": 2
+          },
+          {
+            "name": "Coherence",
+            "description": "Well-organized with logical flow between ideas",
+            "maxPoints": 1
+          },
+          {
+            "name": "Length",
+            "description": "80-100 words",
+            "maxPoints": 1
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "e23_004",
+      "type": "writing",
+      "prompt": "FORMAL LETTER - COMPLAINT (80-100 words): Write a formal letter of complaint to the administration of your building about a problem (e.g., noise, broken elevator, lack of heating). Include:\n- Formal greeting\n- Description of the problem\n- How long the problem has existed\n- What you request them to do\n- Formal closing\n\nUse formal register and appropriate connectors.",
+      "promptRo": "SCRISOARE OFICIALĂ - RECLAMAȚIE (80-100 cuvinte): Scrieți o scrisoare oficială de reclamație către administrația blocului dumneavoastră despre o problemă (de ex., zgomot, lift stricat, lipsa încălzirii). Includeți:\n- Salut formal\n- Descrierea problemei\n- De cât timp există problema\n- Ce solicitați să facă\n- Încheiere formală\n\nFolosiți registru formal și conectori adecvați.",
+      "answer": "Model answer:\n\nStimate domnule administrator,\n\nSubsemnatul, locatarul apartamentului nr. 15, vă adresez o reclamație privind defecțiunea liftului din bloc.\n\nLiftul este stricat de mai mult de două săptămâni, ceea ce creează dificultăți pentru toți locatarii, în special pentru persoanele în vârstă și pentru familiile cu copii mici.\n\nPrin urmare, vă solicit respectuos să remediați această problemă în cel mai scurt timp posibil. De asemenea, aș aprecia o informare periodică despre stadiul reparațiilor.\n\nVă mulțumesc pentru atenție și aștept un răspuns la această solicitare.\n\nCu respect,\n[Nume]",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Register",
+            "description": "Formal language throughout: Vă adresez, solicit, respectuos",
+            "maxPoints": 3
+          },
+          {
+            "name": "Content",
+            "description": "Describes problem, duration, specific request, formal closing",
+            "maxPoints": 3
+          },
+          {
+            "name": "Connectors",
+            "description": "Uses formal connectors: prin urmare, de asemenea, în plus",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct verb forms, articles, prepositions",
+            "maxPoints": 1
+          },
+          {
+            "name": "Length",
+            "description": "80-100 words",
+            "maxPoints": 1
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "e23_005",
+      "type": "writing",
+      "prompt": "OPINION TEXT WITH DATA (80-120 words): Write your opinion on the following topic based on this information: 'According to statistics, 60% of Romanians between 18-30 prefer to work abroad. The main reasons are: higher salaries (70%), better career opportunities (55%), and living conditions (40%).'\n\nInclude:\n- Introduction presenting the situation\n- Your opinion on this phenomenon (is it positive, negative, or both?)\n- At least one argument supported by the data\n- A conclusion with your recommendation\n\nUse formal connectors and exam vocabulary.",
+      "promptRo": "TEXT DE OPINIE CU DATE (80-120 cuvinte): Scrieți opinia dumneavoastră despre următorul subiect pe baza acestei informații: 'Conform statisticilor, 60% dintre românii cu vârsta între 18-30 de ani preferă să lucreze în străinătate. Principalele motive sunt: salarii mai mari (70%), oportunități mai bune de carieră (55%) și condiții de viață (40%).'\n\nIncludeți:\n- Introducere prezentând situația\n- Opinia dumneavoastră despre acest fenomen (pozitiv, negativ sau ambele?)\n- Cel puțin un argument susținut de date\n- O concluzie cu recomandarea dumneavoastră\n\nFolosiți conectori formali și vocabular de examen.",
+      "answer": "Model answer:\n\nConform statisticilor, 60% dintre tinerii români preferă să muncească în străinătate. Principalul motiv este salariul, menționat de 70% dintre respondenți.\n\nDin punctul meu de vedere, acest fenomen are atât aspecte pozitive, cât și negative. Pe de o parte, tinerii care pleacă câștigă mai bine și se dezvoltă profesional. Pe de altă parte, România pierde forță de muncă calificată, ceea ce afectează economia țării.\n\nTotuși, consider că soluția nu este de a împiedica plecarea tinerilor, ci de a crea condiții mai bune în țară. Dacă salariile și oportunitățile de carieră s-ar îmbunătăți, mai mulți tineri ar alege să rămână.\n\nÎn concluzie, este necesar ca autoritățile să investească în educație și economie pentru a motiva tinerii să construiască un viitor în România.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Use of data",
+            "description": "References statistics from the prompt accurately",
+            "maxPoints": 3
+          },
+          {
+            "name": "Opinion clarity",
+            "description": "Clear opinion with balanced arguments",
+            "maxPoints": 3
+          },
+          {
+            "name": "Connectors",
+            "description": "Uses formal connectors: din punctul meu de vedere, pe de o parte...pe de altă parte, totuși, în concluzie",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar & vocabulary",
+            "description": "Correct grammar, formal vocabulary",
+            "maxPoints": 1
+          },
+          {
+            "name": "Length",
+            "description": "80-120 words",
+            "maxPoints": 1
+          }
+        ],
+        "totalPoints": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G03-noun-gender",
+  "title": "Genul Substantivelor în Limba Română",
+  "titleEn": "Noun Gender in Romanian",
+  "cefrLevel": "A1-A2",
+  "prerequisites": ["G01-alphabet-reading"],
+  "estimatedMinutes": 45,
+  "introduction": "Unlike English, every Romanian noun has a gender: masculine, feminine, or neuter. Gender is not just a grammatical category; it dictates how articles, adjectives, and pronouns must agree with the noun. Mastering gender is essential for syntactic accuracy at a B1 level.",
+  "introductionRo": "Spre deosebire de limba engleză, fiecare substantiv din limba română are un gen: masculin, feminin sau neutru. Genul nu este doar o categorie gramaticală, ci dictează modul în care articolele, adjectivele și pronumele trebuie să se acorde cu substantivul. Stăpânirea genului este esențială pentru acuratețea sintactică la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Three Genders Overview",
+      "headingRo": "Cele Trei Genuri — Prezentare Generală",
+      "content": "Romanian nouns are classified into three genders. While for people and animals, gender often follows biological sex, for objects and abstract concepts, it is based on linguistic patterns and historical development.",
+      "contentRo": "Substantivele românești sunt clasificate în trei genuri. Deși pentru persoane și animale genul urmează adesea sexul biologic, pentru obiecte și concepte abstracte acesta se bazează pe tipare lingvistice și pe evoluția istorică a limbii.",
+      "table": {
+        "headers": ["Feature", "Masculine", "Feminine", "Neuter"],
+        "rows": [
+          ["Singular article", "-ul / -le", "-a / -ua", "-ul / -le"],
+          ["Plural article", "-ii", "-le", "-le"],
+          ["Singular indefinite", "un", "o", "un"],
+          ["Plural indefinite", "niște", "niște", "niște"],
+          ["Singular adj. ending", "-u / -Ø", "-ă / -e", "-u / -Ø"],
+          ["Plural adj. ending", "-i", "-e", "-e"],
+          ["Example (sing.)", "băiatul mic (the small boy)", "fata mică (the small girl)", "scaunul mic (the small chair)"],
+          ["Example (pl.)", "băieții mici (the small boys)", "fetele mici (the small girls)", "scaunele mici (the small chairs)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "băiatul frumos — frumoși băieți",
+          "en": "the handsome boy — handsome boys (masculine: adj. changes -os → -oși)",
+          "notes": "Masculine adjective endings change between singular and plural."
+        },
+        {
+          "ro": "fata frumoasă — frumoase fete",
+          "en": "the beautiful girl — beautiful girls (feminine: adj. changes -oasă → -oase)",
+          "notes": "Feminine adjective endings also change between singular and plural."
+        },
+        {
+          "ro": "scaunul mic — mici scaune",
+          "en": "the small chair — small chairs (neuter: singular like masc., plural like fem.)",
+          "notes": "This dual behavior is the hallmark of neuter nouns in Romanian."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Feminine Nouns — Recognition Patterns",
+      "headingRo": "Substantivele Feminine — Tipare de Recunoaștere",
+      "content": "Feminine nouns are generally the most intuitive to identify, as they often end in specific vowels. Understanding these patterns allows for quick gender assignment.",
+      "contentRo": "Substantivele feminine sunt, în general, cele mai intuitive, deoarece se termină adesea în vocale specifice. Înțelegerea acestor tipare permite identificarea rapidă a genului.",
+      "table": {
+        "headers": ["Ending", "Example Words", "Definite Form", "Translation"],
+        "rows": [
+          ["-ă", "casă, fată, mamă, școală", "casa, fata, mama, școala", "house, girl, mother, school"],
+          ["-e", "carte, cafea, cheie, zi", "cartea, cafeaua, cheia, ziua", "book, coffee, key, day"],
+          ["-a", "floare, femeie, sora", "floarea, femeia, sora", "flower, woman, sister"],
+          ["-ie", "familie, baie, parte", "familia, baia, partea", "family, bathroom, part"],
+          ["-i", "știri, zi", "știrile, ziua", "news, day"],
+          ["-e (certain)", "noapte, pâine, vulpe", "noaptea, pâinea, vulpea", "night, bread, fox"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "O casă mare — casa cea mare",
+          "en": "A big house — the big house",
+          "notes": "Most nouns ending in -ă are feminine. This is the most common feminine ending."
+        },
+        {
+          "ro": "O zi bună — o cheie veche",
+          "en": "A good day — an old key",
+          "notes": "Some feminine nouns end in -e. These are less predictable — you need to learn them."
+        },
+        {
+          "ro": "O noapte lungă — noaptea cea lungă",
+          "en": "A long night — the long night",
+          "notes": "Some feminine nouns end in a consonant (noapte, lună, mână, inimă). These must be memorized."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Feminine Nouns Ending in 'e' — Special List",
+      "headingRo": "Substantivele Feminine care se Termină în 'e' — Listă Specială",
+      "content": "A small but important group of feminine nouns end in 'e' instead of the typical 'ă'. Many refer to abstract concepts or natural phenomena:",
+      "contentRo": "Un grup mic, dar important de substantive feminine se termină în 'e' în loc de tipicul 'ă'. Multe se referă la concepte abstracte sau fenomene naturale:",
+      "table": {
+        "headers": ["Noun", "Definite", "Translation", "Category"],
+        "rows": [
+          ["noapte", "noaptea", "night", "time"],
+          ["pâine", "pâinea", "bread", "food"],
+          ["vreme", "vremea", "weather / time", "nature"],
+          ["parte", "partea", "part", "abstract"],
+          ["femeie", "femeia", "woman", "person"],
+          ["baie", "baia", "bathroom", "house"],
+          ["cheie", "cheia", "key", "object"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "noaptea este lungă — the night is long (feminine adjective: -ă)",
+          "en": "Even though 'noapte' ends in 'e', it is feminine because it refers to a feminine concept",
+          "notes": "Abstract nouns for time periods (dimineață, seară, noapte) are almost always feminine."
+        },
+        {
+          "ro": "pâinea e proaspătă — the bread is fresh",
+          "en": "'pâine' ends in 'e' but is feminine. The adjective 'proaspătă' confirms it.",
+          "notes": "When in doubt about gender, look at the adjective ending — it reveals the noun's gender."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Masculine Nouns — Recognition Patterns",
+      "headingRo": "Substantivele Masculine — Tipare de Recunoaștere",
+      "content": "Masculine nouns typically end in a consonant or the vowel '-u'. For persons, the biological gender usually takes precedence over the phonetic ending.",
+      "contentRo": "Substantivele masculine se termină, de regulă, într-o consoană sau în vocala „-u”. În cazul persoanelor, genul biologic are prioritate față de terminația fonetică.",
+      "table": {
+        "headers": ["Ending", "Example Words", "Definite Form", "Translation"],
+        "rows": [
+          ["consonant", "băiat, copac, frate, tată, câine", "băiatul, copacul, fratele, tatăl, câinele", "boy, tree, brother, father, dog"],
+          ["-u", "fiu, loc, teatru, restaurant", "fiul, locul, teatrul, restaurantul", "son, place, theater, restaurant"],
+          ["-eu", "student, leu, nume (rare)", "studentul, leul, numele", "student, lion, name"],
+          ["-e (certain)", "pere, bărbat, copile", "perele, bărbatul, copilul", "pear (neuter), man (masc.), child (masc.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Un băiat înalt — băiatul cel înalt",
+          "en": "A tall boy — the tall boy",
+          "notes": "Most nouns ending in a consonant are masculine. This is the default assumption."
+        },
+        {
+          "ro": "Un fiu bun — fiul cel bun",
+          "en": "A good son — the good son",
+          "notes": "Nouns ending in -u are often masculine, but some can be neuter (check with the article)."
+        },
+        {
+          "ro": "Un palat mare — palatul cel mare",
+          "en": "A big palace — the big palace",
+          "notes": "Loanwords ending in a consonant (palat, restaurant, muzeu) are usually neuter, not masculine!"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Neuter Nouns — The Hybrid Gender",
+      "headingRo": "Substantivele Neutre — Genul Hibrid",
+      "content": "Neuter is the trickiest gender for learners. Neuter nouns behave like MASCULINE in the singular and like FEMININE in the plural. The most common neuter endings are -u and certain consonant endings, especially for loanwords:",
+      "contentRo": "Neutru este cel mai dificil gen pentru cursanți. Substantivele neutre se comportă ca MASCULINUL la singular și ca FEMININUL la plural. Cele mai comune terminații neutre sunt -u și anumite terminații în consoană, în special pentru cuvintele împrumutate:",
+      "table": {
+        "headers": ["Noun (Sing.)", "Definite (Sing.)", "Noun (Pl.)", "Definite (Pl.)", "Translation", "Sing. Behaves Like", "Pl. Behaves Like"],
+        "rows": [
+          ["scaun", "scaunul", "scaune", "scaunele", "chair", "masculine (-ul)", "feminine (-le)"],
+          ["teatru", "teatrul", "teatre", "teatrele", "theater", "masculine (-ul)", "feminine (-le)"],
+          ["nume", "numele", "nume", "numele", "name", "masculine (-le)", "feminine (-le)"],
+          ["oraș", "orașul", "orașe", "orașele", "city", "masculine (-ul)", "feminine (-le)"],
+          ["exemplar", "exemplarul", "exemplare", "exemplarele", "copy/exemplar", "masculine (-ul)", "feminine (-le)"],
+          ["răspuns", "răspunsul", "răspunsuri", "răspunsurile", "answer", "masculine (-ul)", "feminine (-le)"],
+          ["cuțit", "cuțitul", "cuțite", "cuțitele", "knife", "masculine (-ul)", "feminine (-le)"],
+          ["autobuz", "autobuzul", "autobuze", "autobuzele", "bus", "masculine (-ul)", "feminine (-le)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "scaunul este mic — scaunele sunt mici",
+          "en": "the chair is small — the chairs are small (sing. masc. article -ul, pl. fem. article -le)",
+          "notes": "The adjective also follows this pattern: mic (masc. sing.) → mici (fem. pl.)."
+        },
+        {
+          "ro": "un teatru vechi — teatre vechi",
+          "en": "an old theater — old theaters (sing. masc., pl. fem.)",
+          "notes": "Many words ending in -u borrowed from other languages (teatru, muzeu, palat) are neuter."
+        },
+        {
+          "ro": "orașul este mare — orașele sunt mari",
+          "en": "the city is big — the cities are big",
+          "notes": "The adjective 'mare' stays the same, but the article changes: -ul (masc.) → -le (fem.)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Tricky Cases — Words That Look Like One Gender But Are Another",
+      "headingRo": "Cazuri Tricky — Cuvinte care Arată ca un Gen Dar Sunt Altul",
+      "content": "Some Romanian nouns are deceptive — their ending suggests one gender, but they actually belong to another. These exceptions must be memorized:",
+      "contentRo": "Unele substantive românești sunt înșelătoare — terminația lor sugerează un gen, dar aparțin de fapt altuia. Aceste excepții trebuie memorate:",
+      "table": {
+        "headers": ["Noun", "Looks Like", "Actually Is", "Translation", "Notes"],
+        "rows": [
+          ["copil", "masculine (-il)", "masculine", "child", "copilul, copiii"],
+          ["câine", "feminine (-e)", "masculine", "dog", "câinele, câinii"],
+          ["frate", "feminine (-e)", "masculine", "brother", "fratele, frații"],
+          ["bărbat", "masculine (-at)", "masculine", "man", "bărbatul, bărbații"],
+          ["tată", "feminine (-ă)", "masculine", "father", "tatăl, tații"],
+          ["pom", "masculine (-m)", "masculine", "tree", "pomul, pomii"],
+          ["sistem", "masculine (-em)", "neuter", "system", "sistemul, sistemele"],
+          ["muzeu", "masculine (-eu)", "neuter", "museum", "muzeul, muzeele"],
+          ["cuvânt", "masculine (-t)", "neuter", "word", "cuvântul, cuvintele"],
+          ["lume", "feminine (-e)", "feminine", "world", "lumea, lumile"],
+          ["oameni", "masculine plural (-i)", "masculine", "people (pl.)", "oamenii (masc. pl.)"],
+          ["copii", "masculine plural (-i)", "masculine", "children (pl.)", "copiii (masc. pl.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Un copil mic — copiii sunt mici",
+          "en": "A small child — the children are small (masculine! not feminine)",
+          "notes": "'copil' ends in -l but is masculine. This is a common trap for learners."
+        },
+        {
+          "ro": "Un câine fidel — câinii sunt fideli",
+          "en": "A loyal dog — the dogs are loyal (masculine despite -e ending)",
+          "notes": "Animal names ending in -e can be either gender. Câine is masculine."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Noun Gender and Adjective Agreement",
+      "headingRo": "Genul Substantivului și Acordul Adjectivelor",
+      "content": "Once you know a noun's gender, you can determine the correct adjective form. Adjectives change their ending to match the gender and number of the noun they describe:",
+      "contentRo": "Odată ce cunoști genul unui substantiv, poți determina forma corectă a adjectivului. Adjectivele își schimbă terminația pentru a se potrivi cu genul și numărul substantivului pe care îl descriu:",
+      "table": {
+        "headers": ["Adjective (Dict.)", "Masc. Sing.", "Fem. Sing.", "Masc. Pl.", "Fem. Pl.", "Neuter Sing.", "Neuter Pl."],
+        "rows": [
+          ["bun", "bun", "bună", "buni", "bune", "bun", "bune"],
+          ["frumos", "frumos", "frumoasă", "frumoși", "frumoase", "frumos", "frumoase"],
+          ["mic", "mic", "mică", "mici", "mici", "mic", "mici"],
+          ["mare", "mare", "mare", "mari", "mari", "mare", "mari"],
+          ["nou", "nou", "nouă", "noi", "noi", "nou", "noi"],
+          ["vechi", "vechi", "veche", "vechi", "vechi", "vechi", "vechi"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "băiatul bun — fata bună — scaunul bun",
+          "en": "the good boy (masc.) — the good girl (fem.) — the good chair (neuter = masc. sing.)",
+          "notes": "In the singular, neuter takes the masculine adjective form."
+        },
+        {
+          "ro": "băieții buni — fetele bune — scaunele bune",
+          "en": "the good boys (masc. pl.) — the good girls (fem. pl.) — the good chairs (neuter = fem. pl.)",
+          "notes": "In the plural, neuter takes the feminine adjective form."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Using Dictionary Form to Determine Gender",
+      "headingRo": "Folosirea Formei de Dicționar pentru a Determina Genul",
+      "content": "When you look up a Romanian noun in a dictionary, you can determine its gender from the definite article form given. Romanian dictionaries always list nouns with their definite singular form:",
+      "contentRo": "Când cauți un substantiv românesc în dicționar, poți determina genul după forma articolului hotărât dată. Dicționarele românești listează întotdeauna substantivele cu forma lor hotărâtă singulară:",
+      "rules": [
+        "If the dictionary entry ends in -ul → masculine singular (e.g., 'băiatul' = masculine)",
+        "If the dictionary entry ends in -a → feminine singular (e.g., 'fata' = feminine)",
+        "If the dictionary entry ends in -ul → could also be neuter singular (e.g., 'scaunul' = neuter)",
+        "If the dictionary entry ends in -le → masculine or neuter singular ending in -e (e.g., 'numele')",
+        "Check the gender abbreviation: m. (masculin), f. (feminin), n. (neutru)",
+        "For nouns ending in -u: many are neuter (teatru, muzeu), some are masculine (fiu, loc)"
+      ],
+      "examples": [
+        {
+          "ro": "Dictionary: 'carte, f.' → feminine because of 'f.' marker",
+          "en": "When the dictionary shows 'f.' next to a noun, it's feminine",
+          "notes": "Always check for the gender abbreviation (m./f./n.) if you're unsure."
+        },
+        {
+          "ro": "Dictionary: 'scaun, n.' → neuter (despite ending in consonant like masculine)",
+          "en": "The 'n.' marker tells you it's neuter, even though consonant endings usually mean masculine",
+          "notes": "Without the dictionary, you'd guess masculine. This is why checking is important."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Heritage Speaker Advantage",
+      "headingRo": "Avantajul Vorbitorului de Origine",
+      "content": "You almost certainly know noun genders intuitively from hearing Romanian at home. You say 'un scaun mic' (not 'o scaun mică') without thinking about it. Your challenge is the opposite of a new learner's: you know what SOUNDS right, but you need to understand the RULES behind it. Pay attention to these patterns: if you catch yourself saying 'o ...' naturally, the noun is likely feminine. If you say 'un ...', it's likely masculine or neuter. Trust your ear — it's probably right!",
+      "contentRo": "Cunoști aproape sigur genul substantivelor intuitiv din faptul că ai auzit româna acasă. Spui 'un scaun mic' (nu 'o scaun mică') fără să te gândești. Provocarea ta este opusul unui cursant nou: știi ce SUNĂ corect, dar trebuie să înțelegi REGULILE din spate. Acordă atenție acestor tipare: dacă te prinzi spunând 'o ...' în mod natural, substantivul este probabil feminin. Dacă spui 'un ...', este probabil masculin sau neutru. Ai încredere în ureche — probabil are dreptate!"
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "headingRo": "Greșeli Comune de Evitat",
+      "content": "Watch out for these frequent errors when determining noun gender:",
+      "contentRo": "Fii atent la aceste greșeli frecvente când determini genul substantivelor:",
+      "rules": [
+        "Don't assume all nouns ending in a consonant are masculine — some are neuter (scaun, cuvânt) and a few are feminine (noapte, inimă)",
+        "Don't assume all nouns ending in -e are feminine — câine, frate, copil are masculine",
+        "Don't assume all nouns ending in -ă are feminine — tată is masculine",
+        "Don't forget that neuter nouns use masculine forms in the singular and feminine forms in the plural",
+        "Don't assume loanwords ending in -u are masculine — teatru, muzeu, palat are neuter",
+        "Don't rely on the meaning — 'lume' (world) is feminine, 'sistem' (system) is neuter, 'câine' (dog) is masculine"
+      ],
+      "examples": [
+        {
+          "ro": "tată (father) — masculine, NOT feminine despite -ă ending",
+          "en": "Words for male family members ending in -ă are still masculine: tată, unchi (uncle), popă (priest)",
+          "notes": "The biological gender overrides the ending pattern for male person nouns."
+        },
+        {
+          "ro": "scaunele sunt curate (the chairs are clean) — feminine plural adjective, not masculine",
+          "en": "Neuter plural takes feminine adjective: 'curate', not 'curați'",
+          "notes": "This is the most common neuter mistake. Remember: neuter = masc. singular + fem. plural."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Quick Gender Decision Flowchart",
+      "headingRo": "Ghid Rapid de Determinare a Genului",
+      "content": "Use this mental flowchart to determine a noun's gender when you encounter a new word:",
+      "contentRo": "Folosește acest ghid mental pentru a determina genul unui substantiv când întâlnești un cuvânt nou:",
+      "rules": [
+        "Step 1: Does it end in -ă? → Probably feminine (but check: tată, popă are masculine exceptions)",
+        "Step 2: Does it end in -e or -ie? → Could be feminine (noapte, cafea) or masculine (câine, frate) — check dictionary",
+        "Step 3: Does it end in -u? → Could be neuter (teatru, muzeu) or masculine (fiu, loc) — loanwords from Latin/French are often neuter",
+        "Step 4: Does it end in a consonant? → Probably masculine (băiat, copac), but some are neuter (scaun, cuvânt) or feminine (noapte, inimă)",
+        "Step 5: When in doubt, check the dictionary's gender abbreviation (m./f./n.)"
+      ],
+      "examples": [
+        {
+          "ro": "Let's try 'masă': ends in -ă → feminine! ✓ (masa, o masă, mase mici)",
+          "en": "Following the flowchart: -ă ending → feminine. The article 'masa' confirms it.",
+          "notes": "This works for the vast majority of -ă words."
+        },
+        {
+          "ro": "Let's try 'autobuz': ends in consonant → probably masculine? No, it's neuter! (autobuzul, autobuzele)",
+          "en": "This is why Step 4 says 'probably' — some consonant-ending words are neuter, especially tools/vehicles",
+          "notes": "Words for vehicles and instruments are often neuter: autobuz, avion, tren, telefon, computer."
+        },
+        {
+          "ro": "Let's try 'inimă': ends in -ă → feminine! ✓ (inima, o inimă)",
+          "en": "Body parts can be tricky, but inimă follows the regular -ă = feminine pattern",
+          "notes": "Compare with 'mână' (hand) — also feminine despite ending in a consonant-like sound."
+        }
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Practice Exercise: Identify the Gender",
+      "headingRo": "Exercițiu de Practică: Identifică Genul",
+      "content": "Try to determine the gender of these nouns. Check your answers with the table:",
+      "contentRo": "Încearcă să determini genul acestor substantive. Verifică-ți răspunsurile cu tabelul:",
+      "table": {
+        "headers": ["Noun", "Indefinite", "Definite", "Gender", "Why?"],
+        "rows": [
+          ["casă", "o casă", "casa", "feminine", "ends in -ă"],
+          ["frate", "un frate", "fratele", "masculine", "male person (exception to -e rule)"],
+          ["teatru", "un teatru", "teatrul", "neuter", "ends in -u, loanword"],
+          ["floare", "o floare", "floarea", "feminine", "ends in -e (feminine type)"],
+          ["câine", "un câine", "câinele", "masculine", "male animal (exception to -e rule)"],
+          ["oraș", "un oraș", "orașul", "neuter", "consonant ending, neuter pattern"],
+          ["mamă", "o mamă", "mama", "feminine", "ends in -ă"],
+          ["fiu", "un fiu", "fiul", "masculine", "ends in -u, native word"],
+          ["scaun", "un scaun", "scaunul", "neuter", "consonant ending, neuter pattern"],
+          ["noapte", "o noapte", "noaptea", "feminine", "feminine ending in consonant (memorize)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "cartea este pe masă — 'cartea' ends in -a (feminine definite), 'masă' ends in -ă (feminine)",
+          "en": "Both nouns in this sentence are feminine. The adjective agreement would use feminine forms.",
+          "notes": "Practice: can you identify the gender of every noun in a Romanian sentence?"
+        },
+        {
+          "ro": "Băiatul citește o carte în orașul mare.",
+          "en": "The boy (masc.) reads a book (fem.) in the big city (neuter).",
+          "notes": "Three different genders in one sentence! 'băiatul' = masc., 'carte' = fem., 'orașul' = neuter."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Animals — Grammatical vs. Natural Gender",
+      "headingRo": "Animalele — Genul Gramatical vs. Genul Natural",
+      "content": "Animal nouns in Romanian follow grammatical gender, which may differ from the natural (biological) gender. When you need to specify the sex of an animal, you can add a modifier:",
+      "contentRo": "Substantivele de animale în română urmează genul gramatical, care poate diferi de genul natural (biologic). Când trebuie să specifici sexul unui animal, poți adăuga un modificator:",
+      "table": {
+        "headers": ["Animal (Gram. Gender)", "Male", "Female", "Translation"],
+        "rows": [
+          ["câine (m.)", "un câine", "o cățea", "dog"],
+          ["pisică (f.)", "un motan", "o pisică", "cat"],
+          ["cal (m.)", "un cal", "o iapă", "horse"],
+          ["porc (m.)", "un porc", "o scroafă", "pig"],
+          ["oaie (f.)", "un berbec / o oaie", "o oaie", "sheep"],
+          ["lup (m.)", "un lup", "o lupoaie", "wolf"],
+          ["urs (m.)", "un urs", "o ursoaică", "bear"],
+          ["găină (f.)", "un cocoș", "o găină", "chicken"],
+          ["rață (f.)", "un rață", "o rață", "duck"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Pisica mea este o femelă, dar 'pisică' este un substantiv feminin.",
+          "en": "My cat is female, but 'pisică' is a feminine noun regardless of the animal's sex.",
+          "notes": "The grammatical gender of the noun doesn't change. 'Pisică' is always feminine."
+        },
+        {
+          "ro": "Câinele meu este mascul, dar dacă ar fi femelă, ar fi 'cățea'.",
+          "en": "My dog is male, but if it were female, it would be 'cățea' (a different word entirely).",
+          "notes": "Unlike English, Romanian often uses completely different words for male and female animals."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Romanian has three genders: masculine, feminine, and neuter",
+    "Most nouns ending in -ă are feminine: casă, fată, mamă, școală",
+    "Most nouns ending in a consonant are masculine: băiat, copac, frate",
+    "Neuter nouns behave like masculine in the singular and like feminine in the plural",
+    "Common neuter nouns: scaun, teatru, oraș, muzeu, autobuz, cuvânt",
+    "Feminine nouns ending in -e (noapte, pâine, cheie) are common",
+    "Male person nouns ending in -ă are still masculine: tată, popă, unchi",
+    "Nouns ending in -e can be either gender: câine (m.), noapte (f.), frate (m.)",
+    "Loanwords like teatru, muzeu, restaurant are often neuter",
+    "Animal nouns follow grammatical gender, which may differ from biological gender",
+    "Dictionary entries always show the definite form — use it to identify gender",
+    "Heritage speakers usually know gender intuitively — focus on learning the rules behind your instincts"
+  ],
+  "summaryPointsRo": [
+    "Româna are trei genuri: masculin, feminin și neutru",
+    "Majoritatea substantivelor care se termină în -ă sunt feminine: casă, fată, mamă, școală",
+    "Majoritatea substantivelor care se termină în consoană sunt masculine: băiat, copac, frate",
+    "Substantivele neutre se comportă ca masculinul la singular și ca femininul la plural",
+    "Substantive neutre comune: scaun, teatru, oraș, muzeu, autobuz, cuvânt",
+    "Substantivele feminine care se termină în -e (noapte, pâine, cheie) sunt comune",
+    "Substantivele de persoane masculine care se termină în -ă rămân masculine: tată, popă, unchi",
+    "Substantivele care se termină în -e pot fi de orice gen: câine (m.), noapte (f.), frate (m.)",
+    "Cuvintele împrumutate ca teatru, muzeu, restaurant sunt adesea neutre",
+    "Substantivele de animale urmează genul gramatical, care poate diferi de genul biologic",
+    "Intrările de dicționar arată mereu forma hotărâtă — folosește-o pentru a identifica genul",
+    "Vorbitorii de origine cunosc de obicei genul intuitiv — concentrează-te pe învățarea regulilor din spatele instinctelor tale"
+  ],
+  "relatedExercises": ["E03-noun-gender-drill"]
+}

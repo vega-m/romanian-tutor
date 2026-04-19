@@ -1,0 +1,57 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G26-pluperfect",
+  "title": "Mai-mult-ca-perfectul (Mai-mult-ca-perfectul)",
+  "titleEn": "The Pluperfect Tense",
+  "cefrLevel": "B1",
+  "prerequisites": ["G10-past-compound"],
+  "estimatedMinutes": 35,
+  "introduction": "The Pluperfect (Mai-mult-ca-perfectul) is used to describe an action that happened BEFORE another action in the past. If the Compound Past is 'I ate', the Pluperfect is 'I had eaten'. It is essential for storytelling and explaining sequences of events in the past.",
+  "introductionRo": "Mai-mult-ca-perfectul se folosește pentru a descrie o acțiune care s-a întâmplat ÎNAINTEA altei acțiuni din trecut. Dacă Perfectul Compus este 'am mâncat', Mai-mult-ca-perfectul este 'mâncasem'. Este esențial pentru narațiune și pentru explicarea secvențelor de evenimente din trecut.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Pluperfect",
+      "headingRo": "Formarea Mai-mult-ca-perfectului",
+      "content": "The Pluperfect is a simple tense (one word). It is formed by taking the Past Participle stem and adding specific endings: -sem, -seși, -se, -serăm, -serăți, -seră.",
+      "contentRo": "Mai-mult-ca-perfectul este un timp simplu (un singur cuvânt). Se formează luând rădăcina participiului trecut și adăugând terminații specifice: -sem, -seși, -se, -serăm, -serăți, -seră.",
+      "table": {
+        "headers": ["Person", "Ending", "a cânta (cântat)", "a merge (mers)", "a citi (citit)"],
+        "rows": [
+          ["eu", "-sem", "cântasem", "mersesem", "citisem"],
+          ["tu", "-seși", "cântaseși", "merseseși", "citiseși"],
+          ["el/ea", "-se", "cântase", "mersese", "citise"],
+          ["noi", "-serăm", "cântaserăm", "merseserăm", "citiserăm"],
+          ["voi", "-serăți", "cântaserăți", "merseserăți", "citiserăți"],
+          ["ei/ele", "-seră", "cântaseră", "merseseră", "citiseră"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Usage in Context",
+      "headingRo": "Utilizarea în Context",
+      "content": "The Pluperfect is almost always used in a sentence that also contains a Compound Past or Imperfect to show the time relationship:",
+      "contentRo": "Mai-mult-ca-perfectul este aproape întotdeauna folosit într-o frază care conține și un Perfect Compus sau Imperfect pentru a arăta relația temporală:",
+      "examples": [
+        {
+          "ro": "Când a ajuns el, eu deja mâncasem. (When he arrived, I had already eaten.)",
+          "en": "mâncasem (had eaten) happened BEFORE a ajuns (arrived).",
+          "notes": "The word 'deja' (already) is a frequent companion of the pluperfect."
+        },
+        {
+          "ro": "Nu văzusem filmul, așa că am mers la cinema. (I hadn't seen the movie, so I went to the cinema.)",
+          "en": "văzusem (had seen) describes the state before the decision to go."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Used for an action completed before another past action",
+    "Formed from the past participle + -se- + person endings",
+    "It is a single-word tense (no auxiliary verb)",
+    "Commonly used with 'deja' (already) or 'abia' (hardly/just)"
+  ],
+  "relatedExercises": []
+}

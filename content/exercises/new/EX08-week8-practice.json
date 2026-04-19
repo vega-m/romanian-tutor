@@ -1,0 +1,201 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX08-week8-practice",
+  "title": "Week 8 Practice: Connections and Comparisons",
+  "titleRo": "Exerciții Săptămâna 8: Conexiuni și Comparări",
+  "cefrLevel": "A2-B1",
+  "prerequisites": [
+    "G18-conjunctions",
+    "G21-comparatives",
+    "G22-relative-clauses"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice Romanian conjunctions, comparatives, superlatives and relative clauses. These exercises include fill-in-the-blank, multiple-choice, error correction, a writing task, and translation. Focus on choosing the right connector, forming correct comparatives, and using relative pronouns properly.",
+  "instructionsRo": "Exersează conjuncțiile, comparativii, superlativii și propozițiile relative în limba română. Aceste exerciții includ completare de spații, alegere multiplă, corectare a greșelilor, o sarcină de scriere și traducere. Concentrează-te pe alegerea conectorului potrivit, formarea comparativelor corecte și folosirea pronumelor relative în mod corespunzător.",
+  "sourceWeek": 8,
+  "exercises": [
+    {
+      "id": "ex08_001",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct conjunction: 'Am ajuns târziu la birou, pentru ___ autobuzul a întârziat.' (I arrived late at the office because the bus was delayed.)",
+      "promptRo": "Completează cu conjuncția corectă: 'Am ajuns târziu la birou, pentru ___ autobuzul a întârziat.'",
+      "sentence": "Am ajuns târziu la birou, pentru ___ autobuzul a întârziat.",
+      "answer": "că",
+      "acceptableAnswers": [
+        "că",
+        "că "
+      ],
+      "explanation": "'Pentru că' (because) introduces a cause clause. It explains the reason for the action in the main clause. Synonyms include 'deoarece' and 'întrucât'. The cause always explains why something happened.",
+      "explanationRo": "'Pentru că' introduce o propoziție cauzală. Explică motivul acțiunii din propoziția principală. Sinonime includ 'deoarece' și 'întrucât'. Cauza explică întotdeauna de ce s-a întâmplat ceva."
+    },
+    {
+      "id": "ex08_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct superlative: 'Aceasta este ___ clădire din oraș.' (This is the tallest building in the city.)",
+      "promptRo": "Completează cu superlativul corect: 'Aceasta este ___ clădire din oraș.'",
+      "sentence": "Aceasta este ___ clădire din oraș.",
+      "answer": "cea mai înaltă",
+      "acceptableAnswers": [
+        "cea mai înaltă"
+      ],
+      "explanation": "Since 'clădire' is feminine, the superlative uses 'cea mai' + feminine adjective: 'cea mai înaltă' (the tallest). Masculine would be 'cel mai înalt'. Remember to match the gender of the article and adjective to the noun.",
+      "explanationRo": "Deoarece 'clădire' este feminin, superlativul folosește 'cea mai' + adjectiv feminin: 'cea mai înaltă'. La masculin ar fi 'cel mai înalt'. Amintește-ți să potrivești genul articolului și al adjectivului cu substantivul."
+    },
+    {
+      "id": "ex08_003",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct comparative: 'Iarna este ___ decât toamna în România.' (Winter is colder than autumn in Romania.)",
+      "promptRo": "Completează cu comparativul corect: 'Iarna este ___ decât toamna în România.'",
+      "sentence": "Iarna este ___ decât toamna în România.",
+      "answer": "mai rece",
+      "acceptableAnswers": [
+        "mai rece"
+      ],
+      "explanation": "'Rece' (cold) is an irregular adjective. Its comparative is 'mai rece' (colder). The superlative is 'cel mai rece' (the coldest). This is one of the few Romanian adjectives with an irregular comparative form.",
+      "explanationRo": "'Rece' este un adjectiv neregulat. Comparativul său este 'mai rece'. Superlativul este 'cel mai rece'. Acesta este unul dintre puținele adjective românești cu formă neregulată de comparativ."
+    },
+    {
+      "id": "ex08_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct relative pronoun: 'Profesorul ___ predă istoria este foarte drăguț.' (The teacher who teaches history is very nice.)",
+      "promptRo": "Completează cu pronumele relativ corect: 'Profesorul ___ predă istoria este foarte drăguț.'",
+      "sentence": "Profesorul ___ predă istoria este foarte drăguț.",
+      "answer": "care",
+      "acceptableAnswers": [
+        "care"
+      ],
+      "explanation": "'Care' is the relative pronoun used as the subject of the relative clause. 'Profesorul care predă istoria' = The teacher who teaches history. When 'care' is the subject, it does not need any preposition.",
+      "explanationRo": "'Care' este pronumele relativ folosit ca subiect al propoziției relative. 'Profesorul care predă istoria' = Profesorul care predă istoria. Când 'care' este subiect, nu are nevoie de nicio prepoziție."
+    },
+    {
+      "id": "ex08_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct connector: '___ a fi obosit, a terminat tot proiectul.' (Even though he was tired, he finished the whole project.)",
+      "promptRo": "Alege conectorul corect: '___ a fi obosit, a terminat tot proiectul.'",
+      "answer": "Deși",
+      "options": [
+        "Pentru că",
+        "Deși",
+        "Deci",
+        "Și"
+      ],
+      "explanation": "'Deși' (although/even though) introduces a concessive clause. The first clause presents an obstacle (being tired), but the second clause shows it was overcome (finished the project). This is the classic concession pattern.",
+      "explanationRo": "'Deși' introduce o propoziție concesivă. Prima propoziție prezintă un obstacol (a fi obosit), dar a doua arată că a fost depășit (a terminat proiectul). Acesta este tiparul clasic de concesie.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_006",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses 'la fel de ... ca' (as ... as) correctly?",
+      "promptRo": "Care propoziție folosește corect 'la fel de ... ca'?",
+      "answer": "Sora mea este la fel de înaltă ca mine.",
+      "options": [
+        "Sora mea este la fel de înalt ca mine.",
+        "Sora mea este la fel de înaltă ca mine.",
+        "Sora mea este la fel înaltă ca mine.",
+        "Sora mea este la fel de înaltă decât mine."
+      ],
+      "explanation": "The correct pattern is 'la fel de + adjective + ca': 'la fel de înaltă ca mine' (as tall as me). Note: the adjective must agree in gender — 'înăltă' for feminine. The preposition is 'ca', not 'decât'. The word 'de' after 'la fel' is essential.",
+      "explanationRo": "Tiparul corect este 'la fel de + adjectiv + ca': 'la fel de înaltă ca mine'. Observă: adjectivul trebuie să fie de acord în gen — 'înăltă' pentru feminin. Prepoziția este 'ca', nu 'decât'. Cuvântul 'de' după 'la fel' este esențial.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence with a relative clause:",
+      "promptRo": "Alege propoziția corectă cu o propoziție relativă:",
+      "answer": "Orașul în care m-am născut este foarte frumos.",
+      "options": [
+        "Orașul care m-am născut este foarte frumos.",
+        "Orașul în care m-am născut este foarte frumos.",
+        "Orașul cine m-am născut este foarte frumos.",
+        "Orașul ce m-am născut este foarte frumos."
+      ],
+      "explanation": "'În care' (in which) is the correct relative pronoun for expressing place in a relative clause. 'Orașul în care m-am născut' = The city in which I was born. You can also use 'unde' here: 'Orașul unde m-am născut'. Both are correct.",
+      "explanationRo": "'În care' este pronumele relativ corect pentru a exprima locul într-o propoziție relativă. 'Orașul în care m-am născut' = Orașul în care m-am născut. Poți folosi și 'unde' aici: 'Orașul unde m-am născut'. Ambele sunt corecte.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "El este cel mai bun student din clasă, și nu învață deloc.",
+      "answer": "El este cel mai bun student din clasă, dar nu învață deloc.",
+      "explanation": "The error is 'și' instead of 'dar'. The two clauses express a contrast (being the best student vs. not studying at all), so 'dar' (but) is the correct conjunction. 'Și' would mean both facts coexist harmoniously, which does not make sense here.",
+      "explanationRo": "Greșeala este 'și' în loc de 'dar'. Cele două propoziții exprimă un contrast (a fi cel mai bun student vs. a nu învăța deloc), deci 'dar' este conjuncția corectă. 'Și' ar însemna că ambele fapte coexistă armonios, ceea ce nu are sens aici.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Această prăjitură este mai buna decât a ta.",
+      "answer": "Această prăjitură este mai bună decât a ta.",
+      "explanation": "The error is 'buna' with a circumflex accent — it should be 'bună' with a breve accent. In Romanian, the comparative form 'mai bună' uses 'ă' (a-breve), not 'â' (a-circumflex). The adjective 'bun' keeps its 'ă' in all forms: bună, mai bună, cea mai bună.",
+      "explanationRo": "Greșeala este 'buna' cu accent circumflex — ar trebui să fie 'bună' cu accent breve. În română, forma de comparativ 'mai bună' folosește 'ă' (breve), nu 'â' (circumflex). Adjectivul 'bun' își păstrează 'ă' în toate formele: bună, mai bună, cea mai bună.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Băiatul a cărui mamă este doctor a venit la școală.",
+      "answer": "Băiatul al cărui mamă este doctor a venit la școală.",
+      "explanation": "The error is 'a cărui' instead of 'al cărui'. The possessive relative pronoun requires the article 'al' before 'cărui': 'al cărui' (whose, masculine singular). This is because the possessed noun determines the form. The complete paradigm: al cărui (m. sg.), a cărei (f. sg.), al căror (m. pl.), ale căror (f. pl.).",
+      "explanationRo": "Greșeala este 'a cărui' în loc de 'al cărui'. Pronumele relativ posesiv necesită articolul 'al' înainte de 'cărui': 'al cărui'. Paradigma completă: al cărui (m. sg.), a cărei (f. sg.), al căror (m. pl.), ale căror (f. pl.).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_011",
+      "type": "writing",
+      "prompt": "Compare two restaurants or two cities in Romania using comparatives and connectors. Write 8-10 sentences. Use at least 3 comparative structures (mai ... decât, la fel de ... ca, cel mai/cea mai ...) and at least 3 connectors (și, dar, pentru că, deși, totuși, ori, fie). Include at least one relative clause with 'care' or 'pe care'.",
+      "promptRo": "Compară două restaurante sau două orașe din România folosind comparativii și conectorii. Scrie 8-10 propoziții. Folosește cel puțin 3 structuri comparative (mai ... decât, la fel de ... ca, cel mai/cea mai ...) și cel puțin 3 conectori (și, dar, pentru că, deși, totuși, ori, fie). Include cel puțin o propoziție relativă cu 'care' sau 'pe care'.",
+      "answer": "Model answer — comparing Brașov and Cluj-Napoca:\n\nBrașov și Cluj-Napoca sunt două dintre cele mai frumoase orașe din România. Brașov este mai mic decât Cluj-Napoca, dar este la fel de frumos. Cluj-Napoca este cel mai mare oraș din Transilvania, pentru că are o populație de peste trei sute de mii de locuitori. Deși Brașov are un centru istoric mai vechi, Cluj-Napoca este mai viu și mai modern. Orașul care are cel mai frumos peisaj este Brașov, pentru că este situat lângă munți. Ambele orașe au universități bune, dar Cluj-Napoca are mai mulți studenți internaționali. Totuși, mâncarea tradițională din Brașov este mai gustoasă decât cea din Cluj. Fie că alegi Brașov, fie că alegi Cluj-Napoca, vei avea o experiență minunată.",
+      "explanation": "This writing exercise practices comparatives (mai mic, la fel de frumos, cel mai mare, mai vechi, mai viu, mai modern, cel mai frumos, mai mulți, mai gustoasă), connectors (și, dar, pentru că, deși, totuși, fie ... fie), and a relative clause (care are). The model answer demonstrates how to weave all three grammar topics into a natural comparison text.",
+      "explanationRo": "Acest exercițiu de scriere exersează comparativii (mai mic, la fel de frumos, cel mai mare, mai vechi, mai viu, mai modern, cel mai frumos, mai mulți, mai gustoasă), conectorii (și, dar, pentru că, deși, totuși, fie ... fie) și o propoziție relativă (care are). Răspunsul model demonstrează cum se integrează toate cele trei subiecte gramaticale într-un text comparativ natural.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Comparatives",
+            "description": "Correct use of at least 3 comparative/superlative structures: mai + adjective + decât/ca, la fel de + adjective + ca, cel/cea mai + adjective. Correct gender and number agreement in comparative forms.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Connectors",
+            "description": "Appropriate use of at least 3 different connectors (și, dar, pentru că, deși, totuși, ori, fie) with correct meaning and placement in the sentence.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Rich and appropriate vocabulary for describing places (oraș, restaurant, populație, centru istoric, peisaj, studenți, mâncare tradițională, experiență, etc.).",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Overall grammatical accuracy including correct use of relative clauses (care, pe care, al cărui), proper adjective agreement, and correct sentence structure.",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      },
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex08_012",
+      "type": "translation",
+      "direction": "ro-to-en",
+      "prompt": "Translate the following Romanian sentences into English:\n1. Deși este obosit, merge la serviciu pentru că trebuie să termine proiectul.\n2. Cartea pe care am citit-o este mai interesantă decât filmul.\n3. Acesta este cel mai bun restaurant din oraș, dar este și cel mai scump.",
+      "promptRo": "Traduce următoarele propoziții din română în engleză:\n1. Deși este obosit, merge la serviciu pentru că trebuie să termine proiectul.\n2. Cartea pe care am citit-o este mai interesantă decât filmul.\n3. Acesta este cel mai bun restaurant din oraș, dar este și cel mai scump.",
+      "answer": "1. Although he is tired, he goes to work because he has to finish the project.\n2. The book that I read is more interesting than the movie.\n3. This is the best restaurant in the city, but it is also the most expensive.",
+      "acceptableAnswers": [
+        "1. Although he is tired, he goes to work because he has to finish the project.\n2. The book that I read is more interesting than the movie.\n3. This is the best restaurant in the city, but it is also the most expensive."
+      ],
+      "explanation": "Sentence 1 uses 'deși' (although) for concession and 'pentru că' (because) for cause. Sentence 2 uses 'pe care' as the direct object relative pronoun and 'mai ... decât' for comparative. Sentence 3 uses 'cel mai' superlative and 'dar' for contrast.",
+      "explanationRo": "Propoziția 1 folosește 'deși' pentru concesie și 'pentru că' pentru cauză. Propoziția 2 folosește 'pe care' ca pronume relativ obiect direct și 'mai ... decât' pentru comparativ. Propoziția 3 folosește superlativul 'cel mai' și 'dar' pentru contrast."
+    }
+  ]
+}

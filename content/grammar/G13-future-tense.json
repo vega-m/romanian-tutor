@@ -1,0 +1,207 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G13-future-tense",
+  "title": "Viitorul (Timpul Viitor)",
+  "titleEn": "The Future Tense",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G10-past-compound"],
+  "estimatedMinutes": 35,
+  "introduction": "Romanian has several ways to express future actions, ranging from formal literary forms to everyday conversational structures. At a B1 level, it is essential to distinguish between the auxiliary-based future (voi merge) and the popular future (o să merg), as they reflect different levels of formality.",
+  "introductionRo": "Limba română oferă mai multe modalități de a exprima acțiunile viitoare, de la forme literare formale la structuri conversaționale uzuale. La nivelul B1, este esențial să se facă distincția între viitorul cu auxiliar (voi merge) și viitorul popular (o să merg), deoarece acestea reflectă registre diferite de limbaj.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Standard (Formal) Future",
+      "headingRo": "Viitorul Standard (Formal)",
+      "content": "The standard future is formed using a specific auxiliary (derived from 'a vrea') and the infinitive of the main verb. This form is predominant in writing, news, and formal speeches.",
+      "contentRo": "Viitorul standard se formează folosind un auxiliar specific (derivat din verbul „a vrea”) și infinitivul verbului de bază. Această formă este predominantă în scriere, știri și discursuri formale.",
+      "table": {
+        "headers": ["Person", "Auxiliary voi", "Infinitive", "a mânca (to eat) [ACC]", "a merge (to go)", "a scrie (to write) [ACC/DAT]"],
+        "rows": [
+          ["eu", "voi", "mânca", "voi mânca", "voi merge", "voi scrie"],
+          ["tu", "vei", "mânca", "vei mânca", "vei merge", "vei scrie"],
+          ["el/ea", "va", "mânca", "va mânca", "va merge", "va scrie"],
+          ["noi", "vom", "mânca", "vom mânca", "vom merge", "vom scrie"],
+          ["voi", "veți", "mânca", "veți mânca", "veți merge", "veți scrie"],
+          ["ei/ele", "vor", "mânca", "vor mânca", "vor merge", "vor scrie"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mâine voi merge la cinema. (Tomorrow I will go to the cinema.)",
+          "en": "voi (will) + merge (go) = I will go",
+          "notes": "The infinitive is used without 'a': 'voi merge', NOT 'voi a merge'."
+        },
+        {
+          "ro": "Va fi frumos mâine. (It will be beautiful tomorrow.)",
+          "en": "va (will) + fi (be) = It will be",
+          "notes": "In everyday speech, this is often shortened or replaced by the present tense."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Popular Future: o să + Subjunctive",
+      "headingRo": "Viitorul Popular: o să + Conjunctiv",
+      "content": "The 'popular future' is the most common way to talk about the future in everyday spoken Romanian. It uses 'o să' (or sometimes just 'să') + the subjunctive form of the verb:",
+      "contentRo": "'Viitorul popular' este cel mai comun mod de a vorbi despre viitor în româna de zi cu zi. Folosește 'o să' (sau uneori doar 'să') + forma de conjunctiv a verbului:",
+      "table": {
+        "headers": ["Person", "Marker", "Subjunctive", "a mânca [ACC]", "a merge", "a scrie [ACC/DAT]"],
+        "rows": [
+          ["eu", "o să", "mănânc", "o să mănânc", "o să merg", "o să scriu"],
+          ["tu", "o să", "mănânci", "o să mănânci", "o să mergi", "o să scrii"],
+          ["el/ea", "o să", "mănânce", "o să mănânce", "o să meargă", "o să scrie"],
+          ["noi", "o să", "mâncăm", "o să mâncăm", "o să mergem", "o să scriem"],
+          ["voi", "o să", "mâncați", "o să mâncați", "o să mergeți", "o să scrieți"],
+          ["ei/ele", "o să", "mănânce", "o să mănânce", "o să meargă", "o să scrie"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "O să plec mâine dimineață. (I'll leave tomorrow morning.)",
+          "en": "o să + plec (subjunctive) = I will leave",
+          "notes": "This is how most Romanians talk about the future in everyday conversation."
+        },
+        {
+          "ro": "O să vin diseară la cină. (I'll come to dinner tonight.)",
+          "en": "The subjunctive form of a veni (3rd conj.) in 1st person is 'vin' — same as present.",
+          "notes": "For many verbs, the subjunctive form is the same as the present tense form."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Present Tense for Future",
+      "headingRo": "Timpul Prezent pentru Viitor",
+      "content": "In Romanian, the present tense with a time word is the simplest and most natural way to express future plans, especially for events that are certain or imminent:",
+      "contentRo": "În română, timpul prezent cu un cuvânt de timp este cel mai simplu și natural mod de a exprima planuri de viitor, în special pentru evenimente care sunt certe sau iminente:",
+      "table": {
+        "headers": ["Present Tense", "Time Word", "Meaning"],
+        "rows": [
+          ["Mâine merg la medic.", "mâine", "Tomorrow I'm going to the doctor."],
+          ["Luni începem cursul.", "luni", "On Monday we start the course."],
+          ["Diseară mâncăm la restaurant.", "diseară", "Tonight we're eating at a restaurant."],
+          ["Următorul tren vine la 6.", "următorul", "The next train comes at 6."],
+          ["După aceea sunăm.", "după aceea", "After that we'll call."],
+          ["Anul viitor mergem în vacanță.", "anul viitor", "Next year we're going on vacation."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mâine am o întâlnire la ora 10. (Tomorrow I have a meeting at 10.)",
+          "en": "Present tense 'am' with 'mâine' clearly indicates the future.",
+          "notes": "This is especially common with a fi and a avea in scheduled events."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Comparison of Future Forms",
+      "headingRo": "Comparație a Formelor de Viitor",
+      "content": "All three forms are correct, but they differ in register and context:",
+      "contentRo": "Toate cele trei forme sunt corecte, dar diferă în registru și context:",
+      "table": {
+        "headers": ["Form", "Register", "Example", "When to Use"],
+        "rows": [
+          ["voi merge", "Formal / Written", "Voi merge la conferință.", "Essays, news, formal speech"],
+          ["o să merg", "Informal / Spoken", "O să merg la magazin.", "Everyday conversation"],
+          ["merge (mâine)", "All registers", "Mâine merg la magazin.", "Plans with clear time reference"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Formal: Guvernul va adopta noua lege. (The government will adopt the new law.)",
+          "en": "In news and formal writing, the 'voi' future is preferred.",
+          "notes": "In casual speech, you'd hear: O să adopte noua lege."
+        },
+        {
+          "ro": "Informal: O să vin imediat! (I'll come right away!)",
+          "en": "The 'o să' future is the default in spoken Romanian.",
+          "notes": "Native speakers rarely use 'voi veni' in casual conversation."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Verbs in the Future",
+      "headingRo": "Verbe Neregulate la Viitor",
+      "content": "Some common verbs have special forms in the future. The most important is 'a fi':",
+      "contentRo": "Unele verbe comune au forme speciale la viitor. Cel mai important este 'a fi':",
+      "table": {
+        "headers": ["Person", "Formal (voi fi)", "Popular (o să fiu)", "Meaning"],
+        "rows": [
+          ["eu", "voi fi", "o să fiu", "I will be"],
+          ["tu", "vei fi", "o să fii", "You will be"],
+          ["el/ea", "va fi", "o să fie", "He/she will be"],
+          ["noi", "vom fi", "o să fim", "We will be"],
+          ["voi", "veți fi", "o să fiți", "You (pl.) will be"],
+          ["ei/ele", "vor fi", "o să fie", "They will be"]
+        ]
+      },
+      "rules": [
+        "a avea: voi avea / o să am (I will have)",
+        "a ști: voi ști / o să știu (I will know)",
+        "a putea: voi putea / o să pot (I will be able to)",
+        "a vrea: voi vrea / o să vreau (I will want)"
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Future Time Expressions",
+      "content": "These time expressions are commonly used with future tenses:",
+      "contentRo": "Aceste expresii de timp se folosesc frecvent cu timpurile viitoare:",
+      "rules": [
+        "mâine (tomorrow) — Mâine voi/o să merg la școală.",
+        "poimâine (the day after tomorrow) — Poimâine o să vin la tine.",
+        "diseară (tonight) — Diseară o să ne vedem.",
+        "luni/marți etc. (on Monday/Tuesday) — Luni încep noul curs.",
+        "anul viitor (next year) — Anul viitor o să călătorim.",
+        "săptămâna viitoare (next week) — Săptămâna viitoare vom avea examen.",
+        "curând (soon) — O să ajung curând.",
+        "data viitoare (next time) — Data viitoare o să câștigăm."
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using future tenses:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești timpurile viitoare:",
+      "rules": [
+        "Don't add 'a' before the infinitive: 'voi merge' (not 'voi a merge')",
+        "Don't forget that 'o să' is followed by the subjunctive form, not the infinitive",
+        "Don't confuse 'voi' (I will) with 'voi' (you plural) — context makes it clear",
+        "Don't use the future tense after 'când' (when) for future events — use the present subjunctive instead",
+        "Remember: 'va fi' (formal) vs. 'o să fie' (informal) — both are correct"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Când o să ajungi, sună-mă. (When you arrive, call me.)",
+          "en": "After 'când' (when) referring to the future, Romanian uses the subjunctive, not the future.",
+          "notes": "This is different from English: 'When you will arrive' is NOT correct in Romanian."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Romanian has three ways to express the future: formal (voi + inf.), popular (o să + subj.), and present tense",
+    "Formal future: voi/vei/va/vom/veți/vor + infinitive (without 'a')",
+    "Popular future: o să + subjunctive form — most common in spoken Romanian",
+    "Present tense with time words is also very common for future plans",
+    "a fi in the future: voi fi / o să fiu (I will be)",
+    "After 'când' (when) for future events, use subjunctive, not future tense",
+    "Formal: voi merge (written/formal) vs. Informal: o să merg (spoken/everyday)",
+    "Future time words: mâine, diseară, luni, anul viitor, curând, săptămâna viitoare"
+  ],
+  "summaryPointsRo": [
+    "Româna are trei moduri de a exprima viitorul: formal (voi + inf.), popular (o să + conj.), prezent",
+    "Viitor formal: voi/vei/va/vom/veți/vor + infinitiv (fără 'a')",
+    "Viitor popular: o să + forma de conjunctiv — cel mai comun în româna vorbită",
+    "Timpul prezent cu cuvinte de timp este și el foarte comun pentru planuri de viitor",
+    "a fi la viitor: voi fi / o să fiu (voi fi)",
+    "După 'când' pentru evenimente viitoare, se folosește conjunctivul, nu viitorul",
+    "Formal: voi merge (scris/formal) vs. Informal: o să merg (vorbit/zilnic)",
+    "Cuvinte de timp viitor: mâine, diseară, luni, anul viitor, curând, săptămâna viitoare"
+  ],
+  "relatedExercises": ["E10-future-subjunctive"]
+}

@@ -1,0 +1,141 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E10-future-subjunctive",
+  "title": "Future Tense and Subjunctive Drill",
+  "titleRo": "Exerciții de Viitor și Subjunctiv",
+  "cefrLevel": "A2-B1",
+  "prerequisites": [
+    "G13-future-tense",
+    "G14-subjunctive"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Practice forming the future tense (a voi + infinitive) and the subjunctive mood (să + conjunctiv). Distinguish between the two structures.",
+  "instructionsRo": "Exersează formarea viitorului (a voi + infinitiv) și a modului subjunctiv (să + conjunctiv). Deosebește cele două structuri.",
+  "sourceWeek": 6,
+  "exercises": [
+    {
+      "id": "e10_001",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct future tense form: Mâine ___ la concert.",
+      "promptRo": "Care este forma corectă de viitor: Mâine ___ la concert.",
+      "answer": "voi merge",
+      "options": [
+        "voi merge",
+        "să merg",
+        "voi mergea",
+        "voi merg"
+      ],
+      "explanation": "'Voi merge' = I will go (future tense). Structure: voi (auxiliary) + merge (infinitive without 'a'). The future uses 'voi, vei, va, vom, veți, vor' + infinitive.",
+      "explanationRo": "'Voi merge' = Voi merge (viitor). Structura: voi (auxiliar) + merge (infinitiv fără 'a'). Viitorul folosește 'voi, vei, va, vom, veți, vor' + infinitiv.",
+      "sourceGrammarId": "G13-future-tense"
+    },
+    {
+      "id": "e10_002",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the subjunctive correctly?",
+      "promptRo": "Care propoziție folosește corect subjunctivul?",
+      "answer": "Vreau să învăț româna.",
+      "options": [
+        "Vreau voi învăța româna.",
+        "Vreau să învăț româna.",
+        "Vreau că învăț româna.",
+        "Vreau pentru învăța româna."
+      ],
+      "explanation": "After 'a vrea' (to want), use 'să' + subjunctive: 'Vreau să învăț' = I want to learn. The subjunctive uses 'să' + present subjunctive form.",
+      "explanationRo": "După 'a vrea' (a vrea), se folosește 'să' + subjunctiv: 'Vreau să învăț' = Vreau să învăț. Subjunctivul folosește 'să' + forma de prezent conjunctiv.",
+      "sourceGrammarId": "G14-subjunctive",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e10_003",
+      "type": "fill-blank",
+      "prompt": "Form the future tense for 'ei': Ei ___ în vacanță luna viitoare.",
+      "promptRo": "Formează viitorul pentru 'ei': Ei ___ în vacanță luna viitoare.",
+      "sentence": "Ei ___ în vacanță luna viitoare.",
+      "answer": "vor merge",
+      "acceptableAnswers": [
+        "vor merge"
+      ],
+      "explanation": "'Vor merge' = they will go (future, 3rd person plural). Structure: vor + merge (infinitive). 'Vor' is the 3rd person plural auxiliary of 'a voi'.",
+      "explanationRo": "'Vor merge' = ei vor merge (viitor, persoana a III-a plural). Structura: vor + merge (infinitiv). 'Vor' este auxiliarul persoanei a III-a plural al lui 'a voi'.",
+      "sourceGrammarId": "G13-future-tense"
+    },
+    {
+      "id": "e10_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the subjunctive: Trebuie ___ la timp.",
+      "promptRo": "Completează cu subjunctivul: Trebuie ___ la timp.",
+      "sentence": "Trebuie ___ la timp.",
+      "answer": "să vin",
+      "acceptableAnswers": [
+        "să vin"
+      ],
+      "explanation": "'Trebuie să vin' = I must come. After 'a trebui', use 'să' + subjunctive. 'A veni' in the subjunctive: eu să vin, tu să vii, el/ea să vină, noi să venim, voi să veniți, ei/ele să vină.",
+      "explanationRo": "'Trebuie să vin' = Trebuie să vin. După 'a trebui', se folosește 'să' + subjunctiv. 'A veni' la subjunctiv: eu să vin, tu să vii, el/ea să vină, noi să venim, voi să veniți, ei/ele să vină.",
+      "sourceGrammarId": "G14-subjunctive"
+    },
+    {
+      "id": "e10_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: ___ (Let's go) la film!",
+      "promptRo": "Alege forma corectă: ___ la film!",
+      "answer": "Să mergem",
+      "options": [
+        "Noi vom merge",
+        "Să mergem",
+        "Mergem",
+        "Vom mergea"
+      ],
+      "explanation": "'Să mergem' = Let's go (1st person plural subjunctive used as an imperative). The subjunctive with 'să' can express a suggestion or command.",
+      "explanationRo": "'Să mergem' = Să mergem (persoana I plural subjunctiv folosit ca imperativ). Subjunctivul cu 'să' poate exprima o sugestie sau o comandă.",
+      "sourceGrammarId": "G14-subjunctive",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e10_006",
+      "type": "fill-blank",
+      "prompt": "Form the future tense for 'tu': Tu ___ un examen luna viitoare.",
+      "promptRo": "Formează viitorul pentru 'tu': Tu ___ un examen luna viitoare.",
+      "sentence": "Tu ___ un examen luna viitoare.",
+      "answer": "vei susține",
+      "acceptableAnswers": [
+        "vei susține"
+      ],
+      "explanation": "'Vei susține' = you will take (future, 2nd person singular). Structure: vei (auxiliary) + susține (infinitive). 'Vei' is the 2nd person singular auxiliary.",
+      "explanationRo": "'Vei susține' = tu vei susține (viitor, persoana a II-a singular). Structura: vei (auxiliar) + susține (infinitiv). 'Vei' este auxiliarul persoanei a II-a singular.",
+      "sourceGrammarId": "G13-future-tense"
+    },
+    {
+      "id": "e10_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the subjunctive after 'a putea'?",
+      "promptRo": "Care propoziție folosește corect subjunctivul după 'a putea'?",
+      "answer": "Pot să vorbesc românește.",
+      "options": [
+        "Pot voi vorbesc românește.",
+        "Pot să vorbesc românește.",
+        "Pot că vorbesc românește.",
+        "Pot pentru vorbesc românește."
+      ],
+      "explanation": "After 'a putea' (can/to be able to), use 'să' + subjunctive: 'Pot să vorbesc' = I can speak. This is the standard pattern for modal verbs + subjunctive in Romanian.",
+      "explanationRo": "După 'a putea' (a putea), se folosește 'să' + subjunctiv: 'Pot să vorbesc' = Pot să vorbesc. Acesta este tiparul standard pentru verbele modale + subjunctiv în română.",
+      "sourceGrammarId": "G14-subjunctive",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e10_008",
+      "type": "fill-blank",
+      "prompt": "Complete with the subjunctive: Mi-a plăcut ___ cu tine.",
+      "promptRo": "Completează cu subjunctivul: Mi-a plăcut ___ cu tine.",
+      "sentence": "Mi-a plăcut ___ cu tine.",
+      "answer": "să vorbesc",
+      "acceptableAnswers": [
+        "să vorbesc"
+      ],
+      "explanation": "'Mi-a plăcut să vorbesc cu tine' = I liked talking with you. After impersonal expressions of liking/disliking, Romanian uses 'să' + subjunctive: mi-a plăcut să..., mi-a părut rău să...",
+      "explanationRo": "'Mi-a plăcut să vorbesc cu tine' = Mi-a plăcut să vorbesc cu tine. După expresiile impersonale de apreciere, româna folosește 'să' + subjunctiv: mi-a plăcut să..., mi-a părut rău să...",
+      "sourceGrammarId": "G14-subjunctive"
+    }
+  ]
+}

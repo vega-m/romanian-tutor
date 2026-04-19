@@ -1,0 +1,128 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R02-family-texts",
+  "title": "Texte despre Familie",
+  "titleEn": "Texts about Family",
+  "cefrLevel": "A1",
+  "texts": [
+    {
+      "id": "r02_001",
+      "title": "Familia mea",
+      "titleEn": "My Family",
+      "text": "Numele meu este Andrei și am doisprezece ani. Locuiesc într-un apartament mic în București, împreună cu părinții mei și sora mea, Elena. Elena are nouă ani și este în clasa a treia. Tatăl meu se numește Ion și este inginer la o fabrică de mașini. Mama mea, Ana, este profesoară de matematică la școala noastră. În fiecare seară, mâncăm cina împreună la masă. Mama gătește foarte bine — mâncarea mea preferată sunt sarmalele cu mămăligă. Duminica, mergem toți la bunici. Bunicul Gheorghe are o grădină mare cu legume și flori, iar bunica Elena face cel mai bun cozonac. Îmi place foarte mult să petrec timpul cu familia mea.",
+      "translation": "My name is Andrei and I am twelve years old. I live in a small apartment in Bucharest, together with my parents and my sister, Elena. Elena is nine years old and is in the third grade. My father's name is Ion and he is an engineer at a car factory. My mother, Ana, is a math teacher at our school. Every evening, we eat dinner together at the table. Mom cooks very well — my favorite food is sarmale with polenta. On Sundays, we all go to our grandparents. Grandfather Gheorghe has a big garden with vegetables and flowers, and grandmother Elena makes the best cozonac (sweet bread). I really like spending time with my family.",
+      "vocabularyNotes": [
+        {"word": "împreună", "meaning": "together", "notes": "Adverb"},
+        {"word": "preferată", "meaning": "favorite (feminine)", "notes": "Adjective, feminine form of 'preferat'"},
+        {"word": "cozonac", "meaning": "sweet bread / traditional Romanian pastry", "notes": "Neuter noun (n.)"},
+        {"word": "a petrece", "meaning": "to spend (time)", "notes": "Verb, 3rd conjugation"},
+        {"word": "fabrică", "meaning": "factory", "notes": "Feminine noun (f.)"}
+      ],
+      "questions": [
+        {
+          "id": "r02_q1",
+          "type": "comprehension",
+          "question": "Câți ani are Andrei?",
+          "questionEn": "How old is Andrei?",
+          "answer": "Doisprezece ani",
+          "acceptableAnswers": ["doisprezece ani", "12 ani", "12", "doisprezece"],
+          "options": null
+        },
+        {
+          "id": "r02_q2",
+          "type": "multiple-choice",
+          "question": "Ce muncă are tatăl lui Andrei?",
+          "questionEn": "What does Andrei's father do for a living?",
+          "options": ["Profesor", "Medic", "Inginer", "Zidar"],
+          "answer": "Inginer"
+        },
+        {
+          "id": "r02_q3",
+          "type": "multiple-choice",
+          "question": "Care este mâncarea preferată a lui Andrei?",
+          "questionEn": "What is Andrei's favorite food?",
+          "options": ["Pizza", "Sarmale cu mămăligă", "Ciorbă", "Supă"],
+          "answer": "Sarmale cu mămăligă"
+        },
+        {
+          "id": "r02_q4",
+          "type": "comprehension",
+          "question": "Ce face bunica Elena?",
+          "questionEn": "What does grandmother Elena do/make?",
+          "answer": "Face cel mai bun cozonac",
+          "acceptableAnswers": ["face cel mai bun cozonac", "cozonac", "face cozonac"],
+          "options": null
+        },
+        {
+          "id": "r02_q5",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'împreună'?",
+          "questionEn": "What does 'împreună' mean?",
+          "answer": "together",
+          "acceptableAnswers": ["together", "împreună"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r02_002",
+      "title": "O zi la bunici",
+      "titleEn": "A Day at the Grandparents",
+      "text": "Sâmbătă dimineața, familia noastră merge la bunici în sat. Satul se numește Poiana și este lângă Ploiești. Călătoria durează o oră cu mașina. Când ajungem, bunica ne așteaptă cu mâncare caldă. Pe masă sunt sarmale, mămăligă, salată de varză și pâine proaspătă. Bunicul ne arată grădina. Are roșii, castraveți, morcovi și ardei. După masă, eu și sora mea ne jucăm în curte cu câinele bunicilor, Rex. Rex este mare și foarte prietenos. După-amiaza, bunica ne învață să facem plăcintă cu mere. Este greu, dar este și amuzant. Seara, când plecăm, bunica ne dă saci cu legume și fructe din grădină. Noi spunem: 'Vă mulțumim, bunico! Vă iubim!' și promitem să revenim curând.",
+      "translation": "On Saturday morning, our family goes to the grandparents in the village. The village is called Poiana and it is near Ploiești. The trip takes an hour by car. When we arrive, grandma waits for us with warm food. On the table are sarmale, polenta, cabbage salad, and fresh bread. Grandpa shows us the garden. He has tomatoes, cucumbers, carrots, and peppers. After the meal, my sister and I play in the yard with the grandparents' dog, Rex. Rex is big and very friendly. In the afternoon, grandma teaches us to make apple pie. It's hard, but it's also fun. In the evening, when we leave, grandma gives us bags of vegetables and fruits from the garden. We say: 'Thank you, grandma! We love you!' and we promise to come back soon.",
+      "vocabularyNotes": [
+        {"word": "sat", "meaning": "village", "notes": "Neuter noun (n.)"},
+        {"word": "a dura", "meaning": "to last / to take (time)", "notes": "Verb"},
+        {"word": "a aștepta", "meaning": "to wait", "notes": "Verb, 1st conjugation"},
+        {"word": "ardei", "meaning": "pepper (bell pepper/chili)", "notes": "Masculine noun (m.)"},
+        {"word": "a reveni", "meaning": "to come back / to return", "notes": "Verb, 4th conjugation"}
+      ],
+      "questions": [
+        {
+          "id": "r02_q6",
+          "type": "multiple-choice",
+          "question": "Cât durează călătoria până la bunici?",
+          "questionEn": "How long does the trip to the grandparents take?",
+          "options": ["O jumătate de oră", "O oră", "Două ore", "Trei ore"],
+          "answer": "O oră"
+        },
+        {
+          "id": "r02_q7",
+          "type": "comprehension",
+          "question": "Cum se numește câinele bunicilor?",
+          "questionEn": "What is the grandparents' dog called?",
+          "answer": "Rex",
+          "acceptableAnswers": ["Rex", "rex"],
+          "options": null
+        },
+        {
+          "id": "r02_q8",
+          "type": "multiple-choice",
+          "question": "Ce învață bunica pe copii să facă?",
+          "questionEn": "What does grandma teach the children to make?",
+          "options": ["Sarmale", "Plăcintă cu mere", "Cozonac", "Tort"],
+          "answer": "Plăcintă cu mere"
+        },
+        {
+          "id": "r02_q9",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'a reveni'?",
+          "questionEn": "What does 'a reveni' mean?",
+          "answer": "to come back / to return",
+          "acceptableAnswers": ["to come back", "to return", "a reveni", "revenir", "reveni"],
+          "options": null
+        },
+        {
+          "id": "r02_q10",
+          "type": "comprehension",
+          "question": "Ce le dă bunica când pleacă copiii?",
+          "questionEn": "What does grandma give the children when they leave?",
+          "answer": "Saci cu legume și fructe din grădină",
+          "acceptableAnswers": ["saci cu legume și fructe din grădină", "legume și fructe", "saci cu legume", "saci cu legume și fructe"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G05-adjective-agreement",
+  "title": "Acordul Adjectivelor (Acordul Adjectivelor în Română)",
+  "titleEn": "Adjective Agreement in Romanian",
+  "cefrLevel": "A1",
+  "prerequisites": ["G03-noun-gender", "G02-articles"],
+  "estimatedMinutes": 40,
+  "introduction": "In Romanian, adjectives are not static; they are flexible parts of speech that must 'mirror' the noun they describe. This means an adjective must agree in gender, number, and case with its noun. Mastering this agreement is one of the hallmarks of B1 level accuracy.",
+  "introductionRo": "În limba română, adjectivele nu sunt statice, ci sunt părți de vorbire flexibile care trebuie să „oglindească” substantivul pe care îl descriu. Acest lucru înseamnă că adjectivul trebuie să se acorde în gen, număr și caz cu substantivul respectiv. Stăpânirea acestui acord este unul dintre semnele distinctive ale acurateței la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Principle of Agreement",
+      "headingRo": "Principiul Acordului",
+      "content": "Adjectives follow the noun they modify in the vast majority of cases. Their endings change to match the noun's masculine, feminine, or neuter status, as well as its singular or plural form.",
+      "contentRo": "Adjectivele urmează substantivul pe care îl determină în marea majoritate a cazurilor. Terminațiile acestora se schimbă pentru a corespunde genului (masculin, feminin sau neutru) și numărului (singular sau plural) substantivului.",
+      "table": {
+        "headers": ["Adjective (dictionary form)", "Masc. sg.", "Fem. sg.", "Masc. pl.", "Fem./Neut. pl."],
+        "rows": [
+          ["bun (good)", "bun", "bună", "buni", "bune"],
+          ["frumos (beautiful)", "frumos", "frumoasă", "frumoși", "frumoase"],
+          ["mare (big)", "mare", "mare", "mari", "mari"],
+          ["mic (small)", "mic", "mică", "mici", "mici"],
+          ["nou (new)", "nou", "nouă", "noi", "noi"],
+          ["vechi (old)", "vechi", "veche", "vechi", "vechi"],
+          ["lung (long)", "lung", "lungă", "lungi", "lungi"],
+          ["blând (gentle)", "blând", "blândă", "blânzi", "blânde"],
+          ["fermecător (charming)", "fermecător", "fermecătoare", "fermecători", "fermecătoare"],
+          ["trist (sad)", "trist", "tristă", "triști", "triste"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Un băiat frumos. (A handsome boy.)",
+          "en": "'frumos' agrees with 'băiat' (masculine singular).",
+          "notes": "The dictionary form of the adjective is usually the masculine singular."
+        },
+        {
+          "ro": "O fată frumoasă. (A beautiful girl.)",
+          "en": "'frumoasă' agrees with 'fată' (feminine singular) — the ending changes.",
+          "notes": "Feminine singular often adds -ă: frumos → frumoasă."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "How to Form the Feminine Singular",
+      "headingRo": "Cum se Formează Femininul Singular",
+      "content": "There are several patterns for forming the feminine singular from the masculine singular:",
+      "contentRo": "Există mai multe modele pentru formarea femininului singular din masculinul singular:",
+      "table": {
+        "headers": ["Pattern", "Masculine", "Feminine", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["Add -ă", "bun", "bună", "om bun / femeie bună", "good man / good woman"],
+          ["Change -os to -oasă", "frumos", "frumoasă", "băiat frumos / fată frumoasă", "handsome boy / beautiful girl"],
+          ["End in -e (often no change)", "mare", "mare", "om mare / femeie mare", "big man / big woman"],
+          ["Change -iu to -ie", "cafeniu", "cafenie", "costum cafeniu / rochie cafenie", "brown suit / brown dress"],
+          ["No change (foreign/special)", "roz", "roz", "tricou roz / fustă roz", "pink t-shirt / pink skirt"],
+          ["End in consonant (add -ă)", "inteligent", "inteligentă", "băiat inteligent / fată inteligentă", "smart boy / smart girl"],
+          ["Special: -ător → -ătoare", "muncitor", "muncitoare", "om muncitor / femeie muncitoare", "hardworking man / woman"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Părul lung / Părul lungă (wrong!) — Părul este lung. Fata are părul lung.",
+          "en": "Careful: 'lung' is masculine. For feminine: 'lungă' (o fată cu părul lung).",
+          "notes": "Some adjectives ending in consonant + consonant simply add -ă: mic → mică."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Neuter Gender and Adjectives",
+      "headingRo": "Genul Neutru și Adjectivele",
+      "content": "Neuter nouns take the masculine form in the singular and the feminine form in the plural:",
+      "contentRo": "Substantivele neutre iau forma masculină la singular și forma feminină la plural:",
+      "table": {
+        "headers": ["Gender", "Noun", "Adjective Form", "Example", "Translation"],
+        "rows": [
+          ["Masc. sg.", "băiat (boy)", "bun", "băiat bun", "good boy"],
+          ["Fem. sg.", "fată (girl)", "bună", "fată bună", "good girl"],
+          ["Neut. sg.", "scaun (chair)", "bun (masc. form!)", "scaun bun", "good chair"],
+          ["Masc. pl.", "băieți (boys)", "buni", "băieți buni", "good boys"],
+          ["Fem. pl.", "fete (girls)", "bune", "fete bune", "good girls"],
+          ["Neut. pl.", "scaune (chairs)", "bune (fem. pl. form!)", "scaune bune", "good chairs"]
+        ]
+      },
+      "rules": [
+        "Neuter singular: uses masculine adjective form",
+        "Neuter plural: uses FEMININE plural adjective form",
+        "Neuter singular = masculine adjective; neuter plural = feminine adjective",
+        "Note: some neuter nouns may take feminine plural forms for certain adjectives"
+      ],
+      "examples": [
+        {
+          "ro": "Un copil mic. (A small child.)",
+          "en": "'mic' is the masculine form — neuter singular uses masculine adjectives.",
+          "notes": "But plural: Niște scaune mici. (Some small chairs.) — neuter plural uses feminine plural adjective."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "How to Form Plurals",
+      "headingRo": "Cum se Formează Pluralul",
+      "content": "The plural of adjectives follows these patterns:",
+      "contentRo": "Pluralul adjectivelor urmează aceste modele:",
+      "table": {
+        "headers": ["Pattern", "Masc. sg.", "Masc. pl.", "Fem./Neut. pl.", "Example"],
+        "rows": [
+          ["Change -ă to -e", "bună", "bune", "bune", "femei bune (good women)"],
+          ["Change -os to -oși", "frumos", "frumoși", "frumoase", "băieți frumoși / fete frumoase"],
+          ["Change -ic to -i", "mic", "mici", "mici", "băieți mici / fete mici"],
+          ["Change -e to -i", "mare", "mari", "mari", "oameni mari / femei mari"],
+          ["Add -i", "nou", "noi", "noi", "băieți noi / fete noi"],
+          ["No change", "verde", "verzi", "verzi", "copaci verzi / frunze verzi"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Băieții frumoși și fetele frumoase. (The handsome boys and the beautiful girls.)",
+          "en": "masculine plural: frumoși; feminine plural: frumoase.",
+          "notes": "Note the difference in the plural endings between masculine and feminine."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Position of Adjectives",
+      "headingRo": "Poziția Adjectivelor",
+      "content": "In Romanian, adjectives usually come after the noun. However, some common adjectives can go before the noun, and changing the position can change the meaning:",
+      "contentRo": "În română, adjectivele vin de obicei după substantiv. Totuși, unele adjective comune pot sta înaintea substantivului, iar schimbarea poziției poate schimba sensul:",
+      "table": {
+        "headers": ["After noun (default)", "Before noun (emphatic/literal)", "Translation"],
+        "rows": [
+          ["un om bun", "un bun om", "a good man / a good human being (poetic)"],
+          ["o fată frumoasă", "o frumoasă fată", "a beautiful girl / a beautiful young woman"],
+          ["un băiat nou", "un nou băiat", "a new boy / a new arrival"],
+          ["un om mare", "un mare om", "a big man / a great man"]
+        ]
+      },
+      "rules": [
+        "Default position: adjective AFTER the noun (un băiat frumos)",
+        "Emphatic/literal: adjective BEFORE the noun (un frumos băiat — poetic)",
+        "Some adjectives change meaning: un om mare (a big man) vs. un mare om (a great man)",
+        "Common before-noun adjectives: bun, mare, mic, nou, vechi, singur, ultim, prim",
+        "Demonstratives and possessives always come after: cartea asta nouă (this new book)"
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Comparison of Adjective Endings",
+      "headingRo": "Comparație a Terminațiilor Adjectivelor",
+      "content": "Here is a summary of common adjective endings across all genders and numbers:",
+      "contentRo": "Iată un rezumat al terminațiilor comune ale adjectivelor pentru toate genurile și numerele:",
+      "table": {
+        "headers": ["Type", "Masc. sg.", "Fem. sg.", "Masc. pl.", "Fem./Neut. pl."],
+        "rows": [
+          ["-os / -oasă", "frumos", "frumoasă", "frumoși", "frumoase"],
+          ["-ic / -ică", "mic", "mică", "mici", "mici"],
+          ["-u / -ă", "nou", "nouă", "noi", "noi"],
+          ["-e (invariable sg.)", "mare", "mare", "mari", "mari"],
+          ["-iu / -ie", "cafeniu", "cafenie", "cafenii", "cafenii"],
+          ["-ător / -ătoare", "muncitor", "muncitoare", "muncitori", "muncitoare"],
+          ["-esc / -ească", "românesc", "românească", "românești", "românești"],
+          ["-ist / -istă", "optimist", "optimistă", "optimiști", "optimiste"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mâncarea românească este delicioasă. (Romanian food is delicious.)",
+          "en": "'românească' (feminine singular) agrees with 'mâncarea'.",
+          "notes": "Adjectives ending in -esc have feminine in -ească: românesc → românească."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Adjective Agreement is Automatic for Native Speakers",
+      "content": "As a heritage speaker, you likely get adjective agreement right without thinking about it. Your ear already knows that 'fată frumos' sounds wrong. The challenge now is recognizing the correct endings in writing. Trust your instincts — if it sounds right, it probably is right.",
+      "contentRo": "Ca vorbitor de moștenire, probabil obții acordul adjectivelor corect fără să te gândești la el. Urechea ta știe deja că 'fată frumos' sună greșit. Provocarea acum este recunoașterea terminațiilor corecte în scris. Ai încredere în instinctul tău — dacă sună corect, probabil este corect."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using adjective agreement:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești acordul adjectivelor:",
+      "rules": [
+        "Don't forget to change the adjective ending for feminine: băiat bun / fată bună",
+        "Don't use masculine plural for feminine plural nouns: fete frumoși is WRONG (fete frumoase)",
+        "Remember: neuter singular uses masculine form, neuter plural uses feminine plural form",
+        "Don't confuse adjective gender with noun gender — they must match",
+        "Some adjectives ending in -e don't change: mare → mare (singular), mari (plural)"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Femeile inteligente sunt aici. (The intelligent women are here.)",
+          "en": "'inteligente' is feminine plural, agreeing with 'femeile'.",
+          "notes": "Common mistake: saying 'femeile inteligenți' — using masculine plural ending."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Adjectives agree with the noun in gender, number, and case",
+    "Four forms: masc. sg., fem. sg., masc. pl., fem./neut. pl.",
+    "Feminine singular: often adds -ă (bun → bună, mic → mică) or changes ending (frumos → frumoasă)",
+    "Neuter singular: uses masculine form; neuter plural: uses feminine plural form",
+    "Plural: masculine -i/-e; feminine -e; some adjectives don't change (mare → mari)",
+    "Default position: adjective AFTER the noun (un băiat frumos)",
+    "Some adjectives can go before the noun for emphasis or changed meaning",
+    "Common patterns: -os/-oasă, -ic/-ică, -e (invariable), -esc/-ească",
+    "Trust your ear — if it sounds right as a heritage speaker, it probably is",
+    "Watch out for -e adjectives that look the same in masculine/feminine singular (mare, verde)"
+  ],
+  "summaryPointsRo": [
+    "Adjectivele se acordă cu substantivul în gen, număr și caz",
+    "Patru forme: masc. sg., fem. sg., masc. pl., fem./neut. pl.",
+    "Feminin singular: adesea adaugă -ă (bun → bună, mic → mică) sau schimbă terminația (frumos → frumoasă)",
+    "Neutru singular: folosește forma masculină; neutru plural: folosește forma feminină plural",
+    "Plural: masculin -i/-e; feminin -e; unele adjective nu se schimbă (mare → mari)",
+    "Poziție implicită: adjectivul DUPĂ substantiv (un băiat frumos)",
+    "Unele adjective pot sta înaintea substantivului pentru accent sau sens schimbat",
+    "Modele comune: -os/-oasă, -ic/-ică, -e (invariabil), -esc/-ească",
+    "Ai încredere în ureche — dacă sună corect ca vorbitor de moștenire, probabil este corect",
+    "Ai grijă la adjectivele în -e care arată la fel la masculin/feminin singular (mare, verde)"
+  ],
+  "relatedExercises": ["E05-adjective-agreement-drill", "E05-gender-matching"]
+}

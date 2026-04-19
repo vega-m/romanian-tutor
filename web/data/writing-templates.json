@@ -1,0 +1,68 @@
+{
+  "version": "1.0",
+  "templates": [
+    {
+      "id": "t1",
+      "type": "formal_email",
+      "title": "Email Formal către o Instituție",
+      "titleEn": "Formal Email to an Institution",
+      "openings": [
+        "Stimate Domnule / Stimată Doamnă,",
+        "În atenția departamentului de...",
+        "Bună ziua,"
+      ],
+      "structure": [
+        "Vă scriu pentru a solicita informații despre...",
+        "Mă adresez dumneavoastră în legătură cu...",
+        "Prin prezenta, doresc să confirm..."
+      ],
+      "closings": [
+        "Vă mulțumesc anticipat pentru răspuns.",
+        "Cu stimă,",
+        "Cu deosebită considerație,"
+      ]
+    },
+    {
+      "id": "t2",
+      "type": "complaint",
+      "title": "Scrisoare de Reclamație",
+      "titleEn": "Letter of Complaint",
+      "openings": [
+        "Stimate Domnule / Stimată Doamnă,",
+        "Regret că trebuie să vă adresez această reclamație..."
+      ],
+      "structure": [
+        "Doresc să îmi exprim nemulțumirea față de...",
+        "Produsul achiziționat în data de... este defect.",
+        "Consider că această situație este inacceptabilă deoarece..."
+      ],
+      "closings": [
+        "Aștept o soluționare cât mai rapidă a acestei probleme.",
+        "Vă rog să îmi returnați contravaloarea produsului.",
+        "Cu respect,"
+      ]
+    },
+    {
+      "id": "t3",
+      "type": "opinion_blog",
+      "title": "Articol de Opinie (Blog)",
+      "titleEn": "Opinion Article (Blog)",
+      "openings": [
+        "Te-ai întrebat vreodată dacă...?",
+        "Astăzi aș vrea să discutăm despre...",
+        "Este un subiect care ne afectează pe toți."
+      ],
+      "structure": [
+        "În primul rând, cred că...",
+        "Pe de o parte, există avantaje precum...",
+        "Pe de altă parte, nu putem ignora faptul că...",
+        "În concluzie, părerea mea este că..."
+      ],
+      "closings": [
+        "Voi ce părere aveți? Aștept comentariile voastre.",
+        "Până data viitoare, numai bine!",
+        "Vă mulțumesc că ați citit!"
+      ]
+    }
+  ]
+}

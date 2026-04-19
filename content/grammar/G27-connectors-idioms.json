@@ -1,0 +1,69 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G27-connectors-idioms",
+  "title": "Conectori Logici și Expresii Idiomatice (B1+)",
+  "titleEn": "Logical Connectors and Idiomatic Expressions",
+  "cefrLevel": "B1",
+  "prerequisites": ["G18-conjunctions", "G14-subjunctive"],
+  "estimatedMinutes": 45,
+  "introduction": "To reach B1 proficiency, you must move beyond simple sentences. Logical connectors allow you to structure arguments, while idiomatic reflexive verbs make your Romanian sound natural and 'native'.",
+  "introductionRo": "Pentru a atinge nivelul B1, trebuie să depășești propozițiile simple. Conectorii logici îți permit să structurezi argumente, în timp ce verbele reflexive idiomatice fac ca româna ta să sune natural.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Advanced Logical Connectors",
+      "headingRo": "Conectori Logici Avansați",
+      "table": {
+        "headers": ["Connector", "Meaning", "Example", "Usage"],
+        "rows": [
+          ["prin urmare", "therefore", "Am întârziat, prin urmare am pierdut trenul.", "Conclusion"],
+          ["în ciuda faptului că", "despite the fact that", "În ciuda faptului că a plouat, am ieșit.", "Contrast (+ Subj/Ind)"],
+          ["de altfel", "moreover / besides", "E târziu, de altfel sunt și obosit.", "Adding info"],
+          ["în schimb", "on the other hand", "Mie îmi place marea, în schimb lui îi place muntele.", "Contrast"],
+          ["totuși", "nevertheless / still", "Era greu, totuși a reușit.", "Concession"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Structuring an Argument",
+      "headingRo": "Structurarea unui Argument",
+      "content": "To pass the B1 exam, you must be able to present two sides of an issue and reach a conclusion. Use these templates:",
+      "contentRo": "Pentru a trece examenul B1, trebuie să fii capabil să prezinți două laturi ale unei probleme și să ajungi la o concluzie. Folosește aceste modele:",
+      "table": {
+        "headers": ["Phrase", "Meaning", "Example"],
+        "rows": [
+          ["Pe de o parte...", "On one hand...", "Pe de o parte, orașul este aglomerat..."],
+          ["Pe de altă parte...", "On the other hand...", "Pe de altă parte, ai multe oportunități."],
+          ["În primul rând...", "Firstly...", "În primul rând, trebuie să discutăm despre preț."],
+          ["În al doilea rând...", "Secondly...", "În al doilea rând, calitatea este importantă."],
+          ["În concluzie...", "In conclusion...", "În concluzie, proiectul este un succes."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Essential Idiomatic Reflexive Verbs",
+      "headingRo": "Verbe Reflexive Idiomatice Esențiale",
+      "content": "These verbs use reflexive pronouns but have meanings that aren't literal 'self' actions.",
+      "contentRo": "Aceste verbe folosesc pronume reflexive, dar au sensuri care nu sunt acțiuni literale asupra sinelui.",
+      "table": {
+        "headers": ["Verb", "Meaning", "Example", "Notes"],
+        "rows": [
+          ["a-și da seama", "to realize", "Mi-am dat seama că am uitat cheile.", "Dative reflexive"],
+          ["a se duce", "to go (informal)", "Mă duc la magazin.", "Very common in speech"],
+          ["a se face", "to become / to pretend", "S-a făcut târziu. / Se face că doarme.", "Multi-purpose"],
+          ["a se lăsa de", "to quit / give up", "M-am lăsat de fumat.", "Used for habits"],
+          ["a se pricepe", "to be good at", "Mă pricep la calculatoare.", "Skills"]
+        ]
+      }
+    }
+  ],
+  "summaryPoints": [
+    "Use 'prin urmare' and 'totuși' to structure B1 essays",
+    "'A-și da seama' is one of the most used verbs in Romanian",
+    "Reflexive verbs often change meaning entirely from their non-reflexive forms"
+  ],
+  "relatedExercises": []
+}

@@ -1,0 +1,87 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E09-past-conjugation",
+  "title": "Past Tense Conjugation Drill",
+  "titleRo": "Exerciții de Conjugare la Trecut",
+  "cefrLevel": "A2",
+  "prerequisites": ["G10-past-compound"],
+  "estimatedMinutes": 15,
+  "instructions": "Write the correct past tense (perfect compus) form for each verb and person. Remember the auxiliary 'a avea' and watch for irregular past participles.",
+  "instructionsRo": "Scrie forma corectă de trecut (perfect compus) pentru fiecare verb și persoană. Amintește-ți de auxiliarul 'a avea' și fii atent la participiile trecute neregulate.",
+  "sourceWeek": 5,
+  "exercises": [
+    {
+      "id": "e09_001",
+      "type": "fill-blank",
+      "prompt": "Write the past tense of 'a citi' (to read) for 'eu': Eu ___ cartea.",
+      "promptRo": "Scrie trecutul lui 'a citi' pentru 'eu': Eu ___ cartea.",
+      "sentence": "Eu ___ cartea în două zile.",
+      "answer": "am citit",
+      "acceptableAnswers": ["am citit"],
+      "explanation": "'Am citit' = I read (perfect compus). The past participle of 'a citi' is 'citit'. Structure: am + citit.",
+      "explanationRo": "'Am citit' = Eu am citit (perfect compus). Participiul trecut al lui 'a citi' este 'citit'. Structura: am + citit.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e09_002",
+      "type": "fill-blank",
+      "prompt": "Write the past tense of 'a bea' (to drink) for 'el': El ___ cafea.",
+      "promptRo": "Scrie trecutul lui 'a bea' pentru 'el': El ___ cafea.",
+      "sentence": "El ___ cafea înainte de examene.",
+      "answer": "a băut",
+      "acceptableAnswers": ["a băut"],
+      "explanation": "'A băut' = he drank (perfect compus). The past participle of 'a bea' is 'băut' (irregular: root changes from bea- to băut). Structure: a + băut.",
+      "explanationRo": "'A băut' = el a băut (perfect compus). Participiul trecut al lui 'a bea' este 'băut' (neregulat: radicalul se schimbă din bea- în băut). Structura: a + băut.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e09_003",
+      "type": "fill-blank",
+      "prompt": "Write the past tense of 'a dormi' (to sleep) for 'noi': Noi ___ bine.",
+      "promptRo": "Scrie trecutul lui 'a dormi' pentru 'noi': Noi ___ bine.",
+      "sentence": "Noi ___ bine la hotel.",
+      "answer": "am dormit",
+      "acceptableAnswers": ["am dormit"],
+      "explanation": "'Am dormit' = we slept (perfect compus). The past participle of 'a dormi' is 'dormit'. Structure: am + dormit.",
+      "explanationRo": "'Am dormit' = noi am dormit (perfect compus). Participiul trecut al lui 'a dormi' este 'dormit'. Structura: am + dormit.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e09_004",
+      "type": "fill-blank",
+      "prompt": "Write the past tense of 'a lua' (to take) for 'tu': Tu ___ autobuzul.",
+      "promptRo": "Scrie trecutul lui 'a lua' pentru 'tu': Tu ___ autobuzul.",
+      "sentence": "Tu ___ autobuzul de dimineață, nu-i așa?",
+      "answer": "ai luat",
+      "acceptableAnswers": ["ai luat"],
+      "explanation": "'Ai luat' = you took (perfect compus, 2nd person singular). The past participle of 'a lua' is 'luat'. Structure: ai + luat.",
+      "explanationRo": "'Ai luat' = tu ai luat (perfect compus, persoana a II-a singular). Participiul trecut al lui 'a lua' este 'luat'. Structura: ai + luat.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e09_005",
+      "type": "fill-blank",
+      "prompt": "Write the past tense of 'a pleca' (to leave) for 'ei': Ei ___ ieri.",
+      "promptRo": "Scrie trecutul lui 'a pleca' pentru 'ei': Ei ___ ieri.",
+      "sentence": "Ei ___ ieri dimineață devreme.",
+      "answer": "au plecat",
+      "acceptableAnswers": ["au plecat"],
+      "explanation": "'Au plecat' = they left (perfect compus, 3rd person plural). The past participle of 'a pleca' is 'plecat'. Structure: au + plecat.",
+      "explanationRo": "'Au plecat' = ei au plecat (perfect compus, persoana a III-a plural). Participiul trecut al lui 'a pleca' este 'plecat'. Structura: au + plecat.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e09_006",
+      "type": "fill-blank",
+      "prompt": "Write the past tense of 'a spune' (to say/tell) for 'ea': Ea ___ totul.",
+      "promptRo": "Scrie trecutul lui 'a spune' pentru 'ea': Ea ___ totul.",
+      "sentence": "Ea ___ totul la interviu.",
+      "answer": "a spus",
+      "acceptableAnswers": ["a spus"],
+      "explanation": "'A spus' = she said (perfect compus). The past participle of 'a spune' is 'spus' (irregular: root changes from spune- to spus). Structure: a + spus.",
+      "explanationRo": "'A spus' = ea a spus (perfect compus). Participiul trecut al lui 'a spune' este 'spus' (neregulat: radicalul se schimbă din spune- în spus). Structura: a + spus.",
+      "sourceGrammarId": "G10-past-compound"
+    }
+  ]
+}

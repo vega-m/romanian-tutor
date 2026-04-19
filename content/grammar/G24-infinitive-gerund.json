@@ -1,0 +1,211 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G24-infinitive-gerund",
+  "title": "Infinitivul și Gerunziul (Infinitivul și Gerunziul în Română)",
+  "titleEn": "The Infinitive and Gerund in Romanian",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G14-subjunctive", "G10-past-compound"],
+  "estimatedMinutes": 35,
+  "introduction": "Infinitives and gerunds (gerunziul) are non-finite verb forms that function as nouns or adverbs within a sentence. While the infinitive is used after specific prepositions or modal verbs, the gerund typically describes the circumstances or the manner in which an action is performed. Mastering these forms allows for more fluid and sophisticated syntax.",
+  "introductionRo": "Infinitivul și gerunziul sunt forme verbale nepersonale care funcționează ca substantive sau adverbe în cadrul propoziției. În timp ce infinitivul este folosit după anumite prepoziții sau verbe modale, gerunziul descrie, de regulă, împrejurările sau modul în care se desfășoară o acțiune. Stăpânirea acestor forme permite o sintaxă mai fluidă și mai sofisticată.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Romanian Infinitive",
+      "headingRo": "Infinitivul în Limba Română",
+      "content": "The infinitive is the dictionary form of the verb, preceded by the marker 'a'. In modern Romanian, its usage is often replaced by the subjunctive, but it remains mandatory in several fixed constructions and after certain prepositions.",
+      "contentRo": "Infinitivul este forma din dicționar a verbului, precedată de particula „a”. În limba română modernă, utilizarea sa este adesea înlocuită de conjunctiv, însă rămâne obligatoriu în câteva construcții fixe și după anumite prepoziții.",
+      "table": {
+        "headers": ["Construction", "Pattern", "Example", "Translation"],
+        "rows": [
+          ["pentru a", "pentru a + infinitive", "Am venit pentru a vorbi.", "I came to speak."],
+          ["înainte de a", "înainte de a + infinitive", "Înainte de a pleca, sună.", "Before leaving, call."],
+          ["după a", "după a + infinitive", "După a mânca, am dormit.", "After eating, I slept."],
+          ["fără a", "fără a + infinitive", "A plecat fără a spune.", "He left without saying."],
+          ["în vederea", "în vederea + gerund", "În vederea rezolvării.", "For the purpose of solving."],
+          ["a putea + inf.", "can + infinitive", "Pot să merg / Pot merge.", "I can go."],
+          ["a vrea + inf.", "want + infinitive", "Vreau să merg / Vreau a merge.", "I want to go."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "A venit pentru a ne ajuta. (He came to help us.)",
+          "en": "'pentru a' + infinitive expresses purpose.",
+          "notes": "In everyday speech, 'ca să' is more common: A venit ca să ne ajute."
+        },
+        {
+          "ro": "Înainte de a merge, m-am îmbrăcat. (Before going, I got dressed.)",
+          "en": "'înainte de a' + infinitive expresses an action before another.",
+          "notes": "More commonly in speech: Înainte să merg, m-am îmbrăcat. (using the subjunctive)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Infinitive vs. Subjunctive (să + verb)",
+      "headingRo": "Infinitiv vs. Conjunctiv (să + verb)",
+      "content": "In modern Romanian, the subjunctive with 'să' has largely replaced the infinitive in many contexts. However, the infinitive is still required after certain prepositions:",
+      "contentRo": "În româna modernă, conjunctivul cu 'să' a înlocuit în mare măsură infinitivul în multe contexte. Totuși, infinitivul este încă cerut după anumite prepoziții:",
+      "table": {
+        "headers": ["Context", "Infinitive", "Subjunctive", "Notes"],
+        "rows": [
+          ["After 'pentru'", "pentru a merge", "ca să merg", "Both acceptable; 'ca să' more common in speech"],
+          ["After 'înainte de'", "înainte de a merge", "înainte să merg", "Subjunctive more common in speech"],
+          ["After 'fără'", "fără a vedea", "fără să vadă", "Subjunctive more common in speech"],
+          ["After 'pentru a' (purpose)", "pentru a înțelege", "ca să înțeleg", "Infinitive preferred in writing"],
+          ["After modal verbs", "pot merge", "pot să merg", "Both common; infinitive slightly more formal"],
+          ["After 'a începe'", "a început a ploua", "a început să plouă", "Both common"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Trebuie să înțelegi. / Trebuie a înțelege. (You must understand.)",
+          "en": "Both are correct, but 'trebuie să' is much more common in speech.",
+          "notes": "The infinitive after 'trebuie' sounds literary or old-fashioned."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Gerund (Gerunziul)",
+      "headingRo": "Gerunziul (Gerunziul)",
+      "content": "The gerund expresses an action happening at the same time as the main verb. It is formed by replacing the infinitive ending with -ind or -ând:",
+      "contentRo": "Gerunziul exprimă o acțiune care se desfășoară în același timp cu verbul principal. Se formează prin înlocuirea terminației infinitivului cu -ind sau -ând:",
+      "table": {
+        "headers": ["Conjugation", "Infinitive", "Gerund", "Example", "Translation"],
+        "rows": [
+          ["1st (-a)", "a cânta", "cântând", "Cântând, se simțea bine.", "Singing, he felt good."],
+          ["1st (-a, -ă shift)", "a lucra", "lucrând", "Lucrând, am învățat.", "Working, I learned."],
+          ["2nd (-ea)", "a bea", "bând", "Bând cafea, citea.", "Drinking coffee, he read."],
+          ["3rd (-e)", "a merge", "mergând", "Mergând pe stradă, am văzut.", "Walking on the street, I saw."],
+          ["4th (-i)", "a dormi", "dormind", "Dormind, visa.", "Sleeping, he dreamed."],
+          ["4th (-î)", "a coborî", "coborând", "Coborând scările, a alunecat.", "Going down the stairs, he slipped."]
+        ]
+      },
+      "rules": [
+        "The gerund is invariable — it does not change for person, number, or gender",
+        "It always describes an action simultaneous with the main verb",
+        "The subject of the gerund must be the same as the subject of the main verb"
+      ],
+      "examples": [
+        {
+          "ro": "Citind cartea, a adormit. (Reading the book, he fell asleep.)",
+          "en": "The gerund 'citind' (reading) happens at the same time as 'a adormit' (fell asleep).",
+          "notes": "Both actions have the same subject: he was reading and he fell asleep."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Uses of the Gerund",
+      "headingRo": "Folosiri ale Gerunziului",
+      "content": "The gerund has several specific uses in Romanian:",
+      "contentRo": "Gerunziul are mai multe întrebuințări specifice în română:",
+      "table": {
+        "headers": ["Use", "Example", "Translation", "Notes"],
+        "rows": [
+          ["Simultaneous action", "Mergând pe stradă, am văzut un prieten.", "Walking on the street, I saw a friend.", "Same subject for both verbs"],
+          ["Manner", "A rezolvat problema lucrând cu echipa.", "He solved the problem by working with the team.", "How the action was done"],
+          ["Cause", "Fiind bolnav, nu a venit.", "Being sick, he didn't come.", "The gerund of 'a fi' is 'fiind'"],
+          ["Condition", "Studind, vei trece examenul.", "By studying, you will pass the exam.", "Condition for the result"],
+          ["With 'ca' (while)", "Nu vorbi citind.", "Don't talk while reading.", "Simultaneous actions"],
+          ["After verbs of perception", "L-am văzut venind.", "I saw him coming.", "Perception + gerund"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Fiind obosit, am mers la culcare. (Being tired, I went to bed.)",
+          "en": "The gerund of 'a fi' is 'fiind' — meaning 'being'.",
+          "notes": "'fiind' is extremely common in Romanian for expressing cause or state."
+        },
+        {
+          "ro": "L-am auzit cântând. (I heard him singing.)",
+          "en": "After verbs of perception (a vedea, a auzi, a simți), the gerund is used.",
+          "notes": "Structure: verb of perception + direct object + gerund."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Negative Gerund and Gerund of Reflexive Verbs",
+      "headingRo": "Gerunziu Negativ și Gerunziul Verbelor Reflexive",
+      "content": "The negative gerund uses 'ne-' before the gerund form. Reflexive verbs place the reflexive pronoun between 'ne-' and the gerund:",
+      "contentRo": "Gerunziul negativ folosește 'ne-' înaintea formei de gerunziu. Verbele reflexive plasează pronumele reflexiv între 'ne-' și gerunziu:",
+      "table": {
+        "headers": ["Pattern", "Example", "Translation"],
+        "rows": [
+          ["ne- + gerund", "Neștiind răspunsul, a tăcut.", "Not knowing the answer, he was silent."],
+          ["ne- + reflexive + gerund", "Neduându-se, a greșit.", "Not paying attention, he made a mistake."],
+          ["ne- + reflexive + gerund", "Neîmbrăcându-se, a ieșit.", "Without dressing, he went out."],
+          ["negative imperative with gerund", "Nu vorbi mâncând!", "Don't talk while eating!"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Necunoscând locul, am cerut indicații. (Not knowing the place, I asked for directions.)",
+          "en": "'ne-' + cunoscând = not knowing. The negative prefix attaches to the gerund.",
+          "notes": "The negative gerund is very common in formal writing and storytelling."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Infinitive vs. Gerund: Key Differences",
+      "content": "The infinitive and gerund serve different purposes:",
+      "contentRo": "Infinitivul și gerunziul servesc scopuri diferite:",
+      "rules": [
+        "Infinitive = purpose or future action: Am venit pentru a vorbi. (I came to speak.)",
+        "Gerund = simultaneous action: Vorbind, am plâns. (While speaking, I cried.)",
+        "Infinitive after prepositions: pentru a, înainte de a, fără a",
+        "Gerund after verbs of perception: L-am văzut mergând. (I saw him walking.)",
+        "In modern speech, 'să' + subjunctive often replaces the infinitive"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using the infinitive and gerund:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești infinitivul și gerunziul:",
+      "rules": [
+        "Don't give the gerund a subject different from the main verb: 'Mergând el, ea a venit' is WRONG",
+        "Don't use the infinitive after 'trebuie' in casual speech — use 'trebuie să'",
+        "Don't confuse 'pentru a' (infinitive, purpose) with 'pentru că' (because)",
+        "Remember: the gerund of 'a fi' is 'fiind' (not 'fiindu')",
+        "Don't use the gerund for future actions — use the infinitive or subjunctive instead"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Am plecat zicând la revedere. (I left saying goodbye.)",
+          "en": "Both 'am plecat' and 'zicând' share the same subject (I).",
+          "notes": "If the subjects differ, you need a subordinate clause: Am plecat în timp ce ea zicea la revedere."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Infinitive: dictionary form (a merge, a cânta, a scrie), used after prepositions",
+    "Infinitive after: pentru a (in order to), înainte de a (before), fără a (without)",
+    "In modern Romanian, 'să' + subjunctive often replaces the infinitive",
+    "Gerund: -ând / -ind ending, expresses simultaneous action",
+    "Gerund is invariable (does not change for person/gender/number)",
+    "Gerund subject must be the same as the main verb subject",
+    "Gerund of 'a fi' = 'fiind' (being) — very common",
+    "Negative gerund: ne- + gerund (neștiind = not knowing)",
+    "Gerund after verbs of perception: L-am văzut mergând. (I saw him walking.)",
+    "pentru a (purpose) vs. pentru că (because) — different meanings"
+  ],
+  "summaryPointsRo": [
+    "Infinitiv: forma de dicționar (a merge, a cânta, a scrie), folosit după prepoziții",
+    "Infinitiv după: pentru a (pentru a), înainte de a (înainte de a), fără a (fără a)",
+    "În româna modernă, 'să' + conjunctiv înlocuiește adesea infinitivul",
+    "Gerunziu: terminație -ând / -ind, exprimă acțiune simultană",
+    "Gerunziul este invariabil (nu se schimbă pentru persoană/gen/număr)",
+    "Subiectul gerunziului trebuie să fie același cu cel al verbului principal",
+    "Gerunziul lui 'a fi' = 'fiind' (fiind) — foarte comun",
+    "Gerunziu negativ: ne- + gerunziu (neștiind = neștiind)",
+    "Gerunziu după verbe de percepție: L-am văzut mergând. (L-am văzut mergând.)",
+    "pentru a (scop) vs. pentru că (deoarece) — sensuri diferite"
+  ],
+  "relatedExercises": ["E17-passive-transform"]
+}

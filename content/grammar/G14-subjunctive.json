@@ -1,0 +1,204 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G14-subjunctive",
+  "title": "Conjunctivul (Modul Conjunctiv)",
+  "titleEn": "The Subjunctive Mood",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense"],
+  "estimatedMinutes": 40,
+  "introduction": "The subjunctive mood (conjunctivul) is essential for expressing desires, possibilities, doubts, and necessity. It is the mood of 'non-reality' and is almost always introduced by the conjunction 'să'. Mastering the subjunctive is a definitive milestone for achieving B1 proficiency.",
+  "introductionRo": "Modul conjunctiv este esențial pentru exprimarea dorințelor, a posibilităților, a dubiului și a necesității. Este modul „nerealității” și este aproape întotdeauna introdus prin conjuncția „să”. Stăpânirea conjunctivului este un reper definitoriu pentru atingerea nivelului de competență B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Subjunctive",
+      "headingRo": "Formarea Conjunctivului",
+      "content": "In most cases, the subjunctive form is identical to the indicative present. However, the 3rd person singular and plural often undergo a vowel shift (usually between 'ă' and 'e'), which serves as the primary marker of the mood.",
+      "contentRo": "În majoritatea cazurilor, formele de conjunctiv sunt identice cu cele de la indicativ prezent. Totuși, persoana a III-a singular și plural suferă adesea o alternanță vocalică (de regulă, între „ă” și „e”), care servește drept marcator principal al modului.",
+      "table": {
+        "headers": ["Person", "1st Conj.: a cânta [ACC]", "2nd Conj.: a bea [ACC]", "3rd Conj.: a merge", "4th Conj.: a dormi"],
+        "rows": [
+          ["eu (să...)", "cânt", "beau", "merg", "dorm"],
+          ["tu (să...)", "cânți", "bei", "mergi", "dormi"],
+          ["el/ea (să...)", "cânte", "bea", "meargă", "doarmă"],
+          ["noi (să...)", "cântăm", "bem", "mergem", "dormim"],
+          ["voi (să...)", "cântați", "beți", "mergeți", "dormiți"],
+          ["ei/ele (să...)", "cânte", "bea", "meargă", "doarmă"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Vreau să cânt. (I want to sing.)",
+          "en": "The subjunctive of a cânta after 'să' is identical to the present tense for most persons.",
+          "notes": "The 3rd person is 'cânte' (subjunctive) vs. 'cântă' (indicative) — note the 'e'."
+        },
+        {
+          "ro": "Trebuie să meargă la doctor. (He/she needs to go to the doctor.)",
+          "en": "a merge: present 'merge' vs. subjunctive 'meargă' in 3rd person.",
+          "notes": "The 3rd person subjunctive often has a shifted or altered stem vowel."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Key Subjunctive Differences from Present Tense",
+      "headingRo": "Diferențe Cheie între Conjunctiv și Prezent",
+      "content": "The 3rd person singular and plural are where the subjunctive most often differs from the present tense:",
+      "contentRo": "Persoana a III-a singular și plural sunt cele unde conjunctivul diferă cel mai adesea de prezent:",
+      "table": {
+        "headers": ["Verb", "Present (el/ea)", "Subjunctive (să...)", "Present (ei/ele)", "Subjunctive (să...)"],
+        "rows": [
+          ["a fi", "este", "fie", "sunt", "fie"],
+          ["a avea [ACC]", "are", "aibă", "au", "aibă"],
+          ["a merge", "merge", "meargă", "merg", "meargă"],
+          ["a bea [ACC]", "bea", "bea", "bea", "bea"],
+          ["a vedea [ACC]", "vede", "vadă", "văd", "vadă"],
+          ["a dormi", "doarme", "doarmă", "dorm", "doarmă"],
+          ["a vrea [ACC]", "vrea", "vrea", "vor", "vrea"],
+          ["a putea", "poate", "poată", "pot", "poată"],
+          ["a ști [ACC]", "știe", "știe", "știu", "știe"],
+          ["a veni", "vine", "vină", "vin", "vină"],
+          ["a lua [ACC]", "ia", "ia", "ia", "ia"],
+          ["a pune [ACC]", "pune", "pună", "pun", "pună"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Vreau să fie acolo. (I want him/her to be there.)",
+          "en": "a fi: present 'este' → subjunctive 'fie'.",
+          "notes": "The subjunctive of a fi is 'fie' — completely different from 'este'."
+        },
+        {
+          "ro": "E important să aibă răbdare. (It's important for him/her to have patience.)",
+          "en": "a avea: present 'are' → subjunctive 'aibă'.",
+          "notes": "The 'e' disappears and 'ă' appears in the subjunctive."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Common Verbs That Require să + Subjunctive",
+      "headingRo": "Verbe Comune Care Cer să + Conjunctiv",
+      "content": "Many common Romanian verbs are followed by 'să' + the subjunctive. These are verbs of wanting, needing, asking, suggesting, and expecting:",
+      "contentRo": "Multe verbe românești comune sunt urmate de 'să' + conjunctiv. Acestea sunt verbe de dorință, nevoie, cerere, sugestie și așteptare:",
+      "table": {
+        "headers": ["Verb", "Meaning", "Example", "Translation"],
+        "rows": [
+          ["a vrea [ACC]", "to want", "Vreau să vin.", "I want (you) to come."],
+          ["a trebui", "to need/must", "Trebuie să merg.", "I need to go. / I must go."],
+          ["a putea", "to be able/can", "Poți să mă ajuți?", "Can you help me?"],
+          ["a vrea (polite) [ACC]", "would like", "Aș vrea să... (conditional + subj.)", "I would like to..."],
+          ["a cere [DAT]", "to ask/request", "Te rog să vii.", "Please come."],
+          ["a sugera [DAT]", "to suggest", "Sugerez să așteptăm.", "I suggest we wait."],
+          ["a decide [ACC]", "to decide", "Am decis să plecăm.", "We decided to leave."],
+          ["a încerca [ACC]", "to try", "Încerc să învăț.", "I'm trying to learn."],
+          ["a spera", "to hope", "Sper să ne vedem.", "I hope to see us / I hope we meet."],
+          ["a se aștepta (la) [PREP]", "to expect", "Mă aștept să vină.", "I expect him/her to come."],
+          ["a se plânge (de) [PREP]", "to complain", "Se plânge că trebuie să muncească.", "He/she complains that he/she has to work."],
+          ["a fi bine să", "it's good to", "E bine să mănânci.", "It's good to eat."],
+          ["a fi important să", "it's important to", "E important să știi.", "It's important to know."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Trebuie să înțelegi situația. (You need to understand the situation.)",
+          "en": "a trebui + să + subjunctive expresses necessity or obligation.",
+          "notes": "This is one of the most common constructions in Romanian."
+        },
+        {
+          "ro": "Încearcă să nu fii trist. (Try not to be sad.)",
+          "en": "Negative subjunctive: să nu + subjunctive form.",
+          "notes": "The negation 'nu' goes between 'să' and the verb."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Expressing Opinion and Necessity",
+      "headingRo": "Exprimarea Opiniei și a Necesității",
+      "content": "At the B1 level, you must use the subjunctive to soften your opinions or state requirements professionally. Phrases like 'it's better that...' or 'it's necessary that...' always trigger the subjunctive.",
+      "contentRo": "La nivelul B1, trebuie să folosești conjunctivul pentru a-ți exprima opiniile într-un mod nuanțat sau pentru a formula cerințe profesionale. Expresiile de tipul „e mai bine să...” sau „este necesar să...” cer întotdeauna conjunctivul.",
+      "table": {
+        "headers": ["Structure", "Meaning", "Example"],
+        "rows": [
+          ["E bine să...", "It's good to...", "E bine să verifici e-mailul."],
+          ["E necesar să...", "It's necessary to...", "Este necesar să trimitem raportul."],
+          ["Mi se pare să...", "It seems to me that...", "Mi se pare să fie o greșeală."],
+          ["E de dorit să...", "It's desirable to...", "E de dorit să ajungem la timp."],
+          ["Ar fi ideal să...", "It would be ideal to...", "Ar fi ideal să rezolvăm azi."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "The Subjunctive in Questions and Commands",
+      "headingRo": "Conjunctivul în Întrebări și Comenzi",
+      "content": "The subjunctive is also used in certain types of questions and commands:",
+      "contentRo": "Conjunctivul se folosește și în anumite tipuri de întrebări și comenzi:",
+      "rules": [
+        "Questions with 'să': Să mergem? (Shall we go?) / Să vin și eu? (Should I come too?)",
+        "Commands with 'să': Să taci! (Be quiet!) / Să vii aici! (Come here!)",
+        "Wishes: Să fii fericit! (Be happy! / May you be happy!)",
+        "Suggestion: Hai să mâncăm! (Let's eat!) — 'hai să' is very common",
+        "Să nu faci asta! (Don't do that!) — negative command"
+      ],
+      "examples": [
+        {
+          "ro": "Hai să mergem la plajă! (Let's go to the beach!)",
+          "en": "'Hai să' + subjunctive is the most common way to say 'let's' in Romanian.",
+          "notes": "This is used constantly in everyday conversation."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "The 'o să' Future Connection",
+      "content": "The popular future tense (o să + subjunctive) uses the subjunctive form. So every time you learn a subjunctive form, you're also learning the future tense form. For example: 'o să merg' = I will go (uses subjunctive 'merg').",
+      "contentRo": "Viitorul popular (o să + conjunctiv) folosește forma de conjunctiv. Deci de fiecare dată când înveți o formă de conjunctiv, înveți și forma de viitor. De exemplu: 'o să merg' = voi merge (folosește conjunctivul 'merg')."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Watch out for these frequent errors when using the subjunctive:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești conjunctivul:",
+      "rules": [
+        "Don't use the infinitive after 'să': 'să merge' is WRONG — use 'să meargă'",
+        "Don't forget the 3rd person subjunctive forms: 'să fie' (not 'să este'), 'să meargă' (not 'să merge')",
+        "Don't confuse 'a vrea să' (to want to) with 'a vrea' (I want) + noun",
+        "Remember: negation goes between 'să' and the verb: 'să nu vin' (not 'nu să vin')",
+        "Don't use the subjunctive after 'pentru a' — use the infinitive instead: 'pentru a merge'"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Vreau să meargă el. (I want him to go.)",
+          "en": "The subjunctive 'meargă' is used for 3rd person, not the present 'merge'.",
+          "notes": "If you said 'vreau să merge', it would sound ungrammatical to native speakers."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "The subjunctive is introduced by 'să' and is extremely common in Romanian",
+    "For most persons, the subjunctive form is the same as the present tense",
+    "Key 3rd person differences: să fie (a fi), să aibă (a avea), să meargă (a merge), să poată (a putea)",
+    "Common structure: verb + să + subjunctive (vreau să, trebuie să, pot să)",
+    "'Hai să' = 'let's' (very common in spoken Romanian)",
+    "Negative subjunctive: să nu + verb (Să nu vii!)",
+    "The popular future 'o să' uses the subjunctive form",
+    "Questions: Să mergem? (Shall we go?)",
+    "After 'pentru a', use the infinitive (not the subjunctive)"
+  ],
+  "summaryPointsRo": [
+    "Conjunctivul este introdus de 'să' și este extrem de comun în română",
+    "Pentru majoritatea persoanelor, forma de conjunctiv este aceeași cu timpul prezent",
+    "Diferențe cheie la persoana a III-a: să fie (a fi), să aibă (a avea), să meargă (a merge), să poată (a putea)",
+    "Structură comună: verb + să + conjunctiv (vreau să, trebuie să, pot să)",
+    "'Hai să' = 'hai să' (foarte comun în româna vorbită)",
+    "Conjunctiv negativ: să nu + verb (Să nu vii!)",
+    "Viitorul popular 'o să' folosește forma de conjunctiv",
+    "Întrebări: Să mergem? (Să mergem?)",
+    "După 'pentru a', se folosește infinitivul (nu conjunctivul)"
+  ],
+  "relatedExercises": ["E10-future-subjunctive"]
+}

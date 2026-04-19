@@ -1,0 +1,221 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX12-week12-practice",
+  "title": "Week 12 Practice: Final Exam Preparation",
+  "titleRo": "Exerciții Săptămâna 12: Pregătirea Examenului Final",
+  "cefrLevel": "B1",
+  "prerequisites": [],
+  "estimatedMinutes": 40,
+  "instructions": "Comprehensive practice exercises covering all grammar topics from the 12-week course to prepare for the final exam.",
+  "instructionsRo": "Exerciții cuprinzătoare de practică care acoperă toate subiectele gramaticale din cursul de 12 săptămâni pentru pregătirea examenului final.",
+  "sourceWeek": 12,
+  "exercises": [
+    {
+      "id": "ex12_001",
+      "type": "fill-blank",
+      "topic": "Conditional Mood",
+      "question": "Complete with the correct conditional form: 'Dacă aș avea mai mult timp, ______ călători prin toată țara.' (a călători, 1st person singular)",
+      "questionRo": "Completați cu forma corectă a condiționalului: 'Dacă aș avea mai mult timp, ______ călători prin toată țara.' (a călători, persoana I singular)",
+      "acceptableAnswers": [
+        "aș călători",
+        "aș călători"
+      ],
+      "answer": "aș călători",
+      "explanation": "The conditional is formed with 'aș/ai/ar/am/ați/ar' + infinitive. For the 1st person singular, it is 'aș călători' (I would travel). This expresses a hypothetical present/future situation.",
+      "explanationRo": "Condiționalul se formează cu 'aș/ai/ar/am/ați/ar' + infinitiv. Pentru persoana I singular, este 'aș călători'. Acesta exprimă o situație ipotetică prezentă/viitoare."
+    },
+    {
+      "id": "ex12_002",
+      "type": "fill-blank",
+      "topic": "Cases (Dative Clitic)",
+      "question": "Complete with the correct dative clitic pronoun: 'Profesorul ______ a explicat lecția foarte clar.' (noi, to us)",
+      "questionRo": "Completați cu pronumele clitic dativ corect: 'Profesorul ______ a explicat lecția foarte clar.' (noi, nouă)",
+      "acceptableAnswers": [
+        "ne",
+        "ne-"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' is the dative clitic pronoun for the 1st person plural (to us). In compound perfect with clitics, the dative clitic precedes the auxiliary: 'ne-a explicat' (he explained to us).",
+      "explanationRo": "'Ne' este pronumele clitic dativ pentru persoana I plural (nouă). La perfect compus cu clitice, cliticul dativ precede auxiliarul: 'ne-a explicat' (ne-a explicat)."
+    },
+    {
+      "id": "ex12_003",
+      "type": "fill-blank",
+      "topic": "Subjunctive with Conjunctions",
+      "question": "Complete with the correct connector: 'Am studiat mult, ______ nu am luat o notă foarte mare la examen.'",
+      "questionRo": "Completați cu conectorul corect: 'Am studiat mult, ______ nu am luat o notă foarte mare la examen.'",
+      "acceptableAnswers": [
+        "totuși",
+        "dar",
+        "însă"
+      ],
+      "answer": "totuși",
+      "explanation": "'Totuși' (nevertheless/however) is the most appropriate connector here, expressing a contrast between the effort (studied a lot) and the unexpected result (didn't get a high grade). 'Dar' is also grammatically correct but 'totuși' better captures the concessive nuance expected at B1 level.",
+      "explanationRo": "'Totuși' (totuși) este conectorul cel mai potrivit aici, exprimând un contrast între efort (am studiat mult) și rezultatul neașteptat (nu am luat o notă mare). 'Dar' este, de asemenea, corect gramatical, dar 'totuși' captează mai bine nuanța concesivă așteptată la nivel B1."
+    },
+    {
+      "id": "ex12_004",
+      "type": "fill-blank",
+      "topic": "Non-Finite Verbs (Gerund)",
+      "question": "Complete with the gerund form: 'Ea a plecat ______ pe ușă.' (a închide)",
+      "questionRo": "Completați cu forma gerunziului: 'Ea a plecat ______ pe ușă.' (a închide)",
+      "acceptableAnswers": [
+        "închizând"
+      ],
+      "answer": "închizând",
+      "explanation": "The gerund of 'a închide' is 'închizând'. It is formed by replacing the infinitive '-e' with '-ând'. The gerund expresses a simultaneous action: she left while/and closed the door.",
+      "explanationRo": "Gerunziul lui 'a închide' este 'închizând'. Se formează înlocuind infinitivul '-e' cu '-ând'. Gerunziul exprimă o acțiune simultană: ea a plecat închizând ușa."
+    },
+    {
+      "id": "ex12_005",
+      "type": "multiple-choice",
+      "topic": "Word Order and Register",
+      "question": "Which sentence is in the correct formal register for speaking to a teacher?",
+      "questionRo": "Care propoziție este în registrul formal corect pentru a vă adresa unui profesor?",
+      "options": [
+        "Aș dori să vă pun câteva întrebări, dacă nu vă deranjez.",
+        "Vreau să-ți pun niște întrebări.",
+        "Dă-mi voie să te întreb ceva.",
+        "Hai să vorbim despre tema asta."
+      ],
+      "answer": "Aș dori să vă pun câteva întrebări, dacă nu vă deranjez.",
+      "explanation": "The formal register uses: conditional ('aș dori' instead of 'vreau'), polite pronouns ('vă' instead of 'ți/te'), and polite phrases ('dacă nu vă deranjez'). This is the appropriate way to address a teacher or someone in a position of authority.",
+      "explanationRo": "Registrul formal folosește: condiționalul ('aș dori' în loc de 'vreau'), pronume politicoase ('vă' în loc de 'ți/te') și expresii politicoase ('dacă nu vă deranjez'). Aceasta este modalitatea adecvată de a vă adresa unui profesor."
+    },
+    {
+      "id": "ex12_006",
+      "type": "multiple-choice",
+      "topic": "Conjunctions (Complex)",
+      "question": "Choose the correct conjunction: '______ plouă, ______ nu iau umbrela cu mine, pentru că nu-mi place.'",
+      "questionRo": "Alegeți conjuncția corectă: '______ plouă, ______ nu iau umbrela cu mine, pentru că nu-mi place.'",
+      "options": [
+        "Deși ... totuși",
+        "Deoarece ... deci",
+        "Când ... apoi",
+        "Încât ... de aceea"
+      ],
+      "answer": "Deși ... totuși",
+      "explanation": "'Deși ... totuși' (although ... nevertheless) correctly expresses a concessive relationship: despite the fact that it rains, I still don't take an umbrella. This is a common B1 conjunction pair expressing concession.",
+      "explanationRo": "'Deși ... totuși' (deși ... totuși) exprimă corect o relație de concesie: deși plouă, totuși nu iau umbrela. Aceasta este o pereche comună de conjuncții la nivel B1 care exprimă concesia."
+    },
+    {
+      "id": "ex12_007",
+      "type": "multiple-choice",
+      "topic": "Relative Clauses",
+      "question": "Choose the correct relative pronoun: 'Persoana ______ mi-a telefonat este sora mea.'",
+      "questionRo": "Alegeți pronumele relativ corect: 'Persoana ______ mi-a telefonat este sora mea.'",
+      "options": [
+        "care",
+        "pe care",
+        "căruia",
+        "cu care"
+      ],
+      "answer": "care",
+      "explanation": "When the relative pronoun is the subject of the relative clause, use 'care' without 'pe': 'Persoana care mi-a telefonat' (The person who called me). 'Pe care' is used when the relative pronoun is the direct object. 'Căruia' is the dative form. 'Cu care' is used with the preposition 'cu'.",
+      "explanationRo": "Când pronumele relativ este subiectul propoziției relative, se folosește 'care' fără 'pe': 'Persoana care mi-a telefonat'. 'Pe care' se folosește când pronumele relativ este obiectul direct. 'Căruia' este forma de dativ. 'Cu care' se folosește cu prepoziția 'cu'."
+    },
+    {
+      "id": "ex12_008",
+      "type": "error-correction",
+      "topic": "Adjective Agreement and Position",
+      "question": "Find and correct the error: 'Am văzut un frumos spectacol la teatru aseară.'",
+      "questionRo": "Găsiți și corectați eroarea: 'Am văzut un frumos spectacol la teatru aseară.'",
+      "sentence": "Am văzut un frumos spectacol la teatru aseară.",
+      "answer": "Am văzut un spectacol frumos la teatru aseară.",
+      "explanation": "In Romanian, the default adjective position is after the noun. While placing the adjective before the noun is not grammatically wrong for some adjectives, 'un spectacol frumos' is the standard word order. Pre-nominal placement ('un frumos spectacol') can change the nuance to a more emphatic or subjective evaluation.",
+      "explanationRo": "În limba română, poziția implicită a adjectivului este după substantiv. Deși plasarea adjectivului înaintea substantivului nu este greșită pentru unele adjective, 'un spectacol frumos' este ordinea standard a cuvintelor."
+    },
+    {
+      "id": "ex12_009",
+      "type": "error-correction",
+      "topic": "Verb Conjugation (Future Tense)",
+      "question": "Find and correct the error: 'Eu voi merge la mare în vacanța de vară.'",
+      "questionRo": "Găsiți și corectați eroarea: 'Eu voi merge la mare în vacanța de vară.'",
+      "sentence": "Eu voi merge la mare în vacanța de vară.",
+      "answer": "Eu voi merge la mare în vacanța de vară.",
+      "explanation": "This sentence is actually grammatically correct. 'Voi merge' is the correct future I tense (1st person singular): 'voi' + infinitive 'merge'. However, at B1 level, note that there is also a colloquial alternative: 'o să merg'. Both are correct. If a correction is expected, consider that 'a merge' is irregular and the future is correctly formed here.",
+      "explanationRo": "Această propoziție este de fapt corectă gramatical. 'Voi merge' este viitorul I corect (persoana I singular): 'voi' + infinitiv 'merge'. La nivel B1, rețineți că există și o variantă colocvială: 'o să merg'. Ambele sunt corecte."
+    },
+    {
+      "id": "ex12_010",
+      "type": "error-correction",
+      "topic": "Noun Gender and Article Agreement",
+      "question": "Find and correct the error: 'Copii au primit cadouri de la Moș Crăciun.'",
+      "questionRo": "Găsiți și corectați eroarea: 'Copii au primit cadouri de la Moș Crăciun.'",
+      "sentence": "Copii au primit cadouri de la Moș Crăciun.",
+      "answer": "Copiii au primit cadouri de la Moș Crăciun.",
+      "explanation": "The error is the missing definite article. 'Copii' is the indefinite plural form. The definite plural form is 'copiii' (with the article '-i' attached). The sentence needs the definite article because it refers to specific children (the children received gifts).",
+      "explanationRo": "Eroarea este absența articolului hotărât. 'Copii' este forma nehotărâtă plural. Forma hotărâtă plural este 'copiii' (cu articolul '-i' atașat). Propoziția necesită articolul hotărât deoarece se referă la copii specifici."
+    },
+    {
+      "id": "ex12_011",
+      "type": "writing",
+      "topic": "Integrated Grammar (Past Tenses, Conditional, Subjunctive, Connectors)",
+      "question": "Describe your experience learning Romanian and your plans for using the language in the future. Use a variety of grammar structures: past tenses (perfect compus, imperfect), conditional, subjunctive, and appropriate connectors (deși, totuși, în concluzie, de aceea). Write at least 100 words.",
+      "questionRo": "Descrieți experiența dumneavoastră de a învăța limba română și planurile de a folosi limba în viitor. Folosiți o varietate de structuri gramaticale: timpuri trecute (perfect compus, imperfect), condițional, conjunctiv și conectori adecvați (deși, totuși, în concluzie, de aceea). Scrieți cel puțin 100 de cuvinte.",
+      "modelAnswer": "Am început să învăț româna acum un an, deși la început mi se părea foarte greu. Primele lecții au fost dificile pentru că nu înțelegeam nimic, însă, treptat, am început să descopăr frumusețea acestei limbi. Când eram obosit, totuși, nu renunțam, pentru că știam că dacă aș fi renunțat, aș fi regretat.\n\nAcum, pot să citesc articole simple și să am conversații de bază cu prietenii mei români. Când am vizitat Bucureștiul luna trecută, am reușit să comand mâncare și să cer informații în română, ceea ce m-a bucurat foarte mult.\n\nÎn viitor, aș vrea să călătoresc mai mult prin România pentru a practica limba în mod natural. De asemenea, sper să pot să urmăresc filme românești fără subtitrări. Dacă aș continua să studiez în fiecare zi, aș putea să vorbesc fluent în câțiva ani.\n\nÎn concluzie, învățarea românei a fost o experiență valoroasă, deși a fost provocatoare, și de aceea intenționez să continui să studiez cu entuziasm.",
+      "rubric": {
+        "totalPoints": 10,
+        "criteria": [
+          {
+            "name": "Grammar Range",
+            "nameRo": "Diversitate Gramaticală",
+            "maxPoints": 3,
+            "description": "Use of at least 3 different grammar structures: past tenses (perfect compus, imperfect), conditional, subjunctive. Award 1 point per correctly used structure, up to 3."
+          },
+          {
+            "name": "Connectors",
+            "nameRo": "Conectori",
+            "maxPoints": 3,
+            "description": "Appropriate use of connectors and linking words (deși, totuși, însă, de aceea, în concluzie, pentru că, etc.). Award 1 point per appropriate connector used, up to 3."
+          },
+          {
+            "name": "Vocabulary",
+            "nameRo": "Vocabular",
+            "maxPoints": 2,
+            "description": "Range and appropriateness of vocabulary. 2 points for varied and accurate vocabulary, 1 point for basic but adequate vocabulary, 0 for very limited vocabulary."
+          },
+          {
+            "name": "Content and Coherence",
+            "nameRo": "Conținut și Coerență",
+            "maxPoints": 2,
+            "description": "Addresses both parts (past experience and future plans) with logical flow. 2 points for complete and coherent response, 1 point for partial coverage, 0 for off-topic or incoherent."
+          }
+        ]
+      },
+      "explanation": "This writing task integrates grammar from across the full course. Use perfect compus for completed actions ('am început', 'am reușit'), imperfect for background descriptions ('eram obosit', 'mi se părea'), conditional for hypothetical situations ('aș vrea', 'aș putea'), and subjunctive after appropriate verbs ('să învăț', 'să citesc', 'să călătoresc'). Connectors like 'deși', 'totuși', 'în concluzie', and 'de aceea' should structure the text logically.",
+      "explanationRo": "Această sarcină de scriere integrează gramatica din tot cursul. Folosiți perfectul compus pentru acțiuni terminate ('am început', 'am reușit'), imperfectul pentru descrieri de fundal ('eram obosit', 'mi se părea'), condiționalul pentru situații ipotetice ('aș vrea', 'aș putea') și conjunctivul după verbele adecvate ('să învăț', 'să citesc'). Conectori precum 'deși', 'totuși', 'în concluzie' și 'de aceea' trebuie să structureze textul logic."
+    },
+    {
+      "id": "ex12_012",
+      "type": "translation",
+      "topic": "Integrated Translation (Romanian to English)",
+      "direction": "ro-to-en",
+      "question": "Translate the following three Romanian sentences into English. Pay attention to grammar structures including subjunctive, conditional, passive voice, and relative clauses.",
+      "questionRo": "Traduceți următoarele trei propoziții din română în engleză. Acordați atenție structurilor gramaticale, inclusiv conjunctiv, condițional, vocea pasivă și propozițiile relative.",
+      "sentences": [
+        {
+          "romanian": "Cartea care a fost scrisă de autorul român a devenit foarte populară în întreaga lume.",
+          "english": "The book that was written by the Romanian author became very popular all over the world.",
+          "grammarNote": "Relative clause ('care' as subject) + passive voice ('a fost scrisă', feminine singular agreement with 'cartea') + adjective agreement ('populară').",
+          "grammarNoteRo": "Propoziție relativă ('care' ca subiect) + vocea pasivă ('a fost scrisă', acord feminin singular cu 'cartea') + acord adjectival ('populară')."
+        },
+        {
+          "romanian": "Dacă aș ști răspunsul, ți l-aș spune imediat, dar, din păcate, nu știu nimic despre acest subiect.",
+          "english": "If I knew the answer, I would tell it to you immediately, but unfortunately, I know nothing about this subject.",
+          "grammarNote": "Present conditional ('aș ști', 'aș spune') for hypothetical situation + dative clitic ('ți') + accusative clitic ('l-') + conjunctions ('dar', 'din păcate').",
+          "grammarNoteRo": "Condițional prezent ('aș ști', 'aș spune') pentru situație ipotetică + clitic dativ ('ți') + clitic acuzativ ('l-') + conjuncții ('dar', 'din păcate')."
+        },
+        {
+          "romanian": "Profesorul mi-a spus să citesc capitolul înainte de curs, deoarece va fi discutat detaliat în clasă.",
+          "english": "The teacher told me to read the chapter before class, because it will be discussed in detail in class.",
+          "grammarNote": "Indirect command with subjunctive ('să citesc') + dative clitic ('mi-') + future passive ('va fi discutat') + temporal preposition ('înainte de').",
+          "grammarNoteRo": "Comandă indirectă cu conjunctiv ('să citesc') + clitic dativ ('mi-') + pasiv viitor ('va fi discutat') + prepoziție temporală ('înainte de')."
+        }
+      ],
+      "explanation": "These three sentences test major B1 grammar structures: Sentence 1 combines relative clauses with passive voice and adjective agreement. Sentence 2 uses the conditional mood for hypothetical situations with double clitic pronouns. Sentence 3 demonstrates indirect speech with the subjunctive and the future passive.",
+      "explanationRo": "Aceste trei propoziții testează structuri gramaticale majore B1: Propoziția 1 combină propoziții relative cu vocea pasivă și acordul adjectival. Propoziția 2 folosește modul condițional pentru situații ipotetice cu pronume clitice duble. Propoziția 3 demonstrează discursul indirect cu subjunctivul și pasivul viitor."
+    }
+  ]
+}

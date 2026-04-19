@@ -1,0 +1,201 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G11-past-simple",
+  "title": "Perfectul Simplu (Trecutul Simplu)",
+  "titleEn": "Simple Past (Perfect Simplu)",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G10-past-compound"],
+  "estimatedMinutes": 30,
+  "introduction": "The Simple Past (perfectul simplu) is primarily a literary tense in modern Romanian, but it remains essential for reading comprehension and is still used in spoken form in certain regions (Oltenia). For a B1 level, it is important to recognize its forms to distinguish it from the Compound Past and the Pluperfect.",
+  "introductionRo": "Perfectul simplu este, în limba română modernă, un timp cu precădere literar, însă rămâne esențial pentru înțelegerea textelor scrise și este încă folosit în vorbire în anumite regiuni (Oltenia). Pentru nivelul B1, este important să îi recunoști formele pentru a-l distinge de perfectul compus și de mai-mult-ca-perfect.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Usage and Context",
+      "headingRo": "Utilizare și Context",
+      "content": "Unlike the Compound Past, the Simple Past is a synthetic tense (one word). In standard Romanian, it is used in novels and short stories to narrate past actions that occurred in a specific, recent time frame.",
+      "contentRo": "Spre deosebire de perfectul compus, perfectul simplu este un timp sintetic (format dintr-un singur cuvânt). În limba română standard, este folosit în romane și nuvele pentru a nara acțiuni trecute petrecute într-un interval de timp specific și recent.",
+      "examples": [
+        {
+          "ro": "El cântă o melodie frumoasă. (He sang a beautiful song.)",
+          "en": "Perfect Simplu: literary past. In everyday speech, you'd say: 'El a cântat o melodie frumoasă.'",
+          "notes": "Same meaning as Perfect Compus, but used in books, not in conversation."
+        },
+        {
+          "ro": "Regele vorbi cu înțelepții țării. (The king spoke with the wise men of the land.)",
+          "en": "Typical fairy tale / historical narrative style.",
+          "notes": "This tense immediately signals a literary or formal register."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Conjugation: 1st Conjugation (-a verbs)",
+      "headingRo": "Conjugarea: Conjugarea I (verbe -a)",
+      "content": "First conjugation verbs form the Perfect Simplu by adding specific endings. The stem is the infinitive without '-a'. Note the distinct endings for each person.",
+      "contentRo": "Verbele primei conjugări formează Perfectul Simplu adăugând terminații specifice. Rădăcina este infinitivul fără '-a'. Observați terminațiile distincte pentru fiecare persoană.",
+      "table": {
+        "headers": ["Person", "Ending", "a cânta (to sing)", "a lucra (to work)", "a ajuta (to help)"],
+        "rows": [
+          ["eu", "-i", "cântai", "lucrai", "ajutai"],
+          ["tu", "-i", "cântași", "lucrași", "ajutași"],
+          ["el/ea", "-ă", "cântă", "lucră", "ajută"],
+          ["noi", "-răm", "cântarăm", "lucrarăm", "ajutarăm"],
+          ["voi", "-răți", "cântarăți", "lucrarăți", "ajutarăți"],
+          ["ei/ele", "-ră", "cântară", "lucrară", "ajutară"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Conjugation: 2nd Conjugation (-ea verbs)",
+      "headingRo": "Conjugarea: Conjugarea a II-a (verbe -ea)",
+      "content": "Second conjugation verbs follow a similar pattern. The stem is the infinitive without '-ea'.",
+      "contentRo": "Verbele conjugării a doua urmează un model similar. Rădăcina este infinitivul fără '-ea'.",
+      "table": {
+        "headers": ["Person", "Ending", "a vedea (to see)", "a bea (to drink)", "a vrea (to want)"],
+        "rows": [
+          ["eu", "-ui", "văzui", "băui", "vrui"],
+          ["tu", "-uși", "văzuși", "băuși", "vruși"],
+          ["el/ea", "-u", "văzu", "bău", "vru"],
+          ["noi", "-urăm", "văzurăm", "băurăm", "vrurăm"],
+          ["voi", "-urăți", "văzurăți", "băurăți", "vrurăți"],
+          ["ei/ele", "-ură", "văzură", "băură", "vrură"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Conjugation: 3rd Conjugation (-e verbs)",
+      "headingRo": "Conjugarea: Conjugarea a III-a (verbe -e)",
+      "content": "Third conjugation verbs form the Perfect Simplu with endings that often involve vowel changes in the stem.",
+      "contentRo": "Verbele conjugării a treia formează Perfectul Simplu cu terminații care implică adesea schimbări de vocală în rădăcină.",
+      "table": {
+        "headers": ["Person", "Ending", "a merge (to go)", "a înțelege (to understand)", "a scrie (to write)"],
+        "rows": [
+          ["eu", "-sei", "mersei", "înțelesei", "scrisei"],
+          ["tu", "-seși", "merseși", "înțeleseși", "scriseși"],
+          ["el/ea", "-se", "merse", "înțelese", "scrise"],
+          ["noi", "-serăm", "merserăm", "înțeleserăm", "scriiserăm"],
+          ["voi", "-serăți", "merserăți", "înțeleserăți", "scriiserăți"],
+          ["ei/ele", "-seră", "merseră", "înțeleseră", "scriiseră"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Conjugation: 4th Conjugation (-i/-î verbs)",
+      "headingRo": "Conjugarea: Conjugarea a IV-a (verbe -i/-î)",
+      "content": "Fourth conjugation verbs, including reflexive verbs, have their own Perfect Simplu forms.",
+      "contentRo": "Verbele conjugării a patra, inclusiv verbele reflexive, au propriile forme de Perfect Simplu.",
+      "table": {
+        "headers": ["Person", "Ending", "a dormi (to sleep)", "a fugi (to run)", "a coborî (to descend)"],
+        "rows": [
+          ["eu", "-ii", "dormii", "fugii", "coborâi"],
+          ["tu", "-iși", "dormiși", "fugiși", "coborâși"],
+          ["el/ea", "-i", "dormi", "fugi", "coborî"],
+          ["noi", "-irăm", "dormirăm", "fugirăm", "coborârăm"],
+          ["voi", "-irăți", "dormirăți", "fugirăți", "coborârăți"],
+          ["ei/ele", "-iră", "dormiră", "fugiră", "coborâră"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Key Irregular Verbs",
+      "headingRo": "Verbe Neregulate Importante",
+      "content": "Some very common verbs have irregular Perfect Simplu forms that you must recognize:",
+      "contentRo": "Unele verbe foarte comune au forme neregulate de Perfect Simplu pe care trebuie să le recunoști:",
+      "table": {
+        "headers": ["Verb", "eu", "el/ea", "ei/ele", "Perfect Compus equivalent"],
+        "rows": [
+          ["a fi (to be)", "fusei", "fu", "fură", "am fost"],
+          ["a avea (to have)", "avui", "avu", "avură", "am avut"],
+          ["a da (to give)", "dădui", "dădu", "dădură", "am dat"],
+          ["a face (to do)", "fecui", "fecu", "fecură", "am făcut"],
+          ["a lua (to take)", "luai", "luă", "lurară", "am luat"],
+          ["a sta (to stay)", "stătui", "stătu", "stătură", "am stat"],
+          ["a ști (to know)", "știui", "știu", "știură", "am știut"],
+          ["a vrea (to want)", "vrui", "vru", "vrură", "am vrut"],
+          ["a veni (to come)", "venii", "veni", "veniră", "am venit"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Perfect Simplu vs. Perfect Compus",
+      "headingRo": "Perfect Simplu vs. Perfect Compus",
+      "content": "These two tenses have the same meaning (completed past action). The difference is purely stylistic and register-based:",
+      "contentRo": "Aceste două timpuri au același sens (acțiune terminată în trecut). Diferența este pur stilistică și de registru:",
+      "table": {
+        "headers": ["Feature", "Perfect Compus", "Perfect Simplu"],
+        "rows": [
+          ["Usage", "Everyday speech and writing", "Literary, formal, historical texts"],
+          ["Form", "auxiliary + participle (am mers)", "Single word with suffix (mersei)"],
+          ["Formality", "Neutral / informal", "Formal / literary"],
+          ["B1 Exam", "Used in writing tasks", "Appears in reading passages"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Perfect Compus: Am citit cartea ieri. / Perfect Simplu: Citii cartea ieri.",
+          "en": "Both mean 'I read the book yesterday.' The first is spoken, the second is literary.",
+          "notes": "In the B1 exam, you write in Perfect Compus, but read texts with Perfect Simplu."
+        },
+        {
+          "ro": "A fost odată ca niciodată... (Once upon a time...)",
+          "en": "Fairy tales traditionally use Perfect Simplu for the narrative.",
+          "notes": "This is one of the most recognizable contexts for this tense."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "B1 Exam Strategy",
+      "content": "In the B1 exam reading section, you will encounter Perfect Simplu in literary excerpts, historical texts, and sometimes in newspaper opinion pieces. You do NOT need to produce this tense — only recognize it. When you see an unfamiliar verb form, check: does it look like a past tense? Does the context describe a completed past action? If so, it's probably Perfect Simplu.",
+      "contentRo": "În secțiunea de citire a examenului B1, vei întâlni Perfectul Simplu în fragmente literare, texte istorice și uneori în articole de opinie din ziare. NU trebuie să produci acest timp — doar să-l recunoști. Când vezi o formă verbală necunoscută, verifică: arată ca un timp trecut? Contextul descrie o acțiune terminată în trecut? Dacă da, probabil este Perfect Simplu."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Recognition Tips",
+      "content": "How to spot Perfect Simplu in a text:",
+      "contentRo": "Cum să recunoști Perfectul Simplu într-un text:",
+      "rules": [
+        "3rd person singular ends in a short vowel: cântă, merse, dormi, fu",
+        "3rd person plural ends in -ră: cântară, merseră, dormiră, fură",
+        "No auxiliary verb (no 'am/ai/a/...') — the tense is marked by the ending alone",
+        "Context: narrative/literary text, fairy tale, historical account",
+        "If a verb form looks unfamiliar but the context is clearly past, it's probably Perfect Simplu"
+      ],
+      "examples": [
+        {
+          "ro": "'Regele merse la vânătoare și prinse un cerb.'",
+          "en": "The king went hunting and caught a deer. — Both 'merse' and 'prinse' are Perfect Simplu.",
+          "notes": "'Prinse' here is Perfect Simplu 3rd sg (not present 'a prinde') — context makes it clear."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Perfect Simplu is a literary/archaic past tense — NOT used in everyday speech",
+    "It expresses completed past actions, same meaning as Perfect Compus (am mers)",
+    "1st conj: -i, -i, -ă, -răm, -răți, -ră (cântai, cântași, cântă, cântarăm, cântarăți, cântară)",
+    "2nd conj: -sei, -seși, -se, -serăm, -serăți, -seră (văzusei, văzu, văzură)",
+    "3rd conj: -sei, -seși, -se, -serăm, -serăți, -seră (merse, merseră)",
+    "4th conj: -ii, -iși, -i, -irăm, -irăți, -iră (dormii, dormi, dormiră)",
+    "Key irregulars: fu (a fi), avu (a avea), fecu (a face), dădu (a da), vru (a vrea)",
+    "For B1: recognize it in reading texts, but use Perfect Compus in your own writing"
+  ],
+  "summaryPointsRo": [
+    "Perfectul Simplu este un timp trecut literar/arhaic — NU se folosește în vorbirea de zi cu zi",
+    "Exprimă acțiuni terminate în trecut, același sens ca Perfectul Compus (am mers)",
+    "Conj. I: -i, -i, -ă, -răm, -răți, -ră (cântai, cântași, cântă, cântarăm, cântarăți, cântară)",
+    "Conj. II: -sei, -seși, -se, -serăm, -serăți, -seră (văzusei, văzu, văzură)",
+    "Conj. III: -sei, -seși, -se, -serăm, -serăți, -seră (merse, merseră)",
+    "Conj. IV: -ii, -iși, -i, -irăm, -irăți, -iră (dormii, dormi, dormiră)",
+    "Neregulate importante: fu (a fi), avu (a avea), fecu (a face), dădu (a da), vru (a vrea)",
+    "Pentru B1: recunoaște-l în textele de citire, dar folosește Perfectul Compus în propriile scrieri"
+  ],
+  "relatedExercises": []
+}

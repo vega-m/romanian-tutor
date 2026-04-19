@@ -1,0 +1,196 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX05-week5-practice",
+  "title": "Week 5 Practice: Past Tenses",
+  "titleRo": "Exerciții Săptămâna 5: Timpurile Trecute",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G10-past-compound",
+    "G12-past-imperfect"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice Romanian past tenses — compound past (perfect compus) and imperfect. These exercises include conjugation, tense selection, error correction, a free writing task about a past vacation, and translation. Focus on choosing the correct tense and using proper past participle forms.",
+  "instructionsRo": "Exersează timpurile trecute în limba română — perfectul compus și imperfectul. Aceste exerciții includ conjugare, alegerea timpului potrivit, corectare a greșelilor, o sarcină de scriere liberă despre o vacanță trecută și traducere. Concentrează-te pe alegerea timpului corect și folosirea formelor corecte de participiu trecut.",
+  "sourceWeek": 5,
+  "exercises": [
+    {
+      "id": "ex05_001",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a vorbi' (to speak) in the compound past for 'tu': Tu ___ cu profesorul ieri.",
+      "promptRo": "Conjugă 'a vorbi' la perfect compus pentru 'tu': Tu ___ cu profesorul ieri.",
+      "sentence": "Tu ___ cu profesorul ieri.",
+      "answer": "ai vorbit",
+      "acceptableAnswers": [
+        "ai vorbit"
+      ],
+      "explanation": "The compound past of 'a vorbi' for 'tu' is 'ai vorbit' — auxiliary 'ai' (2nd person singular) + past participle 'vorbit'. Full compound past: eu am vorbit, tu ai vorbit, el/ea a vorbit, noi am vorbit, voi ați vorbit, ei/ele au vorbit.",
+      "explanationRo": "Perfectul compus al lui 'a vorbi' pentru 'tu' este 'ai vorbit' — auxiliarul 'ai' (persoana a II-a singular) + participiul trecut 'vorbit'. Perfect compus complet: eu am vorbit, tu ai vorbit, el/ea a vorbit, noi am vorbit, voi ați vorbit, ei/ele au vorbit."
+    },
+    {
+      "id": "ex05_002",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a dormi' (to sleep) in the imperfect for 'el': El ___ zece ore aseară.",
+      "promptRo": "Conjugă 'a dormi' la imperfect pentru 'el': El ___ zece ore aseară.",
+      "sentence": "El ___ zece ore aseară.",
+      "answer": "dormea",
+      "acceptableAnswers": [
+        "dormea"
+      ],
+      "explanation": "The imperfect of 'a dormi' for 'el' is 'dormea'. Imperfect conjugation: eu dormeam, tu dormeai, el/ea dormea, noi dormeam, voi dormeați, ei/ele dormeau. The imperfect is used here for a description of a state/ongoing action in the past.",
+      "explanationRo": "Imperfectul lui 'a dormi' pentru 'el' este 'dormea'. Conjugarea la imperfect: eu dormeam, tu dormeai, el/ea dormea, noi dormeam, voi dormeați, ei/ele dormeau. Imperfectul se folosește aici pentru descrierea unei stări/acțiuni în desfășurare în trecut."
+    },
+    {
+      "id": "ex05_003",
+      "type": "fill-blank",
+      "prompt": "Conjugate the irregular verb 'a face' (to do/make) in the compound past for 'noi': Noi ___ un tort pentru ziua ei.",
+      "promptRo": "Conjugă verbul neregulat 'a face' la perfect compus pentru 'noi': Noi ___ un tort pentru ziua ei.",
+      "sentence": "Noi ___ un tort pentru ziua ei.",
+      "answer": "am făcut",
+      "acceptableAnswers": [
+        "am făcut"
+      ],
+      "explanation": "The compound past of 'a face' for 'noi' is 'am făcut' — auxiliary 'am' (1st person plural) + past participle 'făcut'. The past participle 'făcut' is irregular and must be memorized. Full compound past: eu am făcut, tu ai făcut, el/ea a făcut, noi am făcut, voi ați făcut, ei/ele au făcut.",
+      "explanationRo": "Perfectul compus al lui 'a face' pentru 'noi' este 'am făcut' — auxiliarul 'am' (persoana I plural) + participiul trecut 'făcut'. Participiul trecut 'făcut' este neregulat și trebuie memorat. Perfect compus complet: eu am făcut, tu ai făcut, el/ea a făcut, noi am făcut, voi ați făcut, ei/ele au făcut."
+    },
+    {
+      "id": "ex05_004",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a ploua' (to rain) in the imperfect for 'ei': Ploua tot weekendul, așa că ___ acasă.",
+      "promptRo": "Conjugă 'a ploua' la imperfect pentru 'ei': Ploua tot weekendul, așa că ___ acasă.",
+      "sentence": "Ploua tot weekendul, așa că ___ acasă.",
+      "answer": "rămâneau",
+      "acceptableAnswers": [
+        "rămâneau"
+      ],
+      "explanation": "The imperfect of 'a rămâne' for 'ei' is 'rămâneau'. Imperfect conjugation: eu rămâneam, tu rămâneai, el/ea rămânea, noi rămâneam, voi rămâneați, ei/ele rămâneau. The imperfect is used because staying home was an ongoing state throughout the rainy weekend.",
+      "explanationRo": "Imperfectul lui 'a rămâne' pentru 'ei' este 'rămâneau'. Conjugarea la imperfect: eu rămâneam, tu rămâneai, el/ea rămânea, noi rămâneam, voi rămâneați, ei/ele rămâneau. Imperfectul se folosește pentru că rămânerea acasă a fost o stare continuă pe tot parcursul weekendului ploios."
+    },
+    {
+      "id": "ex05_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense form: 'Ioana ___ (a primi) un premiu la concursul de poezie.'",
+      "promptRo": "Alege forma corectă de timp trecut: 'Ioana ___ (a primi) un premiu la concursul de poezie.'",
+      "answer": "a primit",
+      "options": [
+        "a primit",
+        "primea",
+        "primeste",
+        "va primi"
+      ],
+      "explanation": "'A primit' is the correct compound past form. Receiving a prize is a completed action, so the compound past (perfect compus) is the right choice: auxiliary 'a' + past participle 'primit'. 'Primea' would be imperfect (ongoing/habitual), which does not fit here.",
+      "explanationRo": "'A primit' este forma corectă de perfect compus. Primirea unui premiu este o acțiune încheiată, deci perfectul compus este alegerea potrivită: auxiliarul 'a' + participiul trecut 'primit'. 'Primea' ar fi imperfect (în desfășurare/obișnuit), care nu se potrivește aici."
+    },
+    {
+      "id": "ex05_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense form: 'Bunica mea ___ (a găti) ciorbă în fiecare duminică.'",
+      "promptRo": "Alege forma corectă de timp trecut: 'Bunica mea ___ (a găti) ciorbă în fiecare duminică.'",
+      "answer": "gătea",
+      "options": [
+        "gătea",
+        "a gătit",
+        "gătește",
+        "va găti"
+      ],
+      "explanation": "'Gătea' is the correct imperfect form. The expression 'în fiecare duminică' (every Sunday) indicates a habitual, repeated action in the past, which requires the imperfect. 'A gătit' (compound past) would imply a single, completed cooking event.",
+      "explanationRo": "'Gătea' este forma corectă de imperfect. Expresia 'în fiecare duminică' indică o acțiune obișnuită, repetată în trecut, care necesită imperfectul. 'A gătit' (perfect compus) ar implica un singur eveniment de gătit, încheiat.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex05_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense form: 'Când ___ (a ajunge) acasă, mama ___ (a găti) deja cina.'",
+      "promptRo": "Alege forma corectă de timp trecut: 'Când ___ (a ajunge) acasă, mama ___ (a găti) deja cina.'",
+      "answer": "am ajuns / gătea",
+      "options": [
+        "am ajuns / gătea",
+        "am ajuns / a gătit",
+        "ajungeam / a gătit",
+        "voi ajunge / gătea"
+      ],
+      "explanation": "The correct combination is 'am ajuns / gătea'. The compound past 'am ajuns' describes the completed action of arriving home. The imperfect 'gătea' describes the ongoing action that was already in progress — mother was cooking when I arrived. This is the classic imperfect + compound past pairing for interrupted ongoing actions.",
+      "explanationRo": "Combinația corectă este 'am ajuns / gătea'. Perfectul compus 'am ajuns' descrie acțiunea încheiată de a ajunge acasă. Imperfectul 'gătea' descrie acțiunea în desfășurare care era deja în curs — mama gătea când am ajuns. Aceasta este perechea clasică imperfect + perfect compus pentru acțiuni în desfășurare întrerupte.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex05_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the past tense error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de timp trecut din această propoziție:",
+      "sentence": "Pentru că ploua, noi a petrecut tot ziua în casă.",
+      "answer": "Pentru că ploua, noi petreceam tot ziua în casă.",
+      "explanation": "The error is 'a petrecut' (compound past) — this should be 'petreceam' (imperfect). Because it was raining (ongoing background condition described with imperfect 'ploua'), the main action of spending time indoors was also an ongoing state, not a completed event. Both clauses should use the imperfect for consistency.",
+      "explanationRo": "Greșeala este 'a petrecut' (perfect compus) — ar trebui să fie 'petreceam' (imperfect). Deoarece ploua (condiție de fundal continuă descrisă cu imperfectul 'ploua'), acțiunea principală de a petrece timp în casă era și ea o stare continuă, nu un eveniment încheiat. Ambele propoziții ar trebui să folosească imperfectul pentru coerență.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex05_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the wrong past participle in this sentence:",
+      "promptRo": "Găsește și corectează participiul trecut greșit din această propoziție:",
+      "sentence": "El a venit la școală târziu și a luat un note mic la test.",
+      "answer": "El a venit la școală târziu și a luat o notă mică la test.",
+      "explanation": "The error is not in the past participles ('venit' and 'luat' are both correct), but in the noun phrase: 'un note' should be 'o notă'. The noun 'notă' is feminine, so it requires the feminine article 'o', not the masculine 'un'. Also, 'notă' is singular here (a grade), so it should not have the plural ending '-e'. The corrected sentence is: 'El a venit la școală târziu și a luat o notă mică la test.'",
+      "explanationRo": "Greșeala nu este la participiile trecute ('venit' și 'luat' sunt ambele corecte), ci în grupul nominal: 'un note' ar trebui să fie 'o notă'. Substantivul 'notă' este feminin, deci necesită articolul feminin 'o', nu masculinul 'un'. De asemenea, 'notă' este singular aici (o notă), deci nu trebuie să aibă terminația de plural '-e'. Propoziția corectată: 'El a venit la școală târziu și a luat o notă mică la test.'",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex05_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the past tense error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de timp trecut din această propoziție:",
+      "sentence": "Anul trecut, el era în Spania două săptămâni.",
+      "answer": "Anul trecut, el a fost în Spania două săptămâni.",
+      "explanation": "The error is 'era' (imperfect) — this should be 'a fost' (compound past). The expression 'anul trecut ... două săptămâni' indicates a specific, bounded period in the past, not an ongoing state or habit. The compound past is the correct tense for a completed action with a defined duration.",
+      "explanationRo": "Greșeala este 'era' (imperfect) — ar trebui să fie 'a fost' (perfect compus). Expresia 'anul trecut ... două săptămâni' indică o perioadă specifică, delimitată din trecut, nu o stare în desfășurare sau o obișnuință. Perfectul compus este timpul corect pentru o acțiune încheiată cu o durată definită.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex05_011",
+      "type": "writing",
+      "prompt": "Describe a past vacation (o vacanță trecută) using both the compound past and the imperfect. Write 8-10 sentences about a trip you took. Use the imperfect for descriptions, ongoing activities, and habits during the trip, and the compound past for completed events and specific actions. Include at least 4 compound past verbs and 4 imperfect verbs. Use time expressions (dimineața, în fiecare zi, apoi, la sfârșit) to structure your narrative.",
+      "promptRo": "Descrie o vacanță trecută folosind atât perfectul compus, cât și imperfectul. Scrie 8-10 propoziții despre o călătorie pe care ai făcut-o. Folosește imperfectul pentru descrieri, activități în desfășurare și obișnuințe în timpul călătoriei, și perfectul compus pentru evenimente încheiate și acțiuni specifice. Include cel puțin 4 verbe la perfect compus și 4 verbe la imperfect. Folosește expresii temporale (dimineața, în fiecare zi, apoi, la sfârșit) pentru a-ți structura narațiunea.",
+      "answer": "Model answer:\n\nAnul trecut, am mers în vacanță la mare împreună cu familia mea. Am stat la un hotel frumos aproape de plajă. În fiecare dimineață, beam cafea pe balcon și priveam marea. Soarele strălucea și vântul bătea ușor. După-amiaza, înotam în mare și citeam cărți sub umbrelă. Într-o zi, am vizitat un sat pescăresc și am mâncat pește proaspăt la un restaurant local. Seara, mergeam la plimbare pe faleză și ascultam muzică live. La sfârșitul vacanței, am cumpărat suvenuri pentru prieteni și am făcut multe fotografii. A fost o vacanță minunată și am revenit acasă foarte relaxați.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Past Tense Usage",
+            "description": "Correct and appropriate use of both compound past (perfect compus) and imperfect, with clear distinction between completed actions and ongoing/descriptive states. At least 4 of each tense used.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Appropriate vacation and travel vocabulary (vacanță, plajă, hotel, zbor, excursie, pește, suvenir etc.) and time expressions (dimineața, în fiecare zi, apoi, la sfârșit etc.).",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct past participle forms (including irregular participles: fost, avut, mers, văzut, făcut, scris etc.), proper auxiliary agreement (am/ai/a/am/ați/au), correct imperfect endings, and proper diacritics.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Narrative Flow",
+            "description": "Logical sequence of events, natural transitions between background descriptions (imperfect) and foreground events (compound past), cohesive narrative structure with appropriate connectors.",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      },
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex05_012",
+      "type": "translation",
+      "direction": "ro-to-en",
+      "prompt": "Translate the following Romanian past tense sentences into English:\n1. Ieri am mers la cinema și am văzut un film foarte bun.\n2. Când eram copil, jucam fotbal în fiecare zi.\n3. Ea a citit cartea în timp ce el dormea.",
+      "promptRo": "Traduce următoarele propoziții cu timpuri trecute din română în engleză:\n1. Ieri am mers la cinema și am văzut un film foarte bun.\n2. Când eram copil, jucam fotbal în fiecare zi.\n3. Ea a citit cartea în timp ce el dormea.",
+      "answer": "1. Yesterday I went to the cinema and saw a very good movie.\n2. When I was a child, I used to play football every day.\n3. She read the book while he was sleeping.",
+      "acceptableAnswers": [
+        "1. Yesterday I went to the cinema and saw a very good movie.\n2. When I was a child, I used to play football every day.\n3. She read the book while he was sleeping."
+      ],
+      "explanation": "Sentence 1 uses the compound past twice ('am mers' = went, 'am văzut' = saw) for two completed actions in sequence. Sentence 2 uses the imperfect ('eram' = was, 'jucam' = used to play) for a habitual action in childhood. Sentence 3 combines both tenses: 'a citit' (compound past = read, completed action) and 'dormea' (imperfect = was sleeping, ongoing background action).",
+      "explanationRo": "Propoziția 1 folosește perfectul compus de două ori ('am mers' = am mers, 'am văzut' = am văzut) pentru două acțiuni încheiate în succesiune. Propoziția 2 folosește imperfectul ('eram' = eram, 'jucam' = jucam) pentru o acțiune obișnuită din copilărie. Propoziția 3 combină ambele timpuri: 'a citit' (perfect compus = a citit, acțiune încheiată) și 'dormea' (imperfect = dormea, acțiune de fundal în desfășurare)."
+    }
+  ]
+}

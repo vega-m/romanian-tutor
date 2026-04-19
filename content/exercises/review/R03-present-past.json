@@ -1,0 +1,130 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "R03-present-past",
+  "title": "Recapitulare: Prezent și Trecut",
+  "titleRo": "Recapitulare: Prezent și Timpuri Trecute (Săptămânile 4-5)",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G04-verb-intro",
+    "G07-perfect-compound"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Review present and compound past tenses at a B1 level, focusing on professional vocabulary and irregular verb forms.",
+  "instructionsRo": "Exerciții de recapitulare pentru prezent și perfect compus la nivel B1, punând accent pe vocabularul profesional și formele verbale neregulate.",
+  "sourceWeek": 4,
+  "exercises": [
+    {
+      "id": "r03_001",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a propune' (to propose) in the present tense, 1st person plural: 'Noi ___ o soluție inovatoare pentru acest proiect.'",
+      "promptRo": "Conjugați 'a propune' la prezent, persoana I plural: 'Noi ___ o soluție inovatoare pentru acest proiect.'",
+      "sentence": "Noi ___ o soluție inovatoare pentru acest proiect.",
+      "answer": "propunem",
+      "acceptableAnswers": [
+        "propunem"
+      ],
+      "explanation": "'A propune' is a 3rd conjugation verb (-e). Present tense: propun, propui, propune, propunem, propuneți, propun.",
+      "explanationRo": "'A propune' este un verb de conjugarea a III-a (-e). Prezent: propun, propui, propune, propunem, propuneți, propun."
+    },
+    {
+      "id": "r03_002",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a finaliza' (to finalize) in the compound past, 3rd person plural: 'Ei ___ raportul de activitate săptămâna trecută.'",
+      "promptRo": "Conjugați 'a finaliza' la perfectul compus, persoana a III-a plural: 'Ei ___ raportul de activitate săptămâna trecută.'",
+      "sentence": "Ei ___ raportul de activitate săptămâna trecută.",
+      "answer": "au finalizat",
+      "acceptableAnswers": [
+        "au finalizat"
+      ],
+      "explanation": "Compound past of 'a finaliza' (1st conjugation): auxiliary 'au' (3rd pl) + past participle 'finalizat'.",
+      "explanationRo": "Perfectul compus al verbului 'a finaliza' (conjugarea I): auxiliar 'au' (3 pl) + participiu trecut 'finalizat'."
+    },
+    {
+      "id": "r03_003",
+      "type": "multiple-choice",
+      "prompt": "What is the correct compound past form of 'a dispărea' (to disappear), 3rd person singular?",
+      "promptRo": "Care este forma corectă a perfectului compus al lui 'a dispărea', persoana a III-a singular?",
+      "answer": "a dispărut",
+      "options": [
+        "a dispărut",
+        "a dispăreat",
+        "a dispărutut",
+        "a dispărs"
+      ],
+      "explanation": "'A dispărea' (2nd conjugation, -ea) has the past participle 'dispărut'. Auxiliary for 3rd person singular is 'a'.",
+      "explanationRo": "'A dispărea' (conjugarea a II-a, -ea) are participiul trecut 'dispărut'. Auxiliarul pentru persoana a III-a singular este 'a'."
+    },
+    {
+      "id": "r03_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct present tense conjugation for 'a hotărî' (to decide), 1st person singular:",
+      "promptRo": "Alegeți conjugarea corectă la prezent pentru 'a hotărî', persoana I singular:",
+      "answer": "hotărăsc",
+      "options": [
+        "hotărăsc",
+        "hotăresc",
+        "hotărâsc",
+        "hotărâm"
+      ],
+      "explanation": "'A hotărî' (4th conjugation, -î) uses the '-esc' suffix: hotărăsc, hotărăști, hotărăște, hotărâm, hotărâți, hotărăsc.",
+      "explanationRo": "'A hotărî' (conjugarea a IV-a, -î) folosește sufixul '-esc': hotărăsc, hotărăști, hotărăște, hotărâm, hotărâți, hotărăsc."
+    },
+    {
+      "id": "r03_005",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a rămâne' (to remain) in the present tense, 3rd person singular: 'Ea ___ la birou până târziu.'",
+      "promptRo": "Conjugați 'a rămâne' la prezent, persoana a III-a singular: 'Ea ___ la birou până târziu.'",
+      "sentence": "Ea ___ la birou până târziu.",
+      "answer": "rămâne",
+      "acceptableAnswers": [
+        "rămâne"
+      ],
+      "explanation": "'A rămâne' (3rd conjugation): rămân, rămâi, rămâne, rămânem, rămâneți, rămân. Note the 'ă' in the root.",
+      "explanationRo": "'A rămâne' (conjugarea a III-a): rămân, rămâi, rămâne, rămânem, rămâneți, rămân. Observați 'ă' în rădăcină."
+    },
+    {
+      "id": "r03_006",
+      "type": "multiple-choice",
+      "prompt": "Which past participle is correct for 'a prevedea' (to foresee/predict)?",
+      "promptRo": "Care participiu trecut este corect pentru 'a prevedea'?",
+      "answer": "prevăzut",
+      "options": [
+        "prevăzut",
+        "prevedeat",
+        "prevedut",
+        "prevezi"
+      ],
+      "explanation": "The past participle of 'a prevedea' (2nd conjugation) is 'prevăzut', following the pattern of 'a vedea' → 'văzut'.",
+      "explanationRo": "Participiul trecut al lui 'a prevedea' (conjugarea a II-a) este 'prevăzut', urmând modelul lui 'a vedea' → 'văzut'."
+    },
+    {
+      "id": "r03_007",
+      "type": "fill-blank",
+      "prompt": "Complete the compound past: 'Echipa ___ (to develop) o strategie nouă.'",
+      "promptRo": "Completați perfectul compus: 'Echipa ___ (a dezvolta) o strategie nouă.'",
+      "sentence": "Echipa ___ o strategie nouă.",
+      "answer": "a dezvoltat",
+      "acceptableAnswers": [
+        "a dezvoltat"
+      ],
+      "explanation": "Compound past: 'Echipa' (3rd person singular) + auxiliary 'a' + past participle 'dezvoltat'.",
+      "explanationRo": "Perfect compus: 'Echipa' (persoana a III-a singular) + auxiliar 'a' + participiu trecut 'dezvoltat'."
+    },
+    {
+      "id": "r03_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the compound past for consecutive actions?",
+      "promptRo": "Ce propoziție folosește corect perfectul compus pentru acțiuni consecutive?",
+      "answer": "Am analizat datele și am trimis rezultatele managerului.",
+      "options": [
+        "Am analizat datele și am trimis rezultatele managerului.",
+        "Am analizat datele și trimis rezultatele managerului.",
+        "Analizat-am datele și trimis rezultatele managerului.",
+        "Am analizat datele și am trimit rezultatele managerului."
+      ],
+      "explanation": "In Romanian, each coordinated verb in the compound past requires its own auxiliary 'am'. 'Trimis' is the correct participle for 'a trimite'.",
+      "explanationRo": "În română, fiecare verb coordonat la perfectul compus necesită propriul auxiliar 'am'. 'Trimis' este participiul corect pentru 'a trimite'."
+    }
+  ]
+}

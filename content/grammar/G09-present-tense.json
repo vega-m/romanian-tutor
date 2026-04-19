@@ -1,0 +1,276 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G09-present-tense",
+  "title": "Prezentul (Timpul Prezent)",
+  "titleEn": "The Present Tense",
+  "cefrLevel": "A2",
+  "prerequisites": ["G01-alphabet-reading", "G03-noun-gender"],
+  "estimatedMinutes": 45,
+  "introduction": "The present tense (prezentul) is used to express current actions, habitual behaviors, and universal truths. In Romanian, verbs are categorized into four conjugations based on their infinitive endings. Mastering these patterns, including common vowel and consonant shifts, is essential for accurate communication at a B1 level.",
+  "introductionRo": "Timpul prezent se folosește pentru a exprima acțiuni care au loc în momentul vorbirii, comportamente obișnuite sau adevăruri universale. În limba română, verbele sunt clasificate în patru conjugări, în funcție de terminația de la infinitiv. Stăpânirea acestor tipare, inclusiv a alternanțelor vocalice și consonantice frecvente, este esențială pentru o comunicare corectă la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The 1st Conjugation (Verbs ending in -a)",
+      "headingRo": "Conjugarea I (Verbe terminate în -a)",
+      "content": "This is the most common conjugation in Romanian. It includes both regular verbs and verbs that take the '-ez' suffix. Pay close attention to phonetic shifts like 'a' becoming 'ă' in certain forms.",
+      "contentRo": "Aceasta este cea mai frecventă conjugare din limba română. Include atât verbe regulate, cât și verbe care primesc sufixul „-ez”. Acordați o atenție sporită alternanțelor fonetice, cum ar fi transformarea lui „a” în „ă” în anumite forme.",
+      "table": {
+        "headers": ["Person", "Ending", "a cânta (to sing)", "a lucra (to work)", "a ajuta (to help) [ACC]"],
+        "rows": [
+          ["eu", "-(ez)", "cânt", "lucrez", "ajut"],
+          ["tu", "-i", "cânți", "lucrezi", "ajuți"],
+          ["el/ea", "-ă / -ează", "cântă", "lucrează", "ajută"],
+          ["noi", "-ăm", "cântăm", "lucrăm", "ajutăm"],
+          ["voi", "-ați", "cântați", "lucrați", "ajutați"],
+          ["ei/ele", "-ă / -ează", "cântă", "lucrează", "ajută"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Eu lucrez de acasă în fiecare vineri. (I work from home every Friday.)",
+          "en": "Modern context: Remote work / Schedule.",
+          "notes": "a lucra (1st conj.) is very common in office contexts."
+        },
+        {
+          "ro": "Colegii mei mă ajută cu noul proiect. (My colleagues help me with the new project.)",
+          "en": "Modern context: Team collaboration.",
+          "notes": "a ajuta (1st conj.) — remember the 'ț' in 'tu ajuți'!"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The 2nd Conjugation (Verbs ending in -ea)",
+      "headingRo": "Conjugarea a II-a (Verbe terminate în -ea)",
+      "content": "A relatively small group of verbs, many of which are essential for daily communication. The characteristic vowel 'e' is maintained in most forms of the paradigm.",
+      "contentRo": "Un grup relativ restrâns de verbe, dintre care multe sunt esențiale pentru comunicarea zilnică. Vocala caracteristică „e” se menține în majoritatea formelor paradigmei.",
+      "table": {
+        "headers": ["Person", "Ending", "a bea (to drink) [ACC]", "a vedea (to see) [ACC]", "a putea (to be able)"],
+        "rows": [
+          ["eu", "-(zero)", "beau", "văd", "pot"],
+          ["tu", "-i", "bei", "vezi", "poți"],
+          ["el/ea", "-e", "bea", "vede", "poate"],
+          ["noi", "-em", "bem", "vedem", "putem"],
+          ["voi", "-eți", "beți", "vedeți", "puteți"],
+          ["ei/ele", "-(zero)", "bea", "văd", "pot"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Vedeți acest fișier pe ecran? (Do you see this file on the screen?)",
+          "en": "Modern context: Video calls / Online presentations.",
+          "notes": "a vedea (2nd conj.) is irregular in many forms."
+        },
+        {
+          "ro": "Ea nu poate să vină la ședință. (She cannot come to the meeting.)",
+          "en": "Modern context: Professional availability.",
+          "notes": "a putea (2nd conj.) + subjunctive (să vină)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The 3rd Conjugation (Verbs ending in -e)",
+      "headingRo": "Conjugarea a III-a (Verbe terminate în -e)",
+      "content": "This group includes many fundamental verbs. Unlike other conjugations, the 3rd conjugation does not typically take suffixes like '-ez' or '-esc'.",
+      "contentRo": "Acest grup cuprinde numeroase verbe fundamentale. Spre deosebire de alte conjugări, conjugarea a III-a nu primește, de regulă, sufixe precum „-ez” sau „-esc”.",
+      "table": {
+        "headers": ["Person", "Ending", "a scrie (to write) [ACC/DAT]", "a merge (to walk/go)", "a înțelege (to understand) [ACC]"],
+        "rows": [
+          ["eu", "-(zero)", "scriu", "merg", "înțeleg"],
+          ["tu", "-i", "scrii", "mergi", "înțelegi"],
+          ["el/ea", "-e", "scrie", "merge", "înțelege"],
+          ["noi", "-em", "scriem", "mergem", "înțelegem"],
+          ["voi", "-eți", "scrieți", "mergeți", "înțelegeți"],
+          ["ei/ele", "-(zero)", "scriu", "merg", "înțeleg"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Eu scriu un e-mail pentru departamentul de marketing. (I am writing an email for the marketing department.)",
+          "en": "Modern context: Professional writing.",
+          "notes": "a scrie (3rd conj.) ends in -u for 1st person sg: scriu."
+        },
+        {
+          "ro": "Ei merg la o conferință de tehnologie. (They are going to a technology conference.)",
+          "en": "Modern context: Professional development / Travel.",
+          "notes": "a merge (3rd conj.) is very common for 'to go'."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The 4th Conjugation (Verbs ending in -i or -î)",
+      "headingRo": "Conjugarea a IV-a (Verbe terminate în -i sau -î)",
+      "content": "This group is very diverse and includes verbs that take the '-esc' suffix. Phonetic changes, especially in the 3rd person singular, are common and must be memorized.",
+      "contentRo": "Acest grup este foarte diversificat și include numeroase verbe care primesc sufixul „-esc”. Modificările fonetice, în special la persoana a III-a singular, sunt frecvente și trebuie memorate.",
+      "table": {
+        "headers": ["Person", "Ending", "a dormi (to sleep)", "a fugi (to run)", "a auzi (to hear) [ACC]", "a coborî (to descend)"],
+        "rows": [
+          ["eu", "-(zero)", "dorm", "fug", "aud", "cobor"],
+          ["tu", "-i", "dormi", "fugi", "auzi", "cobori"],
+          ["el/ea", "-e", "doarme", "fuge", "aude", "coboară"],
+          ["noi", "-im", "dormim", "fugim", "auzim", "coborâm"],
+          ["voi", "-iți", "dormiți", "fugiți", "auziți", "coborâți"],
+          ["ei/ele", "-(zero)", "dorm", "fug", "aud", "cobor"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mă scuzați, nu aud bine din cauza conexiunii. (Excuse me, I can't hear well because of the connection.)",
+          "en": "Modern context: Troubleshooting / Remote meetings.",
+          "notes": "a auzi (4th conj.) is essential for communication."
+        },
+        {
+          "ro": "Colegii mei coboară la prânz acum. (My colleagues are going down for lunch now.)",
+          "en": "Modern context: Office routine.",
+          "notes": "a coborî (4th conj. in -î) follows the 'coboară' pattern in 3rd person."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Verb: a fi (to be)",
+      "headingRo": "Verb Neregulat: a fi (a fi)",
+      "content": "This is the most important irregular verb in Romanian. It is used as an auxiliary verb and on its own:",
+      "contentRo": "Acesta este cel mai important verb neregulat din română. Se folosește ca verb auxiliar și de unul singur:",
+      "table": {
+        "headers": ["Person", "Present", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["eu", "sunt", "Eu sunt profesor.", "I am a teacher."],
+          ["tu", "ești", "Tu ești frumos.", "You are handsome."],
+          ["el/ea", "este / e", "El este acasă.", "He is at home."],
+          ["noi", "suntem", "Noi suntem obosiți.", "We are tired."],
+          ["voi", "sunteți", "Voi sunteți prieteni.", "You are friends."],
+          ["ei/ele", "sunt", "Ei sunt bucuroși.", "They are happy."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Ea este din România. (She is from Romania.)",
+          "en": "'este' can be shortened to 'e' in casual speech: Ea e din România.",
+          "notes": "The shortened form 'e' is very common in everyday Romanian."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Verb: a avea (to have)",
+      "headingRo": "Verb Neregulat: a avea (a avea)",
+      "content": "Another essential irregular verb, also used as an auxiliary:",
+      "contentRo": "Un alt verb neregulat esențial, folosit și ca auxiliar:",
+      "table": {
+        "headers": ["Person", "Present", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["eu", "am", "Eu am o carte.", "I have a book."],
+          ["tu", "ai", "Tu ai timp?", "Do you have time?"],
+          ["el/ea", "are", "El are 20 de ani.", "He is 20 years old."],
+          ["noi", "avem", "Noi avem o casă mare.", "We have a big house."],
+          ["voi", "aveți", "Voi aveți dreptate.", "You are right."],
+          ["ei/ele", "au", "Ei au copii.", "They have children."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Câți ani ai? (How old are you? — lit. How many years do you have?)",
+          "en": "Romanian uses 'a avea' to express age, not 'a fi'.",
+          "notes": "Eu am 25 de ani = I am 25 years old."
+        }
+      ]
+    {
+      "type": "explanation",
+      "heading": "Other Common Irregular Verbs",
+      "headingRo": "Alte Verbe Neregulate Comune",
+      "content": "These irregular verbs are used frequently in everyday Romanian. Note the cases they govern when followed by an object:",
+      "contentRo": "Aceste verbe neregulate se folosesc frecvent în româna de zi cu zi. Atenție la cazurile pe care le cer atunci când sunt urmate de un complement:",
+      "table": {
+        "headers": ["Person", "a vrea (to want) [ACC]", "a merge (to go)", "a ști (to know) [ACC]", "a putea (can/may)", "a veni (to come)"],
+        "rows": [
+          ["eu", "vreau", "merg", "știu", "pot", "vin"],
+          ["tu", "vrei", "mergi", "știi", "poți", "vii"],
+          ["el/ea", "vrea", "merge", "știe", "poate", "vine"],
+          ["noi", "vrem", "mergem", "știm", "putem", "venim"],
+          ["voi", "vreți", "mergeți", "știți", "puteți", "veniți"],
+          ["ei/ele", "vor", "merg", "știu", "pot", "vin"]
+        ]
+      },
+    ...
+    {
+      "type": "tip",
+      "heading": "Understanding Case Government",
+      "content": "In Romanian, many verbs automatically require a specific case for their objects. [ACC] indicates Accusative (often using 'pe' for people), and [DAT] indicates Dative (meaning 'to/for someone'). Knowing the case is as important as knowing the conjugation.",
+      "contentRo": "În limba română, multe verbe cer în mod automat un anumit caz pentru complementele lor. [ACC] indică Acuzativul (adesea cu „pe” pentru persoane), iar [DAT] indică Dativul (sensul de „cuiva”). Cunoașterea cazului este la fel de importantă ca și cunoașterea conjugării."
+    },
+    {
+      "type": "tip",
+      "heading": "Using the Present for the Future",
+          "en": "a vrea is irregular: eu vreau, tu vrei, el/ea vrea, noi vrem, voi vreți, ei/ele vor.",
+          "notes": "The 3rd person singular 'vrea' is different from 1st person 'vreau'. Don't confuse them!"
+        },
+        {
+          "ro": "Eu știu limba română. (I know the Romanian language.)",
+          "en": "a ști means 'to know' (facts, information). For 'to know a person', use a cunoaște.",
+          "notes": "știu (I know) vs. cunosc (I know/am acquainted with) — different verbs in Romanian."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Using the Present for the Future",
+      "content": "In everyday Romanian, the present tense is often used with time expressions to talk about the future. This is especially common with verbs of motion and planned events:",
+      "contentRo": "În româna de zi cu zi, timpul prezent se folosește adesea cu expresii de timp pentru a vorbi despre viitor. Acest lucru este comun cu verbele de mișcare și evenimente planificate:",
+      "rules": [
+        "Mâine merg la cinema. (Tomorrow I'm going to the cinema.)",
+        "Luni avem o întâlnire. (On Monday we have a meeting.)",
+        "Următorul autobuz vine la ora 8. (The next bus comes at 8 o'clock.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Watch out for these frequent errors when conjugating verbs in the present tense:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când conjugi verbele la prezent:",
+      "rules": [
+        "Don't forget the vowel shift in 1st conjugation: cânta → cântă (not 'cânta')",
+        "Don't confuse a fi (eu sunt) with a avea (eu am)",
+        "Don't mix up a vrea forms: el/ea vrea (not 'vreau'), ei/ele vor (not 'vreau')",
+        "Don't forget the 3rd person singular -e in 4th conjugation: dorm → doarme (not 'dorm')",
+        "Remember: a ști (to know facts) vs. a cunoaște (to know/be acquainted with)"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: El vrea o cafea. (He wants a coffee.)",
+          "en": "The 3rd person singular of a vrea is 'vrea', not 'vreau'.",
+          "notes": "This is the most common mistake learners make!"
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Romanian has 4 conjugation groups: -a (1st), -ea (2nd), -e (3rd), -i/-î (4th)",
+    "1st conjugation (-a): largest group; vowel shift a → ă in most forms",
+    "2nd conjugation (-ea): smaller group; characteristic vowel is 'e'",
+    "3rd conjugation (-e): includes many common verbs like a merge, a scrie",
+    "4th conjugation (-i/-î): 3rd person singular adds -e (dorm → doarme)",
+    "a fi (to be): sunt, ești, este, suntem, sunteți, sunt",
+    "a avea (to have): am, ai, are, avem, aveți, au",
+    "a vrea (to want): vreau, vrei, vrea, vrem, vreți, vor",
+    "The present tense can express future meaning with time expressions",
+    "a ști = to know (facts), a cunoaște = to know (a person)"
+  ],
+  "summaryPointsRo": [
+    "Româna are 4 conjugări: -a (I), -ea (a II-a), -e (a III-a), -i/-î (a IV-a)",
+    "Conjugarea I (-a): cel mai mare grup; schimbare vocalică a → ă în majoritatea formelor",
+    "Conjugarea a II-a (-ea): grup mai mic; vocala caracteristică este 'e'",
+    "Conjugarea a III-a (-e): include multe verbe comune ca a merge, a scrie",
+    "Conjugarea a IV-a (-i/-î): persoana a III-a singular adaugă -e (dorm → doarme)",
+    "a fi (a fi): sunt, ești, este, suntem, sunteți, sunt",
+    "a avea (a avea): am, ai, are, avem, aveți, au",
+    "a vrea (a vrea): vreau, vrei, vrea, vrem, vreți, vor",
+    "Timpul prezent poate exprima sens de viitor cu expresii de timp",
+    "a ști = a ști (fapte), a cunoaște = a cunoaște (o persoană)"
+  ],
+  "relatedExercises": ["E06-present-conjugation"]
+}

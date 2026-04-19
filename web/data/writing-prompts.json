@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "prompts": [
+    {"id": "w1", "week": 1, "prompt": "Prezintă-te: cum te cheamă, de unde ești, ce faci, ce îți place.", "promptEn": "Introduce yourself: name, origin, occupation, hobbies.", "words": 80, "type": "informal"},
+    {"id": "w2", "week": 2, "prompt": "Descrie-ți familia: câți membri are, cum îi cheamă, ce fac ei.", "promptEn": "Describe your family: members, names, occupations.", "words": 100, "type": "informal"},
+    {"id": "w3", "week": 3, "prompt": "Ce ai mâncat azi? Descrie un fel de mâncare românesc preferat.", "promptEn": "What did you eat today? Describe your favorite Romanian dish.", "words": 80, "type": "informal"},
+    {"id": "w4", "week": 4, "prompt": "Descrie-ți rutina zilnică de luni până vineri.", "promptEn": "Describe your daily routine from Monday to Friday.", "words": 120, "type": "informal"},
+    {"id": "w5", "week": 5, "prompt": "Unde ai fost în vacanță? Ce ai făcut acolo? Cum a fost?", "promptEn": "Where did you go on holiday? What did you do there?", "words": 120, "type": "informal"},
+    {"id": "w6", "week": 6, "prompt": "Care sunt planurile tale pentru weekendul viitor? Scrie folosind viitorul și subjonctivul.", "promptEn": "What are your plans for next weekend? Use future and subjunctive.", "words": 100, "type": "informal"},
+    {"id": "w7", "week": 6, "prompt": "Scrie o scrisoare informală unui prieten în care îi povestești cum îți merge.", "promptEn": "Write an informal letter to a friend about how you're doing.", "words": 150, "type": "informal_letter"},
+    {"id": "w8", "week": 7, "prompt": "Compară două orașe: unde ai vrea să locuiești și de ce?", "promptEn": "Compare two cities: where would you like to live and why?", "words": 150, "type": "opinion"},
+    {"id": "w9", "week": 8, "prompt": "Explică de ce este important să învățăm limbi străine.", "promptEn": "Explain why it's important to learn foreign languages.", "words": 150, "type": "opinion"},
+    {"id": "w10", "week": 9, "prompt": "Dacă ai putea călători oriunde, unde ai merge și de ce?", "promptEn": "If you could travel anywhere, where would you go and why?", "words": 120, "type": "opinion"},
+    {"id": "w11", "week": 9, "prompt": "Dă-i instrucțiuni unui prieten cum să ajungă la casa ta.", "promptEn": "Give directions to a friend on how to get to your house.", "words": 100, "type": "informal"},
+    {"id": "w12", "week": 10, "prompt": "Descrie o tradiție românească pe care o cunoști.", "promptEn": "Describe a Romanian tradition that you know.", "words": 150, "type": "formal"},
+    {"id": "w13", "week": 10, "prompt": "Scrie un mesaj formal universității în care întrebi despre un program de studiu.", "promptEn": "Write a formal message to a university asking about a study program.", "words": 120, "type": "formal_email"},
+    {"id": "w14", "week": 11, "prompt": "Exprimă-ți părerea despre tehnologia în educație: avantaje și dezavantaje.", "promptEn": "Express your opinion about technology in education: pros and cons.", "words": 150, "type": "opinion"},
+    {"id": "w15", "week": 11, "prompt": "Descrie o situație în care ai fost nervos sau fericit și cum ai reacționat.", "promptEn": "Describe a situation where you were nervous or happy and how you reacted.", "words": 150, "type": "narrative"},
+    {"id": "w16", "week": 12, "prompt": "Prezentă-te ca la un interviu: de ce vrei să înveți românește?", "promptEn": "Introduce yourself as in a job interview: why do you want to learn Romanian?", "words": 120, "type": "formal"},
+    {"id": "w17", "week": 12, "prompt": "Rezumă un articol sau o știre pe care ai citit-o recent.", "promptEn": "Summarize an article or news story you read recently.", "words": 150, "type": "formal"}
+  ]
+}

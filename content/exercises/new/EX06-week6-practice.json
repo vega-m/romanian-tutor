@@ -1,0 +1,197 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX06-week6-practice",
+  "title": "Week 6 Practice: Future, Subjunctive and Negation",
+  "titleRo": "Exerciții Săptămâna 6: Viitor, Subjonctiv și Negare",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G13-future-tense",
+    "G14-subjunctive",
+    "G20-negation"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice future tense, subjunctive constructions, and negation patterns in Romanian. These exercises mix fill-in-the-blank, multiple-choice, error correction, a free writing task, and translation. Focus on choosing the right future construction, using 'să' correctly after modal verbs, and applying negative concord properly.",
+  "instructionsRo": "Exersează timpul viitor, construcțiile de subjonctiv și tiparele de negație în limba română. Aceste exerciții combină completare de spații, alegere multiple, corectare a greșelilor, o sarcină de scriere liberă și traducere. Concentrează-te pe alegerea construcției corecte de viitor, folosirea corectă a lui 'să' după verbele modale și aplicarea corectă a concordanței negative.",
+  "sourceWeek": 6,
+  "exercises": [
+    {
+      "id": "ex06_001",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct future tense form: Tu ___ un examen dificil săptămâna viitoare. (a avea — to have)",
+      "promptRo": "Completează cu forma corectă de viitor: Tu ___ un examen dificil săptămâna viitoare. (a avea)",
+      "sentence": "Tu ___ un examen dificil săptămâna viitoare.",
+      "answer": "vei avea",
+      "acceptableAnswers": [
+        "vei avea"
+      ],
+      "explanation": "For 'tu' (2nd person singular), the future auxiliary is 'vei'. Combined with the infinitive 'avea', the correct form is 'vei avea'. Full future paradigm of 'a avea': eu voi avea, tu vei avea, el/ea va avea, noi vom avea, voi veți avea, ei/ele vor avea.",
+      "explanationRo": "Pentru 'tu' (persoana a II-a singular), auxiliarul de viitor este 'vei'. Combinat cu infinitivul 'avea', forma corectă este 'vei avea'. Paradigma completă de viitor a lui 'a avea': eu voi avea, tu vei avea, el/ea va avea, noi vom avea, voi veți avea, ei/ele vor avea."
+    },
+    {
+      "id": "ex06_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the subjunctive after 'a vrea': Ea vrea să ___ engleză în Germania. (a studia — to study)",
+      "promptRo": "Completează cu subjonctivul după 'a vrea': Ea vrea să ___ engleză în Germania. (a studia)",
+      "sentence": "Ea vrea să ___ engleză în Germania.",
+      "answer": "studieze",
+      "acceptableAnswers": [
+        "studieze"
+      ],
+      "explanation": "After 'a vrea', Romanian uses 'să' + subjunctive present. For 'ea' (3rd person singular), the subjunctive of 'a studia' is 'studieze'. The subjunctive present of 'a studia': eu să studiez, tu să studiezi, el/ea să studieze, noi să studiem, voi să studiați, ei/ele să studieze. Note the characteristic '-eze' ending for 3rd person singular.",
+      "explanationRo": "După 'a vrea', româna folosește 'să' + prezentul subjonctivului. Pentru 'ea' (persoana a III-a singular), subjonctivul lui 'a studia' este 'studieze'. Subjonctivul prezent de 'a studia': eu să studiez, tu să studiezi, el/ea să studieze, noi să studiem, voi să studiați, ei/ele să studieze. Observă terminația caracteristică '-eze' pentru persoana a III-a singular."
+    },
+    {
+      "id": "ex06_003",
+      "type": "fill-blank",
+      "prompt": "Negate this sentence: 'El a primit un mesaj.' → 'El ___ ___ mesaj.'",
+      "promptRo": "Negă această propoziție: 'El a primit un mesaj.' → 'El ___ ___ mesaj.'",
+      "sentence": "El a primit un mesaj.",
+      "answer": "n-a primit niciun",
+      "acceptableAnswers": [
+        "n-a primit niciun",
+        "nu a primit niciun"
+      ],
+      "explanation": "To negate a sentence with an indefinite article ('un'), replace 'un' with the negative indefinite 'niciun' and add 'nu' (or 'n-') before the verb. 'N-a primit niciun mesaj' or 'Nu a primit niciun mesaj' are correct. Romanian requires double negation: both the negative particle and the negative indefinite appear.",
+      "explanationRo": "Pentru a nega o propoziție cu articol nehotărât ('un'), înlocuiește 'un' cu negativul nehotărât 'niciun' și adaugă 'nu' (sau 'n-') înainte de verb. 'N-a primit niciun mesaj' sau 'Nu a primit niciun mesaj' este corect. Româna cere negația dublă: atât particula negativă, cât și negativul nehotărât apar în propoziție."
+    },
+    {
+      "id": "ex06_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the popular future (o să + subjunctive): Noi ___ o casă mare anul viitor. (a cumpăra — to buy)",
+      "promptRo": "Completează cu viitorul popular (o să + subjonctiv): Noi ___ o casă mare anul viitor. (a cumpăra)",
+      "sentence": "Noi ___ o casă mare anul viitor.",
+      "answer": "o să cumpărăm",
+      "acceptableAnswers": [
+        "o să cumpărăm"
+      ],
+      "explanation": "The popular future uses the invariable particle 'o să' + present subjunctive. For 'noi' (1st person plural), the subjunctive of 'a cumpăra' is 'cumpărăm'. The full popular future paradigm: eu o să cumpăr, tu o să cumperi, el/ea o să cumpere, noi o să cumpărăm, voi o să cumpărați, ei/ele o să cumpere.",
+      "explanationRo": "Viitorul popular folosește particula invariabilă 'o să' + prezentul subjonctivului. Pentru 'noi' (persoana I plural), subjonctivul lui 'a cumpăra' este 'cumpărăm'. Paradigma completă a viitorului popular: eu o să cumpăr, tu o să cumperi, el/ea o să cumpere, noi o să cumpărăm, voi o să cumpărați, ei/ele o să cumpere."
+    },
+    {
+      "id": "ex06_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the subjunctive after 'a trebui' (must/to have to)?",
+      "promptRo": "Care propoziție folosește corect subjonctivul după 'a trebui'?",
+      "answer": "Trebuie să învăț pentru examen.",
+      "options": [
+        "Trebuie să învăț pentru examen.",
+        "Trebuie învăț pentru examen.",
+        "Trebuie voi învăț pentru examen.",
+        "Trebuie să voi învăț pentru examen."
+      ],
+      "explanation": "After 'a trebui' (trebuie), the subjunctive construction 'să' + subjunctive present is required: 'Trebuie să învăț.' You cannot drop 'să', and you cannot use the future auxiliary 'voi' after 'să'. The subjunctive present form 'învăț' is identical to the indicative present for most verbs.",
+      "explanationRo": "După 'a trebui' (trebuie), construcția subjonctivului 'să' + prezentul subjonctivului este obligatorie: 'Trebuie să învăț.' Nu se poate omite 'să' și nu se poate folosi auxiliarul de viitor 'voi' după 'să'. Forma subjonctivului prezent 'învăț' este identică cu indicativul prezent pentru majoritatea verbelor."
+    },
+    {
+      "id": "ex06_006",
+      "type": "multiple-choice",
+      "prompt": "Which negation is correct for 'El merge undeva în weekend.'?",
+      "promptRo": "Care negație este corectă pentru 'El merge undeva în weekend.'?",
+      "answer": "El nu merge niciodată nicăieri în weekend.",
+      "options": [
+        "El nu merge niciodată nicăieri în weekend.",
+        "El nu merge undeva în weekend.",
+        "El merge nicăieri în weekend.",
+        "El nu merge nimeni în weekend."
+      ],
+      "explanation": "To negate 'undeva' (somewhere), use 'nicăieri' (nowhere) with the negative particle 'nu'. The correct negation is 'nu merge nicăieri'. Adding 'niciodată' (never) strengthens the negation. Romanian allows multiple negative words in the same sentence (negative concord), so 'nu merge niciodată nicăieri' is grammatically correct.",
+      "explanationRo": "Pentru a nega 'undeva' (undeva), se folosește 'nicăieri' (nicăieri) cu particula negativă 'nu'. Negația corectă este 'nu merge nicăieri'. Adăugarea lui 'niciodată' (niciodată) întărește negația. Româna permite mai multe cuvinte negative în aceeași propoziție (concordanță negativă), deci 'nu merge niciodată nicăieri' este corect gramatical."
+    },
+    {
+      "id": "ex06_007",
+      "type": "multiple-choice",
+      "prompt": "What is the difference between 'Voi merge la școală' and 'O să merg la școală'?",
+      "promptRo": "Care este diferența dintre 'Voi merge la școală' și 'O să merg la școală'?",
+      "answer": "Both mean 'I will go to school', but 'voi merge' is more formal and 'o să merg' is more colloquial.",
+      "options": [
+        "Both mean 'I will go to school', but 'voi merge' is more formal and 'o să merg' is more colloquial.",
+        "'Voi merge' is in the past tense and 'o să merg' is in the future tense.",
+        "'Voi merge' is incorrect Romanian.",
+        "They have completely different meanings."
+      ],
+      "explanation": "Both constructions express the future tense. 'Voi merge' uses the standard future (a voi + infinitive) and is more formal, common in writing and formal speech. 'O să merg' uses the popular future (o să + subjunctive) and is more colloquial, common in everyday conversation. Both are grammatically correct and widely used.",
+      "explanationRo": "Ambele construcții exprimă viitorul. 'Voi merge' folosește viitorul standard (a voi + infinitiv) și este mai formal, comun în scriere și în vorbirea formală. 'O să merg' folosește viitorul popular (o să + subjonctiv) și este mai colocvial, comun în conversația de zi cu zi. Ambele sunt corecte gramatical și larg folosite."
+    },
+    {
+      "id": "ex06_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the future tense error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de viitor din această propoziție:",
+      "sentence": "El o să merg la mare luna viitoare.",
+      "answer": "El o să meargă la mare luna viitoare.",
+      "explanation": "The error is 'merg' — after 'o să', the verb must be in the subjunctive present, not the indicative present. For 'el' (3rd person singular), the subjunctive of 'a merge' is 'mergă', not 'merg'. The form 'merg' is the 1st person singular indicative. Correct: El o să meargă.",
+      "explanationRo": "Greșeala este 'merg' — după 'o să', verbul trebuie să fie la subjonctiv prezent, nu la indicativ prezent. Pentru 'el' (persoana a III-a singular), subjonctivul lui 'a merge' este 'mergă', nu 'merg'. Forma 'merg' este indicativul prezent persoana I singular. Corect: El o să meargă."
+    },
+    {
+      "id": "ex06_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the negation error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de negație din această propoziție:",
+      "sentence": "N-am văzut niciun prietenul meu.",
+      "answer": "N-am văzut niciun prieten al meu.",
+      "explanation": "The error is the article 'prietenul' — after the negative indefinite 'niciun', the noun takes the indefinite (nominative-accusative without article), not the definite article. 'Niciun prieten' is correct (no friend). If using the definite, it would be a different structure. The genitive construction 'al meu' replaces the definite article '-l' to show possession after 'niciun'. Correct: N-am văzut niciun prieten al meu.",
+      "explanationRo": "Greșeala este articolul 'prietenul' — după negativul nehotărât 'niciun', substantivul ia forma nehotărâtă (nominativ-acuzativ fără articol), nu articolul hotărât. 'Niciun prieten' este corect (niciun prieten). Construcția genitivală 'al meu' înlocuiește articolul hotărât '-l' pentru a arăta posesia după 'niciun'. Corect: N-am văzut niciun prieten al meu."
+    },
+    {
+      "id": "ex06_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the subjunctive error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de subjonctiv din această propoziție:",
+      "sentence": "Nu pot să plec acum pentru că am treabă.",
+      "answer": "This sentence is correct as written. No error.",
+      "explanation": "This sentence is actually correct. 'Nu pot să plec' uses 'a putea' (pot) followed by the subjunctive construction 'să plec'. The subjunctive form 'plec' is correct for the 1st person singular of 'a pleca'. The meaning is 'I cannot leave now because I have things to do.'",
+      "explanationRo": "Această propoziție este de fapt corectă. 'Nu pot să plec' folosește 'a putea' (pot) urmat de construcția subjonctivului 'să plec'. Forma subjonctivă 'plec' este corectă pentru persoana I singular de 'a pleca'. Sensul este 'Nu pot să plec acum pentru că am treabă.'"
+    },
+    {
+      "id": "ex06_011",
+      "type": "writing",
+      "prompt": "Describe your plans for next weekend (planurile pentru weekendul viitor) using the future tense and the subjunctive. Write 8-10 sentences. Use both the standard future (voi + infinitive) and the popular future (o să + subjunctive) at least twice each. Also use the subjunctive after modal verbs (a vrea, a putea, a trebui) at least twice. Include at least two negative sentences using different negation words (nu, n-am, niciun, nimeni, niciodată, nimic).",
+      "promptRo": "Descrie planurile tale pentru weekendul viitor folosind viitorul și subjonctivul. Scrie 8-10 propoziții. Folosește atât viitorul standard (voi + infinitiv), cât și viitorul popular (o să + subjonctiv) de cel puțin două ori fiecare. De asemenea, folosește subjonctivul după verbele modale (a vrea, a putea, a trebui) de cel puțin două ori. Include cel puțin două propoziții negative folosind cuvinte de negație diferite (nu, n-am, niciun, nimeni, niciodată, nimic).",
+      "answer": "Model answer:\n\nWeekendul viitor am multe planuri. Sâmbătă dimineața, voi merge la piață pentru că vreau să cumpăr legume proaspete. După aceea, o să curăț apartamentul pentru că trebuie să fie ordine. Nu vreau să invit pe nimeni sâmbătă seara — prefer să stau acasă și o să vizionez un film. Duminică, voi vizita părinții mei în orașul natal. Trebuie să plec devreme ca să ajung la timp la prânz. Sora mea vrea să gătească ceva special pentru noi. După-amiaza, o să jucăm tenis dacă va fi frumos. N-am niciun plan pentru duminică seara, așa că o să citesc o carte liniștită. Niciodată nu merg la culcare târziu duminica, pentru că luni trebuie să mă trezesc devreme.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Future Tense",
+            "description": "Correct and varied use of both standard future (voi + infinitive: voi merge, voi vizita) and popular future (o să + subjunctive: o să curăț, o să jucăm). At least two instances of each construction required.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Subjunctive",
+            "description": "Correct use of subjunctive after modal verbs (a vrea, a putea, a trebui): vreau să, pot să, trebuie să. Proper subjunctive verb forms (vină, mănânce, ajungă etc.). At least two instances required.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Negation",
+            "description": "Correct use of negative words and patterns: nu, n-am, niciun, nimeni, niciodată, nimic. Proper negative concord (double negation where required). At least two different negative words required.",
+            "maxPoints": 2
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Appropriate weekend and activity vocabulary (weekend, piață, a curăța, a vizita, a găti, tenis, film, carte, etc.). Varied and natural word choice.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Grammar",
+            "description": "Overall grammatical accuracy including correct word order, subject-verb agreement, article usage, preposition use, and proper diacritics. Sentence structure should be varied and natural.",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "ex06_012",
+      "type": "translation",
+      "prompt": "Translate the following Romanian sentences into English:\n1. Mâine voi scrie o scrisoare părinților mei.\n2. Vreau să învăț românește, dar nu am timp.\n3. N-am văzut pe nimeni la petrecere aseară.\n4. Trebuie să ajungem la aeroport până la ora cinci.",
+      "promptRo": "Traduce următoarele propoziții din română în engleză:\n1. Mâine voi scrie o scrisoare părinților mei.\n2. Vreau să învăț românește, dar nu am timp.\n3. N-am văzut pe nimeni la petrecere aseară.\n4. Trebuie să ajungem la aeroport până la ora cinci.",
+      "direction": "ro-to-en",
+      "answer": "1. Tomorrow I will write a letter to my parents.\n2. I want to learn Romanian, but I don't have time.\n3. I didn't see anyone at the party last night.\n4. We must get to the airport by five o'clock.",
+      "acceptableAnswers": [
+        "1. Tomorrow I will write a letter to my parents.\n2. I want to learn Romanian, but I don't have time.\n3. I didn't see anyone at the party last night.\n4. We must get to the airport by five o'clock."
+      ],
+      "explanation": "Sentence 1 uses the standard future: 'voi scrie' (I will write). Sentence 2 uses the subjunctive after 'a vrea': 'vreau să învăț' (I want to learn), combined with negation 'nu am timp' (I don't have time). Sentence 3 demonstrates negative concord: 'n-am văzut pe nimeni' (I didn't see anyone) — both the contracted 'n-' and 'nimeni' are required. Sentence 4 uses the subjunctive after 'a trebui': 'trebuie să ajungem' (we must arrive).",
+      "explanationRo": "Propoziția 1 folosește viitorul standard: 'voi scrie' (I will write). Propoziția 2 folosește subjonctivul după 'a vrea': 'vreau să învăț' (I want to learn), combinat cu negația 'nu am timp' (I don't have time). Propoziția 3 demonstrează concordanța negativă: 'n-am văzut pe nimeni' (I didn't see anyone) — atât 'n-' contractat, cât și 'nimeni' sunt obligatorii. Propoziția 4 folosește subjonctivul după 'a trebui': 'trebuie să ajungem' (we must arrive)."
+    }
+  ]
+}

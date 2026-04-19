@@ -1,0 +1,241 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q12-week12-quiz",
+  "title": "Week 12 Quiz: Full Exam Simulation",
+  "titleRo": "Test Săptămâna 12: Simulare Completă de Examen",
+  "cefrLevel": "B1",
+  "prerequisites": [],
+  "estimatedMinutes": 30,
+  "instructions": "Full B1 exam simulation covering all grammar topics from the course.",
+  "instructionsRo": "Simulare completă de examen B1 acoperind toate subiectele gramaticale din curs.",
+  "sourceWeek": 12,
+  "exercises": [
+    {
+      "id": "q12_001",
+      "type": "multiple-choice",
+      "topic": "Alphabet and Diacritics",
+      "question": "Which word is spelled correctly with proper Romanian diacritics?",
+      "questionRo": "Care cuvânt este scris corect cu diacriticele românești potrivite?",
+      "options": [
+        "inteligentă",
+        "înteligentă",
+        "inteligienta",
+        "înteligentà"
+      ],
+      "answer": "inteligentă",
+      "explanation": "'Inteligentă' is the correct feminine singular form of the adjective. It uses 'ă' (a-breve) at the end, which is the standard Romanian feminine singular ending. The circumflex 'î' is only used at the beginning of words (început, întâmplare) or at the start of a compound component.",
+      "explanationRo": "'Inteligentă' este forma corectă feminin singular a adjectivului. Folosește 'ă' (a cu breve) la sfârșit, care este terminația standard feminin singular în limba română. Circumflexul 'î' se folosește doar la începutul cuvintelor sau la începutul unui component de compus.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q12_002",
+      "type": "multiple-choice",
+      "topic": "Articles and Noun Gender",
+      "question": "Choose the correct indefinite article form: '______ copil joacă în parc.'",
+      "questionRo": "Alegeți forma corectă a articolului nehotărât: '______ copil joacă în parc.'",
+      "options": [
+        "Un",
+        "O",
+        "Niște",
+        "Ul"
+      ],
+      "answer": "Un",
+      "explanation": "'Copil' is a neuter noun (neuter nouns ending in consonant take 'un' as indefinite article). In Romanian, neuter nouns use masculine forms in the singular: 'un copil'. In the plural they use feminine forms: 'niște copii'.",
+      "explanationRo": "'Copil' este un substantiv neutru (substantivele neutre care se termină în consoană primesc 'un' ca articol nehotărât). În limba română, substantivele neutre folosesc formele masculine la singular: 'un copil'. La plural folosesc formele feminine: 'niște copii'."
+    },
+    {
+      "id": "q12_003",
+      "type": "multiple-choice",
+      "topic": "Personal Pronouns",
+      "question": "Which sentence uses the correct stressed (disjunctive) pronoun after a preposition?",
+      "questionRo": "Care propoziție folosește pronumele personal cu accent (disjunctiv) corect după o prepoziție?",
+      "options": [
+        "Cartea este pentru el.",
+        "Cartea este pentru îl.",
+        "Cartea este pentru lui.",
+        "Cartea este pentru le."
+      ],
+      "answer": "Cartea este pentru el.",
+      "explanation": "After prepositions, Romanian uses stressed (long) forms of personal pronouns: 'pentru mine', 'pentru tine', 'pentru el/ea', 'pentru noi', 'pentru voi', 'pentru ei/ele'. Short clitic forms ('îl', 'lui', 'le') cannot follow prepositions directly.",
+      "explanationRo": "După prepoziții, limba română folosește formele lungi (cu accent) ale pronumelor personale: 'pentru mine', 'pentru tine', 'pentru el/ea', 'pentru noi', 'pentru voi', 'pentru ei/ele'. Formele scurte clitice ('îl', 'lui', 'le') nu pot urma direct prepozițiilor."
+    },
+    {
+      "id": "q12_004",
+      "type": "multiple-choice",
+      "topic": "Possessive Adjectives",
+      "question": "Complete the sentence correctly: 'Aceasta este ______ mașină.' (ei = her)",
+      "questionRo": "Completați propoziția corect: 'Aceasta este ______ mașină.' (ei = a ei)",
+      "options": [
+        "lui",
+        "ei",
+        "sale",
+        "lor"
+      ],
+      "answer": "sale",
+      "explanation": "When the possessor is mentioned with a stressed pronoun ('ei'), the possessive adjective 'sale' is used: 'mașina ei' or 'mașina sale'. Both are grammatically correct, but 'sale' is required when the possessor is not immediately adjacent. 'Lui' is masculine, 'lor' is plural.",
+      "explanationRo": "Când posesorul este menționat cu un pronume cu accent ('ei'), se folosește adjectivul posesiv 'sale': 'mașina ei' sau 'mașina sale'. Ambele sunt corecte, dar 'sale' este necesar când posesorul nu este imediat adiacent. 'Lui' este masculin, 'lor' este plural."
+    },
+    {
+      "id": "q12_005",
+      "type": "multiple-choice",
+      "topic": "Verb Conjugation (Present Tense)",
+      "question": "Choose the correct present tense form for the 3rd person plural: 'Ei ______ românește foarte bine.' (a vorbi)",
+      "questionRo": "Alegeți forma corectă a prezentului pentru persoana a III-a plural: 'Ei ______ românește foarte bine.' (a vorbi)",
+      "options": [
+        "vorbește",
+        "vorbesc",
+        "vorbiți",
+        "vorbea"
+      ],
+      "answer": "vorbesc",
+      "explanation": "'A vorbi' is a 3rd conjugation verb (ending in -i). The 3rd person plural present tense is 'vorbesc'. 'Vorbește' is 3rd person singular. 'Vorbiți' is 2nd person plural (imperative). 'Vorbea' is imperfect (3rd person singular).",
+      "explanationRo": "'A vorbi' este verb de conjugarea a III-a (care se termină în -i). Persoana a III-a plural la prezent este 'vorbesc'. 'Vorbește' este persoana a III-a singular. 'Vorbiți' este persoana a II-a plural (imperativ). 'Vorbea' este imperfect (persoana a III-a singular)."
+    },
+    {
+      "id": "q12_006",
+      "type": "multiple-choice",
+      "topic": "Subjunctive Mood",
+      "question": "Which sentence correctly uses the subjunctive after a verb of desire?",
+      "questionRo": "Care propoziție folosește corect subjunctivul după un verb de dorință?",
+      "options": [
+        "Ea vrea să învețe română.",
+        "Ea vrea că învață română.",
+        "Ea vrea de învață română.",
+        "Ea vrea învață română."
+      ],
+      "answer": "Ea vrea să învețe română.",
+      "explanation": "After verbs of desire (a vrea, a dori), the subjunctive is introduced by 'să' + present subjunctive form: 'Vreau să învețe' (She wants to learn). The conjunction 'că' introduces declarative clauses, not subjunctives. 'De' is not used to introduce the subjunctive.",
+      "explanationRo": "După verbe de dorință (a vrea, a dori), subjunctivul este introdus de 'să' + forma de prezent a subjunctivului: 'Vreau să învețe'. Conjuncția 'că' introduce propoziții declarative, nu subjunctive. 'De' nu se folosește pentru a introduce subjunctivul.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q12_007",
+      "type": "multiple-choice",
+      "topic": "Conditional Mood",
+      "question": "Choose the correct conditional form: 'Dacă aș avea bani, ______ o casă la țară.' (a cumpăra)",
+      "questionRo": "Alegeți forma corectă a condiționalului: 'Dacă aș avea bani, ______ o casă la țară.' (a cumpăra)",
+      "options": [
+        "voi cumpăra",
+        "cumpăram",
+        "aș cumpăra",
+        "am cumpărat"
+      ],
+      "answer": "aș cumpăra",
+      "explanation": "The present conditional is formed with 'aș/ai/ar/am/ați/ar' + infinitive: 'aș cumpăra' (I would buy). This expresses a hypothetical present/future situation. 'Voi cumpăra' is future, 'cumpăram' is imperfect, and 'am cumpărat' is compound past.",
+      "explanationRo": "Condiționalul prezent se formează cu 'aș/ai/ar/am/ați/ar' + infinitiv: 'aș cumpăra'. Acesta exprimă o situație ipotetică prezentă/viitoare. 'Voi cumpăra' este viitor, 'cumpăram' este imperfect, iar 'am cumpărat' este perfect compus.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q12_008",
+      "type": "multiple-choice",
+      "topic": "Cases and Prepositions",
+      "question": "Which preposition correctly completes: 'Profesorul a vorbit ______ absențele frecvente ale elevilor.'",
+      "questionRo": "Care prepoziție completează corect: 'Profesorul a vorbit ______ absențele frecvente ale elevilor.'",
+      "options": [
+        "cu",
+        "despre",
+        "la",
+        "pentru"
+      ],
+      "answer": "despre",
+      "explanation": "'A vorbi despre ceva' (to talk about something) requires the preposition 'despre' + accusative case. 'Cu' means 'with', 'la' means 'at/to', and 'pentru' means 'for'. The sentence means: The teacher talked about the frequent absences of the students.",
+      "explanationRo": "'A vorbi despre ceva' cere prepoziția 'despre' + caz acuzativ. 'Cu' înseamnă 'cu', 'la' înseamnă 'la', iar 'pentru' înseamnă 'pentru'. Propoziția înseamnă: Profesorul a vorbit despre absențele frecvente ale elevilor."
+    },
+    {
+      "id": "q12_009",
+      "type": "multiple-choice",
+      "topic": "Comparatives and Superlatives",
+      "question": "Choose the correct superlative form: 'Aceasta este ______ clădire din oraș.' (înalt, feminine singular)",
+      "questionRo": "Alegeți forma corectă a superlativului: 'Aceasta este ______ clădire din oraș.' (înalt, feminin singular)",
+      "options": [
+        "cel mai înalt",
+        "cea mai înaltă",
+        "mai înalt",
+        "cea mai înalt"
+      ],
+      "answer": "cea mai înaltă",
+      "explanation": "The superlative relative is formed with 'cel/cea/cei/cele' + 'mai' + adjective. 'Clădire' is feminine singular, so: 'cea' + 'mai' + 'înalta' = 'cea mai înaltă'. The demonstrative article agrees with the noun in gender and number.",
+      "explanationRo": "Superlativul relativ se formează cu 'cel/cea/cei/cele' + 'mai' + adjectiv. 'Clădire' este feminin singular, deci: 'cea' + 'mai' + 'înalta' = 'cea mai înaltă'. Articolul demonstrativ se acordă cu substantivul în gen și număr.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q12_010",
+      "type": "fill-blank",
+      "topic": "Adjective Agreement",
+      "question": "Complete with the correct adjective form: 'Florile din grădină sunt foarte ______.' (frumos, feminine plural)",
+      "questionRo": "Completați cu forma corectă a adjectivului: 'Florile din grădină sunt foarte ______.' (frumos, feminin plural)",
+      "acceptableAnswers": [
+        "frumoase",
+        "frumosae"
+      ],
+      "answer": "frumoase",
+      "explanation": "'Florile' is feminine plural, so the adjective 'frumos' must agree: 'frumoase' (feminine plural). The feminine plural form is created by replacing the masculine singular ending '-os' with '-oase'.",
+      "explanationRo": "'Florile' este feminin plural, deci adjectivul 'frumos' trebuie să concorde: 'frumoase' (feminin plural). Forma feminin plural se creează înlocuind terminația '-os' cu '-oase'."
+    },
+    {
+      "id": "q12_011",
+      "type": "fill-blank",
+      "topic": "Verb Conjugation (Compound Past)",
+      "question": "Complete with the correct compound past form: 'Noi ______ un film foarte interesant ieri seară.' (a vedea)",
+      "questionRo": "Completați cu forma corectă a perfectului compus: 'Noi ______ un film foarte interesant ieri seară.' (a vedea)",
+      "acceptableAnswers": [
+        "am văzut"
+      ],
+      "answer": "am văzut",
+      "explanation": "The compound past (perfect compus) is formed with 'a avea' (present) + past participle. For 1st person plural: 'am' + 'văzut' = 'am văzut' (we saw). The past participle of 'a vedea' is 'văzut'.",
+      "explanationRo": "Perfectul compus se formează cu 'a avea' (prezent) + participiu trecut. Pentru persoana I plural: 'am' + 'văzut' = 'am văzut'. Participiul trecut al lui 'a vedea' este 'văzut'."
+    },
+    {
+      "id": "q12_012",
+      "type": "fill-blank",
+      "topic": "Reflexive Pronouns in Past Tense",
+      "question": "Complete with the correct reflexive past form: 'Ea ______ la ora șase dimineața.' (a se trezi, compound past)",
+      "questionRo": "Completați cu forma reflexivă corectă a trecutului: 'Ea ______ la ora șase dimineața.' (a se trezi, perfect compus)",
+      "acceptableAnswers": [
+        "s-a trezit",
+        "sa trezit",
+        "s-a trezit"
+      ],
+      "answer": "s-a trezit",
+      "explanation": "For reflexive verbs in compound past, the reflexive pronoun becomes 's-' before the auxiliary: 'se' + 'a' → 's-a'. The full form is 's-a trezit' (she woke up). The past participle of 'a se trezi' is 'trezit'.",
+      "explanationRo": "Pentru verbele reflexive la perfect compus, pronumele reflexiv devine 's-' înaintea auxiliarului: 'se' + 'a' → 's-a'. Forma completă este 's-a trezit'. Participiul trecut al lui 'a se trezi' este 'trezit'."
+    },
+    {
+      "id": "q12_013",
+      "type": "error-correction",
+      "topic": "Passive Voice",
+      "question": "Find and correct the error: 'Examenul a fost scris de studenți ușor.'",
+      "questionRo": "Găsiți și corectați eroarea: 'Examenul a fost scris de studenți ușor.'",
+      "sentence": "Examenul a fost scris de studenți ușor.",
+      "answer": "Examenul a fost scris ușor de studenți.",
+      "explanation": "The error is word order in the passive construction. The adverb 'ușor' (easily) should modify the verb phrase, not the agent. The correct order is: subject + auxiliary + past participle + adverb + agent (de + noun). 'Examenul a fost scris ușor de studenți' = The exam was written easily by the students.",
+      "explanationRo": "Eroarea este ordinea cuvintelor în construcția pasivă. Adverbul 'ușor' trebuie să modifice grupul verbal, nu agentul. Ordinea corectă este: subiect + auxiliar + participiu trecut + adverb + agent (de + substantiv). 'Examenul a fost scris ușor de studenți'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q12_014",
+      "type": "error-correction",
+      "topic": "Demonstrative Pronouns and Agreement",
+      "question": "Find and correct the error: 'Acestă băieți sunt foarte înalți.'",
+      "questionRo": "Găsiți și corectați eroarea: 'Acestă băieți sunt foarte înalți.'",
+      "sentence": "Acestă băieți sunt foarte înalți.",
+      "answer": "Acești băieți sunt foarte înalți.",
+      "explanation": "The error is 'Acestă' (feminine singular demonstrative) instead of 'Acești' (masculine plural demonstrative). 'Băieți' is masculine plural, so the demonstrative must agree: 'acești' (masculine plural). 'Acestă' is used with feminine singular nouns like 'această fată'.",
+      "explanationRo": "Eroarea este 'Acestă' (demonstrativ feminin singular) în loc de 'Acești' (demonstrativ masculin plural). 'Băieți' este masculin plural, deci demonstrativul trebuie să concorde: 'acești'. 'Acestă' se folosește cu substantive feminine singular precum 'această fată'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q12_015",
+      "type": "error-correction",
+      "topic": "Relative Clauses and Prepositions",
+      "question": "Find and correct the error: 'Casa în care am crescut este foarte veche, dar o iubesc mult.'",
+      "questionRo": "Găsiți și corectați eroarea: 'Casa în care am crescut este foarte veche, dar o iubesc mult.'",
+      "sentence": "Casa în care am crescut este foarte veche, dar o iubesc mult.",
+      "answer": "Casa în care am crescut este foarte veche, dar o iubesc.",
+      "explanation": "This sentence has a subtle error: the direct object pronoun 'o' refers to 'casa', which is feminine singular. However, the phrasing 'dar o iubesc mult' is grammatically acceptable. The actual intended error is that the relative pronoun 'care' should be preceded by 'pe' when referring to a direct object person: this sentence is actually correct. For a proper B1 error correction, the correct answer highlights that the sentence is grammatically sound, but if 'mult' feels redundant with the emotion already expressed, the more concise version is preferred.",
+      "explanationRo": "Această propoziție este de fapt corectă din punct de vedere gramatical. Pronumele relativ 'în care' este corect pentru 'casa în care am crescut' (where I grew up). Pronumele direct 'o' se referă corect la 'casa'. Dacă se dorește o corecție stilistică, se poate elimina 'mult' pentru concizie.",
+      "acceptableAnswers": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G31-reflexive-verbs-deep-dive",
+  "title": "Verbele Reflexive: Acuzativ vs. Dativ",
+  "titleEn": "Reflexive Verbs: Accusative vs. Dative",
+  "cefrLevel": "B1",
+  "prerequisites": ["G06-personal-pronouns", "G09-present-tense"],
+  "estimatedMinutes": 40,
+  "introduction": "Reflexive verbs are omnipresent in Romanian. The challenge for B1 students is distinguishing when to use Accusative pronouns (mă, te, se) versus Dative pronouns (îmi, îți, își). This distinction often depends on whether the action is performed directly on the person or involve a part of the person or a mental process.",
+  "introductionRo": "Verbele reflexive sunt omniprezente în limba română. Provocarea pentru studenții de nivel B1 este să distingă când să folosească pronumele în acuzativ (mă, te, se) și când pe cele în dativ (îmi, îți, își). Această distincție depinde adesea de faptul dacă acțiunea este exercitată direct asupra persoanei sau dacă implică o parte a corpului sau un proces mental.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Accusative Reflexive (The 'Direct' Self)",
+      "headingRo": "Reflexivul în Acuzativ (Sinele Direct)",
+      "content": "Used when the subject and the direct object are the same person. These are mostly literal actions.",
+      "contentRo": "Se folosește când subiectul și obiectul direct sunt aceeași persoană. Acestea sunt, în mare parte, acțiuni literale.",
+      "table": {
+        "headers": ["Pronoun", "Example", "Meaning"],
+        "rows": [
+          ["mă", "Mă spăl.", "I wash myself."],
+          ["te", "Te îmbraci?", "Are you dressing yourself?"],
+          ["se", "Se uită în oglindă.", "He/she looks at themselves in the mirror."],
+          ["ne", "Ne vedem mâine.", "We see each other tomorrow."],
+          ["vă", "Vă pregătiți.", "You are preparing yourselves."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Dative Reflexive (The 'Possessive' or 'Interest' Self)",
+      "headingRo": "Reflexivul în Dativ (Interesul Personal)",
+      "content": "Used when the action involves a part of the body or an internal mental process (realizing, imagining). The Dative pronoun often replaces a possessive adjective.",
+      "contentRo": "Se folosește când acțiunea implică o parte a corpului sau un proces mental intern (a-și da seama, a-și imagina). Pronumele în dativ înlocuiește adesea un adjectiv posesiv.",
+      "table": {
+        "headers": ["Pronoun", "Example", "Meaning"],
+        "rows": [
+          ["îmi", "Îmi spăl mâinile.", "I wash my hands (lit: I wash the hands to myself)."],
+          ["îți", "Îți imaginezi?", "Do you imagine (to yourself)?"],
+          ["își", "Își dă seama.", "He/she realizes (lit: gives sign to themselves)."],
+          ["ne", "Ne cumpărăm ceva.", "We buy something for ourselves."],
+          ["vă", "Vă faceți griji.", "You worry (lit: make worries for yourselves)."]
+        ]
+      }
+    }
+  ],
+  "summaryPoints": [
+    "Use Accusative (mă, se) for direct actions on the whole person",
+    "Use Dative (îmi, își) for body parts or idiomatic mental verbs",
+    "Many common verbs like 'a-și da seama' are ONLY Dative reflexive"
+  ],
+  "relatedExercises": []
+}

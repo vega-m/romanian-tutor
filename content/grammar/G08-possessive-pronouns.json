@@ -1,0 +1,206 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G08-possessive-pronouns",
+  "title": "Pronumele și Adjectivele Posesive",
+  "titleEn": "Possessive Pronouns and Adjectives",
+  "cefrLevel": "A2",
+  "prerequisites": ["G02-articles", "G03-noun-gender", "G06-personal-pronouns"],
+  "estimatedMinutes": 35,
+  "introduction": "Possession in Romanian is expressed through possessive adjectives (my, your, etc.) and possessive pronouns (mine, yours, etc.). These forms are unique because they must agree in gender and number with the object being possessed, not the possessor. Mastering the use of the possessive article is essential for natural phrasing.",
+  "introductionRo": "Posesia în limba română este exprimată prin adjective posesive (meu, tău etc.) și pronume posesive (al meu, al tău etc.). Aceste forme sunt unice deoarece trebuie să se acorde în gen și număr cu obiectul posedat, nu cu posesorul. Stăpânirea utilizării articolului posesiv este esențială pentru o exprimare naturală.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Possessive Adjective",
+      "headingRo": "Adjectivul Posesiv",
+      "content": "In Romanian, possessive adjectives typically follow the noun, which must be in its definite form. The ending of the possessive adjective changes to match the gender and number of that noun.",
+      "contentRo": "În limba română, adjectivele posesive urmează, de regulă, substantivul, care trebuie să fie articulat hotărât. Terminația adjectivului posesiv se modifică pentru a se acorda în gen și număr cu acel substantiv.",
+      "table": {
+        "headers": ["Possessor", "Masc. sg.", "Fem. sg.", "Masc. pl.", "Fem. pl.", "Example"],
+        "rows": [
+          ["my (eu)", "meu", "mea", "mei", "mele", "fratele meu, sora mea"],
+          ["your (tu)", "tău", "ta", "tăi", "tale", "fratele tău, sora ta"],
+          ["his (el)", "lui", "lui", "lui", "lui", "fratele lui, sora lui"],
+          ["her (ea)", "ei", "ei", "ei", "ei", "fratele ei, sora ei"],
+          ["our (noi)", "nostru", "noastră", "noștri", "noastre", "fratele nostru, sora noastră"],
+          ["your (voi)", "vostru", "voastră", "voștri", "voastre", "fratele vostru, sora voastră"],
+          ["their (ei/ele)", "lor", "lor", "lor", "lor", "fratele lor, sora lor"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Cartea mea este pe masă. (My book is on the table.)",
+          "en": "'mea' agrees with 'cartea' (feminine singular) — NOT with the possessor (eu).",
+          "notes": "The possessive comes after the noun with the definite article: cartea mea."
+        },
+        {
+          "ro": "Prietenii noștri sunt aici. (Our friends are here.)",
+          "en": "'noștri' agrees with 'prietenii' (masculine plural).",
+          "notes": "The possessive always agrees with the possessed object in gender and number."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Possessive Pronoun",
+      "headingRo": "Pronumele Posesiv",
+      "content": "When used alone as a pronoun, the possessive must be preceded by the possessive article (al, a, ai, ale). This article must agree with the object being referred to.",
+      "contentRo": "Atunci când este folosit singur ca pronume, posesivul trebuie să fie precedat de articolul posesiv (al, a, ai, ale). Acest articol trebuie să se acorde cu obiectul la care se face referire.",
+      "table": {
+        "headers": ["Possessor", "Masc. sg.", "Fem. sg.", "Masc. pl.", "Fem. pl."],
+        "rows": [
+          ["my", "al meu", "a mea", "ai mei", "ale mele"],
+          ["your", "al tău", "a ta", "ai tăi", "ale tale"],
+          ["his", "al lui", "a lui", "ai lui", "ale lui"],
+          ["her", "al ei", "a ei", "ai ei", "ale ei"],
+          ["our", "al nostru", "a noastră", "ai noștri", "ale noastre"],
+          ["your (pl.)", "al vostru", "a voastră", "ai voștri", "ale voastre"],
+          ["their", "al lor", "a lor", "ai lor", "ale lor"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aceasta este cartea mea. A ta este pe birou. (This is my book. Yours is on the desk.)",
+          "en": "'A ta' stands alone as a possessive pronoun, meaning 'yours'.",
+          "notes": "'a ta' agrees with 'cartea' (feminine singular) — the understood possessed object."
+        },
+        {
+          "ro": "Casa al cui este? — A noastră. (Whose house is it? — Ours.)",
+          "en": "'A noastră' stands alone, agreeing with 'casa' (feminine singular).",
+          "notes": "In questions: 'Al cui?' (Whose? — masc. sg.) / 'A cui?' (Whose? — fem. sg.)"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Special Feature: 3rd Person Possessives",
+      "headingRo": "Trăsătură Specială: Posesivele Persoanei a III-a",
+      "content": "The 3rd person possessives are unique: 'lui' (his), 'ei' (her), 'lor' (their). They do NOT change form for gender or number of the possessed object — they always stay the same:",
+      "contentRo": "Posesivele persoanei a III-a sunt unice: 'lui' (al lui), 'ei' (al ei), 'lor' (al lor). Ele NU se schimbă pentru genul sau numărul obiectului posedat — rămân mereu la fel:",
+      "table": {
+        "headers": ["Possessor", "Form", "Masc. possessed", "Fem. possessed", "Plural possessed"],
+        "rows": [
+          ["his", "lui", "fratele lui", "sora lui", "frații lui / surorile lui"],
+          ["her", "ei", "fratele ei", "sora ei", "frații ei / surorile ei"],
+          ["their", "lor", "fratele lor", "sora lor", "frații lor / surorile lor"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mașina lui este roșie. (His car is red.)",
+          "en": "'lui' is invariable — it doesn't change for the feminine noun 'mașina'.",
+          "notes": "This is different from 1st/2nd person: mașina mea (my car) vs. mașina lui (his car)."
+        },
+        {
+          "ro": "Cartea ei este pe masă. (Her book is on the table.)",
+          "en": "'ei' is invariable — it doesn't change for the feminine noun 'cartea'.",
+          "notes": "'ei' (her) is easily confused with 'ei' (they, masculine). Context disambiguates."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Possessive with Indefinite Article",
+      "headingRo": "Posesiv cu Articol Nehotărât",
+      "content": "When the noun is indefinite (without a definite article), the possessive changes position and form:",
+      "contentRo": "Când substantivul este nehotărât (fără articol hotărât), posesivul își schimbă poziția și forma:",
+      "table": {
+        "headers": ["Definite", "Indefinite", "Translation"],
+        "rows": [
+          ["fratele meu", "un frate al meu", "my brother / a brother of mine"],
+          ["sora mea", "o soră a mea", "my sister / a sister of mine"],
+          ["cartea lui", "o carte a lui", "his book / a book of his"],
+          ["prietenii noștri", "niște prieteni ai noștri", "our friends / some friends of ours"],
+          ["casa lor", "o casă a lor", "their house / a house of theirs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Un prieten al meu vine mâine. (A friend of mine is coming tomorrow.)",
+          "en": "'al meu' replaces 'meu' when the noun is indefinite.",
+          "notes": "This pattern (noun + al/a/ai/ale + possessive) is very common in Romanian."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Interrogative Possessive: 'al cui' / 'a cui'",
+      "headingRo": "Posesivul Interogativ: 'al cui' / 'a cui'",
+      "content": "To ask 'whose?', Romanian uses 'al cui' (masculine) or 'a cui' (feminine), followed by the noun:",
+      "contentRo": "Pentru a întreba 'al cui?', româna folosește 'al cui' (masculin) sau 'a cui' (feminin), urmat de substantiv:",
+      "table": {
+        "headers": ["Question", "Answer", "Translation"],
+        "rows": [
+          ["Al cui este băiatul?", "Al meu.", "Whose boy is it? Mine."],
+          ["A cui este cartea?", "A mea.", "Whose book is it? Mine."],
+          ["Ai cui sunt copiii?", "Ai noștri.", "Whose children are they? Ours."],
+          ["Ale cui sunt cărțile?", "Ale ei.", "Whose books are they? Hers."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "A cui este această mașină? — A lui Ion. (Whose car is this? — Ion's.)",
+          "en": "'A cui' agrees with 'mașină' (feminine).",
+          "notes": "The answer uses the possessive: a lui Ion (Ion's)."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Word Order with Possessives",
+      "content": "In Romanian, the default position is noun + possessive (after the noun). However, the possessive can come before the noun in certain contexts:",
+      "contentRo": "În română, poziția implicită este substantiv + posesiv (după substantiv). Totuși, posesivul poate veni înaintea substantivului în anumite contexte:",
+      "rules": [
+        "Default: fratele meu (my brother) — possessive after noun with definite article",
+        "Before noun (emphasis): fratele meu cel mic (my little brother — emphatic)",
+        "Before noun (archaic/poetic): meu frate (my brother — archaic)",
+        "Indefinite: un frate al meu (a brother of mine)",
+        "In general, place the possessive after the noun — this is the natural pattern"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using possessives:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești posesivele:",
+      "rules": [
+        "Don't make the 3rd person possessive agree with the possessed object: 'lui' stays 'lui' (not 'lui/lui/lui')",
+        "Don't confuse 'ei' (her possessive) with 'ei' (they, masculine subject pronoun)",
+        "Don't forget: possessives agree with the POSSESSED object, not the possessor",
+        "Don't use 'meu' with indefinite nouns: use 'al meu' instead (un frate al meu, not un frate meu)",
+        "Remember: 'al' for masc. sg., 'a' for fem. sg., 'ai' for masc. pl., 'ale' for fem. pl."
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Prietenele ei sunt frumoase. (Her friends are beautiful.)",
+          "en": "'ei' (her possessive) does NOT change to agree with 'prietenele' (feminine plural).",
+          "notes": "3rd person possessives are invariable. This is a common source of confusion."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Possessives agree with the possessed object in gender and number, NOT with the possessor",
+    "Short forms (after noun): meu, mea, mei, mele (my); tău, ta, tăi, tale (your)",
+    "Long forms (pronouns): al meu, a mea, ai mei, ale mele (mine)",
+    "3rd person: lui (his), ei (her), lor (their) — invariable, never change form",
+    "With indefinite article: un/o + noun + al/a/ai/ale + possessive",
+    "Question: al cui? (whose? masc.) / a cui? (whose? fem.)",
+    "Possessive articles: al (masc. sg.), a (fem. sg.), ai (masc. pl.), ale (fem. pl.)",
+    "Default position: after the noun (fratele meu), not before",
+    "'ei' (her possessive) = 'ei' (they, masc. pronoun) — same form, different meaning"
+  ],
+  "summaryPointsRo": [
+    "Posesivele se acordă cu obiectul posedat în gen și număr, NU cu posesorul",
+    "Forme scurte (după substantiv): meu, mea, mei, mele (al meu); tău, ta, tăi, tale (al tău)",
+    "Forme lungi (pronume): al meu, a mea, ai mei, ale mele (al meu)",
+    "Persoana a III-a: lui (al lui), ei (al ei), lor (al lor) — invariabile, nu se schimbă niciodată",
+    "Cu articol nehotărât: un/o + substantiv + al/a/ai/ale + posesiv",
+    "Întrebare: al cui? (al cui? masc.) / a cui? (a cui? fem.)",
+    "Articole posesive: al (masc. sg.), a (fem. sg.), ai (masc. pl.), ale (fem. pl.)",
+    "Poziție implicită: după substantiv (fratele meu), nu înainte",
+    "'ei' (posesiv ei) = 'ei' (ei, pronume masc.) — aceeași formă, sens diferit"
+  ],
+  "relatedExercises": ["E08-possessive-drill", "E08-whose"]
+}

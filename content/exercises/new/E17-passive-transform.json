@@ -1,0 +1,133 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E17-passive-transform",
+  "title": "Passive Voice and Non-Finite Forms",
+  "titleRo": "Diateza Pasivă și Formele Nefinite",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G23-passive-voice",
+    "G24-infinitive-gerund"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Practice transforming Romanian active sentences into passive voice, and using infinitives, gerunds (participiu), and supines.",
+  "instructionsRo": "Exersează transformarea propozițiilor active românești în diateza pasivă și folosirea infinitivelor, gerunzilor și supinelor.",
+  "sourceWeek": 9,
+  "exercises": [
+    {
+      "id": "e17_001",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct passive form of 'Profesorul corectează testele' (The teacher corrects the tests)?",
+      "promptRo": "Care este forma corectă la pasiv a lui 'Profesorul corectează testele'?",
+      "answer": "Testele sunt corectate de profesor.",
+      "options": [
+        "Testele sunt corectate de profesor.",
+        "Testele corectate sunt de profesor.",
+        "Testele de profesor sunt corectate.",
+        "Sunt corectate testele de la profesor."
+      ],
+      "explanation": "Passive voice: subject + 'sunt/este' + past participle + 'de' + agent. 'Testele sunt corectate de profesor' (The tests are corrected by the teacher). The past participle 'corectate' agrees with 'testele' (f. pl.).",
+      "explanationRo": "Diateza pasivă: subiect + 'sunt/este' + participiu trecut + 'de' + agent. 'Testele sunt corectate de profesor'. Participiul trecut 'corectate' este de acord cu 'testele' (f. pl.)."
+    },
+    {
+      "id": "e17_002",
+      "type": "fill-blank",
+      "prompt": "Transform to passive: 'Ei construiesc o casă.' -> O casă ___ .",
+      "promptRo": "Transformă la pasiv: 'Ei construiesc o casă.' -> O casă ___ .",
+      "sentence": "Ei construiesc o casă. -> O casă ___ de ei.",
+      "answer": "este construită",
+      "acceptableAnswers": [
+        "este construită"
+      ],
+      "explanation": "Passive: 'O casă este construită de ei' (A house is built by them). 'Construită' is feminine singular to agree with 'casă'.",
+      "explanationRo": "Pasiv: 'O casă este construită de ei'. 'Construită' este feminin singular pentru a fi de acord cu 'casă'."
+    },
+    {
+      "id": "e17_003",
+      "type": "multiple-choice",
+      "prompt": "What is the past participle of 'a scrie' (to write)?",
+      "promptRo": "Care este participiul trecut a lui 'a scrie' (a scrie)?",
+      "answer": "scris",
+      "options": [
+        "scriind",
+        "scris",
+        "de scris",
+        "a scrie"
+      ],
+      "explanation": "Past participle of 'a scrie': scris. Used in passive voice: Scrisoarea este scrisă de Maria (The letter is written by Maria). Note: the participle agrees in gender/number when used attributively.",
+      "explanationRo": "Participiul trecut a lui 'a scrie': scris. Folosit în diateza pasivă: Scrisoarea este scrisă de Maria. Notă: participiul este de acord în gen/număr când este folosit atributiv."
+    },
+    {
+      "id": "e17_004",
+      "type": "fill-blank",
+      "prompt": "Form the gerund (gerunziu) of 'a citi' (to read): ___ , a înțeles totul.",
+      "promptRo": "Formează gerunziul lui 'a citi' (a citi): ___ , a înțeles totul.",
+      "sentence": "___ cartea, a înțeles totul.",
+      "answer": "Citind",
+      "acceptableAnswers": [
+        "Citind",
+        "citind"
+      ],
+      "explanation": "Gerund (gerunziu) of 'a citi': citind. The gerund is formed by adding -ind to the verb stem: a citi -> citind (reading). It expresses simultaneous action: Citind cartea, a înțeles totul (Reading the book, he understood everything).",
+      "explanationRo": "Gerunziul lui 'a citi': citind. Gerunziul se formează adăugând -ind la rădăcina verbului: a citi -> citind. Exprimă acțiunea simultană: Citind cartea, a înțeles totul."
+    },
+    {
+      "id": "e17_005",
+      "type": "multiple-choice",
+      "prompt": "What is the supine form of 'a citi' (to read)?",
+      "promptRo": "Care este forma de supin a lui 'a citi' (a citi)?",
+      "answer": "de citit",
+      "options": [
+        "citind",
+        "de citit",
+        "citit",
+        "a citit"
+      ],
+      "explanation": "Supine of 'a citi': de citit. The supine is used after verbs of motion or request: Am un text de citit (I have a text to read). Supine = de + past participle stem.",
+      "explanationRo": "Supinul lui 'a citi': de citit. Supinul se folosește după verbe de mișcare sau cerere: Am un text de citit. Supin = de + rădăcina participiului trecut."
+    },
+    {
+      "id": "e17_006",
+      "type": "fill-blank",
+      "prompt": "Complete with the gerund of 'a merge' (to walk): ___ pe stradă, am văzut un prieten.",
+      "promptRo": "Completează cu gerunziul lui 'a merge' (a merge): ___ pe stradă, am văzut un prieten.",
+      "sentence": "___ pe stradă, am văzut un prieten.",
+      "answer": "Mergând",
+      "acceptableAnswers": [
+        "Mergând",
+        "mergând"
+      ],
+      "explanation": "Gerund of 'a merge': mergând. The gerund form for verbs like 'a merge' uses -ând on the stem 'merg-'.",
+      "explanationRo": "Gerunziul lui 'a merge': mergând. Forma gerunziului pentru verbe ca 'a merge' folosește -ând pe rădăcina 'merg-'."
+    },
+    {
+      "id": "e17_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the passive voice in the past tense?",
+      "promptRo": "Care propoziție folosește corect diateza pasivă la timpul trecut?",
+      "answer": "Cartea a fost scrisă de autor în 2020.",
+      "options": [
+        "Cartea fost scrisă de autor în 2020.",
+        "Cartea a fost scrisă de autor în 2020.",
+        "Cartea a scris de autor în 2020.",
+        "Cartea este fost scrisă de autor în 2020."
+      ],
+      "explanation": "Passive past: subject + 'a fost' + past participle + 'de' + agent. 'Cartea a fost scrisă de autor în 2020' (The book was written by the author in 2020).",
+      "explanationRo": "Pasiv trecut: subiect + 'a fost' + participiu trecut + 'de' + agent. 'Cartea a fost scrisă de autor în 2020'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e17_008",
+      "type": "fill-blank",
+      "prompt": "Complete with the supine: Am multe lucruri ___ (to do).",
+      "promptRo": "Completează cu supinul: Am multe lucruri ___ .",
+      "sentence": "Am multe lucruri de ___ .",
+      "answer": "făcut",
+      "acceptableAnswers": [
+        "făcut"
+      ],
+      "explanation": "Supine of 'a face': de făcut. The supine is commonly used with 'de' to express purpose or necessity: Am multe lucruri de făcut (I have many things to do).",
+      "explanationRo": "Supinul lui 'a face': de făcut. Supinul se folosește frecvent cu 'de' pentru a exprima scopul sau necesitatea: Am multe lucruri de făcut."
+    }
+  ]
+}

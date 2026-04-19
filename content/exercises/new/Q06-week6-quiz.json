@@ -1,0 +1,227 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q06-week6-quiz",
+  "title": "Week 6 Quiz: Future, Subjunctive and Negation",
+  "titleRo": "Test Săptămâna 6: Viitor, Subjonctiv și Negare",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G13-future-tense",
+    "G14-subjunctive",
+    "G20-negation"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Test your knowledge of future, subjunctive and negation in Romanian.",
+  "instructionsRo": "Testează-ți cunoștințele despre viitor, subjonctiv și negare în limba română.",
+  "sourceWeek": 6,
+  "exercises": [
+    {
+      "id": "q06_001",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct future tense form for 'I will travel'?",
+      "promptRo": "Care este forma corectă pentru 'I will travel'?",
+      "answer": "Eu voi călători.",
+      "options": [
+        "Eu voi călători.",
+        "Eu voi călătoresc.",
+        "Eu o călători.",
+        "Eu va călători."
+      ],
+      "explanation": "The future tense in Romanian is formed with the auxiliary 'a voi' + infinitive. 'Eu voi călători' is correct: 'voi' is the 1st person singular auxiliary, and 'călători' is the infinitive. The form 'voi călătoresc' is wrong because the main verb must be in the infinitive, not the present tense.",
+      "explanationRo": "Viitorul în limba română se formează cu auxiliarul 'a voi' + infinitiv. 'Eu voi călători' este corect: 'voi' este auxiliarul persoanei I singular, iar 'călători' este infinitivul. Forma 'voi călătoresc' este greșită pentru că verbul principal trebuie să fie la infinitiv, nu la prezent."
+    },
+    {
+      "id": "q06_002",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct future form: 'Mâine ei ___ la mare.' (a merge — to go)",
+      "promptRo": "Alege forma corectă de viitor: 'Mâine ei ___ la mare.' (a merge)",
+      "answer": "vor merge",
+      "options": [
+        "vor merge",
+        "va merge",
+        "o să meargă",
+        "voi merge"
+      ],
+      "explanation": "For 'ei' (3rd person plural), the future auxiliary is 'vor'. The full form is 'vor merge'. Option 'va merge' is for 3rd person singular. Option 'o să meargă' uses the popular future (o să + subjunctive), which is grammatically possible but the quiz asks for the standard 'voi + infinitive' construction.",
+      "explanationRo": "Pentru 'ei' (persoana a III-a plural), auxiliarul de viitor este 'vor'. Forma completă este 'vor merge'. Opțiunea 'va merge' este pentru persoana a III-a singular. Opțiunea 'o să meargă' folosește viitorul popular (o să + subjonctiv), care este corect gramatical, dar testul cere construcția standard 'voi + infinitiv'."
+    },
+    {
+      "id": "q06_003",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the popular future construction (o să + subjunctive) correctly?",
+      "promptRo": "Care propoziție folosește corect construcția de viitor popular (o să + subjonctiv)?",
+      "answer": "O să scriu o scrisoare mâine.",
+      "options": [
+        "O să scriu o scrisoare mâine.",
+        "O să scrie o scrisoare mâine.",
+        "O scriu să o scrisoare mâine.",
+        "Să o scriu o scrisoare mâine."
+      ],
+      "explanation": "The popular future uses 'o să' + present subjunctive. 'O să scriu' is correct: 'o să' is the invariable future particle and 'scriu' is the 1st person singular subjunctive of 'a scrie'. The subject follows the pattern: eu o să scriu, tu o să scrii, el/ea o să scrie, noi o să scriem, voi o să scrieți, ei/ele o să scrie.",
+      "explanationRo": "Viitorul popular folosește 'o să' + prezentul subjonctivului. 'O să scriu' este corect: 'o să' este particula invariabilă de viitor, iar 'scriu' este subjonctivul persoanei I singular de 'a scrie'. Tiparul este: eu o să scriu, tu o să scrii, el/ea o să scrie, noi o să scriem, voi o să scrieți, ei/ele o să scrie."
+    },
+    {
+      "id": "q06_004",
+      "type": "multiple-choice",
+      "prompt": "After 'a vrea' (to want), which construction is correct?",
+      "promptRo": "După 'a vrea', care construcție este corectă?",
+      "answer": "Vreau să mănânc.",
+      "options": [
+        "Vreau să mănânc.",
+        "Vreau mănânc.",
+        "Vreau voi mănânc.",
+        "Vreau de mănânc."
+      ],
+      "explanation": "After 'a vrea', Romanian uses the subjunctive construction 'să' + subjunctive present: 'Vreau să mănânc.' The particle 'să' introduces the subjunctive and the verb takes the subjunctive present form (which is identical to the present indicative for most verbs). You cannot use the infinitive directly or the future auxiliary after 'să'.",
+      "explanationRo": "După 'a vrea', româna folosește construcția subjonctivului 'să' + prezentul subjonctivului: 'Vreau să mănânc.' Particula 'să' introduce subjonctivul, iar verbul ia forma prezentului subjonctiv (care este identic cu indicativul prezent pentru majoritatea verbelor). Nu se poate folosi infinitivul direct sau auxiliarul de viitor după 'să'."
+    },
+    {
+      "id": "q06_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the subjunctive after 'a putea' (can/to be able to)?",
+      "promptRo": "Care propoziție folosește corect subjonctivul după 'a putea'?",
+      "answer": "Poți să vii diseară?",
+      "options": [
+        "Poți să vii diseară?",
+        "Poți vii diseară?",
+        "Poți de vii diseară?",
+        "Poți să vine diseară?"
+      ],
+      "explanation": "'A putea' takes the subjunctive construction: 'să' + subjunctive present. 'Poți să vii' is correct: 'poți' is the 2nd person singular of 'a putea', followed by 'să vii' (subjunctive of 'a veni'). Note that 'vii' is the correct subjunctive form for 'tu', not 'vine' (which is 3rd person).",
+      "explanationRo": "'A putea' cere construcția subjonctivului: 'să' + prezentul subjonctivului. 'Poți să vii' este corect: 'poți' este persoana a II-a singular de 'a putea', urmată de 'să vii' (subjonctiv de 'a veni'). Observă că 'vii' este forma corectă de subjonctiv pentru 'tu', nu 'vine' (care este persoana a III-a)."
+    },
+    {
+      "id": "q06_006",
+      "type": "multiple-choice",
+      "prompt": "What is the correct negation of 'Am văzut pe cineva.' (I saw someone.)",
+      "promptRo": "Care este negația corectă pentru 'Am văzut pe cineva.'?",
+      "answer": "N-am văzut pe nimeni.",
+      "options": [
+        "N-am văzut pe nimeni.",
+        "Nu am văzut pe cineva.",
+        "Nu am văzut nimeni.",
+        "N-am văzut pe nimic."
+      ],
+      "explanation": "In Romanian, when negating a sentence with 'cineva' (someone), two changes occur: 'nu am' contracts to 'n-am', and 'cineva' changes to its negative counterpart 'nimeni' (no one). Additionally, the preposition 'pe' is kept before 'nimeni' because it refers to a person. Correct: 'N-am văzut pe nimeni.'",
+      "explanationRo": "În limba română, când negăm o propoziție cu 'cineva', au loc două schimbări: 'nu am' devine 'n-am', iar 'cineva' se transformă în corespondentul său negativ 'nimeni'. De asemenea, prepoziția 'pe' se păstrează înainte de 'nimeni' deoarece se referă la o persoană. Corect: 'N-am văzut pe nimeni.'"
+    },
+    {
+      "id": "q06_007",
+      "type": "multiple-choice",
+      "prompt": "Which negation word means 'never'?",
+      "promptRo": "Care cuvânt de negație înseamnă 'niciodată'?",
+      "answer": "niciodată",
+      "options": [
+        "niciodată",
+        "nimic",
+        "niciunul",
+        "nimeni"
+      ],
+      "explanation": "'Niciodată' means 'never' in Romanian. The other negative words are: 'nimic' (nothing), 'niciunul' (not one / none), and 'nimeni' (no one). These are all part of the Romanian negative concord system, where multiple negative elements can appear in the same sentence.",
+      "explanationRo": "'Niciodată' înseamnă 'never' în limba română. Celelalte cuvinte negative sunt: 'nimic' (nothing), 'niciunul' (not one / none) și 'nimeni' (no one). Acestea fac parte din sistemul de concordanță negativă din limba română, unde mai multe elemente negative pot apărea în aceeași propoziție."
+    },
+    {
+      "id": "q06_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses 'niciun' (no/not a single)?",
+      "promptRo": "Care propoziție folosește corect 'niciun'?",
+      "answer": "N-am niciun prieten în orașul ăsta.",
+      "options": [
+        "N-am niciun prieten în orașul ăsta.",
+        "Nu am un prieten în orașul ăsta.",
+        "N-am niciunii prieteni în orașul ăsta.",
+        "Am niciun prieten în orașul ăsta."
+      ],
+      "explanation": "'Niciun' is the negative indefinite article used before masculine singular nouns: 'niciun prieten'. It requires a double negation: 'n-am' (contracted 'nu am') + 'niciun'. Option 'Nu am un prieten' is grammatically possible but changes the meaning (it is not a proper negative). 'Niciunii' does not exist — 'niciun' is invariable in form before masculine nouns.",
+      "explanationRo": "'Niciun' este articolul negativ nehotărât folosit înaintea substantivelor masculine singular: 'niciun prieten'. Necesită o negație dublă: 'n-am' (forma contractată 'nu am') + 'niciun'. Opțiunea 'Nu am un prieten' este posibilă gramatical, dar schimbă sensul (nu este o negație propriu-zisă). 'Niciunii' nu există — 'niciun' este invariabil în formă înaintea substantivelor masculine."
+    },
+    {
+      "id": "q06_009",
+      "type": "multiple-choice",
+      "prompt": "Which is the most natural way to say 'I will call you tomorrow' in everyday Romanian?",
+      "promptRo": "Care este cel mai natural mod de a spune 'I will call you tomorrow' în româna de zi cu zi?",
+      "answer": "O să te sun mâine.",
+      "options": [
+        "O să te sun mâine.",
+        "Voi a suna mâine.",
+        "Eu voi să te sun mâine.",
+        "Să te sun mâine."
+      ],
+      "explanation": "In everyday spoken Romanian, the popular future 'o să' + subjunctive is the most natural and common way to express the future. 'O să te sun mâine' is idiomatic and conversational. 'Voi a suna' is incorrect because the auxiliary 'voi' must be followed by the infinitive 'suna', not 'a suna'. The standard future 'Voi suna' is correct but less common in speech.",
+      "explanationRo": "În româna vorbită de zi cu zi, viitorul popular 'o să' + subjonctiv este cel mai natural și frecvent mod de a exprima viitorul. 'O să te sun mâine' este idiomatic și conversațional. 'Voi a suna' este incorect deoarece auxiliarul 'voi' trebuie urmat de infinitivul 'suna', nu de 'a suna'. Viitorul standard 'Voi suna' este corect, dar mai puțin folosit în vorbire."
+    },
+    {
+      "id": "q06_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct future tense form: Noi ___ la concert vineri seara. (a merge — to go)",
+      "promptRo": "Completează cu forma corectă de viitor: Noi ___ la concert vineri seara. (a merge)",
+      "sentence": "Noi ___ la concert vineri seara.",
+      "answer": "vom merge",
+      "acceptableAnswers": [
+        "vom merge"
+      ],
+      "explanation": "For 'noi' (1st person plural), the future auxiliary is 'vom'. Combined with the infinitive 'merge', the correct form is 'vom merge'. Full future paradigm of 'a merge': eu voi merge, tu vei merge, el/ea va merge, noi vom merge, voi veți merge, ei/ele vor merge.",
+      "explanationRo": "Pentru 'noi' (persoana I plural), auxiliarul de viitor este 'vom'. Combinat cu infinitivul 'merge', forma corectă este 'vom merge'. Paradigma completă de viitor a lui 'a merge': eu voi merge, tu vei merge, el/ea va merge, noi vom merge, voi veți merge, ei/ele vor merge."
+    },
+    {
+      "id": "q06_011",
+      "type": "fill-blank",
+      "prompt": "Complete with the subjunctive after 'a trebui': Trebuie să ___ la timp.",
+      "promptRo": "Completează cu subjonctivul după 'a trebui': Trebuie să ___ la timp.",
+      "sentence": "Trebuie să ___ la timp.",
+      "answer": "ajungem",
+      "acceptableAnswers": [
+        "ajungem",
+        "ajungi",
+        "ajungă",
+        "ajunge"
+      ],
+      "explanation": "After 'a trebui' (trebuie), use 'să' + subjunctive present. The subjunctive form depends on the implied subject. Most commonly in general statements, the 1st person plural 'ajungem' (we arrive) is used. However, 'ajungi' (you arrive, sg.), 'ajungă' (he/she arrives), or 'ajunge' (to arrive, impersonal) are also grammatically correct depending on context. All are accepted here.",
+      "explanationRo": "După 'a trebui' (trebuie), se folosește 'să' + prezentul subjonctivului. Forma subjonctivului depinde de subiectul subînțeles. Cel mai adesea în enunțuri generale, se folosește persoana I plural 'ajungem'. Totuși, 'ajungi' (pers. a II-a sg.), 'ajungă' (pers. a III-a) sau 'ajunge' (impersonal) sunt și ele corecte gramatical în funcție de context. Toate sunt acceptate aici."
+    },
+    {
+      "id": "q06_012",
+      "type": "fill-blank",
+      "prompt": "Negate this sentence: 'Ea a citit ceva interesant.' → 'Ea ___ ___ interesant.'",
+      "promptRo": "Negă această propoziție: 'Ea a citit ceva interesant.' → 'Ea ___ ___ interesant.'",
+      "sentence": "Ea a citit ceva interesant.",
+      "answer": "n-a citit nimic",
+      "acceptableAnswers": [
+        "n-a citit nimic",
+        "nu a citit nimic"
+      ],
+      "explanation": "To negate a sentence with 'ceva' (something), change it to 'nimic' (nothing) and add 'nu' (or the contracted form 'n-') before the auxiliary verb. 'N-a citit nimic' or 'Nu a citit nimic' are both correct. The double negation is required in Romanian: both 'nu/n-' and 'nimic' appear in the same sentence.",
+      "explanationRo": "Pentru a nega o propoziție cu 'ceva' (ceva), schimbă-l în 'nimic' (nimic) și adaugă 'nu' (sau forma contractată 'n-') înainte de verbul auxiliar. 'N-a citit nimic' sau 'Nu a citit nimic' sunt ambele corecte. Negația dublă este obligatorie în română: atât 'nu/n-', cât și 'nimic' apar în aceeași propoziție."
+    },
+    {
+      "id": "q06_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this future tense sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție la viitor:",
+      "sentence": "Eu voi merge la cinema diseară.",
+      "answer": "Eu voi merge la cinema diseară. (no error — sentence is correct)",
+      "explanation": "This sentence is actually correct. 'Voi merge' is the proper future tense form: 'voi' (1st person singular auxiliary) + 'merge' (infinitive). However, if the intention was to use the popular future, it would be 'O să merg la cinema diseară.' Both are grammatically correct, but the standard future 'voi merge' is properly formed here.",
+      "explanationRo": "Această propoziție este de fapt corectă. 'Voi merge' este forma corectă de viitor: 'voi' (auxiliar persoana I singular) + 'merge' (infinitiv). Totuși, dacă intenția era să se folosească viitorul popular, ar fi 'O să merg la cinema diseară.' Ambele sunt corecte gramatical, dar viitorul standard 'voi merge' este format corect aici."
+    },
+    {
+      "id": "q06_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the subjunctive error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de subjonctiv din această propoziție:",
+      "sentence": "Vreau să vine mâine la întâlnire.",
+      "answer": "Vreau să vină mâine la întâlnire.",
+      "explanation": "The error is 'vine' — after 'să', the subjunctive form for the 3rd person singular of 'a veni' is 'vină', not 'vine'. The subjunctive present of 'a veni': eu să vin, tu să vii, el/ea să vină, noi să venim, voi să veniți, ei/ele să vină. Correct: Vreau să vină.",
+      "explanationRo": "Greșeala este 'vine' — după 'să', forma de subjonctiv pentru persoana a III-a singular de 'a veni' este 'vină', nu 'vine'. Subjonctivul prezent de 'a veni': eu să vin, tu să vii, el/ea să vină, noi să venim, voi să veniți, ei/ele să vină. Corect: Vreau să vină."
+    },
+    {
+      "id": "q06_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the negation error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de negație din această propoziție:",
+      "sentence": "Nu am văzut nimic nimeni.",
+      "answer": "N-am văzut pe nimeni.",
+      "explanation": "The error is mixing two different negative pronouns: 'nimic' (nothing) and 'nimeni' (no one) cannot be combined in this way. Since the sentence refers to a person, the correct form uses 'pe nimeni'. Additionally, 'nu am' should contract to 'n-am' in natural speech. Correct: N-am văzut pe nimeni. (Or, if referring to a thing: Nu am văzut nimic.)",
+      "explanationRo": "Greșeala este combinarea a două pronume negative diferite: 'nimic' (nothing) și 'nimeni' (no one) nu pot fi combinate în acest fel. Deoarece propoziția se referă la o persoană, forma corectă folosește 'pe nimeni'. De asemenea, 'nu am' trebuie să se contracteze la 'n-am' în vorbirea naturală. Corect: N-am văzut pe nimeni. (Sau, dacă se referă la un lucru: Nu am văzut nimic.)"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R10-cultural-texts",
+  "title": "Texte Culturale și de Opinie",
+  "titleEn": "Cultural and Opinion Texts",
+  "cefrLevel": "B1",
+  "texts": [
+    {
+      "id": "r10_001",
+      "title": "Tradițiile de Paște în România",
+      "titleEn": "Easter Traditions in Romania",
+      "text": "Paștele este, fără îndoială, una dintre cele mai importante sărbători tradiționale din România. Spre deosebire de alte țări europene, unde Paștele este mai ales o sărbătoare religioasă, în România această sărbătoare este profund legată de identitatea culturală a fiecărei regiuni.\n\nÎn Muntenia și Oltenia, oamenii vopsesc ouă în roșu, simbol al sângelui lui Hristos, și le pun într-un coș împletit, alături de cozonac, pască și vin. Tradiția spune că în noaptea de Înviere, credincioșii duc coșurile la biserică pentru a fi sfințite de preot.\n\nÎn Transilvania, obiceiurile sunt și mai diverse. În satele săsești, ouăle sunt pictate manual cu motive geometrice și florale, fiecare motiv având un simbol specific: spirala înseamnă viață veșnică, crucea reprezintă credința, iar florile simbolizează frumusețea naturii. Aceste ouă pictate sunt adevărate opere de artă și sunt adesea expuse în muzee.\n\nÎn Maramureș, tradiția 'colindatului de ouă' este încă vie. Grupuri de copii și tineri merg din casă în casă, purtând costume tradiționale, și recită versuri speciale despre Paște. Gazdele îi răsplătesc cu ouă roșii și dulciuri.\n\nConsider că aceste tradiții sunt importante nu doar din punct de vedere religios, ci și cultural. Ele ne conectează cu rădăcinile noastre și ne amintesc de valorile care ne unesc ca popor. Într-o lume în care totul se schimbă rapid, păstrarea acestor obiceiuri devine din ce în ce mai valoroasă.",
+      "translation": "Easter is, without a doubt, one of the most important traditional holidays in Romania. Unlike other European countries, where Easter is primarily a religious holiday, in Romania this celebration is deeply connected to the cultural identity of each region.\n\nIn Muntenia and Oltenia, people dye eggs red, a symbol of Christ's blood, and place them in a woven basket, along with sweet bread (cozonac), pască, and wine. Tradition says that on the night of the Resurrection, believers take the baskets to church to be blessed by the priest.\n\nIn Transylvania, the customs are even more diverse. In Saxon villages, eggs are hand-painted with geometric and floral motifs, each motif having a specific meaning: the spiral means eternal life, the cross represents faith, and flowers symbolize the beauty of nature. These painted eggs are true works of art and are often exhibited in museums.\n\nIn Maramureș, the tradition of 'Easter caroling' is still alive. Groups of children and young people go from house to house, wearing traditional costumes, and recite special verses about Easter. The hosts reward them with red eggs and sweets.\n\nI believe these traditions are important not only from a religious point of view but also culturally. They connect us with our roots and remind us of the values that unite us as a people. In a world where everything changes rapidly, preserving these customs becomes increasingly valuable.",
+      "vocabularyNotes": [
+        {"word": "fără îndoială", "meaning": "without a doubt / undoubtedly", "notes": "Common formal expression"},
+        {"word": "sfințit", "meaning": "blessed / sanctified", "notes": "Past participle of 'a sfinți'"},
+        {"word": "cozonac", "meaning": "traditional sweet bread (like panettone)", "notes": "Essential Easter/Christmas food in Romania"},
+        {"word": "motiv", "meaning": "motif / pattern / design", "notes": "In context of embroidery or painted eggs"},
+        {"word": "rădăcină", "meaning": "root (literal and figurative)", "notes": "'Rădăcinile noastre' = our roots/heritage"},
+        {"word": "a răsplăti", "meaning": "to reward / to compensate", "notes": "Verb, 4th conjugation"}
+      ],
+      "questions": [
+        {
+          "id": "r10_q1",
+          "type": "multiple-choice",
+          "question": "Care este culoarea tradițională a ouălor de Paște în Muntenia?",
+          "questionEn": "What is the traditional color of Easter eggs in Muntenia?",
+          "options": ["Albastru", "Verde", "Roșu", "Galben"],
+          "answer": "Roșu"
+        },
+        {
+          "id": "r10_q2",
+          "type": "comprehension",
+          "question": "Ce simbolizează spirala pe ouăle pictate din Transilvania?",
+          "questionEn": "What does the spiral symbolize on the painted eggs from Transylvania?",
+          "answer": "Viața veșnică",
+          "acceptableAnswers": ["viață veșnică", "viață veșnică.", "Viața veșnică"],
+          "options": null
+        },
+        {
+          "id": "r10_q3",
+          "type": "multiple-choice",
+          "question": "Ce tradiție este descrisă ca fiind 'încă vie' în Maramureș?",
+          "questionEn": "What tradition is described as 'still alive' in Maramureș?",
+          "options": [
+            "Vopsitul ouălor în albastru",
+            "Colindatul de ouă",
+            "Pictatul icoanelor pe sticlă",
+            "Dansul călușarilor"
+          ],
+          "answer": "Colindatul de ouă"
+        },
+        {
+          "id": "r10_q4",
+          "type": "comprehension",
+          "question": "De ce consideră autorul că tradițiile de Paște sunt importante?",
+          "questionEn": "Why does the author consider Easter traditions important?",
+          "answer": "Ne conectează cu rădăcinile noastre și ne amintesc de valorile care ne unesc.",
+          "acceptableAnswers": ["ne conectează cu rădăcinile", "rădăcinile", "ne amintesc de valorile", "ne conectează cu rădăcinile noastre și ne amintesc de valorile care ne unesc ca popor"],
+          "options": null
+        },
+        {
+          "id": "r10_q5",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'fără îndoială' în acest context?",
+          "questionEn": "What does 'fără îndoială' mean in this context?",
+          "answer": "without a doubt / undoubtedly",
+          "acceptableAnswers": ["without a doubt", "undoubtedly", "fără îndoială", "certainly"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r10_002",
+      "title": "Tehnologia în Educație",
+      "titleEn": "Technology in Education",
+      "text": "În ultimul deceniu, tehnologia a transformat fundamental modul în care învățăm și predăm. Platformele online, aplicațiile educaționale și instrumentele digitale au devenit parte integrantă a procesului de învățământ, mai ales după pandemia din 2020.\n\nPe de o parte, există numeroase avantaje. Elevii au acces la o cantitate imensă de informații din întreaga lume. De exemplu, un elev dintr-un sat mic din România poate urmări cursuri video de la cele mai prestigioase universități. De asemenea, aplicațiile interactive fac învățarea mai atractivă și mai eficientă. Un studiu realizat în 2023 a arătat că elevii care folosesc aplicații educaționale obțin, în medie, cu 15% rezultate mai bune la testele standardizate.\n\nPe de altă parte, tehnologia prezintă și provocări semnificative. În primul rând, nu toți elevii au acces egal la tehnologie - acest fenomen se numește 'breșa digitală'. În România, aproximativ 20% dintre familii nu au un calculator acasă, ceea ce creează inegalități în educație. În al doilea rând, timpul excesiv petrecut în fața ecranelor poate afecta concentrarea și sănătatea fizică a tinerilor.\n\nÎn concluzie, consider că tehnologia este un instrument valoros în educație, dar trebuie folosită cu înțelepciune. Profesorii și părinții au responsabilitatea de a găsi un echilibru între utilizarea tehnologiei și metodele tradiționale de predare. Doar așa putem asigura că toți elevii beneficiază de avantajele lumii digitale fără a suferi dezavantajele.",
+      "translation": "In the last decade, technology has fundamentally transformed the way we learn and teach. Online platforms, educational applications, and digital tools have become an integral part of the educational process, especially after the 2020 pandemic.\n\nOn the one hand, there are numerous advantages. Students have access to an immense amount of information from around the world. For example, a student from a small village in Romania can follow video courses from the most prestigious universities. Additionally, interactive applications make learning more attractive and more efficient. A 2023 study showed that students who use educational applications score, on average, 15% better on standardized tests.\n\nOn the other hand, technology also presents significant challenges. First, not all students have equal access to technology - this phenomenon is called the 'digital divide'. In Romania, approximately 20% of families do not have a computer at home, which creates inequalities in education. Second, excessive time spent in front of screens can affect young people's concentration and physical health.\n\nIn conclusion, I believe technology is a valuable tool in education, but it must be used wisely. Teachers and parents have the responsibility to find a balance between using technology and traditional teaching methods. Only in this way can we ensure that all students benefit from the advantages of the digital world without suffering its disadvantages.",
+      "vocabularyNotes": [
+        {"word": "integral", "meaning": "integral / essential part", "notes": "Adjective: 'parte integrantă' = integral part"},
+        {"word": "prestigios", "meaning": "prestigious", "notes": "Adjective describing high status or reputation"},
+        {"word": "breșa digitală", "meaning": "digital divide", "notes": "Term describing inequality in access to technology"},
+        {"word": "a crea inegalități", "meaning": "to create inequalities", "notes": "Common collocation in formal/academic writing"},
+        {"word": "cu înțelepciune", "meaning": "wisely / with wisdom", "notes": "Adverbial phrase used in formal contexts"},
+        {"word": "echilibru", "meaning": "balance", "notes": "Noun: 'a găsi un echilibru' = to find a balance"}
+      ],
+      "questions": [
+        {
+          "id": "r10_q6",
+          "type": "multiple-choice",
+          "question": "Conform textului, ce procent de familii din România nu au calculator acasă?",
+          "questionEn": "According to the text, what percentage of Romanian families do not have a computer at home?",
+          "options": ["Aproximativ 15%", "Aproximativ 20%", "Aproximativ 30%", "Aproximativ 50%"],
+          "answer": "Aproximativ 20%"
+        },
+        {
+          "id": "r10_q7",
+          "type": "multiple-choice",
+          "question": "Ce înseamnă 'breșa digitală' conform textului?",
+          "questionEn": "What does 'digital divide' mean according to the text?",
+          "options": [
+            "Diferența de vârstă între utilizatorii de tehnologie",
+            "Inegalitatea în accesul la tehnologie",
+            "Distanța între școli și case",
+            "Diferența dintre sistemele de operare"
+          ],
+          "answer": "Inegalitatea în accesul la tehnologie"
+        },
+        {
+          "id": "r10_q8",
+          "type": "comprehension",
+          "question": "Ce avantaj al tehnologiei în educație este menționat cu un procent în text?",
+          "questionEn": "What advantage of technology in education is mentioned with a percentage in the text?",
+          "answer": "Elevii care folosesc aplicații educaționale obțin cu 15% rezultate mai bune.",
+          "acceptableAnswers": ["15%", "cu 15% rezultate mai bune", "15% mai bune"],
+          "options": null
+        },
+        {
+          "id": "r10_q9",
+          "type": "multiple-choice",
+          "question": "Care este concluzia autorului despre tehnologia în educație?",
+          "questionEn": "What is the author's conclusion about technology in education?",
+          "options": [
+            "Tehnologia ar trebui eliminată din școli.",
+            "Tehnologia este un instrument valoros, dar trebuie folosită cu echilibru.",
+            "Toată educația ar trebui să se facă online.",
+            "Tehnologia nu are niciun avantaj real."
+          ],
+          "answer": "Tehnologia este un instrument valoros, dar trebuie folosită cu echilibru."
+        },
+        {
+          "id": "r10_q10",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'parte integrantă'?",
+          "questionEn": "What does 'parte integrantă' mean?",
+          "answer": "integral part / essential part",
+          "acceptableAnswers": ["integral part", "essential part", "parte integrantă"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r10_003",
+      "title": "Emoțiile și Importanța Comunicării",
+      "titleEn": "Emotions and the Importance of Communication",
+      "text": "Trăim într-o lume în care comunicarea a devenit mai rapidă ca niciodată, dar, din păcate, nu întotdeauna mai profundă. Rețelele de socializare ne permit să trimitem un mesaj în câteva secunde, dar adesea aceste mesaje sunt superficiale și nu exprimă cu adevărat ceea ce simțim.\n\nCând cineva ne întreabă 'Ce mai faci?', răspunsul cel mai comun este 'Bine, mersi.' Dar oare este acesta un răspuns sincer? Câteodată, în spatele acestui 'bine' se ascund emoții complexe: tristețe, frustrare, îngrijorare sau chiar singurătate. Nu toată lumea se simte confortabil să își exprime emoțiile în mod deschis, mai ales într-o cultură în care a arăta vulnerabilitate este adesea văzută ca o slăbiciune.\n\nConsider că este esențial să învățăm să comunicăm mai bine, nu doar mai repede. A asculta activ pe cineva - adică a acorda atenție cu adevărat la ceea ce spune, fără a te gândi la răspunsul tău - este o abilitate rară, dar extrem de valoroasă. De asemenea, a încuraja pe cineva să vorbească despre sentimentele sale poate face o diferență enormă în viața acelei persoane.\n\nÎn concluzie, din punctul meu de vedere, ar trebui să petrecem mai puțin timp pe ecrane și mai mult timp în conversații reale, față în față. Abia atunci vom putea construi relații autentice și ne vom simți cu adevărat conectați cu cei din jur.",
+      "translation": "We live in a world where communication has become faster than ever, but, unfortunately, not always deeper. Social networks allow us to send a message in a few seconds, but often these messages are superficial and don't truly express what we feel.\n\nWhen someone asks us 'How are you?', the most common answer is 'Fine, thanks.' But is this an honest answer? Sometimes, behind this 'fine' hide complex emotions: sadness, frustration, worry, or even loneliness. Not everyone feels comfortable expressing their emotions openly, especially in a culture where showing vulnerability is often seen as a weakness.\n\nI believe it is essential to learn to communicate better, not just faster. Actively listening to someone - that is, truly paying attention to what they say, without thinking about your response - is a rare skill, but extremely valuable. Also, encouraging someone to talk about their feelings can make an enormous difference in that person's life.\n\nIn conclusion, from my point of view, we should spend less time on screens and more time in real, face-to-face conversations. Only then will we be able to build authentic relationships and truly feel connected with those around us.",
+      "vocabularyNotes": [
+        {"word": "superficial", "meaning": "superficial / shallow", "notes": "Adjective describing lack of depth"},
+        {"word": "a ascunde", "meaning": "to hide / to conceal", "notes": "Verb, 3rd conjugation: a ascunde ceva de cineva = to hide something from someone"},
+        {"word": "vulnerabilitate", "meaning": "vulnerability", "notes": "Noun from adjective 'vulnerabil'"},
+        {"word": "a asculta activ", "meaning": "to actively listen", "notes": "Communication concept: giving full attention to the speaker"},
+        {"word": "autentic", "meaning": "authentic / genuine", "notes": "Adjective: 'relații autentice' = genuine relationships"},
+        {"word": "față în față", "meaning": "face-to-face / in person", "notes": "Common expression for in-person interaction"}
+      ],
+      "questions": [
+        {
+          "id": "r10_q11",
+          "type": "comprehension",
+          "question": "Ce problemă cu comunicarea modernă identifică autorul în primul paragraf?",
+          "questionEn": "What problem with modern communication does the author identify in the first paragraph?",
+          "answer": "Comunicarea este mai rapidă, dar adesea superficială.",
+          "acceptableAnswers": ["comunicarea este mai rapidă dar superficială", "superficială", "nu mai profundă", "mesajele sunt superficiale"],
+          "options": null
+        },
+        {
+          "id": "r10_q12",
+          "type": "multiple-choice",
+          "question": "Ce emoții menționează autorul ca fiind adesea ascunse în spatele răspunsului 'Bine'?",
+          "questionEn": "What emotions does the author mention as often hidden behind the answer 'Fine'?",
+          "options": [
+            "Bucurie și entuziasm",
+            "Tristețe, frustrare, îngrijorare sau singurătate",
+            "Furie și agresivitate",
+            "Indiferență și plictiseală"
+          ],
+          "answer": "Tristețe, frustrare, îngrijorare sau singurătate"
+        },
+        {
+          "id": "r10_q13",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'a asculta activ'?",
+          "questionEn": "What does 'a asculta activ' mean?",
+          "answer": "To truly pay attention to what someone says, without thinking about your response.",
+          "acceptableAnswers": ["to pay attention to what someone says", "a acorda atenție la ceea ce spune cineva", "a asculta cu atenție"],
+          "options": null
+        },
+        {
+          "id": "r10_q14",
+          "type": "multiple-choice",
+          "question": "Ce recomandă autorul în concluzie?",
+          "questionEn": "What does the author recommend in the conclusion?",
+          "options": [
+            "To use more social networks",
+            "To spend more time on screens",
+            "To spend less time on screens and more time in face-to-face conversations",
+            "To stop communicating online entirely"
+          ],
+          "answer": "To spend less time on screens and more time in face-to-face conversations"
+        },
+        {
+          "id": "r10_q15",
+          "type": "comprehension",
+          "question": "De ce este dificil pentru oameni să își exprime emoțiile deschis, conform textului?",
+          "questionEn": "Why is it difficult for people to express their emotions openly, according to the text?",
+          "answer": "Pentru că a arăta vulnerabilitate este adesea văzută ca o slăbiciune.",
+          "acceptableAnswers": ["vulnerabilitatea e văzută ca slăbiciune", "a arăta vulnerabilitate e văzută ca o slăbiciune", "cultura vede vulnerabilitatea ca slăbiciune"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

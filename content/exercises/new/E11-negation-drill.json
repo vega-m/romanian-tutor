@@ -1,0 +1,103 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E11-negation-drill",
+  "title": "Negation Drill",
+  "titleRo": "Exerciții de Negare",
+  "cefrLevel": "A2-B1",
+  "prerequisites": [
+    "G20-negation"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Practice Romanian negation patterns. Use 'nu' before verbs, 'niciun/nicio' before nouns, and learn compound negations like 'nu...niciodată', 'nu...nimic'.",
+  "instructionsRo": "Exersează tiparele de negare în română. Folosește 'nu' înaintea verbelor, 'niciun/nicio' înaintea substantivelor și învață negațiile compuse ca 'nu...niciodată', 'nu...nimic'.",
+  "sourceWeek": 6,
+  "exercises": [
+    {
+      "id": "e11_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negation: Nu ___ nimic despre acest subiect.",
+      "promptRo": "Alege negația corectă: Nu ___ nimic despre acest subiect.",
+      "answer": "știu",
+      "options": [
+        "știu",
+        "știe",
+        "știți",
+        "știm"
+      ],
+      "explanation": "'Nu știu' = I don't know. 'Nu' is placed before the verb. The sentence uses double negation: 'nu...nimic' (not...anything), which is standard in Romanian.",
+      "explanationRo": "'Nu știu' = Nu știu. 'Nu' se plasează înaintea verbului. Propoziția folosește negația dublă: 'nu...nimic' (nu...nimic), care este standard în română."
+    },
+    {
+      "id": "e11_002",
+      "type": "fill-blank",
+      "prompt": "Negate the sentence 'Am bani' (I have money): ___ bani.",
+      "promptRo": "Negă propoziția 'Am bani': ___ bani.",
+      "sentence": "___ bani.",
+      "answer": "Nu am",
+      "acceptableAnswers": [
+        "Nu am",
+        "nu am"
+      ],
+      "explanation": "'Nu am bani' = I don't have money. Simply place 'nu' before the verb 'am'. Unlike English, Romanian doesn't need a separate word for 'don't' — 'nu' handles it all.",
+      "explanationRo": "'Nu am bani' = Nu am bani. Pune pur și simplu 'nu' înaintea verbului 'am'. Spre deosebire de engleză, româna nu are nevoie de un cuvânt separat pentru 'don't' — 'nu' face totul."
+    },
+    {
+      "id": "e11_003",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct negative form for 'No student came'?",
+      "promptRo": "Care este forma corectă pentru 'No student came'?",
+      "answer": "Niciun student n-a venit.",
+      "options": [
+        "Nu un student a venit.",
+        "Niciun student n-a venit.",
+        "Nimic student a venit.",
+        "Un student nu a venit."
+      ],
+      "explanation": "'Niciun student n-a venit' = No student came. 'Niciun' (before masculine nouns) or 'nicio' (before feminine nouns) + noun + n- + verb. The 'n-' is attached to the auxiliary.",
+      "explanationRo": "'Niciun student n-a venit' = Niciun student n-a venit. 'Niciun' (înaintea substantivelor masculine) sau 'nicio' (înaintea substantivelor feminine) + substantiv + n- + verb. 'n-' se atașează la auxiliar."
+    },
+    {
+      "id": "e11_004",
+      "type": "fill-blank",
+      "prompt": "Complete the negation: Nu am văzut ___ (nobody) la petrecere.",
+      "promptRo": "Completează negația: Nu am văzut ___ la petrecere.",
+      "sentence": "Nu am văzut pe ___ la petrecere.",
+      "answer": "nimeni",
+      "acceptableAnswers": [
+        "nimeni"
+      ],
+      "explanation": "'Pe nimeni' = nobody. For people as direct objects, use 'pe nimeni'. Full pattern: nu + verb + pe nimeni (double negation is standard in Romanian).",
+      "explanationRo": "'Pe nimeni' = pe nimeni. Pentru persoane ca obiect direct, se folosește 'pe nimeni'. Tipar complet: nu + verb + pe nimeni (negația dublă este standard în română)."
+    },
+    {
+      "id": "e11_005",
+      "type": "multiple-choice",
+      "prompt": "How do you say 'never' in Romanian?",
+      "promptRo": "Cum se spune 'never' în română?",
+      "answer": "niciodată",
+      "options": [
+        "nimic",
+        "nicăieri",
+        "niciodată",
+        "niciun"
+      ],
+      "explanation": "'Niciodată' = never. Used in double negation: 'Nu am fost niciodată în România' (I have never been to Romania). Other negative pronouns: nimic (nothing), nicăieri (nowhere), nimeni (nobody).",
+      "explanationRo": "'Niciodată' = niciodată. Folosit în negația dublă: 'Nu am fost niciodată în România'. Alte pronume negative: nimic (nimic), nicăieri (niciunde), nimeni (nimeni)."
+    },
+    {
+      "id": "e11_006",
+      "type": "fill-blank",
+      "prompt": "Negate 'Mai merg la cinema' (I still go to the cinema): ___ merg la cinema.",
+      "promptRo": "Negă 'Mai merg la cinema': ___ merg la cinema.",
+      "sentence": "___ merg la cinema.",
+      "answer": "Nu mai",
+      "acceptableAnswers": [
+        "Nu mai",
+        "nu mai"
+      ],
+      "explanation": "'Nu mai merg' = I no longer go. When negating sentences with 'mai' (still/any more), 'nu' is placed before 'mai': nu mai + verb = no longer. The order matters!",
+      "explanationRo": "'Nu mai merg' = Nu mai merg. Când se negă propoziții cu 'mai', 'nu' se plasează înaintea lui 'mai': nu mai + verb = nu mai. Ordinea contează!"
+    }
+  ]
+}

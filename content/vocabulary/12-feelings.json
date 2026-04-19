@@ -1,0 +1,682 @@
+{
+  "$schema": "vocabulary",
+  "version": "1.0",
+  "theme": "feelings",
+  "themeRo": "Emoții și Opinii",
+  "themeEn": "Emotions & Opinions",
+  "cefrLevel": "B1",
+  "words": [
+    {
+      "id": "v12_001",
+      "word": "fericire",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "happiness",
+      "translationRo": "fericire (f.)",
+      "exampleSentence": "Fericirea vine din lucrurile simple ale vieții.",
+      "exampleTranslation": "Happiness comes from the simple things in life.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/fe.ri.'tʃi.re/",
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "relatedWords": [
+        "bucurie",
+        "mulțumire"
+      ]
+    },
+    {
+      "id": "v12_002",
+      "word": "tristețe",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "sadness",
+      "translationRo": "tristețe (f.)",
+      "exampleSentence": "Tristețea ei era vizibilă pe chip.",
+      "exampleTranslation": "Her sadness was visible on her face.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/tris.'te.tsə/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "durere",
+        "dezamăgire"
+      ]
+    },
+    {
+      "id": "v12_003",
+      "word": "furie",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "anger / fury / rage",
+      "translationRo": "furie (f.)",
+      "exampleSentence": "Furia lui era de înțeles în acea situație.",
+      "exampleTranslation": "His anger was understandable in that situation.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/'fu.ri.e/",
+      "tags": [
+        "emotion",
+        "negative",
+        "strong"
+      ],
+      "relatedWords": [
+        "nervi",
+        "frustrare"
+      ]
+    },
+    {
+      "id": "v12_004",
+      "word": "supărare",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "upset / annoyance / being upset",
+      "translationRo": "supărare (f.)",
+      "exampleSentence": "Nu vreau să-ți fac supărare.",
+      "exampleTranslation": "I don't want to upset you.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/su.pə.'ra.re/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "tristețe",
+        "nemulțumire"
+      ]
+    },
+    {
+      "id": "v12_005",
+      "word": "dezamăgire",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "disappointment",
+      "translationRo": "dezamăgire (f.)",
+      "exampleSentence": "Dezamăgirea a fost mare când a pierdut concursul.",
+      "exampleTranslation": "The disappointment was great when she lost the competition.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/de.za.mə.'ɡi.re/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "supărare",
+        "tristețe"
+      ]
+    },
+    {
+      "id": "v12_006",
+      "word": "speranță",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "hope",
+      "translationRo": "speranță (f.)",
+      "exampleSentence": "Speranța moare ultima.",
+      "exampleTranslation": "Hope dies last. (proverb)",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/spe.'ran.tsə/",
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "relatedWords": [
+        "a spera",
+        "optimism"
+      ]
+    },
+    {
+      "id": "v12_007",
+      "word": "frica",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "fear",
+      "translationRo": "frica (f.)",
+      "exampleSentence": "Frica de eșec îl împiedică să încerce.",
+      "exampleTranslation": "The fear of failure prevents him from trying.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/'fri.ka/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "a se teme",
+        "spaimă"
+      ]
+    },
+    {
+      "id": "v12_008",
+      "word": "uimire",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "amazement / surprise / wonder",
+      "translationRo": "uimire (f.)",
+      "exampleSentence": "Uimirea copiilor când au văzut zoo-ul a fost mare.",
+      "exampleTranslation": "The children's amazement when they saw the zoo was great.",
+      "frequency": 2,
+      "importance": 2,
+      "pronunciation": "/u.i.'mi.re/",
+      "tags": [
+        "emotion",
+        "neutral"
+      ],
+      "relatedWords": [
+        "surpriză",
+        "a se uimi"
+      ]
+    },
+    {
+      "id": "v12_009",
+      "word": "îngrijorare",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "worry / concern",
+      "translationRo": "îngrijorare (f.)",
+      "exampleSentence": "Îngrijorarea părinților pentru copii este naturală.",
+      "exampleTranslation": "Parents' concern for their children is natural.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ɨn.ɡri.ʒo.'ra.re/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "frica",
+        "a se îngrijora"
+      ]
+    },
+    {
+      "id": "v12_010",
+      "word": "mândrie",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "pride",
+      "translationRo": "mândrie (f.)",
+      "exampleSentence": "Sunt plin de mândrie pentru realizările tale.",
+      "exampleTranslation": "I am full of pride for your achievements.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/'mɨnd.ri.e/",
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "relatedWords": [
+        "orgoliu",
+        "a fi mândru"
+      ]
+    },
+    {
+      "id": "v12_011",
+      "word": "recunoștință",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "gratitude / thankfulness",
+      "translationRo": "recunoștință (f.)",
+      "exampleSentence": "Simt o mare recunoștință față de profesorii mei.",
+      "exampleTranslation": "I feel great gratitude toward my teachers.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/re.ku.noˈʃtin.tsə/",
+      "tags": [
+        "emotion",
+        "positive",
+        "formal"
+      ],
+      "relatedWords": [
+        "mulțumesc",
+        "apreciere"
+      ]
+    },
+    {
+      "id": "v12_012",
+      "word": "frustrare",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "frustration",
+      "translationRo": "frustrare (f.)",
+      "exampleSentence": "Frustrarea crește când lucrurile nu merg bine.",
+      "exampleTranslation": "Frustration increases when things don't go well.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/frus.'tra.re/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "supărare",
+        "nervi"
+      ]
+    },
+    {
+      "id": "v12_013",
+      "word": "calm",
+      "partOfSpeech": "adjective/noun",
+      "gender": "masculine",
+      "translationEn": "calm / calmness",
+      "translationRo": "calm (m.) / calmă (f.)",
+      "exampleSentence": "Trebuie să rămâi calm în situații dificile.",
+      "exampleTranslation": "You must remain calm in difficult situations.",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/kalm/",
+      "tags": [
+        "emotion",
+        "neutral"
+      ],
+      "relatedWords": [
+        "liniște",
+        "pace"
+      ]
+    },
+    {
+      "id": "v12_014",
+      "word": "entuziasm",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "enthusiasm",
+      "translationRo": "entuziasm (n.)",
+      "exampleSentence": "Entuziasmul ei este contagios.",
+      "exampleTranslation": "Her enthusiasm is contagious.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/en.tu.'zjas.m/",
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "relatedWords": [
+        "a fi entuziasmat",
+        "bucurie"
+      ]
+    },
+    {
+      "id": "v12_015",
+      "word": "părere",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "opinion / view",
+      "translationRo": "părere (f.)",
+      "exampleSentence": "Care este părerea ta despre acest film?",
+      "exampleTranslation": "What is your opinion about this film?",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/'pə.re.re/",
+      "tags": [
+        "opinion",
+        "essential"
+      ],
+      "relatedWords": [
+        "opinie",
+        "a crede"
+      ]
+    },
+    {
+      "id": "v12_016",
+      "word": "a considera",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to consider / to regard as",
+      "translationRo": "a considera",
+      "exampleSentence": "Consider că această decizie este corectă.",
+      "exampleTranslation": "I consider that this decision is correct.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/a ko.nsi.'de.ra/",
+      "tags": [
+        "opinion",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a crede",
+        "a gândi"
+      ]
+    },
+    {
+      "id": "v12_017",
+      "word": "a crede",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to believe / to think",
+      "translationRo": "a crede",
+      "exampleSentence": "Cred că va fi o zi frumoasă.",
+      "exampleTranslation": "I believe it will be a beautiful day.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/a 'kre.de/",
+      "tags": [
+        "opinion",
+        "essential",
+        "verb"
+      ],
+      "relatedWords": [
+        "a considera",
+        "a părea"
+      ]
+    },
+    {
+      "id": "v12_018",
+      "word": "a părea",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to seem / to appear",
+      "translationRo": "a părea",
+      "exampleSentence": "Mi se pare că ești obosit.",
+      "exampleTranslation": "You seem tired to me.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/a 'pə.re.a/",
+      "tags": [
+        "opinion",
+        "verb"
+      ],
+      "relatedWords": [
+        "a crede",
+        "a fi de părere"
+      ]
+    },
+    {
+      "id": "v12_019",
+      "word": "a fi de acord",
+      "partOfSpeech": "verb phrase",
+      "gender": null,
+      "translationEn": "to agree",
+      "translationRo": "a fi de acord",
+      "exampleSentence": "Sunt de acord cu propunerea ta.",
+      "exampleTranslation": "I agree with your proposal.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/a fi de a.'kord/",
+      "tags": [
+        "opinion",
+        "essential"
+      ],
+      "relatedWords": [
+        "a fi împotrivă",
+        "a accepta"
+      ]
+    },
+    {
+      "id": "v12_020",
+      "word": "a fi împotrivă",
+      "partOfSpeech": "verb phrase",
+      "gender": null,
+      "translationEn": "to be against / to disagree",
+      "translationRo": "a fi împotrivă",
+      "exampleSentence": "Sunt împotrivă la această idee.",
+      "exampleTranslation": "I am against this idea.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/a fi ɨm.po.'tri.və/",
+      "tags": [
+        "opinion"
+      ],
+      "relatedWords": [
+        "a fi de acord",
+        "a refuza"
+      ]
+    },
+    {
+      "id": "v12_021",
+      "word": "a prefera",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to prefer",
+      "translationRo": "a prefera",
+      "exampleSentence": "Prefer să citesc decât să mă uit la televizor.",
+      "exampleTranslation": "I prefer to read rather than watch television.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/a pre.fe.'ra/",
+      "tags": [
+        "opinion",
+        "essential",
+        "verb"
+      ],
+      "relatedWords": [
+        "a alege",
+        "a plăcea"
+      ]
+    },
+    {
+      "id": "v12_022",
+      "word": "a aprecia",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to appreciate / to value",
+      "translationRo": "a aprecia",
+      "exampleSentence": "Apreciez foarte mult ajutorul tău.",
+      "exampleTranslation": "I appreciate your help very much.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/a a.pre.'tʃi.a/",
+      "tags": [
+        "opinion",
+        "positive",
+        "verb"
+      ],
+      "relatedWords": [
+        "a valora",
+        "recunoștință"
+      ]
+    },
+    {
+      "id": "v12_023",
+      "word": "a dezaproba",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to disapprove",
+      "translationRo": "a dezaproba",
+      "exampleSentence": "Dezaprob comportamentul nepoliticos.",
+      "exampleTranslation": "I disapprove of impolite behavior.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/a de.za.'pro.ba/",
+      "tags": [
+        "opinion",
+        "negative",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a fi împotrivă",
+        "a critica"
+      ]
+    },
+    {
+      "id": "v12_024",
+      "word": "nemulțumit",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "dissatisfied / unhappy (about something)",
+      "translationRo": "nemulțumit (m.) / nemulțumită (f.)",
+      "exampleSentence": "Sunt nemulțumit de rezultatul examenului.",
+      "exampleTranslation": "I am dissatisfied with the exam result.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/nemul.tsu.'mit/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "supărat",
+        "dezamăgit"
+      ]
+    },
+    {
+      "id": "v12_025",
+      "word": "mulțumit",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "satisfied / pleased",
+      "translationRo": "mulțumit (m.) / mulțumită (f.)",
+      "exampleSentence": "Sunt mulțumit de progresul meu în română.",
+      "exampleTranslation": "I am satisfied with my progress in Romanian.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/mul.tsu.'mit/",
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "relatedWords": [
+        "fericit",
+        "conținut"
+      ]
+    },
+    {
+      "id": "v12_026",
+      "word": "entuziasmat",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "excited / enthusiastic",
+      "translationRo": "entuziasmat (m.) / entuziasmată (f.)",
+      "exampleSentence": "Sunt entuziasmat de noul proiect.",
+      "exampleTranslation": "I am excited about the new project.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/en.tu.zjas.'mat/",
+      "tags": [
+        "emotion",
+        "positive"
+      ],
+      "relatedWords": [
+        "entuziasm",
+        "a fi entuziasmat"
+      ]
+    },
+    {
+      "id": "v12_027",
+      "word": "îngrijorat",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "worried / concerned",
+      "translationRo": "îngrijorat (m.) / îngrijorată (f.)",
+      "exampleSentence": "Părinții sunt îngrijorați pentru copiii lor.",
+      "exampleTranslation": "The parents are worried about their children.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ɨn.ɡri.ʒo.'rat/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "îngrijorare",
+        "nervos"
+      ]
+    },
+    {
+      "id": "v12_028",
+      "word": "nervos",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "nervous / annoyed",
+      "translationRo": "nervos (m.) / nervoasă (f.)",
+      "exampleSentence": "Nu fi nervos, totul va fi bine.",
+      "exampleTranslation": "Don't be nervous, everything will be fine.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ner.'vos/",
+      "tags": [
+        "emotion",
+        "negative"
+      ],
+      "relatedWords": [
+        "stresat",
+        "furios"
+      ]
+    },
+    {
+      "id": "v12_029",
+      "word": "indiferent",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "indifferent / unconcerned",
+      "translationRo": "indiferent (m.) / indiferentă (f.)",
+      "exampleSentence": "Este indiferent la opiniile celorlalți.",
+      "exampleTranslation": "He is indifferent to others' opinions.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/in.di.fe.'rent/",
+      "tags": [
+        "emotion",
+        "neutral"
+      ],
+      "relatedWords": [
+        "a nu-i păsa",
+        "passiv"
+      ]
+    },
+    {
+      "id": "v12_030",
+      "word": "a simți",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to feel",
+      "translationRo": "a simți",
+      "exampleSentence": "Simt că lucrurile se îmbunătățesc.",
+      "exampleTranslation": "I feel that things are improving.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/a 'sim.tsʲ/",
+      "tags": [
+        "emotion",
+        "essential",
+        "verb"
+      ],
+      "relatedWords": [
+        "a se simți",
+        "sentiment"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "p12_001",
+      "phrase": "din punctul meu de vedere",
+      "translationEn": "from my point of view",
+      "context": "Used to express a personal opinion formally",
+      "formality": "neutral-formal",
+      "exampleResponse": "Din punctul meu de vedere, educația este foarte importantă."
+    },
+    {
+      "id": "p12_002",
+      "phrase": "sunt de părere că",
+      "translationEn": "I am of the opinion that / I believe that",
+      "context": "Formal way to introduce an opinion",
+      "formality": "formal",
+      "exampleResponse": "Sunt de părere că trebuie să protejăm mediul."
+    },
+    {
+      "id": "p12_003",
+      "phrase": "mi se pare că",
+      "translationEn": "it seems to me that",
+      "context": "Used to express a subjective impression or opinion",
+      "formality": "neutral",
+      "exampleResponse": "Mi se pare că acest proiect are potențial."
+    },
+    {
+      "id": "p12_004",
+      "phrase": "a nu-i păsa (cuiva)",
+      "translationEn": "to not care / to not mind",
+      "context": "Used when someone is indifferent about something",
+      "formality": "informal",
+      "exampleResponse": "Nu-i pasă de ce spun ceilalți."
+    }
+  ]
+}

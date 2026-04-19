@@ -1,0 +1,162 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E15-connectors-drill",
+  "title": "Connectors and Relative Clauses Drill",
+  "titleRo": "Exerciții de Conective și Propoziții Relative",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G18-conjunctions",
+    "G22-relative-clauses"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Practice Romanian conjunctions and relative pronouns (care, care, pe care, unde, când, că, pentru că, deși, etc.).",
+  "instructionsRo": "Exersează conjuncțiile și pronumele relative românești (care, care, pe care, unde, când, că, pentru că, deși etc.).",
+  "sourceWeek": 8,
+  "exercises": [
+    {
+      "id": "e15_001",
+      "type": "multiple-choice",
+      "prompt": "Which relative pronoun means 'who/which' in Romanian?",
+      "promptRo": "Care pronume relativ înseamnă 'who/which' în română?",
+      "answer": "care",
+      "options": [
+        "cine",
+        "care",
+        "ce",
+        "cum"
+      ],
+      "explanation": "'Care' is the relative pronoun for 'who/which'. It agrees in gender and number: care (m./f. singular), care (m./f. plural). 'Cine' is only used in direct questions.",
+      "explanationRo": "'Care' este pronumele relativ pentru 'care'. Este de acord în gen și număr: care (m./f. singular), care (m./f. plural). 'Cine' se folosește doar în întrebări directe."
+    },
+    {
+      "id": "e15_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct relative pronoun: Persoana ___ a sunat este mama mea.",
+      "promptRo": "Completează cu pronumele relativ corect: Persoana ___ a sunat este mama mea.",
+      "sentence": "Persoana ___ a sunat este mama mea.",
+      "answer": "care",
+      "acceptableAnswers": [
+        "care"
+      ],
+      "explanation": "'Care' is the subject relative pronoun here: Persoana care a sunat (The person who called). When 'care' is the subject, it does not need a preposition.",
+      "explanationRo": "'Care' este pronumele relativ subiect aici: Persoana care a sunat. Când 'care' este subiect, nu are nevoie de prepoziție."
+    },
+    {
+      "id": "e15_003",
+      "type": "multiple-choice",
+      "prompt": "Which connector expresses cause (because)?",
+      "promptRo": "Care conector exprimă cauza (because)?",
+      "answer": "pentru că / deoarece / din cauză că",
+      "options": [
+        "dar / însă (but/however)",
+        "pentru că / deoarece / din cauză că",
+        "deși / cu toate că (although)",
+        "așa că / prin urmare (therefore)"
+      ],
+      "explanation": "Cause connectors: pentru că, deoarece, din cauză că, întrucât (because, since). Contrast with: dar, însă (but), deși (although), așa că (therefore).",
+      "explanationRo": "Conectori de cauză: pentru că, deoarece, din cauză că, întrucât. În contrast cu: dar, însă, deși, așa că."
+    },
+    {
+      "id": "e15_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct form of 'care' as direct object: Cartea ___ am citit-o este foarte bună.",
+      "promptRo": "Completează cu forma corectă a pronumelui relativ ca obiect direct: Cartea ___ am citit-o este foarte bună.",
+      "sentence": "Cartea ___ am citit-o este foarte bună.",
+      "answer": "pe care",
+      "acceptableAnswers": [
+        "pe care"
+      ],
+      "explanation": "When 'care' is the direct object of a clause, it takes the preposition 'pe': cartea pe care am citit-o (the book that I read). This is a key rule for relative clauses.",
+      "explanationRo": "Când 'care' este obiectul direct al unei propoziții, ia prepoziția 'pe': cartea pe care am citit-o. Aceasta este o regulă importantă pentru propozițiile relative."
+    },
+    {
+      "id": "e15_005",
+      "type": "multiple-choice",
+      "prompt": "Which connector expresses concession (although)?",
+      "promptRo": "Care conector exprimă concesia (although)?",
+      "answer": "deși / cu toate că / în ciuda faptului că",
+      "options": [
+        "și / și (and)",
+        "sau / ori (or)",
+        "deși / cu toate că / în ciuda faptului că",
+        "pentru că / deoarece (because)"
+      ],
+      "explanation": "Concession connectors: deși, cu toate că, în ciuda faptului că (although, despite the fact that). They introduce a surprising or contrasting element.",
+      "explanationRo": "Conectori de concesie: deși, cu toate că, în ciuda faptului că. Aceștia introduc un element surprinzător sau contrastant."
+    },
+    {
+      "id": "e15_006",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct relative adverb: Orașul ___ m-am născut este Brașovul.",
+      "promptRo": "Completează cu adverbul relativ corect: Orașul ___ m-am născut este Brașovul.",
+      "sentence": "Orașul ___ m-am născut este Brașovul.",
+      "answer": "unde",
+      "acceptableAnswers": [
+        "unde",
+        "în care"
+      ],
+      "explanation": "'Unde' (where) is the relative adverb for place: Orașul unde m-am născut (The city where I was born). You can also say 'Orașul în care m-am născut' using 'în care'.",
+      "explanationRo": "'Unde' (unde) este adverbul relativ pentru loc: Orașul unde m-am născut. Poți spune și 'Orașul în care m-am născut' folosind 'în care'."
+    },
+    {
+      "id": "e15_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses 'așa că' (therefore/so)?",
+      "promptRo": "Care propoziție folosește corect 'așa că' (așa că)?",
+      "answer": "A plouat mult, așa că am rămas acasă.",
+      "options": [
+        "Așa că a plouat mult, am rămas acasă.",
+        "A plouat mult, așa că am rămas acasă.",
+        "Așa că am plouat mult, a rămas acasă.",
+        "A plouat așa că mult, am rămas acasă."
+      ],
+      "explanation": "'Așa că' (therefore/so) connects a cause and its result: A plouat mult (cause), așa că am rămas acasă (result). It always goes between the two clauses.",
+      "explanationRo": "'Așa că' (așa că) conectează o cauză și rezultatul ei: A plouat mult (cauză), așa că am rămas acasă (rezultat). Se pune mereu între cele două propoziții."
+    },
+    {
+      "id": "e15_008",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct conjunction: ___ plouă, ___ îmi iau umbrela.",
+      "promptRo": "Completează cu conjuncția corectă: ___ plouă, ___ îmi iau umbrela.",
+      "sentence": "___ plouă, ___ îmi iau umbrela.",
+      "answer": "Dacă ... atunci",
+      "acceptableAnswers": [
+        "Dacă ... atunci",
+        "Dacă ... atunci",
+        "dacă ... atunci"
+      ],
+      "explanation": "'Dacă ... (atunci)' is the conditional conjunction pair (if ... then). Example: Dacă plouă, atunci îmi iau umbrela (If it rains, then I take my umbrella). 'Atunci' is optional.",
+      "explanationRo": "'Dacă ... (atunci)' este perechea de conjuncții condiționale. Exemplu: Dacă plouă, atunci îmi iau umbrela. 'Atunci' este opțional."
+    },
+    {
+      "id": "e15_009",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct form: 'Băiatul ___ tatăl este doctor' or 'Băiatul ___ tată-său este doctor'?",
+      "promptRo": "Care este forma corectă: 'Băiatul ___ tatăl este doctor' sau 'Băiatul ___ tată-său este doctor'?",
+      "answer": "Băiatul al cărui tată este doctor.",
+      "options": [
+        "Băiatul care tată este doctor.",
+        "Băiatul al cărui tată este doctor.",
+        "Băiatul de care tată este doctor.",
+        "Băiatul pentru care tată este doctor."
+      ],
+      "explanation": "For possessive relative clauses, use 'al cărui' (whose, masculine singular): Băiatul al cărui tată este doctor (The boy whose father is a doctor). Other forms: a cărei (f.), al căror (m. pl.), ale căror (f. pl.).",
+      "explanationRo": "Pentru propoziții relative posesive, folosește 'al cărui' (al cărui, masculin singular). Alte forme: a cărei (f.), al căror (m. pl.), ale căror (f. pl.)."
+    },
+    {
+      "id": "e15_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct relative adverb of time: Ziua ___ te-am cunoscut a fost cea mai fericită.",
+      "promptRo": "Completează cu adverbul relativ de timp corect: Ziua ___ te-am cunoscut a fost cea mai fericită.",
+      "sentence": "Ziua ___ te-am cunoscut a fost cea mai fericită.",
+      "answer": "când",
+      "acceptableAnswers": [
+        "când",
+        "în care"
+      ],
+      "explanation": "'Când' (when) is the relative adverb for time: Ziua când te-am cunoscut (The day when I met you). You can also say 'Ziua în care te-am cunoscut'.",
+      "explanationRo": "'Când' (când) este adverbul relativ pentru timp: Ziua când te-am cunoscut. Poți spune și 'Ziua în care te-am cunoscut'."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G10-past-compound",
+  "title": "Perfectul Compus (Trecutul Compus)",
+  "titleEn": "The Compound Past (Perfectul Compus)",
+  "cefrLevel": "A2",
+  "prerequisites": ["G09-present-tense", "G03-noun-gender"],
+  "estimatedMinutes": 40,
+  "introduction": "The Compound Past (perfectul compus) is the primary tense used in Romanian to describe completed actions in the past. It is formed using the auxiliary verb 'a avea' (in specific short forms) and the past participle of the main verb. Mastering this tense is vital for effective storytelling and reporting events.",
+  "introductionRo": "Perfectul compus este principalul timp folosit în limba română pentru a descrie acțiuni încheiate în trecut. Se formează utilizând verbul auxiliar „a avea” (în forme scurte specifice) și participiul trecut al verbului de bază. Stăpânirea acestui timp este vitală pentru nararea eficientă a evenimentelor.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Compound Past",
+      "headingRo": "Formarea Perfectului Compus",
+      "content": "The structure consists of a specific auxiliary form and the invariant past participle. Unlike some other Romance languages, Romanian does not use 'a fi' (to be) as an auxiliary for the past tense.",
+      "contentRo": "Structura constă dintr-o formă specifică de auxiliar și participiul trecut invariabil. Spre deosebire de alte limbi romanice, româna nu folosește verbul „a fi” ca auxiliar pentru timpul trecut.",
+      "table": {
+        "headers": ["Person", "Auxiliary (short form of a avea)", "Participle", "Example: a mânca (to eat)", "Example: a vorbi (to speak)"],
+        "rows": [
+          ["eu", "am", "+ participle", "am mâncat", "am vorbit"],
+          ["tu", "ai", "+ participle", "ai mâncat", "ai vorbit"],
+          ["el/ea", "a", "+ participle", "a mâncat", "a vorbit"],
+          ["noi", "am", "+ participle", "am mâncat", "am vorbit"],
+          ["voi", "ați", "+ participle", "ați mâncat", "ați vorbit"],
+          ["ei/ele", "au", "+ participle", "au mâncat", "au vorbit"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Eu am mers la aeroport cu taxiul. (I went to the airport by taxi.)",
+          "en": "Modern context: Business travel.",
+          "notes": "a merge (3rd conj.) → mers."
+        },
+        {
+          "ro": "Ea a citit raportul tău ieri. (She read your report yesterday.)",
+          "en": "Modern context: Workplace tasks.",
+          "notes": "a citi (4th conj.) → citit."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Regular Past Participles by Conjugation",
+      "headingRo": "Participiile Trecute Regulate după Conjugare",
+      "content": "Most verbs form their past participle regularly by removing the infinitive ending and adding a specific suffix:",
+      "contentRo": "Majoritatea verbelor își formează participiul trecut regulat, eliminând terminația infinitivului și adăugând un sufix specific:",
+      "table": {
+        "headers": ["Conjugation", "Rule", "Examples"],
+        "rows": [
+          ["1st (-a)", "remove -a → add -at", "a cânta → cântat, a lucra → lucrat, a ajuta → ajutat [ACC]"],
+          ["2nd (-ea)", "remove -ea → add -ut/-ât", "a bea → băut [ACC], a vedea → văzut [ACC], a putea → putut"],
+          ["3rd (-e)", "remove -e → add -ut/-s/-t", "a scrie → scris [ACC/DAT], a merge → mers, a înțelege → înțeles [ACC]"],
+          ["4th (-i)", "remove -i → add -it", "a dormi → dormit, a fugi → fugit, a auzi → auzit [ACC]"],
+          ["4th (-î)", "remove -î → add -ât/-it", "a coborî → coborât, a hotărî → hotărât [ACC]"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Echipa a lucrat mult la acest website. (The team worked a lot on this website.)",
+          "en": "Modern context: Project work / IT.",
+          "notes": "a lucra (1st conj.) → lucrat."
+        },
+        {
+          "ro": "Ai băut cafeaua sau e încă fierbinte? (Did you drink the coffee or is it still hot?)",
+          "en": "Modern context: Daily social interaction.",
+          "notes": "a bea (2nd conj.) → băut."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Past Participles",
+      "headingRo": "Participii Trecute Neregulate",
+      "content": "Some very common verbs have irregular past participles that must be memorized:",
+      "contentRo": "Unele verbe foarte comune au participii trecuți neregulați care trebuie memorați:",
+      "table": {
+        "headers": ["Infinitive", "Meaning", "Past Participle", "Perfect Compus (eu)", "Notes"],
+        "rows": [
+          ["a fi", "to be", "fost", "am fost", "Irregular"],
+          ["a avea [ACC]", "to have", "avut", "am avut", "Regular pattern"],
+          ["a face [ACC]", "to do/make", "făcut", "am făcut", "Irregular: a → ă"],
+          ["a lua [ACC]", "to take", "luat", "am luat", "Regular"],
+          ["a da [ACC/DAT]", "to give", "dat", "am dat", "Irregular: a → a (shortened)"],
+          ["a sta", "to stay", "stat", "am stat", "Regular"],
+          ["a ști [ACC]", "to know", "știut", "am știut", "Regular"],
+          ["a vrea [ACC]", "to want", "vrut", "am vrut", "Irregular: ea → u"],
+          ["a veni", "to come", "venit", "am venit", "Regular"],
+          ["a scrie [ACC/DAT]", "to write", "scris", "am scris", "Irregular: e → is"],
+          ["a citi [ACC]", "to read", "citit", "am citit", "Regular"],
+          ["a plânge", "to cry", "plâns", "am plâns", "Irregular: e → âns"],
+          ["a spune [ACC/DAT]", "to say", "spus", "am spus", "Irregular: e → us"],
+          ["a pune [ACC]", "to put", "pus", "am pus", "Irregular: e → us"],
+          ["a râde", "to laugh", "râs", "am râs", "Irregular: e → âs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Am fost la un curs de specializare luna trecută. (I went to a specialization course last month.)",
+          "en": "Modern context: Professional development.",
+          "notes": "am fost is used for 'I was' and 'I have been'."
+        },
+        {
+          "ro": "Ce ai făcut cu aplicația aceea? (What did you do with that app?)",
+          "en": "Modern context: Technology usage.",
+          "notes": "a face (irregular) → făcut."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "When to Use Perfectul Compus",
+      "headingRo": "Când se Folosește Perfectul Compus",
+      "content": "Perfectul Compus is the most versatile past tense in Romanian. It covers many situations:",
+      "contentRo": "Perfectul Compus este cel mai versatil timp trecut din română. Acoperă multe situații:",
+      "rules": [
+        "Completed actions: Am mâncat. (I ate.)",
+        "Recent events: Tocmai am ajuns. (I just arrived.)",
+        "Life experiences: Am vizitat Parisul. (I have visited Paris.)",
+        "Past events with a specific time: Am plecat ieri la 5. (I left yesterday at 5.)",
+        "Actions in a sequence: Am intrat și am salutat. (I entered and greeted.)",
+        "News/announcements: S-a întâmplat un accident. (An accident happened.)"
+      ],
+      "examples": [
+        {
+          "ro": "Am vizitat România de trei ori. (I have visited Romania three times.)",
+          "en": "Like English present perfect, used for life experiences.",
+          "notes": "In Romanian, perfectul compus covers both 'I visited' and 'I have visited'."
+        },
+        {
+          "ro": "Tocmai am terminat de mâncat. (I just finished eating.)",
+          "en": "With 'tocmai' (just), perfectul compus expresses very recent events.",
+          "notes": "'Tocmai am...' is a very common construction in everyday speech."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Reflexive Verbs in the Compound Past",
+      "content": "For reflexive verbs, the reflexive pronoun is placed before the auxiliary. When the subject is in the 3rd person, the auxiliary 'a avea' changes to the reflexive form with 's-' (se + a → s-a / s-au):",
+      "contentRo": "Pentru verbele reflexive, pronumele reflexiv se pune înaintea auxiliarului. Când subiectul este la persoana a III-a, auxiliarul 'a avea' devine forma reflexivă cu 's-' (se + a → s-a / s-au):",
+      "rules": [
+        "M-am trezit devreme. (I woke up early.) — 1st person",
+        "Te-ai spălat pe mâini? (Did you wash your hands?) — 2nd person",
+        "S-a dus acasă. (He/she went home.) — 3rd person singular",
+        "S-au întors de la magazin. (They returned from the store.) — 3rd person plural"
+      ],
+      "examples": [
+        {
+          "ro": "S-a întâmplat aseară. (It happened last night.)",
+          "en": "s-a = se + a (reflexive auxiliary for 3rd person singular).",
+          "notes": "This is extremely common in Romanian. Many everyday expressions use this form."
+        }
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when forming the compound past:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când formezi trecutul compus:",
+      "rules": [
+        "Don't forget the auxiliary: 'mers' alone is a participle, not a complete verb — you need 'am mers'",
+        "Don't confuse a fi participles: am fost (I was/have been) vs. am fost (I have been)",
+        "Remember the 3rd person reflexive form: s-a / s-au (not 'a' / 'au' for reflexive verbs)",
+        "Don't mix up participle endings: a merge → mers (not 'mercat'), a face → făcut (not 'facut')",
+        "In negative sentences: nu comes before the auxiliary: Nu am înțeles. (I didn't understand.)"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: El s-a născut în 1990. (He was born in 1990.)",
+          "en": "Incorrect: El a născut. (This means 'he gave birth' — different meaning!)",
+          "notes": "The reflexive 's-a' is essential here. Without it, the meaning changes completely."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Perfectul Compus = a avea (present) + past participle",
+    "Formed with: am/ai/a/avem/aveți/au + participle",
+    "1st conjugation (-a): remove -a, add -at (cântat, lucrat)",
+    "2nd conjugation (-ea): remove -ea, add -ut/-ât (băut, văzut)",
+    "3rd conjugation (-e): remove -e, add -ut/-s/-t (mers, scris, înțeles)",
+    "4th conjugation (-i/-î): remove -i/-î, add -it/-ât (dormit, coborât)",
+    "Key irregular participles: a fi → fost, a face → făcut, a scrie → scris, a spune → spus",
+    "Reflexive verbs: pronoun + auxiliary (m-am, te-ai, s-a, s-au)",
+    "Used for completed actions, recent events, life experiences, and sequences",
+    "Negative: nu + auxiliary (Nu am înțeles.)"
+  ],
+  "summaryPointsRo": [
+    "Perfectul Compus = a avea (prezent) + participiu trecut",
+    "Se formează cu: am/ai/a/avem/aveți/au + participiu",
+    "Conjugarea I (-a): elimină -a, adaugă -at (cântat, lucrat)",
+    "Conjugarea a II-a (-ea): elimină -ea, adaugă -ut/-ât (băut, văzut)",
+    "Conjugarea a III-a (-e): elimină -e, adaugă -ut/-s/-t (mers, scris, înțeles)",
+    "Conjugarea a IV-a (-i/-î): elimină -i/-î, adaugă -it/-ât (dormit, coborât)",
+    "Participii neregulate cheie: a fi → fost, a face → făcut, a scrie → scris, a spune → spus",
+    "Verbe reflexive: pronume + auxiliar (m-am, te-ai, s-a, s-au)",
+    "Se folosește pentru acțiuni terminate, evenimente recente, experiențe de viață și secvențe",
+    "Negativ: nu + auxiliar (Nu am înțeles.)"
+  ],
+  "relatedExercises": ["E08-past-tense-choice"]
+}

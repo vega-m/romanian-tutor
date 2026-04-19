@@ -1,0 +1,196 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G01-alphabet-reading",
+  "title": "Alfabetul Român",
+  "titleEn": "The Romanian Alphabet",
+  "cefrLevel": "A1",
+  "prerequisites": [],
+  "estimatedMinutes": 30,
+  "introduction": "The Romanian alphabet is based on the Latin alphabet and consists of 31 letters. What makes it unique are the five special characters (diacritics). For a B1 level, it is crucial not just to recognize them, but to master the subtle differences in pronunciation that distinguish similar-sounding words.",
+  "introductionRo": "Alfabetul limbii române are la bază alfabetul latin și cuprinde 31 de litere. Ceea ce îl face unic sunt cele cinci caractere speciale (diacritice). Pentru nivelul B1, este esențial nu doar să le recunoști, ci să stăpânești diferențele subtile de pronunție care disting cuvinte cu sensuri diferite.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The 31 Letters of Romanian",
+      "headingRo": "Cele 31 de Litere ale Limbii Române",
+      "content": "Modern Romanian orthography is strictly phonetic: each letter or group of letters corresponds to a specific sound. Unlike English, there are very few 'silent' letters, making spelling relatively predictable once the rules are mastered.",
+      "contentRo": "Ortografia limbii române moderne este riguros fonetică: fiecărei litere sau fiecărui grup de litere îi corespunde un sunet specific. Spre deosebire de limba engleză, există foarte puține litere „mute”, ceea ce face ca scrierea să fie previzibilă odată ce regulile sunt stăpânite.",
+      "table": {
+        "headers": ["Letter", "Sound (IPA)", "Example", "Sounds like..."],
+        "rows": [
+          ["a", "/a/", "apă (water)", "like 'a' in 'father'"],
+          ["ă", "/ə/", "măr (apple)", "like 'a' in 'about' — UNIQUE to Romanian"],
+          ["â", "/ɨ/", "rămâne (remains)", "a guttural/central 'i' — similar to Russian 'ы' — UNIQUE"],
+          ["b", "/b/", "bun (good)", "like 'b' in 'boy'"],
+          ["c", "/k/", "casă (house)", "like 'c' in 'cat' (before a, o, u, consonants)"],
+          ["c", "/tʃ/", "cer (sky)", "like 'ch' in 'church' (before e, i)"],
+          ["d", "/d/", "dar (but)", "like 'd' in 'dog'"],
+          ["e", "/e/", "este (is)", "like 'e' in 'bed'"],
+          ["f", "/f/", "fără (without)", "like 'f' in 'fish'"],
+          ["g", "/ɡ/", "grădină (garden)", "like 'g' in 'go' (before a, o, u, consonants)"],
+          ["g", "/dʒ/", "ger (frost)", "like 'g' in 'gem' (before e, i)"],
+          ["h", "/h/", "hotar (border)", "like 'h' in 'hat' (it is always pronounced in Romanian)"],
+          ["i", "/i/", "inimă (heart)", "like 'i' in 'machine'"],
+          ["î", "/ɨ/", "întâi (first)", "a guttural/central 'i' — similar to Russian 'ы' — UNIQUE"],
+          ["j", "/ʒ/", "joc (game)", "like 's' in 'measure' or 'g' in 'mirage'"],
+          ["k", "/k/", "kilogram (kilogram)", "like 'k' in 'kite' (only in foreign words)"],
+          ["l", "/l/", "lună (moon)", "like 'l' in 'light'"],
+          ["m", "/m/", "masă (table)", "like 'm' in 'man'"],
+          ["n", "/n/", "noapte (night)", "like 'n' in 'night'"],
+          ["o", "/o/", "om (man)", "like 'o' in 'more'"],
+          ["p", "/p/", "pere (pears)", "like 'p' in 'pen'"],
+          ["q", "/k/", "quintal (100kg)", "like 'q' in 'queen' (only with 'u', foreign words)"],
+          ["r", "/r/", "rouă (dew)", "rolled 'r' — like Spanish 'r'"],
+          ["s", "/s/", "soare (sun)", "like 's' in 'sun'"],
+          ["ș", "/ʃ/", "școală (school)", "like 'sh' in 'shoe' — UNIQUE"],
+          ["t", "/t/", "tare (strong)", "like 't' in 'top'"],
+          ["ț", "/ts/", "țară (country)", "like 'ts' in 'cats' — UNIQUE"],
+          ["u", "/u/", "urmă (trace)", "like 'oo' in 'moon'"],
+          ["v", "/v/", "vin (wine)", "like 'v' in 'very'"],
+          ["w", "/v/ or /w/", "web (web)", "like 'v' (in most Romanian words) or 'w' (foreign)"],
+          ["x", "/ks/ or /ɡz/", "exemplu (example)", "like 'x' in 'box' or 'xylophone'"],
+          ["y", "/j/", "yoga (yoga)", "like 'y' in 'yes' (only in foreign words)"],
+          ["z", "/z/", "zece (ten)", "like 'z' in 'zoo'"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "The 5 Special Romanian Letters",
+      "headingRo": "Caracterele Speciale (Diacriticele)",
+      "content": "These five letters define the specific sound of the Romanian language. They are not optional; omitting them or using them incorrectly is considered a significant spelling error in a B1 examination.",
+      "contentRo": "Aceste cinci litere definesc sonoritatea specifică a limbii române. Ele nu sunt opționale; omiterea sau folosirea lor incorectă este considerată o eroare gravă de ortografie la nivelul B1.",
+      "examples": [
+        {
+          "ro": "ă — măr (apple), casă (house), mamă (mother)",
+          "en": "ă — like the 'a' in 'about'. Very common in Romanian!",
+          "notes": "Found in many common words. Often at the end of nouns (casă, fată, mamă)."
+        },
+        {
+          "ro": "â — rămâne (remains), cântec (song), mână (hand)",
+          "en": "â — a central/guttural 'i' sound (IPA /ɨ/). Think of it as a darker, deeper 'i'. Used in the middle of words.",
+          "notes": "â and î represent the same sound. â is used inside words, î at the beginning/end."
+        },
+        {
+          "ro": "î — începe (begins), a învăța (to learn), a coborî (to descend)",
+          "en": "î — same sound as â (a central/guttural 'i'). Used at the beginning and end of words.",
+          "notes": "Rule: î at start/end of word, â in the middle. Exceptions: some proper nouns and compounds."
+        },
+        {
+          "ro": "ș — școală (school), a șterge (to erase), șase (six)",
+          "en": "ș — like 'sh' in 'shoe'. NOT the same as 's'!",
+          "notes": "Very common! Don't confuse with 's' — școală (school) vs. scoală (to get up)."
+        },
+        {
+          "ro": "ț — țară (country), preț (price), mulțumesc (thank you)",
+          "en": "ț — like 'ts' in 'cats'. Again, NOT the same as 't'!",
+          "notes": "Common in many words. Avoid confusing 't' and 'ț': 'tare' (strong) vs. 'țară' (country)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Important Pronunciation Rules",
+      "headingRo": "Reguli Esențiale de Pronunție",
+      "content": "To sound like a native speaker, you must master the groups of letters and the 'hidden' sounds (like the final soft 'i').",
+      "contentRo": "Pentru a suna ca un vorbitor nativ, este esențial să stăpânești grupurile de litere și sunetele „ascunse” (precum „i”-ul scurt final).",
+      "rules": [
+        "c + e/i = /tʃ/ (ch sound): ce, citi, cercetare",
+        "c + a/o/u = /k/ (k sound): casă, copac, curent",
+        "g + e/i = /dʒ/ (j sound): geam, deget, genunchi",
+        "g + a/o/u = /ɡ/ (g sound): gară, gorilă, gură",
+        "ch = /k/: chemare, chitară, ochi (not the 'ch' in English!)",
+        "gh = /ɡ/: ghem, ghindă, ghiozdan",
+        "i at the end of words is often silent (or barely pronounced): copii, fete, mergeți",
+        "The letter 'r' is always rolled (trilled), like in Spanish or Italian"
+      ],
+      "examples": [
+        {
+          "ro": "ch = /k/: 'chemare' sounds like 'kemare', NOT 'chemare' (English 'ch')",
+          "en": "This is a common mistake! 'ch' in Romanian is NOT the English 'ch' sound.",
+          "notes": "Remember: ch = k sound, gh = g sound. It's the opposite pattern from English!"
+        },
+        {
+          "ro": "i at the end: 'fete' = /'fete/ (the final i is very soft, almost like a palatalization)",
+          "en": "Final 'i' makes the previous consonant palatal (softer). Practice with: copii, fete, carte.",
+          "notes": "In words like 'copii', the first 'i' is full, and the second 'i' is the soft one."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Heritage Speaker Advantage",
+      "content": "You likely already pronounce these sounds correctly from childhood! The challenge now is recognizing them in writing. When you see 'ș', hear 'sh' in your head — you already know this sound. Focus on connecting the written form to the sound you already know.",
+      "contentRo": "Probabil pronunți deja corect aceste sunete din copilărie! Provocarea acum este să le recunoști în scris. Când vezi 'ș', auzi 'sh' în cap — cunoști deja acest sunet. Concentrează-te pe conectarea formei scrise cu sunetul pe care îl cunoști deja."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these common errors for heritage speakers who learned to read in another language:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente pentru vorbitorii care au învățat să citească într-o altă limbă:",
+      "rules": [
+        "Don't read 'ș' as 's' — they are different letters with different sounds",
+        "Don't read 'ț' as 't' — same reason",
+        "Don't read 'ă' as 'a' — 'măr' (apple) ≠ 'mar' (milestone)",
+        "Don't apply English pronunciation to 'c' and 'g' before 'e' and 'i'",
+        "Don't forget that 'ch' = /k/ in Romanian (not /tʃ/ like in English)"
+      ],
+      "examples": [
+        {
+          "ro": "școală (school) — the 'ș' is /ʃ/, NOT /s/",
+          "en": "Pronounce it like 'shcoală', not 'scoală'",
+          "notes": "Old Romanian spelling used 'ș' with a comma below. Modern systems use 'ș' (U+0218)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Syllable Structure and Stress",
+      "headingRo": "Accentul și Structura Silabică",
+      "content": "In Romanian, the stress is mobile and does not have a fixed position (unlike French or Polish). However, most words follow a predictable rhythmic pattern.",
+      "contentRo": "În limba română, accentul este mobil și nu are o poziție fixă (spre deosebire de franceză sau polonă). Totuși, majoritatea cuvintelor urmează un model ritmic previzibil.",
+      "rules": [
+        "Most Romanian words are stressed on the penultimate (second-to-last) syllable: fa'milie, fe'reastră",
+        "Words ending in consonants are often stressed on the last syllable: mulțu'mesc, par'ter, a'vion",
+        "Words ending in -ă are often stressed on the syllable before: ma'mă, fa'tă, ca'să",
+        "When unsure, listen to a native speaker or use a dictionary"
+      ],
+      "examples": [
+        {
+          "ro": "mulțumesc — stress on 'mesc': mul.țu.MESC",
+          "en": "mul-țu-MESC — the stress falls on the last syllable",
+          "notes": "As a heritage speaker, your intuition about stress is probably already correct!"
+        },
+        {
+          "ro": "familie — stress on 'mi': fa.MI.li.e",
+          "en": "fa-MI-li-e — the stress falls on the second-to-last syllable",
+          "notes": "Note the division into syllables: fa-mi-li-e."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Romanian has 31 letters, 5 of which are unique: ă, â, î, ș, ț",
+    "ă = /ə/ (like 'a' in 'about')",
+    "â = î = /ɨ/ (central/guttural 'i' sound); â inside words, î at start/end",
+    "ș = /ʃ/ (like 'sh' in 'shoe')",
+    "ț = /ts/ (like 'ts' in 'cats')",
+    "c/g before e/i change sound: ce = /tʃe/, ge = /dʒe/",
+    "ch = /k/, gh = /ɡ/ (opposite of English pattern!)",
+    "Romanian is mostly phonetic — read it as it's written",
+    "Final 'i' is often silent/soft, palatalizing the previous consonant"
+  ],
+  "summaryPointsRo": [
+    "Româna are 31 de litere, dintre care 5 sunt unice: ă, â, î, ș, ț",
+    "ă = /ə/ (ca 'a' în 'about')",
+    "â = î = /ɨ/ (sunet central/de 'i' guttural); â în interiorul cuvântului, î la început/sfârșit",
+    "ș = /ʃ/ (ca 'sh' în 'shoe')",
+    "ț = /ts/ (ca 'ts' în 'cats')",
+    "c/g înainte de e/i schimbă sunetul: ce = /tʃe/, ge = /dʒe/",
+    "ch = /k/, gh = /ɡ/ (opusul modelului englez!)",
+    "Româna este în mare parte fonetică — citești cum e scris",
+    "'i' final este adesea mut/soft, palatalizând consoana precedentă"
+  ],
+  "relatedExercises": ["E01-alphabet-drill"]
+}

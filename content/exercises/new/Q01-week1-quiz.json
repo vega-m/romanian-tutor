@@ -1,0 +1,219 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q01-week1-quiz",
+  "title": "Săptămâna 1 — Test: Alfabet, Diacritice, Salutări",
+  "titleRo": "Săptămâna 1 — Test: Alfabet, Diacritice, Salutări",
+  "cefrLevel": "A1",
+  "prerequisites": [
+    "G01-alphabet-reading"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "This quiz tests your knowledge of the Romanian alphabet, diacritics, pronunciation rules, and basic greetings. Read each question carefully and choose or type the best answer.",
+  "instructionsRo": "Acest test verifică cunoștințele despre alfabetul român, diacritice, reguli de pronunție și salutări de bază. Citiți cu atenție fiecare întrebare și alegeți sau scrieți cel mai bun răspuns.",
+  "sourceWeek": 1,
+  "exercises": [
+    {
+      "id": "q01_001",
+      "type": "multiple-choice",
+      "prompt": "How many letters does the Romanian alphabet have?",
+      "promptRo": "Câte litere are alfabetul român?",
+      "answer": "31",
+      "options": [
+        "26",
+        "28",
+        "31",
+        "33"
+      ],
+      "explanation": "The Romanian alphabet has 31 letters: 26 basic Latin letters plus 5 special letters (ă, â, î, ș, ț).",
+      "explanationRo": "Alfabetul român are 31 de litere: 26 litere latine de bază plus 5 litere speciale (ă, â, î, ș, ț)."
+    },
+    {
+      "id": "q01_002",
+      "type": "multiple-choice",
+      "prompt": "Which IPA symbol represents the sound of 'ș' in Romanian?",
+      "promptRo": "Care simbol IPA reprezintă sunetul lui 'ș' în română?",
+      "answer": "/ʃ/",
+      "options": [
+        "/s/",
+        "/ʃ/",
+        "/ts/",
+        "/z/"
+      ],
+      "explanation": "ș = /ʃ/, which is the 'sh' sound in English (as in 'shoe'). It is one of the five special Romanian letters.",
+      "explanationRo": "ș = /ʃ/, sunetul 'sh' din engleză (ca în 'shoe'). Este una dintre cele cinci litere speciale românești."
+    },
+    {
+      "id": "q01_003",
+      "type": "multiple-choice",
+      "prompt": "What sound does the letter 'ț' produce?",
+      "promptRo": "Ce sunet produce litera 'ț'?",
+      "answer": "/ts/ (like 'ts' in 'cats')",
+      "options": [
+        "/tʃ/ (like 'ch' in 'church')",
+        "/ts/ (like 'ts' in 'cats')",
+        "/θ/ (like 'th' in 'think')",
+        "/dʒ/ (like 'j' in 'jam')"
+      ],
+      "explanation": "ț = /ts/, like the sound at the end of the English word 'cats'. It is a distinct Romanian letter, not the same as 't'.",
+      "explanationRo": "ț = /ts/, ca sunetul de la sfârșitul cuvântului englezesc 'cats'. Este o literă românească distinctă, nu la fel ca 't'."
+    },
+    {
+      "id": "q01_004",
+      "type": "multiple-choice",
+      "prompt": "Which diacritic is correct in the word for 'water' in Romanian?",
+      "promptRo": "Ce diacritic este corect în cuvântul pentru 'apă' în română?",
+      "answer": "ă — apă",
+      "options": [
+        "â — apâ",
+        "î — apî",
+        "ă — apă",
+        "No diacritic — apa"
+      ],
+      "explanation": "The Romanian word for 'water' is 'apă', using 'ă' (the schwa sound /ə/). Writing 'apâ' or 'apî' would be incorrect.",
+      "explanationRo": "Cuvântul românesc pentru 'apă' este 'apă', folosind 'ă' (sunetul schwa /ə/). Scrierea 'apâ' sau 'apî' ar fi incorectă."
+    },
+    {
+      "id": "q01_005",
+      "type": "multiple-choice",
+      "prompt": "According to the â/î rule, which word is spelled correctly?",
+      "promptRo": "Conform regulii â/î, care cuvânt este scris corect?",
+      "answer": "rămâne (to remain)",
+      "options": [
+        "rămâne (to remain)",
+        "rămîne (to remain)",
+        "rămâne (to remain)",
+        "râmîne (to remain)"
+      ],
+      "explanation": "The rule: 'â' is used in the middle of words, 'î' at the beginning or end. 'Rămâne' correctly uses 'â' inside the word and 'ă' in the first syllable.",
+      "explanationRo": "Regula: 'â' se folosește în mijlocul cuvintelor, 'î' la început sau la sfârșit. 'Rămâne' folosește corect 'â' în interiorul cuvântului și 'ă' în prima silabă."
+    },
+    {
+      "id": "q01_006",
+      "type": "multiple-choice",
+      "prompt": "How is 'ce' pronounced in Romanian?",
+      "promptRo": "Cum se pronunță 'ce' în română?",
+      "answer": "/tʃe/ (like 'che' in 'cherry')",
+      "options": [
+        "/ke/ (like 'ke' in 'kettle')",
+        "/tʃe/ (like 'che' in 'cherry')",
+        "/se/ (like 'se' in 'send')",
+        "/tse/ (like 'tse' in 'tsetse')"
+      ],
+      "explanation": "Before 'e' and 'i', the letter 'c' makes the /tʃ/ sound (like English 'ch'). So 'ce' = /tʃe/, as in 'cer' (sky) = /tʃer/.",
+      "explanationRo": "Înainte de 'e' și 'i', litera 'c' face sunetul /tʃ/ (ca 'ch' în engleză). Deci 'ce' = /tʃe/, ca în 'cer' (cer) = /tʃer/."
+    },
+    {
+      "id": "q01_007",
+      "type": "multiple-choice",
+      "prompt": "How is 'ge' pronounced in Romanian?",
+      "promptRo": "Cum se pronunță 'ge' în română?",
+      "answer": "/dʒe/ (like 'je' in 'jet')",
+      "options": [
+        "/ɡe/ (like 'ge' in 'get')",
+        "/dʒe/ (like 'je' in 'jet')",
+        "/he/ (like 'he' in 'hello')",
+        "/ʒe/ (like 'ge' in 'mirage')"
+      ],
+      "explanation": "Before 'e' and 'i', 'g' makes the /dʒ/ sound (like English 'j'). So 'ge' = /dʒe/, as in 'geam' (window) = /dʒam/.",
+      "explanationRo": "Înainte de 'e' și 'i', 'g' face sunetul /dʒ/ (ca 'j' în engleză). Deci 'ge' = /dʒe/, ca în 'geam' (geam) = /dʒam/."
+    },
+    {
+      "id": "q01_008",
+      "type": "multiple-choice",
+      "prompt": "How is 'ch' pronounced in Romanian?",
+      "promptRo": "Cum se pronunță 'ch' în română?",
+      "answer": "/k/ (like 'k' in 'kite')",
+      "options": [
+        "/tʃ/ (like 'ch' in 'church')",
+        "/k/ (like 'k' in 'kite')",
+        "/x/ (like 'ch' in Scottish 'loch')",
+        "/ʃ/ (like 'sh' in 'shoe')"
+      ],
+      "explanation": "In Romanian, 'ch' always = /k/. This is the opposite of English! For example, 'chemare' is pronounced /ke.'ma.re/, not /tʃe.'ma.re/.",
+      "explanationRo": "În română, 'ch' = întotdeauna /k/. Acesta este opusul englezei! De exemplu, 'chemare' se pronunță /ke.'ma.re/, nu /tʃe.'ma.re/."
+    },
+    {
+      "id": "q01_009",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritic: 'Bun_ ziua!' (Good day!)",
+      "promptRo": "Completați diacriticul lipsă: 'Bun_ ziua!'",
+      "sentence": "Bun_ ziua!",
+      "answer": "ă",
+      "acceptableAnswers": [
+        "ă"
+      ],
+      "explanation": "The correct spelling is 'Bună ziua!' The greeting uses 'ă' (schwa sound). 'Bună' is the feminine form of 'bun' (good).",
+      "explanationRo": "Scrierea corectă este 'Bună ziua!' Salutul folosește 'ă' (sunetul schwa). 'Bună' este forma feminină a lui 'bun' (bun)."
+    },
+    {
+      "id": "q01_010",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritic: 'M_ numesc Maria.' (My name is Maria.)",
+      "promptRo": "Completați diacriticul lipsă: 'M_ numesc Maria.'",
+      "sentence": "M_ numesc Maria.",
+      "answer": "ă",
+      "acceptableAnswers": [
+        "ă"
+      ],
+      "explanation": "The correct spelling is 'Mă numesc Maria.' The reflexive pronoun 'mă' uses 'ă'.",
+      "explanationRo": "Scrierea corectă este 'Mă numesc Maria.' Pronumele reflexiv 'mă' folosește 'ă'."
+    },
+    {
+      "id": "q01_011",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritic: 'Acesta este un m_r.' (This is an apple.)",
+      "promptRo": "Completați diacriticul lipsă: 'Acesta este un m_r.'",
+      "sentence": "Acesta este un m_r.",
+      "answer": "ă",
+      "acceptableAnswers": [
+        "ă"
+      ],
+      "explanation": "The correct word is 'măr' (apple), with 'ă' (schwa). The word 'măr' cannot use 'â' or 'î' — those would be incorrect spellings.",
+      "explanationRo": "Cuvântul corect este 'măr' (măr), cu 'ă' (schwa). Cuvântul 'măr' nu poate folosi 'â' sau 'î' — acestea ar fi scrieri incorecte."
+    },
+    {
+      "id": "q01_012",
+      "type": "fill-blank",
+      "prompt": "Fill in the missing diacritic: 'La revedere, pe cur_nd!' (Goodbye, see you soon!)",
+      "promptRo": "Completați diacriticul lipsă: 'La revedere, pe cur_nd!'",
+      "sentence": "La revedere, pe cur_nd!",
+      "answer": "â",
+      "acceptableAnswers": [
+        "â"
+      ],
+      "explanation": "The correct word is 'curând' (soon), using 'â' because it appears in the middle of the word. The rule: 'â' inside words, 'î' at the beginning or end.",
+      "explanationRo": "Cuvântul corect este 'curând' (curând), folosind 'â' deoarece apare în mijlocul cuvântului. Regula: 'â' în interiorul cuvintelor, 'î' la început sau sfârșit."
+    },
+    {
+      "id": "q01_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the diacritic error: 'Mâine merg la scoală.'",
+      "promptRo": "Găsiți și corectați eroarea de diacritic: 'Mâine merg la scoală.'",
+      "sentence": "Mâine merg la scoală.",
+      "answer": "Mâine merg la școală.",
+      "explanation": "The word 'școală' (school) requires 'ș' (/ʃ/ sound), not plain 's'. Without the diacritic, 'scoală' would be mispronounced with /s/ instead of /ʃ/.",
+      "explanationRo": "Cuvântul 'școală' (școală) necesită 'ș' (sunetul /ʃ/), nu 's' simplu. Fără diacritic, 'scoală' ar fi pronunțat greșit cu /s/ în loc de /ʃ/."
+    },
+    {
+      "id": "q01_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the diacritic error: 'Îmi place sâ citesc.'",
+      "promptRo": "Găsiți și corectați eroarea de diacritic: 'Îmi place sâ citesc.'",
+      "sentence": "Îmi place sâ citesc.",
+      "answer": "Îmi place să citesc.",
+      "explanation": "The subjunctive particle is 'să' (with 'ă'), not 'sâ'. The word 'să' is a grammatical particle and always uses 'ă', regardless of position.",
+      "explanationRo": "Particula subjonctivului este 'să' (cu 'ă'), nu 'sâ'. Cuvântul 'să' este o particulă gramaticală și folosește întotdeauna 'ă', indiferent de poziție."
+    },
+    {
+      "id": "q01_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the diacritic error: 'Buna dimineata, domnule profesor.'",
+      "promptRo": "Găsiți și corectați eroarea de diacritic: 'Buna dimineata, domnule profesor.'",
+      "sentence": "Buna dimineata, domnule profesor.",
+      "answer": "Bună dimineața, domnule profesor.",
+      "explanation": "Two corrections needed: 'Bună' needs 'ă' (not plain 'a'), and 'dimineața' needs both 'ă' and 'ț'. The word 'dimineață' means 'morning' and requires proper diacritics throughout.",
+      "explanationRo": "Sunt necesare două corecturi: 'Bună' necesită 'ă' (nu 'a' simplu), iar 'dimineața' necesită atât 'ă' cât și 'ț'. Cuvântul 'dimineață' înseamnă 'dimineață' și necesită diacritice corecte peste tot."
+    }
+  ]
+}

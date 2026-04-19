@@ -1,0 +1,366 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G02-articles",
+  "title": "Articolele în Limba Română",
+  "titleEn": "Articles in Romanian",
+  "cefrLevel": "A1-A2",
+  "prerequisites": ["G01-alphabet-reading"],
+  "estimatedMinutes": 40,
+  "introduction": "In Romanian, articles function differently than in English. The definite article is attached to the end of the noun as a suffix (enclitic), while the indefinite article is a separate word. Mastering these is the first step toward building correct sentence structures.",
+  "introductionRo": "În limba română, articolele funcționează diferit față de limba engleză. Articolul hotărât se atașează la sfârșitul substantivului (enclitic), în timp ce articolul nehotărât este un cuvânt separat. Stăpânirea acestora este primul pas către construirea unor structuri corecte în propoziție.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Indefinite Articles (Articol Nehotărât)",
+      "headingRo": "Articolul Nehotărât",
+      "content": "The indefinite article is used when referring to a non-specific object or introducing a new person or thing into the conversation.",
+      "contentRo": "Articolul nehotărât se folosește atunci când ne referim la un obiect nespecificat sau când introducem o persoană sau un lucru nou în conversație.",
+      "table": {
+        "headers": ["Article", "Gender", "Number", "Example (RO)", "Example (EN)"],
+        "rows": [
+          ["un", "masculine", "singular", "un băiat", "a boy"],
+          ["un", "neuter", "singular", "un scaun", "a chair"],
+          ["o", "feminine", "singular", "o fată", "a girl"],
+          ["niște", "masculine", "plural", "niște băieți", "some boys"],
+          ["niște", "feminine", "plural", "niște fete", "some girls"],
+          ["niște", "neuter", "plural", "niște scaune", "some chairs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Un câine doarme în grădină.",
+          "en": "A dog is sleeping in the garden.",
+          "notes": "'un' is used for both masculine and neuter singular nouns."
+        },
+        {
+          "ro": "O carte este pe masă.",
+          "en": "A book is on the table.",
+          "notes": "'o' is used exclusively for feminine singular nouns."
+        },
+        {
+          "ro": "Niște flori frumoase sunt în vază.",
+          "en": "Some beautiful flowers are in the vase.",
+          "notes": "'niște' is used for all genders in the plural. It means 'some' or 'any'."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Definite Articles — The Enclitic System",
+      "headingRo": "Articolul Hotărât (Sistemul Enclitic)",
+      "content": "This is one of the most distinctive features of Romanian. The definite article is attached to the END of the noun, creating a single word. Its form depends on the gender and number of the noun, as well as its phonetic ending.",
+      "contentRo": "Aceasta este una dintre cele mai distinctive trăsături ale limbii române. Articolul hotărât se atașează la sfârșitul substantivului, formând un singur cuvânt. Forma acestuia depinde de genul și numărul substantivului, dar și de terminația fonetică a acestuia.",
+      "table": {
+        "headers": ["Gender/Number", "Article Form", "Noun Ends In", "Example", "Translation"],
+        "rows": [
+          ["masculine singular", "-ul", "consonant", "băiat → băiatul", "the boy"],
+          ["masculine singular", "-le", "vowel", "frate → fratele / nume → numele", "the brother / the name"],
+          ["feminine singular", "-a", "any", "fată → fata", "the girl"],
+          ["feminine singular", "-ua", "-ie / -ea", "zi → ziua / cafea → cafeaua", "the day / the coffee"],
+          ["neuter singular", "-ul", "consonant", "scaun → scaunul", "the chair"],
+          ["neuter singular", "-le", "vowel", "nume → numele", "the name"],
+          ["masculine plural", "-ii", "consonant", "băieți → băieții", "the boys"],
+          ["masculine plural", "-ii", "vowel", "copii → copiii", "the children"],
+          ["feminine plural", "-le", "any", "fete → fetele", "the girls"],
+          ["neuter plural", "-le", "any", "scaune → scaunele", "the chairs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "băiat → băiatul (the boy), pom → pomul (the tree)",
+          "en": "Masculine singular: add -ul after consonant, -ul (or -le after vowel)",
+          "notes": "Most masculine nouns take -ul. After a vowel ending, the article may be -ul (pom → pomul)."
+        },
+        {
+          "ro": "carte → cartea (the book), floare → floarea (the flower)",
+          "en": "Feminine singular: add -a, or -ua for words ending in -ie/-ea",
+          "notes": "Feminine nouns ending in -ie or -ea get -ua: floare → floarea, cafea → cafeaua."
+        },
+        {
+          "ro": "scaun → scaunul (the chair), nume → numele (the name)",
+          "en": "Neuter singular: behaves like masculine for articles — -ul or -le",
+          "notes": "Neuter nouns use the same article endings as masculine in the singular."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "How Definite Articles Change Noun Endings",
+      "headingRo": "Cum Schimbă Articolele Hotărâte Terminațiile Substantivelor",
+      "content": "When the definite article is added, the noun ending often changes. This is not just a simple suffix — the noun itself may lose or change a letter before the article is attached:",
+      "contentRo": "Când se adaugă articolul hotărât, terminația substantivului se schimbă adesea. Nu este doar un simplu sufix — substantivul însuși poate pierde sau schimba o literă înainte ca articolul să fie atașat:",
+      "table": {
+        "headers": ["Indefinite", "Definite", "What Changed", "Gender"],
+        "rows": [
+          ["un băiat", "băiatul", "-ul added", "masculine"],
+          ["o fată", "fata", "ă → a + article", "feminine"],
+          ["un copil", "copilul", "-ul added", "masculine"],
+          ["un pom", "pomul", "-ul added", "masculine"],
+          ["o cafea", "cafeaua", "ea → eaua", "feminine"],
+          ["o floare", "floarea", "e → ea + a", "feminine"],
+          ["un nume", "numele", "e → ele", "neuter/masculine"],
+          ["un student", "studentul", "-ul added", "masculine"],
+          ["o întâmplare", "întâmplarea", "e → ea + a", "feminine"],
+          ["un leu", "leul", "-ul added (note: vowel ending)", "neuter"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "o mamă → mama (the mother)",
+          "en": "The ă at the end becomes 'a' and the article is absorbed into it",
+          "notes": "This is a very common pattern: feminine nouns ending in -ă drop the ă and take -a."
+        },
+        {
+          "ro": "un bunic → bunicul (the grandfather)",
+          "en": "Simple -ul addition for masculine nouns ending in a consonant",
+          "notes": "Most masculine nouns ending in a consonant just get -ul appended."
+        },
+        {
+          "ro": "o femeie → femeia (the woman)",
+          "en": "Nouns ending in -ie become -ia when the article is added",
+          "notes": "Pattern: -ie → -ia (e disappears, i + a merge): femeie → femeia, zi → ziua."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Demonstrative Articles",
+      "headingRo": "Articolul Demonstrativ",
+      "content": "Demonstrative articles (this, that) usually precede the noun. Crucially, when the demonstrative is placed before the noun, the noun itself remains in its unarticulated (indefinite) form.",
+      "contentRo": "Articolele demonstrative (acest, această etc.) preced, de regulă, substantivul. Un aspect esențial este că, atunci când demonstrativul stă în fața substantivului, acesta din urmă rămâne în forma sa nearticulată.",
+      "table": {
+        "headers": ["Form", "Gender", "Number", "Example", "Translation"],
+        "rows": [
+          ["acest", "masculine", "singular", "acest băiat", "this boy"],
+          ["această", "feminine", "singular", "această fată", "this girl"],
+          ["acest", "neuter", "singular", "acest scaun", "this chair"],
+          ["acești", "masculine", "plural", "acești băieți", "these boys"],
+          ["aceste", "feminine", "plural", "aceste fete", "these girls"],
+          ["aceste", "neuter", "plural", "aceste scaune", "these chairs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Acest băiat este inteligent.",
+          "en": "This boy is smart.",
+          "notes": "The noun 'băiat' is in its indefinite (unarticulated) form."
+        },
+        {
+          "ro": "Băiatul acesta este inteligent.",
+          "en": "This boy is smart.",
+          "notes": "If the demonstrative comes AFTER the noun (acesta), the noun MUST have the definite article."
+        },
+        {
+          "ro": "Această carte este foarte interesantă.",
+          "en": "This book is very interesting.",
+          "notes": "'această' is the feminine singular demonstrative. Note the 'ă' ending."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Possessive Articles (Articol Genitival)",
+      "headingRo": "Articolul Genitival",
+      "content": "Romanian uses a special possessive article (also called the genitival article) before nouns in the genitive case. It corresponds to 'of the' in English and is essential for expressing possession:",
+      "contentRo": "Româna folosește un articol posesiv special (numit și articol genitival) înaintea substantivelor în cazul genitiv. Corespunde lui 'of the' în engleză și este esențial pentru exprimarea posesiei:",
+      "table": {
+        "headers": ["Article", "Gender", "Number", "Example", "Translation"],
+        "rows": [
+          ["al", "masculine", "singular", "cartea băiatului / o carte a băiatului", "the boy's book / a book of a boy's"],
+          ["a", "feminine", "singular", "cartea fetei / o carte a unei fete", "the girl's book / a book of a girl's"],
+          ["al", "neuter", "singular", "numele orașului", "the city's name"],
+          ["ai", "masculine", "plural", "cărțile elevilor", "the students' books"],
+          ["ale", "feminine", "plural", "cărțile profesoarelor", "the teachers' books"],
+          ["ale", "neuter", "plural", "scaunele școlii", "the school's chairs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Cartea fetei este pe masă.",
+          "en": "The girl's book is on the table.",
+          "notes": "When the possessor has the definite article (fetei), the genitival article al/a/ai/ale is not needed."
+        },
+        {
+          "ro": "Mașina bărbatului este nouă.",
+          "en": "The man's car is new.",
+          "notes": "When the possessor has the definite article (bărbatului), the genitival article al/a/ai/ale is not needed."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Heritage Speaker Advantage",
+      "headingRo": "Avantajul Vorbitorului de Origine",
+      "content": "As a heritage speaker, you almost certainly use definite articles correctly in speech without thinking about it. You say 'mamă' (a mother) vs. 'mama' (the mother) naturally. Your challenge is recognizing the WRITTEN patterns. When you read 'cartea', you already hear 'the book' — you just need to consciously notice that '-a' at the end IS the article. Pay special attention to nouns ending in -ie and -ea, which change form when the article is added (floare → floarea, cafea → cafeaua).",
+      "contentRo": "Ca vorbitor de origine, folosiți aproape sigur articolele hotărâte corect în vorbire fără să vă gândiți. Spuneți 'mamă' (o mamă) vs. 'mama' (mama) în mod natural. Provocarea ta este să recunoști tiparele SCRISE. Când citești 'cartea', auzi deja 'cartea' — trebuie doar să observi conștient că '-a' de la sfârșit ESTE articolul. Acordă atenție specială substantivelor care se termină în -ie și -ea, care își schimbă forma când se adaugă articolul (floare → floarea, cafea → cafeaua)."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "headingRo": "Greșeli Comune de Evitat",
+      "content": "Watch out for these frequent errors when using Romanian articles:",
+      "contentRo": "Fii atent la aceste greșeli frecvente când folosești articole românești:",
+      "rules": [
+        "Don't put the definite article BEFORE the noun like in English: 'cartea' NOT 'ea carte'",
+        "Don't use 'un/o' for plurals — use 'niște' or no article at all",
+        "Don't forget that feminine nouns ending in -ă change the ă to a when the article is added: mamă → mama",
+        "Don't confuse indefinite 'un' with the number 'unu' — they look similar but are different words",
+        "Don't use the genitival article with proper names in simple possession: 'cartea Mariei' (Maria's book), NOT 'cartea a Mariei'"
+      ],
+      "examples": [
+        {
+          "ro": "Cartea este pe masă. (Correct) — E carte pe masă. (Incorrect)",
+          "en": "The book is on the table. — Don't say 'ea carte' like 'the book' in English.",
+          "notes": "The article always goes at the END in Romanian. This is one of the biggest differences from English."
+        },
+        {
+          "ro": "Unii băieți / Unii bărbați — 'unii' is the plural indefinite article for masculine animate nouns",
+          "en": "Some boys / Some men — 'unii' is used for masculine animate nouns in the plural",
+          "notes": "While 'niște' works for all plurals, 'unii' can be used for masculine animate nouns for emphasis."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Articles with Adjectives",
+      "headingRo": "Articolele cu Adjective",
+      "content": "When an adjective is used with a noun, the definite article is still attached to the noun (or to the adjective if it comes after the noun). Romanian adjectives can appear before or after the noun:",
+      "contentRo": "Când un adjectiv este folosit cu un substantiv, articolul hotărât este atașat în continuare la substantiv (sau la adjectiv dacă vine după substantiv). Adjectivele românești pot apărea înainte sau după substantiv:",
+      "table": {
+        "headers": ["Pattern", "Example (RO)", "Example (EN)"],
+        "rows": [
+          ["noun + adjective (article on noun)", "băiatul cel bun", "the good boy"],
+          ["noun + adjective (article on adjective)", "băiatul bun", "the good boy"],
+          ["adjective + noun", "bunul băiat", "the good boy"],
+          ["noun + adj (indefinite)", "un băiat bun", "a good boy"],
+          ["noun + adj (demonstrative)", "acest băiat bun", "this good boy"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Fata cea frumoasă dansează.",
+          "en": "The beautiful girl is dancing.",
+          "notes": "'cea' is a reinforcing particle used with definite articles before adjectives: fata cea frumoasă."
+        },
+        {
+          "ro": "Băiatul inteligent citește.",
+          "en": "The smart boy is reading.",
+          "notes": "The article stays on the noun when the adjective follows: băiatul inteligent."
+        },
+        {
+          "ro": "Inteligentul băiat citește.",
+          "en": "The smart boy is reading.",
+          "notes": "When the adjective comes first, it takes the article: inteligentul băiat."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Zero Article — When No Article Is Used",
+      "headingRo": "Articolul Zero — Când Nu Se Folosește Articol",
+      "content": "In some contexts, Romanian does not use any article (called the 'zero article'). This happens in similar situations to English, but there are differences:",
+      "contentRo": "În unele contexte, româna nu folosește niciun articol (numit 'articol zero'). Acest lucru se întâmplă în situații similare cu engleza, dar există diferențe:",
+      "rules": [
+        "Generalizations and abstract concepts: 'Muzica e frumoasă' (Music is beautiful) — but here 'muzica' HAS the article, unlike English!",
+        "Possession with names: 'cartea Mariei' (Maria's book) — the noun takes the article, the possessor does not",
+        "After prepositions like 'cu' (with), 'fără' (without), 'la' (at/to): 'sunt la școală' (I'm at school)",
+        "In some fixed expressions: 'a avea dreptate' (to be right), 'a avea nevoie' (to need)"
+      ],
+      "examples": [
+        {
+          "ro": "Sunt la școală. (I'm at school.)",
+          "en": "No article needed after the preposition 'la' for institutions",
+          "notes": "But 'sunt la școala nouă' (I'm at the new school) — with an adjective, the article appears."
+        },
+        {
+          "ro": "Muzica este o limbă universală.",
+          "en": "Music is a universal language.",
+          "notes": "Romanian often uses the definite article for generalizations where English would use no article."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Summary Table — All Article Forms",
+      "headingRo": "Tabel Rezumat — Toate Formele Articolului",
+      "content": "Here is a complete reference of all Romanian article forms:",
+      "contentRo": "Iată o referință completă a tuturor formelor de articole românești:",
+      "table": {
+        "headers": ["Type", "Masc. Sing.", "Fem. Sing.", "Masc. Pl.", "Fem. Pl.", "Neuter Sing.", "Neuter Pl."],
+        "rows": [
+          ["Indefinite", "un", "o", "niște", "niște", "un", "niște"],
+          ["Definite (enclitic)", "-ul", "-a", "-ii", "-le", "-ul", "-le"],
+          ["Demonstrative", "acest", "această", "acești", "aceste", "acest", "aceste"],
+          ["Genitival", "al", "a", "ai", "ale", "al", "ale"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "un scaun → scaunul → acest scaun → al scaunului",
+          "en": "a chair → the chair → this chair → of the chair",
+          "notes": "Neuter singular follows the masculine pattern for all article types."
+        }
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Practice Exercise: Convert to Definite",
+      "headingRo": "Exercițiu de Practică: Transformă în Hotărât",
+      "content": "Try converting these indefinite noun phrases to definite. The answers show the transformation:",
+      "contentRo": "Încearcă să transformi aceste sintagme nehotărâte în hotărâte. Răspunsurile arată transformarea:",
+      "examples": [
+        {
+          "ro": "un frate → fratele (the brother)",
+          "en": "un frate → fratele — masculine, consonant ending, add -ul",
+          "notes": "Simple -ul addition for most masculine nouns."
+        },
+        {
+          "ro": "o soră → sora (the sister)",
+          "en": "o soră → sora — feminine, the 'o' is replaced by the enclitic -a",
+          "notes": "Feminine nouns ending in -a already contain the article form."
+        },
+        {
+          "ro": "o cafea → cafeaua (the coffee)",
+          "en": "o cafea → cafeaua — feminine ending in -ea, becomes -eaua",
+          "notes": "The -ea ending expands to -eaua when the definite article is added."
+        },
+        {
+          "ro": "un perete → peretele (the wall)",
+          "en": "un perete → peretele — masculine ending in -e, takes -le",
+          "notes": "Nouns ending in -e often take -le instead of -ul."
+        },
+        {
+          "ro": "un nume → numele (the name)",
+          "en": "un nume → numele — neuter/masculine ending in -e, takes -le",
+          "notes": "Both neuter and masculine nouns ending in -e typically take -le."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Romanian has indefinite articles (un, o, niște) and definite (enclitic) articles",
+    "The definite article is attached to the END of the noun: băiat → băiatul (the boy)",
+    "Masculine singular: -ul (after consonant) or -le (after vowel)",
+    "Feminine singular: -a (added to the stem, replacing the final ă/o)",
+    "Feminine nouns ending in -ie/-ea change form: floare → floarea, cafea → cafeaua",
+    "Plural masculine: -ii; plural feminine and neuter: -le",
+    "Demonstrative articles (acest, această, etc.) go BEFORE the noun",
+    "Genitival articles (al, a, ai, ale) express possession: 'of the'",
+    "Heritage speakers usually know article usage intuitively — focus on recognizing written patterns",
+    "Unlike English, Romanian often uses the definite article for generalizations"
+  ],
+  "summaryPointsRo": [
+    "Româna are articole nehotărâte (un, o, niște) și articole hotărâte (enclitice)",
+    "Articolul hotărât se atașează la SFÂRȘITUL substantivului: băiat → băiatul",
+    "Masculin singular: -ul (după consoană) sau -le (după vocală)",
+    "Feminin singular: -a (adaugat la rădăcină, înlocuind ă/o final)",
+    "Substantivele feminine care se termină în -ie/-ea își schimbă forma: floare → floarea, cafea → cafeaua",
+    "Plural masculin: -ii; plural feminin și neuter: -le",
+    "Articolele demonstrative (acest, această etc.) se pun ÎNAINTE de substantiv",
+    "Articolele genitivale (al, a, ai, ale) exprimă posesia: 'al/a/ai/ale'",
+    "Vorbitorii de origine cunosc de obicei intuitiv articolele — concentrează-te pe recunoașterea tiparelor scrise",
+    "Spre deosebire de engleză, româna folosește adesea articolul hotărât pentru generalizări"
+  ],
+  "relatedExercises": ["E02-article-agreement"]
+}

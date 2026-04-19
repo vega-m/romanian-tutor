@@ -1,0 +1,110 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R05-travel-stories",
+  "title": "Povești de Călătorie",
+  "titleEn": "Travel Stories",
+  "cefrLevel": "A2-B1",
+  "texts": [
+    {
+      "id": "r05_001",
+      "title": "O Călătorie cu Trenul",
+      "titleEn": "A Train Journey",
+      "text": "Anul trecut, am făcut o călătorie cu trenul de la București la Sinaia. Am cumpărat biletele cu o zi înainte de la Gara de Nord. Trenul a plecat la ora nouă dimineața. În tren, am citit o carte și am privit pe fereastră. Peisajul era minunat — dealuri verzi, păduri și sate mici. La un moment dat, trenul a trecut printr-un tunel lung, și totul a devenit întunecat. După două ore, am ajuns la Sinaia. Am vizitat Castelul Peleș, care este foarte frumos și mare. Am făcut multe fotografii. Apoi am mers la un restaurant local și am mâncat mămăligă cu brânză și smântână. A fost o zi perfectă. Seara, am luat ultimul tren înapoi spre București. Mă simțeam obosit, dar foarte fericit.",
+      "translation": "Last year, I took a train journey from Bucharest to Sinaia. I bought the tickets one day in advance from the North station. The train left at nine in the morning. On the train, I read a book and looked out the window. The landscape was wonderful — green hills, forests, and small villages. At one point, the train went through a long tunnel, and everything became dark. After two hours, I arrived in Sinaia. I visited Peleș Castle, which is very beautiful and large. I took many photos. Then I went to a local restaurant and ate mămăligă with cheese and sour cream. It was a perfect day. In the evening, I took the last train back to Bucharest. I felt tired but very happy.",
+      "vocabularyNotes": [
+        {"word": "cu o zi înainte", "meaning": "one day in advance", "notes": "time expression"},
+        {"word": "peisaj", "meaning": "landscape", "notes": "neuter noun (n.)"},
+        {"word": "tunel", "meaning": "tunnel", "notes": "neuter noun (n.)"},
+        {"word": "mămăligă", "meaning": "polenta (traditional Romanian dish)", "notes": "feminine noun (f.)"},
+        {"word": "smântână", "meaning": "sour cream", "notes": "feminine noun (f.)"}
+      ],
+      "questions": [
+        {
+          "id": "r05_q1",
+          "type": "comprehension",
+          "question": "De unde a plecat trenul?",
+          "questionEn": "Where did the train depart from?",
+          "answer": "De la Gara de Nord din București",
+          "acceptableAnswers": ["de la Gara de Nord", "de la Gara de Nord din București", "București", "Gara de Nord"],
+          "options": null
+        },
+        {
+          "id": "r05_q2",
+          "type": "multiple-choice",
+          "question": "Ce a vizitat naratorul la Sinaia?",
+          "questionEn": "What did the narrator visit in Sinaia?",
+          "options": ["Muzeul de Artă", "Castelul Peleș", "Biserica veche", "Parcul central"],
+          "answer": "Castelul Peleș"
+        },
+        {
+          "id": "r05_q3",
+          "type": "multiple-choice",
+          "question": "Ce a mâncat la restaurant?",
+          "questionEn": "What did the narrator eat at the restaurant?",
+          "options": ["Ciorbă de legume", "Sarmale", "Mămăligă cu brânză și smântână", "Pizza"],
+          "answer": "Mămăligă cu brânză și smântână"
+        },
+        {
+          "id": "r05_q4",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'peisaj'?",
+          "questionEn": "What does 'peisaj' mean?",
+          "answer": "landscape / scenery",
+          "acceptableAnswers": ["landscape", "scenery", "peisaj"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r05_002",
+      "title": "Prima Călătorie în Străinătate",
+      "titleEn": "First Trip Abroad",
+      "text": "Prima mea călătorie în străinătate a fost în Italia, acum trei ani. Am zburat de la București la Roma cu un avion low-cost. La aeroport, am avut puține probleme cu bagajul — era prea greu și a trebuit să plătesc o taxă suplimentară. Dar totul a fost bine în final. Am ajuns în Roma seara și am luat un taxi până la hotel. Camera era mică, dar curată și confortabilă. A doua zi, am vizitat Colosseumul și Forumul Roman. Am fost uimită de cât de mari și vechi sunt aceste monumente. Am mâncat paste și pizza, bineînțeles — erau delicioase! Cel mai mult mi-a plăcut să merg pe străzile vechi și să admir arhitectura. Am cumpărat câteva suveniruri pentru familie. Călătoria a durat doar patru zile, dar am rămas cu amintiri frumoase pentru totdeauna.",
+      "translation": "My first trip abroad was to Italy, three years ago. I flew from Bucharest to Rome on a low-cost flight. At the airport, I had a few problems with my luggage — it was too heavy and I had to pay an extra fee. But everything was fine in the end. I arrived in Rome in the evening and took a taxi to the hotel. The room was small but clean and comfortable. The next day, I visited the Colosseum and the Roman Forum. I was amazed at how big and old these monuments are. I ate pasta and pizza, of course — they were delicious! What I liked most was walking through the old streets and admiring the architecture. I bought some souvenirs for my family. The trip only lasted four days, but I was left with beautiful memories forever.",
+      "vocabularyNotes": [
+        {"word": "low-cost", "meaning": "low-cost / budget (flight)", "notes": "borrowed term, common in Romanian"},
+        {"word": "taxă suplimentară", "meaning": "extra fee / surcharge", "notes": "feminine noun phrase"},
+        {"word": "confortabil", "meaning": "comfortable", "notes": "adjective"},
+        {"word": "uimită", "meaning": "amazed / astonished (feminine)", "notes": "adjective, feminine form of 'uimit'"},
+        {"word": "suveniruri", "meaning": "souvenirs", "notes": "neuter plural noun"}
+      ],
+      "questions": [
+        {
+          "id": "r05_q5",
+          "type": "multiple-choice",
+          "question": "Ce problemă a avut la aeroport?",
+          "questionEn": "What problem did she have at the airport?",
+          "options": ["A pierdut pașaportul", "A întârziat avionul", "Bagajul era prea greu", "A pierdut biletul"],
+          "answer": "Bagajul era prea greu"
+        },
+        {
+          "id": "r05_q6",
+          "type": "comprehension",
+          "question": "Ce a vizitat a doua zi?",
+          "questionEn": "What did she visit the next day?",
+          "answer": "Colosseumul și Forumul Roman",
+          "acceptableAnswers": ["Colosseumul și Forumul Roman", "Colosseumul", "Forumul Roman"],
+          "options": null
+        },
+        {
+          "id": "r05_q7",
+          "type": "multiple-choice",
+          "question": "Cât a durat călătoria?",
+          "questionEn": "How long did the trip last?",
+          "options": ["O săptămână", "Două zile", "Patru zile", "O lună"],
+          "answer": "Patru zile"
+        },
+        {
+          "id": "r05_q8",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'uimită'?",
+          "questionEn": "What does 'uimită' mean?",
+          "answer": "amazed / astonished",
+          "acceptableAnswers": ["amazed", "astonished", "surprised", "uimită", "uimit"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

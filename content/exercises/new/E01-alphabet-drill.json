@@ -1,0 +1,142 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E01-alphabet-drill",
+  "title": "Alphabet and Pronunciation Drill",
+  "titleRo": "Exerciții de Alfabet și Pronunție",
+  "cefrLevel": "A1",
+  "prerequisites": ["G01-alphabet-reading"],
+  "estimatedMinutes": 15,
+  "instructions": "Test your knowledge of the Romanian alphabet, special letters, and pronunciation rules.",
+  "instructionsRo": "Testează-ți cunoștințele despre alfabetul român, literele speciale și regulile de pronunție.",
+  "sourceWeek": 1,
+  "exercises": [
+    {
+      "id": "e01_001",
+      "type": "multiple-choice",
+      "prompt": "How many letters does the Romanian alphabet have?",
+      "promptRo": "Câte litere are alfabetul român?",
+      "answer": "31",
+      "options": ["26", "28", "31", "33"],
+      "explanation": "The Romanian alphabet has 31 letters — 26 basic Latin letters plus 5 special ones: ă, â, î, ș, ț.",
+      "explanationRo": "Alfabetul român are 31 de litere — 26 litere latine de bază plus 5 speciale: ă, â, î, ș, ț."
+    },
+    {
+      "id": "e01_002",
+      "type": "multiple-choice",
+      "prompt": "What sound does 'ș' make?",
+      "promptRo": "Ce sunet face 'ș'?",
+      "answer": "/ʃ/",
+      "options": ["/s/", "/ʃ/", "/ts/", "/z/"],
+      "explanation": "ș = /ʃ/ — the 'sh' sound. It's different from 's'! Compare: școală (school, /ʃ/) vs. scoală (get up/wake up, /s/).",
+      "explanationRo": "ș = /ʃ/ — sunetul 'sh'. Este diferit de 's'! Compară: școală (școală, /ʃ/) vs. scoală (scoală, /s/)."
+    },
+    {
+      "id": "e01_003",
+      "type": "multiple-choice",
+      "prompt": "What sound does 'ț' make?",
+      "promptRo": "Ce sunet face 'ț'?",
+      "answer": "/ts/",
+      "options": ["/tʃ/", "/ts/", "/θ/", "/t/"],
+      "explanation": "ț = /ts/ — like the 'ts' sound at the end of 'cats'. It's a distinct letter from 't'.",
+      "explanationRo": "ț = /ts/ — ca sunetul 'ts' de la sfârșitul cuvântului 'cats'. Este o literă diferită de 't'."
+    },
+    {
+      "id": "e01_004",
+      "type": "multiple-choice",
+      "prompt": "How is 'ce' pronounced in Romanian?",
+      "promptRo": "Cum se pronunță 'ce' în română?",
+      "answer": "/tʃe/",
+      "options": ["/ke/", "/tʃe/", "/se/", "/tse/"],
+      "explanation": "Before 'e' and 'i', the letter 'c' makes the /tʃ/ sound (like English 'ch'). So 'ce' = /tʃe/.",
+      "explanationRo": "Înainte de 'e' și 'i', litera 'c' face sunetul /tʃ/ (ca 'ch' în engleză). Deci 'ce' = /tʃe/."
+    },
+    {
+      "id": "e01_005",
+      "type": "multiple-choice",
+      "prompt": "What is the rule for 'â' vs 'î'?",
+      "promptRo": "Care este regula pentru 'â' vs 'î'?",
+      "answer": "â inside words, î at the beginning and end",
+      "options": ["They are used randomly", "â inside words, î at the beginning and end", "â in formal writing, î in informal", "î for nouns, â for verbs"],
+      "explanation": "Both â and î represent the same sound /ɨ/. The rule: use â in the middle of words (rămâne, cântec) and î at the beginning (începe) or end (a învăța).",
+      "explanationRo": "Atât â cât și î reprezintă același sunet /ɨ/. Regula: se folosește â în mijlocul cuvintelor (rămâne, cântec) și î la început (începe) sau sfârșit (a învăța)."
+    },
+    {
+      "id": "e01_006",
+      "type": "fill-blank",
+      "prompt": "Which diacritic is used in 'măr' to represent the schwa sound?",
+      "promptRo": "Ce semn diacritic este folosit în 'măr' pentru a reprezenta sunetul schwa?",
+      "sentence": "The diacritic representing the schwa sound in 'măr' is: ___",
+      "answer": "ă",
+      "acceptableAnswers": ["ă", "a-breve"],
+      "explanation": "măr contains 'ă' — the schwa sound /ə/, like 'a' in the English word 'about'.",
+      "explanationRo": "măr conține 'ă' — sunetul schwa /ə/, ca 'a' în cuvântul englezesc 'about'."
+    },
+    {
+      "id": "e01_007",
+      "type": "multiple-choice",
+      "prompt": "How is 'ch' pronounced in Romanian?",
+      "promptRo": "Cum se pronunță 'ch' în română?",
+      "answer": "/k/",
+      "options": ["/tʃ/", "/k/", "/x/", "/ʃ/"],
+      "explanation": "In Romanian, 'ch' = /k/ — the opposite of English! So 'chemare' is pronounced /ke.'ma.re/, NOT /tʃe.'ma.re/.",
+      "explanationRo": "În română, 'ch' = /k/ — opusul englezei! Deci 'chemare' se pronunță /ke.'ma.re/, NU /tʃe.'ma.re/."
+    },
+    {
+      "id": "e01_008",
+      "type": "fill-blank",
+      "prompt": "Complete the pronunciation rule: Before 'e' and 'i', the letter 'g' makes the sound ___",
+      "promptRo": "Completează regula de pronunție: Înainte de 'e' și 'i', litera 'g' face sunetul ___",
+      "sentence": "Before 'e' and 'i', 'g' = ___",
+      "answer": "/dʒ/",
+      "acceptableAnswers": ["/dʒ/", "dʒ", "dj", "j"],
+      "explanation": "Before 'e' and 'i', 'g' makes the /dʒ/ sound: geam = /dʒam/, ghid = /ɡid/. But 'gh' = /ɡ/: ghem = /ɡem/.",
+      "explanationRo": "Înainte de 'e' și 'i', 'g' face sunetul /dʒ/: geam = /dʒam/, ghid = /ɡid/. Dar 'gh' = /ɡ/: ghem = /ɡem/."
+    },
+    {
+      "id": "e01_009",
+      "type": "matching",
+      "prompt": "Match each Romanian special letter with its sound:",
+      "promptRo": "Asociază fiecare literă specială românească cu sunetul ei:",
+      "pairs": [
+        {"left": "ă", "right": "/ə/"},
+        {"left": "â", "right": "/ɨ/"},
+        {"left": "ș", "right": "/ʃ/"},
+        {"left": "ț", "right": "/ts/"}
+      ],
+      "explanation": "These 5 letters (including î, same sound as â) are unique to Romanian and essential for correct spelling.",
+      "explanationRo": "Aceste 5 litere (inclusiv î, același sunet ca â) sunt unice în română și esențiale pentru ortografia corectă."
+    },
+    {
+      "id": "e01_010",
+      "type": "multiple-choice",
+      "prompt": "How is the final 'i' in 'copii' (children) pronounced?",
+      "promptRo": "Cum se pronunță 'i' final din 'copii' (copii)?",
+      "answer": "Soft/palatalized — it makes the previous 'i' longer",
+      "options": ["It's silent — don't pronounce it at all", "Soft/palatalized — it makes the previous 'i' longer", "Like a full 'i' — /ko.pi.i/", "Like 'ee' — /ko.pi.ij/"],
+      "explanation": "Final 'i' in Romanian is often soft/palatalized. In 'copii' /ko.'pi.j/, it palatalizes the previous consonant. You probably already do this naturally!",
+      "explanationRo": "'i' final în română este adesea soft/palatalizat. În 'copii' /ko.'pi.j/, palatalizează consoana precedentă."
+    },
+    {
+      "id": "e01_011",
+      "type": "fill-blank",
+      "prompt": "Which letter is different between these two words: 'casă' (house) and 'caz' (case/situation)?",
+      "promptRo": "Ce literă este diferită între aceste două cuvinte: 'casă' (casă) și 'caz' (caz/situație)?",
+      "sentence": "The difference is: 'casă' has ___, 'caz' doesn't",
+      "answer": "ă",
+      "acceptableAnswers": ["ă", "the letter ă"],
+      "explanation": "'casă' (house) and 'caz' (case/situation) are different words! The 'ă' changes the meaning completely. This is why diacritics matter.",
+      "explanationRo": "'casă' (casă) și 'caz' (caz/situație) sunt cuvinte diferite! 'ă' schimbă complet sensul. De aceea diacriticele sunt importante."
+    },
+    {
+      "id": "e01_012",
+      "type": "multiple-choice",
+      "prompt": "How many special (non-Latin) letters does Romanian have?",
+      "promptRo": "Câte litere speciale (nelatine) are româna?",
+      "answer": "5",
+      "options": ["3", "4", "5", "7"],
+      "explanation": "Five special letters: ă, â, î, ș, ț. These are the letters that make Romanian spelling unique among Romance languages.",
+      "explanationRo": "Cinci litere speciale: ă, â, î, ș, ț. Acestea fac ortografia română unică printre limbile romanice."
+    }
+  ]
+}

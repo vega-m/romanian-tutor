@@ -1,0 +1,226 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q05-week5-quiz",
+  "title": "Week 5 Quiz: Past Tenses",
+  "titleRo": "Test Săptămâna 5: Timpurile Trecute",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G10-past-compound",
+    "G12-past-imperfect"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Test your knowledge of Romanian past tenses.",
+  "instructionsRo": "Testează-ți cunoștințele despre timpurile trecute în limba română.",
+  "sourceWeek": 5,
+  "exercises": [
+    {
+      "id": "q05_001",
+      "type": "multiple-choice",
+      "prompt": "What is the correct compound past (perfect compus) form of 'a merge' (to go) for 'eu'?",
+      "promptRo": "Care este forma corectă de perfect compus a verbului 'a merge' pentru 'eu'?",
+      "answer": "am mers",
+      "options": [
+        "am mers",
+        "aveam mers",
+        "mergeam",
+        "am merge"
+      ],
+      "explanation": "The compound past is formed with the present of 'a avea' + the past participle. For 'eu', the auxiliary is 'am'. The past participle of 'a merge' is 'mers'. So: eu am mers.",
+      "explanationRo": "Perfectul compus se formează cu prezentul verbului 'a avea' + participiul trecut. Pentru 'eu', auxiliarul este 'am'. Participiul trecut al lui 'a merge' este 'mers'. Deci: eu am mers."
+    },
+    {
+      "id": "q05_002",
+      "type": "multiple-choice",
+      "prompt": "What is the correct imperfect form of 'a lucra' (to work) for 'ei'?",
+      "promptRo": "Care este forma corectă de imperfect a verbului 'a lucra' pentru 'ei'?",
+      "answer": "lucrau",
+      "options": [
+        "lucrau",
+        "au lucrat",
+        "lucrară",
+        "lucrați"
+      ],
+      "explanation": "The imperfect of 'a lucra' is formed from the stem 'lucra-' + imperfect endings: eu lucram, tu lucrai, el/ea lucra, noi lucram, voi lucrați, ei/ele lucrau. For 'ei' (3rd person plural), the form is 'lucrau'.",
+      "explanationRo": "Imperfectul lui 'a lucra' se formează din radicalul 'lucra-' + terminațiile imperfectului: eu lucram, tu lucrai, el/ea lucra, noi lucram, voi lucrați, ei/ele lucrau. Pentru 'ei' (persoana a III-a plural), forma este 'lucrau'."
+    },
+    {
+      "id": "q05_003",
+      "type": "multiple-choice",
+      "prompt": "Which past tense should you use to describe an ongoing action in the past? 'Copiii ___ în parc când a început să plouă.' (a se juca — to play)",
+      "promptRo": "Ce timp trecut folosești pentru a descrie o acțiune în desfășurare în trecut? 'Copiii ___ în parc când a început să plouă.' (a se juca)",
+      "answer": "se jucau (imperfect)",
+      "options": [
+        "se jucau (imperfect)",
+        "s-au jucat (compound past)",
+        "se joacă (present)",
+        "se vor juca (future)"
+      ],
+      "explanation": "The imperfect is used for ongoing or habitual actions in the past, and also for actions that were in progress when another event interrupted them. 'Copiii se jucau în parc' (the children were playing) uses the imperfect because the playing was ongoing when it started raining.",
+      "explanationRo": "Imperfectul se folosește pentru acțiuni în desfășurare sau obișnuite în trecut, și de asemenea pentru acțiuni care erau în curs când un alt eveniment le-a întrerupt. 'Copiii se jucau în parc' folosește imperfectul pentru că joaca era în desfășurare când a început să plouă."
+    },
+    {
+      "id": "q05_004",
+      "type": "multiple-choice",
+      "prompt": "What is the past participle of the irregular verb 'a fi' (to be)?",
+      "promptRo": "Care este participiul trecut al verbului neregulat 'a fi'?",
+      "answer": "fost",
+      "options": [
+        "fost",
+        "fiind",
+        "făcut",
+        "fiit"
+      ],
+      "explanation": "The past participle of 'a fi' is 'fost' — this is irregular and must be memorized. Compound past: eu am fost, tu ai fost, el/ea a fost, noi am fost, voi ați fost, ei/ele au fost.",
+      "explanationRo": "Participiul trecut al lui 'a fi' este 'fost' — acesta este neregulat și trebuie memorat. Perfect compus: eu am fost, tu ai fost, el/ea a fost, noi am fost, voi ați fost, ei/ele au fost."
+    },
+    {
+      "id": "q05_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the compound past to describe a completed action?",
+      "promptRo": "Care propoziție folosește corect perfectul compus pentru a descrie o acțiune încheiată?",
+      "answer": "Anul trecut am vizitat Brașovul.",
+      "options": [
+        "Anul trecut am vizitat Brașovul.",
+        "Anul trecut vizitam Brașovul.",
+        "Anul trecut vizit Brașovul.",
+        "Anul trecut voi vizita Brașovul."
+      ],
+      "explanation": "'Anul trecut am vizitat Brașovul' uses the compound past (am vizitat), which is correct for a completed action in the past. The time marker 'anul trecut' (last year) indicates a finished, bounded event.",
+      "explanationRo": "'Anul trecut am vizitat Brașovul' folosește perfectul compus (am vizitat), care este corect pentru o acțiune încheiată în trecut. Marcatorul temporal 'anul trecut' indică un eveniment terminat, delimitat.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q05_006",
+      "type": "multiple-choice",
+      "prompt": "What is the past participle of 'a scrie' (to write)?",
+      "promptRo": "Care este participiul trecut al verbului 'a scrie'?",
+      "answer": "scris",
+      "options": [
+        "scris",
+        "scrins",
+        "scrisoare",
+        "scrisă"
+      ],
+      "explanation": "The past participle of 'a scrie' is 'scris'. Compound past: eu am scris, tu ai scris, el/ea a scris, noi am scris, voi ați scris, ei/ele au scris. This participle is irregular and must be memorized.",
+      "explanationRo": "Participiul trecut al lui 'a scrie' este 'scris'. Perfect compus: eu am scris, tu ai scris, el/ea a scris, noi am scris, voi ați scris, ei/ele au scris. Acest participiu este neregulat și trebuie memorat."
+    },
+    {
+      "id": "q05_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the imperfect to describe a habitual action in the past?",
+      "promptRo": "Care propoziție folosește corect imperfectul pentru a descrie o acțiune obișnuită în trecut?",
+      "answer": "Copilărie, mergeam la bunici în fiecare vară.",
+      "options": [
+        "Copilărie, mergeam la bunici în fiecare vară.",
+        "Copilărie, am mers la bunici în fiecare vară.",
+        "Copilărie, merg la bunici în fiecare vară.",
+        "Copilărie, voi merge la bunici în fiecare vară."
+      ],
+      "explanation": "'Mergeam la bunici în fiecare vară' uses the imperfect, which is correct for habitual/repeated actions in the past. The expression 'în fiecare vară' (every summer) signals a repeated action — a classic trigger for the imperfect.",
+      "explanationRo": "'Mergeam la bunici în fiecare vară' folosește imperfectul, care este corect pentru acțiuni obișnuite/repetate în trecut. Expresia 'în fiecare vară' semnalează o acțiune repetată — un declanșator clasic pentru imperfect.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q05_008",
+      "type": "multiple-choice",
+      "prompt": "What is the past participle of 'a avea' (to have)?",
+      "promptRo": "Care este participiul trecut al verbului 'a avea'?",
+      "answer": "avut",
+      "options": [
+        "avut",
+        "având",
+        "ăvut",
+        "avuit"
+      ],
+      "explanation": "The past participle of 'a avea' is 'avut'. Compound past: eu am avut, tu ai avut, el/ea a avut, noi am avut, voi ați avut, ei/ele au avut. This participle is irregular.",
+      "explanationRo": "Participiul trecut al lui 'a avea' este 'avut'. Perfect compus: eu am avut, tu ai avut, el/ea a avut, noi am avut, voi ați avut, ei/ele au avut. Acest participiu este neregulat."
+    },
+    {
+      "id": "q05_009",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: 'Noi ___ un roman interesant aseară.' (a citi — to read) — Which past tense is most appropriate?",
+      "promptRo": "Alege forma corectă: 'Noi ___ un roman interesant aseară.' (a citi) — Ce timp trecut este cel mai potrivit?",
+      "answer": "am citit (compound past)",
+      "options": [
+        "am citit (compound past)",
+        "citeam (imperfect)",
+        "citim (present)",
+        "vom citi (future)"
+      ],
+      "explanation": "'Am citit' (compound past) is correct because reading the novel is a completed action in the past. The time marker 'aseară' (last evening) points to a finished, bounded event. 'Citeam' would imply an ongoing or habitual reading.",
+      "explanationRo": "'Am citit' (perfect compus) este corect pentru că lectura romanului este o acțiune încheiată în trecut. Marcatorul 'aseară' indică un eveniment terminat, delimitat. 'Citeam' ar implica o lectură în desfășurare sau obișnuită."
+    },
+    {
+      "id": "q05_010",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a vedea' (to see) in the compound past for 'ea': Ea ___ un film bun la cinema.",
+      "promptRo": "Conjugă 'a vedea' la perfect compus pentru 'ea': Ea ___ un film bun la cinema.",
+      "sentence": "Ea ___ un film bun la cinema.",
+      "answer": "a văzut",
+      "acceptableAnswers": [
+        "a văzut"
+      ],
+      "explanation": "The compound past of 'a vedea' for 'ea' is 'a văzut' — auxiliary 'a' (3rd person singular) + past participle 'văzut'. Full compound past: eu am văzut, tu ai văzut, el/ea a văzut, noi am văzut, voi ați văzut, ei/ele au văzut.",
+      "explanationRo": "Perfectul compus al lui 'a vedea' pentru 'ea' este 'a văzut' — auxiliarul 'a' (persoana a III-a singular) + participiul trecut 'văzut'. Perfect compus complet: eu am văzut, tu ai văzut, el/ea a văzut, noi am văzut, voi ați văzut, ei/ele au văzut."
+    },
+    {
+      "id": "q05_011",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a mânca' (to eat) in the imperfect for 'noi': Noi ___ la restaurant când a sunat telefonul.",
+      "promptRo": "Conjugă 'a mânca' la imperfect pentru 'noi': Noi ___ la restaurant când a sunat telefonul.",
+      "sentence": "Noi ___ la restaurant când a sunat telefonul.",
+      "answer": "mâncau",
+      "acceptableAnswers": [
+        "mâncau"
+      ],
+      "explanation": "The imperfect of 'a mânca' for 'noi' is 'mâncau'. Note: 1st person plural and 3rd person plural are identical in the imperfect (mâncau). The context ('noi') clarifies the meaning. The imperfect is used here because eating was in progress when the phone rang.",
+      "explanationRo": "Imperfectul lui 'a mânca' pentru 'noi' este 'mâncau'. Observă: persoana I plural și a III-a plural sunt identice la imperfect (mâncau). Contextul ('noi') clarifică sensul. Imperfectul se folosește aici pentru că mâncatul era în desfășurare când a sunat telefonul."
+    },
+    {
+      "id": "q05_012",
+      "type": "fill-blank",
+      "prompt": "Conjugate the irregular verb 'a bea' (to drink) in the compound past for 'ei': Ei ___ cafea dimineața.",
+      "promptRo": "Conjugă verbul neregulat 'a bea' la perfect compus pentru 'ei': Ei ___ cafea dimineața.",
+      "sentence": "Ei ___ cafea dimineața.",
+      "answer": "au băut",
+      "acceptableAnswers": [
+        "au băut"
+      ],
+      "explanation": "The compound past of 'a bea' for 'ei' is 'au băut' — auxiliary 'au' (3rd person plural) + past participle 'băut'. Full compound past: eu am băut, tu ai băut, el/ea a băut, noi am băut, voi ați băut, ei/ele au băut.",
+      "explanationRo": "Perfectul compus al lui 'a bea' pentru 'ei' este 'au băut' — auxiliarul 'au' (persoana a III-a plural) + participiul trecut 'băut'. Perfect compus complet: eu am băut, tu ai băut, el/ea a băut, noi am băut, voi ați băut, ei/ele au băut."
+    },
+    {
+      "id": "q05_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the past tense error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de timp trecut din această propoziție:",
+      "sentence": "Eu am fost la mare în fiecare vară când eram copil.",
+      "answer": "Eu mergeam la mare în fiecare vară când eram copil.",
+      "explanation": "The error is 'am fost' — the compound past expresses a completed action, but 'în fiecare vară' (every summer) indicates a habitual, repeated action in the past. The correct tense is the imperfect: 'mergeam' (I used to go). The second clause 'când eram copil' (when I was a child) correctly uses the imperfect 'eram'.",
+      "explanationRo": "Greșeala este 'am fost' — perfectul compus exprimă o acțiune încheiată, dar 'în fiecare vară' indică o acțiune obișnuită, repetată în trecut. Timpul corect este imperfectul: 'mergeam'. A doua propoziție 'când eram copil' folosește corect imperfectul 'eram'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q05_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the past tense error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de timp trecut din această propoziție:",
+      "sentence": "Ea a mers la magazin și cumpăra pâine.",
+      "answer": "Ea a mers la magazin și a cumpărat pâine.",
+      "explanation": "The error is 'cumpăra' — this is the imperfect form, but in a sequence of two completed actions ('went to the store and bought bread'), both should use the compound past. The correct form is 'a cumpărat'. When narrating a series of completed past events, use the compound past for all of them.",
+      "explanationRo": "Greșeala este 'cumpăra' — aceasta este forma de imperfect, dar într-o succesiune de două acțiuni încheiate ('a mers la magazin și a cumpărat pâine'), ambele trebuie să folosească perfectul compus. Forma corectă este 'a cumpărat'. Când narăm o serie de evenimente trecute încheiate, folosim perfectul compus pentru toate.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q05_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the past tense error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de timp trecut din această propoziție:",
+      "sentence": "Ieri el citise un roman foarte interesant.",
+      "answer": "Ieri el a citit un roman foarte interesant.",
+      "explanation": "The error is 'citise' — this is the past perfect (perfectul compus anterior), not the compound past. For a simple completed action yesterday, the correct tense is the compound past: 'a citit'. The past perfect is used for an action that happened before another past action, which is not the case here.",
+      "explanationRo": "Greșeala este 'citise' — aceasta este forma de perfect compus anterior, nu perfect compus. Pentru o acțiune simplă încheiată ieri, timpul corect este perfectul compus: 'a citit'. Perfectul compus anterior se folosește pentru o acțiune care a avut loc înaintea altei acțiuni din trecut, ceea ce nu este cazul aici."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E13-demonstrative-drill",
+  "title": "Demonstrative Pronoun Drill",
+  "titleRo": "Exerciții de Pronume Demonstrative",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G07-demonstrative-pronouns"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Practice Romanian demonstrative pronouns (acest, acel, acesta, acela, etc.). Choose the correct form for each context.",
+  "instructionsRo": "Exersează pronumele demonstrative românești (acest, acel, acesta, acela etc.). Alege forma corectă pentru fiecare context.",
+  "sourceWeek": 7,
+  "exercises": [
+    {
+      "id": "e13_001",
+      "type": "multiple-choice",
+      "prompt": "Which demonstrative pronoun means 'this' (close to the speaker) for a masculine noun?",
+      "promptRo": "Care pronume demonstrativ înseamnă 'acesta' (aproape de vorbitor) pentru un substantiv masculin?",
+      "answer": "acest",
+      "options": [
+        "acel",
+        "acest",
+        "aceea",
+        "acele"
+      ],
+      "explanation": "'Acest' = this (masculine, close to speaker). 'Acel' = that (masculine, farther away). The -st- root indicates proximity.",
+      "explanationRo": "'Acest' = acesta (masculin, aproape de vorbitor). 'Acel' = acela (masculin, mai departe). Rădăcina -st- indică proximitatea."
+    },
+    {
+      "id": "e13_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct demonstrative pronoun: ___ (that) femeie este profesoara mea.",
+      "promptRo": "Completează cu pronumele demonstrativ corect: ___ femeie este profesoara mea.",
+      "sentence": "___ femeie este profesoara mea.",
+      "answer": "Aceea",
+      "acceptableAnswers": [
+        "Aceea",
+        "acea"
+      ],
+      "explanation": "'Aceea' is the feminine singular demonstrative pronoun for 'that' (farther from the speaker). It agrees with 'femeie' (feminine).",
+      "explanationRo": "'Aceea' este pronumele demonstrativ feminin singular pentru 'acea' (mai departe de vorbitor). Este de acord cu 'femeie' (feminin)."
+    },
+    {
+      "id": "e13_003",
+      "type": "multiple-choice",
+      "prompt": "What is the correct form for 'these' (plural, close) with a feminine noun like 'carte'?",
+      "promptRo": "Care este forma corectă pentru 'aceste' (plural, aproape) cu un substantiv feminin ca 'carte'?",
+      "answer": "aceste cărți",
+      "options": [
+        "acele cărți",
+        "aceste cărți",
+        "aceste cărțile",
+        "aceia cărți"
+      ],
+      "explanation": "'Aceste' = these (feminine/neuter plural, close). With 'carte': aceste cărți (these books). 'Acele' = those (feminine/neuter plural, far).",
+      "explanationRo": "'Aceste' = aceste (feminin/neutru plural, aproape). Cu 'carte': aceste cărți (aceste cărți). 'Acele' = acele (feminin/neutru plural, departe).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e13_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct demonstrative pronoun: ___ (those) băieți sunt din clasa mea.",
+      "promptRo": "Completează cu pronumele demonstrativ corect: ___ băieți sunt din clasa mea.",
+      "sentence": "___ băieți sunt din clasa mea.",
+      "answer": "Aceia",
+      "acceptableAnswers": [
+        "Aceia",
+        "aceia"
+      ],
+      "explanation": "'Aceia' = those (masculine plural, farther away). For masculine animate nouns in the plural, 'aceia' is used. 'Acești' would be the close form.",
+      "explanationRo": "'Aceia' = aceia (masculin plural, mai departe). Pentru substantivele masculine animate la plural, se folosește 'aceia'. 'Acești' ar fi forma de aproape."
+    },
+    {
+      "id": "e13_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses 'acel' (that) with a neuter noun?",
+      "promptRo": "Care propoziție folosește corect 'acel' (acel) cu un substantiv neutru?",
+      "answer": "Acel teatru este foarte vechi.",
+      "options": [
+        "Acel teatru este foarte vechi.",
+        "Această teatru este foarte vechi.",
+        "Acelui teatru este foarte vechi.",
+        "Acel teatre este foarte vechi."
+      ],
+      "explanation": "Neuter nouns use 'acel' for 'that' (singular) and 'acelea' for 'those' (plural). 'Teatru' is neuter, so 'acel teatru' is correct.",
+      "explanationRo": "Substantivele neutre folosesc 'acel' pentru 'acel' (singular) și 'acelea' pentru 'acelea' (plural). 'Teatru' este neutru, deci 'acel teatru' este corect."
+    },
+    {
+      "id": "e13_006",
+      "type": "matching",
+      "prompt": "Match each demonstrative pronoun to its meaning:",
+      "promptRo": "Asociază fiecare pronume demonstrativ cu sensul său:",
+      "pairs": [
+        {
+          "left": "acest",
+          "right": "this (m., close)"
+        },
+        {
+          "left": "acel",
+          "right": "that (m., far)"
+        },
+        {
+          "left": "această",
+          "right": "this (f., close)"
+        },
+        {
+          "left": "aceea",
+          "right": "that (f., far)"
+        }
+      ],
+      "explanation": "The -st- root (acest, această, acești, aceste) indicates proximity (close to the speaker). The -l- root (acel, acea, aceia, acelea) indicates distance (farther away).",
+      "explanationRo": "Rădăcina -st- (acest, această, acești, aceste) indică proximitatea (aproape de vorbitor). Rădăcina -l- (acel, acea, aceia, acelea) indică distanța (mai departe)."
+    },
+    {
+      "id": "e13_007",
+      "type": "multiple-choice",
+      "prompt": "What is the genitive/dative form of 'acest' (this, masculine singular)?",
+      "promptRo": "Care este forma genitiv/dativ a lui 'acest' (acesta, masculin singular)?",
+      "answer": "acestuia",
+      "options": [
+        "acestui",
+        "acestuia",
+        "acestului",
+        "acesteia"
+      ],
+      "explanation": "The genitive/dative form of 'acest' is 'acestuia': Am văzut cartea acestuia (I saw this one's book). 'Acestui' is the form used before nouns (acestui bărbat).",
+      "explanationRo": "Forma genitiv/dativ a lui 'acest' este 'acestuia': Am văzut cartea acestuia. 'Acestui' este forma folosită înaintea substantivelor (acestui bărbat)."
+    },
+    {
+      "id": "e13_008",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct demonstrative: ___ (this, feminine) idee este foarte bună.",
+      "promptRo": "Completează cu demonstrativul corect: ___ idee este foarte bună.",
+      "sentence": "___ idee este foarte bună.",
+      "answer": "Această",
+      "acceptableAnswers": [
+        "Această"
+      ],
+      "explanation": "'Această' = this (feminine singular, close). 'Idee' is feminine, so we use 'această idee'. Note: 'aceasta' is the standalone pronoun form, while 'această' is used before a noun.",
+      "explanationRo": "'Această' = această (feminin singular, aproape). 'Idee' este feminin, deci folosim 'această idee'. Notă: 'aceasta' este forma de pronume de sine stătător, în timp ce 'această' se folosește înaintea unui substantiv."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E22-exam-full-1",
+  "title": "Simulare Completă de Examen B1",
+  "titleRo": "Simulare Completă de Examen B1 (Reading, Grammar, Vocab in Context)",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order",
+    "G19-numerals",
+    "G11-past-simple"
+  ],
+  "estimatedMinutes": 45,
+  "instructions": "This is a full B1 exam simulation with 20 mixed exercises covering reading comprehension, grammar, and vocabulary in context. Time yourself and try to complete all exercises within 45 minutes. Read each question carefully before answering.",
+  "instructionsRo": "Aceasta este o simulare completă a examenului B1 cu 20 de exerciții mixte care acoperă citirea, gramatica și vocabularul în context. Cronometrați-vă și încercați să completați toate exercițiile în 45 de minute. Citiți fiecare întrebare cu atenție înainte de a răspunde.",
+  "sourceWeek": 12,
+  "exercises": [
+    {
+      "id": "e22_001",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'România se află pe locul al șaselea în Europa în ceea ce privește suprafața forestieră, cu aproximativ 6,5 milioane de hectare de pădure. Pădurile acoperă circa 27% din suprafața țării. Cu toate acestea, defrișările ilegale rămân o problemă serioasă, autoritățile estimând că în ultimii zece ani au dispărut aproximativ 80.000 de hectare de pădure.'\n\nApproximately how many hectares of forest disappear per year according to the text?",
+      "promptRo": "Citiți textul și răspundeți:\n\n'România se află pe locul al șaselea în Europa în ceea ce privește suprafața forestieră, cu aproximativ 6,5 milioane de hectare de pădure. Pădurile acoperă circa 27% din suprafața țării. Cu toate acestea, defrișările ilegale rămân o problemă serioasă, autoritățile estimând că în ultimii zece ani au dispărut aproximativ 80.000 de hectare de pădure.'\n\nAproximativ câte hectare de pădure dispar pe an conform textului?",
+      "answer": "Approximately 8,000 hectares",
+      "options": [
+        "Approximately 8,000 hectares",
+        "Approximately 80,000 hectares",
+        "Approximately 6,500 hectares",
+        "Approximately 27,000 hectares"
+      ],
+      "explanation": "80,000 hectares over 10 years = 80,000 / 10 = 8,000 hectares per year.",
+      "explanationRo": "80.000 de hectare în 10 ani = 80.000 / 10 = 8.000 de hectare pe an."
+    },
+    {
+      "id": "e22_002",
+      "type": "multiple-choice",
+      "prompt": "Based on the forest text, what percentage of Romania is covered by forests?",
+      "promptRo": "Pe baza textului despre păduri, ce procent din România este acoperit de păduri?",
+      "answer": "About 27%",
+      "options": [
+        "About 6.5%",
+        "About 10%",
+        "About 27%",
+        "About 65%"
+      ],
+      "explanation": "The text states: 'Pădurile acoperă circa 27% din suprafața țării.'",
+      "explanationRo": "Textul menționează: 'Pădurile acoperă circa 27% din suprafața țării.'"
+    },
+    {
+      "id": "e22_003",
+      "type": "fill-blank",
+      "prompt": "Grammar: Choose the correct article form. '___ (the) copii se joacă în parc.'",
+      "promptRo": "Gramatică: Alegeți forma corectă a articolului. '___ copii se joacă în parc.'",
+      "sentence": "___ copii se joacă în parc.",
+      "answer": "Copiii",
+      "acceptableAnswers": [
+        "Copiii",
+        "copiii"
+      ],
+      "explanation": "'Copii' (children) is masculine plural, so the definite article is '-i': copii → copiii.",
+      "explanationRo": "'Copii' (copii) este masculin plural, deci articolul hotărât este '-i': copii → copiii."
+    },
+    {
+      "id": "e22_004",
+      "type": "multiple-choice",
+      "prompt": "Vocabulary in context: In the sentence 'Profesorul a subliniat importanța lecturii', the word 'a subliniat' means:",
+      "promptRo": "Vocabular în context: În propoziția 'Profesorul a subliniat importanța lecturii', cuvântul 'a subliniat' înseamnă:",
+      "answer": "emphasized / underlined",
+      "options": [
+        "ignored / neglected",
+        "emphasized / underlined",
+        "forgot",
+        "cancelled"
+      ],
+      "explanation": "'A sublinia' means 'to underline / to emphasize'. It is commonly used in academic and formal contexts to mean highlighting the importance of something.",
+      "explanationRo": "'A sublinia' înseamnă 'a sublinia / a accentua'. Este folosit în mod obișnuit în contexte academice și formale pentru a accentua importanța a ceva."
+    },
+    {
+      "id": "e22_005",
+      "type": "multiple-choice",
+      "prompt": "Grammar: Which sentence uses the correct form of the verb 'a sta' (to stay) in compound perfect?",
+      "promptRo": "Gramatică: Ce propoziție folosește forma corectă a verbului 'a sta' (a sta) la perfectul compus?",
+      "answer": "Noi am stat acasă tot weekendul.",
+      "options": [
+        "Noi am stat acasă tot weekendul.",
+        "Noi am statut acasă tot weekendul.",
+        "Noi am stăt acasă tot weekendul.",
+        "Noi am stai acasă tot weekendul."
+      ],
+      "explanation": "The past participle of 'a sta' is 'stat': am stat. This is an irregular participle that must be memorized.",
+      "explanationRo": "Participiul trecut al lui 'a sta' este 'stat': am stat. Acesta este un participiu neregulat care trebuie memorat."
+    },
+    {
+      "id": "e22_006",
+      "type": "fill-blank",
+      "prompt": "Fill in with the correct form of the ordinal number (masculine): 'Ei locuiesc la ___ etaj.' (floor 5)",
+      "promptRo": "Completați cu forma corectă a numărului ordinal (masculin): 'Ei locuiesc la ___ etaj.' (etajul 5)",
+      "sentence": "Ei locuiesc la ___ etaj.",
+      "answer": "al cincilea",
+      "acceptableAnswers": [
+        "al cincilea",
+        "cincilea"
+      ],
+      "explanation": "The ordinal for 5 is 'al cincilea' (masculine) / 'a cincea' (feminine). 'Etaj' is masculine, so 'al cincilea'.",
+      "explanationRo": "Ordinalul pentru 5 este 'al cincilea' (masculin) / 'a cincea' (feminin). 'Etaj' este masculin, deci 'al cincilea'."
+    },
+    {
+      "id": "e22_007",
+      "type": "multiple-choice",
+      "prompt": "Vocabulary: Which word means 'approximately' in a formal register?",
+      "promptRo": "Vocabular: Care cuvânt înseamnă 'aproximativ' într-un registru formal?",
+      "answer": "circa",
+      "options": [
+        "cam",
+        "circa",
+        "vreo",
+        "hai"
+      ],
+      "explanation": "'Circa' is the formal equivalent of 'cam' or 'vreo'. 'Circa 100 de persoane' = 'approximately 100 people'. 'Cam' and 'vreo' are colloquial.",
+      "explanationRo": "'Circa' este echivalentul formal al lui 'cam' sau 'vreo'. 'Circa 100 de persoane' = 'aproximativ 100 de persoane'. 'Cam' și 'vreo' sunt colocviale."
+    },
+    {
+      "id": "e22_008",
+      "type": "multiple-choice",
+      "prompt": "Grammar: Choose the correct clitic pronoun: '___ (them, m.pl.) văd în fiecare zi la școală.'",
+      "promptRo": "Gramatică: Alegeți pronumele clitic corect: '___ (ei, m.pl.) văd în fiecare zi la școală.'",
+      "answer": "Îi",
+      "options": [
+        "Le",
+        "Îi",
+        "I",
+        "L"
+      ],
+      "explanation": "Direct object clitic for masculine plural is 'îi' (short form) / 'i' (before another pronoun). 'Le' is for feminine plural.",
+      "explanationRo": "Cliticul obiect direct pentru masculin plural este 'îi' (forma scurtă) / 'i' (înaintea altui pronume). 'Le' este pentru feminin plural."
+    },
+    {
+      "id": "e22_009",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'Marea Neagră, una dintre cele mai importante destinații turistice din România, atrage anual peste 1,5 milioane de vizitatori. Stațiunile precum Mamaia, Constanța și Mangalia oferă o gamă variată de activități: de la plajă și sporturi acvatice, la restaurante și viață de noapte. Totuși, în ultimii ani, turiștii români preferă din ce în ce mai mult destinațiile din străinătate, cum ar fi Grecia sau Turcia.'\n\nWhat trend does the text describe?",
+      "promptRo": "Citiți textul și răspundeți:\n\n'Marea Neagră, una dintre cele mai importante destinații turistice din România, atrage anual peste 1,5 milioane de vizitatori. Stațiunile precum Mamaia, Constanța și Mangalia oferă o gamă variată de activități: de la plajă și sporturi acvatice, la restaurante și viață de noapte. Totuși, în ultimii ani, turiștii români preferă din ce în ce mai mult destinațiile din străinătate, cum ar fi Grecia sau Turcia.'\n\nCe tendință descrie textul?",
+      "answer": "Romanian tourists increasingly prefer foreign destinations over domestic ones.",
+      "options": [
+        "More foreign tourists are visiting the Black Sea coast.",
+        "The Black Sea is losing all its visitors.",
+        "Romanian tourists increasingly prefer foreign destinations over domestic ones.",
+        "All Romanian tourists now only go to Greece and Turkey."
+      ],
+      "explanation": "The text says 'turiștii români preferă din ce în ce mai mult destinațiile din străinătate' — Romanian tourists increasingly prefer foreign destinations. The word 'preferă' (prefer) and 'din ce în ce mai mult' (more and more) indicate a growing trend.",
+      "explanationRo": "Textul spune 'turiștii români preferă din ce în ce mai mult destinațiile din străinătate' — turiștii români preferă din ce în ce mai mult destinațiile străine."
+    },
+    {
+      "id": "e22_010",
+      "type": "fill-blank",
+      "prompt": "Grammar: Complete with the correct future form: 'Până în 2030, ei ___ (to build) un nou spital în oraș.'",
+      "promptRo": "Gramatică: Completați cu forma corectă a viitorului: 'Până în 2030, ei ___ (a construi) un nou spital în oraș.'",
+      "sentence": "Până în 2030, ei ___ un nou spital în oraș.",
+      "answer": "vor construi",
+      "acceptableAnswers": [
+        "vor construi"
+      ],
+      "explanation": "Future 1: 'vor' (3rd pl auxiliary) + infinitive 'a construi' → 'vor construi'. The 'a' of the infinitive drops when combined with the auxiliary.",
+      "explanationRo": "Viitorul 1: 'vor' (auxiliar 3 pl) + infinitiv 'a construi' → 'vor construi'. 'A' infinitivului cade când se combină cu auxiliarul."
+    },
+    {
+      "id": "e22_011",
+      "type": "multiple-choice",
+      "prompt": "Vocabulary in context: 'Din cauza vremii rele, evenimentul a fost amânat.' What does 'amânat' mean?",
+      "promptRo": "Vocabular în context: 'Din cauza vremii rele, evenimentul a fost amânat.' Ce înseamnă 'amânat'?",
+      "answer": "postponed / delayed",
+      "options": [
+        "cancelled permanently",
+        "postponed / delayed",
+        "started early",
+        "moved to a bigger venue"
+      ],
+      "explanation": "'A amâna' means 'to postpone / to delay'. The event was not cancelled ('anulat') but postponed ('amânat') due to bad weather.",
+      "explanationRo": "'A amâna' înseamnă 'a amâna / a întârzia'. Evenimentul nu a fost anulat ('anulat') ci amânat ('amânat') din cauza vremii rele."
+    },
+    {
+      "id": "e22_012",
+      "type": "multiple-choice",
+      "prompt": "Grammar: Which is the correct negative imperative? '___ (Don't open) fereastra, please!'",
+      "promptRo": "Gramatică: Care este imperativul negativ corect? '___ fereastra, vă rog!'",
+      "answer": "Nu deschide",
+      "options": [
+        "Nu deschide",
+        "Deschide nu",
+        "Nu a deschide",
+        "Deschizând nu"
+      ],
+      "explanation": "Negative imperative: 'Nu' + present subjunctive. 'A deschide' → 'Nu deschide'. The 'să' is dropped in imperative constructions.",
+      "explanationRo": "Imperativ negativ: 'Nu' + subjonctiv prezent. 'A deschide' → 'Nu deschide'. 'Să' cade în construcțiile imperativului."
+    },
+    {
+      "id": "e22_013",
+      "type": "multiple-choice",
+      "prompt": "Vocabulary: Which connector means 'nevertheless' in formal writing?",
+      "promptRo": "Vocabular: Care conector înseamnă 'totuși' în scrierea formală?",
+      "answer": "Cu toate acestea",
+      "options": [
+        "Dar",
+        "Cu toate acestea",
+        "Și",
+        "Deci"
+      ],
+      "explanation": "'Cu toate acestea' is the formal equivalent of 'dar' or 'totuși' (however/nevertheless). It is appropriate for essays and formal letters.",
+      "explanationRo": "'Cu toate acestea' este echivalentul formal al lui 'dar' sau 'totuși'. Este potrivit pentru eseuri și scrisori oficiale."
+    },
+    {
+      "id": "e22_014",
+      "type": "fill-blank",
+      "prompt": "Grammar: Complete with the correct preposition: 'Sunt interesat ___ istoria României.'",
+      "promptRo": "Gramatică: Completați cu prepoziția corectă: 'Sunt interesat ___ istoria României.'",
+      "sentence": "Sunt interesat ___ istoria României.",
+      "answer": "de",
+      "acceptableAnswers": [
+        "de"
+      ],
+      "explanation": "'Interesat de' is the fixed collocation in Romanian: 'a fi interesat de ceva' (to be interested in something).",
+      "explanationRo": "'Interesat de' este colocvialitatea fixă în română: 'a fi interesat de ceva'."
+    },
+    {
+      "id": "e22_015",
+      "type": "multiple-choice",
+      "prompt": "Identify the Perfect Simplu form: 'Vântul suflă tare și frunzele căzură pe pământ.'",
+      "promptRo": "Identificați forma de Perfect Simplu: 'Vântul suflă tare și frunzele căzură pe pământ.'",
+      "answer": "căzură (3rd person plural Perfect Simplu of 'a cădea')",
+      "options": [
+        "suflă (present tense)",
+        "căzură (3rd person plural Perfect Simplu of 'a cădea')",
+        "pe (preposition)",
+        "pământ (noun)"
+      ],
+      "explanation": "'Căzură' is the 3rd person plural of 'a cădea' (to fall) in Perfect Simplu. The '-ră' ending is characteristic of 3rd person plural Perfect Simplu. Context confirms it's past tense.",
+      "explanationRo": "'Căzură' este persoana a III-a plural a lui 'a cădea' (a cădea) în Perfect Simplu. Terminația '-ră' este caracteristică persoanei a III-a plural Perfect Simplu."
+    },
+    {
+      "id": "e22_016",
+      "type": "multiple-choice",
+      "prompt": "Vocabulary: 'A fi de acord' means:",
+      "promptRo": "Vocabular: 'A fi de acord' înseamnă:",
+      "answer": "to agree",
+      "options": [
+        "to disagree",
+        "to agree",
+        "to decide",
+        "to forget"
+      ],
+      "explanation": "'A fi de acord' = to agree. Opposite: 'a fi împotrivă' = to disagree/be against.",
+      "explanationRo": "'A fi de acord' = a fi de acord. Opus: 'a fi împotrivă' = a nu fi de acord."
+    },
+    {
+      "id": "e22_017",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct form: 'El a venit la universitate ___ (by) autobuz.'",
+      "promptRo": "Completați cu forma corectă: 'El a venit la universitate ___ autobuz.'",
+      "sentence": "El a venit la universitate ___ autobuz.",
+      "answer": "cu",
+      "acceptableAnswers": [
+        "cu"
+      ],
+      "explanation": "Means of transport in Romanian uses 'cu': 'cu autobuzul', 'cu metroul', 'cu mașina'. However, in the accusative construction, the article can be dropped: 'cu autobuz'.",
+      "explanationRo": "Mijloacele de transport în română folosesc 'cu': 'cu autobuzul', 'cu metroul', 'cu mașina'. Totuși, în construcția acuzativului, articolul poate fi omis: 'cu autobuz'."
+    },
+    {
+      "id": "e22_018",
+      "type": "multiple-choice",
+      "prompt": "Which sentence demonstrates correct topicalization?",
+      "promptRo": "Ce propoziție demonstrează o tematizare corectă?",
+      "answer": "Acest film, l-am văzut de trei ori.",
+      "options": [
+        "Acest film l-am văzut de trei ori.",
+        "L-am văzut de trei ori acest film.",
+        "De trei ori am acest film văzut l-.",
+        "Văzut l-am de trei ori acest film."
+      ],
+      "explanation": "Correct topicalization: 'Acest film' (topic) + clitic 'l-' + auxiliary 'am' + participle 'văzut' + adverbial 'de trei ori'. The topicalized object moves to the front with clitic doubling.",
+      "explanationRo": "Tematizare corectă: 'Acest film' (subiectul discuției) + clitic 'l-' + auxiliar 'am' + participiu 'văzut' + adverbial 'de trei ori'. Obiectul tematizat se mută la început cu dublare clitică."
+    },
+    {
+      "id": "e22_019",
+      "type": "multiple-choice",
+      "prompt": "Vocabulary in context: 'Autorul argumentează că educația trebuie să fie prioritară.' What does 'a argumenta' mean?",
+      "promptRo": "Vocabular în context: 'Autorul argumentează că educația trebuie să fie prioritară.' Ce înseamnă 'a argumenta'?",
+      "answer": "to argue / to provide reasoning",
+      "options": [
+        "to ask a question",
+        "to argue / to provide reasoning",
+        "to describe",
+        "to summarize"
+      ],
+      "explanation": "'A argumenta' = to argue (present reasoning/arguments for a position). This is different from 'a se certa' (to quarrel). In academic/formal contexts, it means to present logical arguments.",
+      "explanationRo": "'A argumenta' = a argumenta (a prezenta raționament/argumente pentru o poziție). Aceasta este diferită de 'a se certa' (a se certa). În contexte academice/formale, înseamnă a prezenta argumente logice."
+    },
+    {
+      "id": "e22_020",
+      "type": "multiple-choice",
+      "prompt": "Grammar: What is the correct plural form of 'frumos' (beautiful, masculine)?",
+      "promptRo": "Gramatică: Care este forma corectă de plural a lui 'frumos' (frumos, masculin)?",
+      "answer": "frumoși",
+      "options": [
+        "frumoși",
+        "frumoase",
+        "frumosii",
+        "frumoși"
+      ],
+      "explanation": "Masculine plural of adjectives ending in '-os' changes to '-oși': frumos → frumoși. Feminine plural would be 'frumoase'.",
+      "explanationRo": "Pluralul masculin al adjectivelor care se termină în '-os' se schimbă în '-oși': frumos → frumoși. Pluralul feminin ar fi 'frumoase'."
+    }
+  ]
+}

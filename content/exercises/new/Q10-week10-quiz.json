@@ -1,0 +1,226 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q10-week10-quiz",
+  "title": "Week 10 Quiz: Word Order, Numerals and Register",
+  "titleRo": "Test Săptămâna 10: Ordinea Cuvintelor, Numerale și Registru",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order",
+    "G19-numerals"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Test your knowledge of Romanian word order, numbers and register.",
+  "instructionsRo": "Testează-ți cunoștințele despre ordinea cuvintelor, numerale și registru în limba română.",
+  "sourceWeek": 10,
+  "exercises": [
+    {
+      "id": "q10_001",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the correct default SVO word order?",
+      "promptRo": "Care propoziție folosește ordinea SVO implicită corectă?",
+      "answer": "Maria citește cartea în fiecare seară.",
+      "options": [
+        "Maria citește cartea în fiecare seară.",
+        "Cartea citește Maria în fiecare seară.",
+        "Citește Maria cartea în fiecare seară.",
+        "În fiecare seară citește cartea Maria."
+      ],
+      "explanation": "The default Romanian word order is SVO (Subject + Verb + Object): 'Maria (S) citește (V) cartea (O)'. The other options invert elements for emphasis or topicalization but are not the default neutral order.",
+      "explanationRo": "Ordinea implicită a cuvintelor în română este SVO (Subiect + Verb + Obiect): 'Maria (S) citește (V) cartea (O)'. Celelalte opțiuni inversează elemente pentru accent sau tematizare, dar nu sunt ordinea neutră implicită."
+    },
+    {
+      "id": "q10_002",
+      "type": "multiple-choice",
+      "prompt": "What is the effect of moving the object to the front: 'Cartea, Maria a citit-o ieri.' (Maria read the book yesterday.)",
+      "promptRo": "Care este efectul mutării obiectului la început: 'Cartea, Maria a citit-o ieri.'",
+      "answer": "Topicalization — the book is the topic of the conversation.",
+      "options": [
+        "It is grammatically incorrect.",
+        "Topicalization — the book is the topic of the conversation.",
+        "It changes the meaning of the verb.",
+        "It makes the sentence formal."
+      ],
+      "explanation": "Moving the object ('Cartea') to the front is called topicalization. It signals that the book is the topic already under discussion. The clitic pronoun '-o' must be kept with the verb. This is a common and correct Romanian construction.",
+      "explanationRo": "Mutarea obiectului ('Cartea') la început se numește tematizare. Semnalează că cartea este subiectul deja discutat. Pronumele clitic '-o' trebuie păstrat cu verbul. Aceasta este o construcție românească comună și corectă."
+    },
+    {
+      "id": "q10_003",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence with proper clitic pronoun placement:",
+      "promptRo": "Alege propoziția corectă cu plasarea corectă a pronumelui clitic:",
+      "answer": "Mi-a dat o carte frumoasă.",
+      "options": [
+        "A mi-a dat o carte frumoasă.",
+        "Mi-a dat o carte frumoasă.",
+        "A dat mi-o carte frumoasă.",
+        "Dat mi-a o carte frumoasă."
+      ],
+      "explanation": "In Romanian, clitic pronouns go before the verb: 'Mi-a dat' (He/She gave me). The dative clitic 'mi-' precedes the auxiliary 'a' and the main verb 'dat'. You cannot separate the auxiliary from the main verb with a clitic, and clitics cannot start a sentence.",
+      "explanationRo": "În română, pronumele clitice se plasează înaintea verbului: 'Mi-a dat'. Cliticul dativ 'mi-' precede auxiliarul 'a' și verbul principal 'dat'. Nu poți separa auxiliarul de verbul principal cu un clitic, iar cliticile nu pot începe o propoziție."
+    },
+    {
+      "id": "q10_004",
+      "type": "multiple-choice",
+      "prompt": "Which question has the correct word order?",
+      "promptRo": "Care întrebare are ordinea corectă a cuvintelor?",
+      "answer": "Unde merge Maria mâine?",
+      "options": [
+        "Merge Maria unde mâine?",
+        "Maria merge mâine unde?",
+        "Unde merge Maria mâine?",
+        "Mâine unde merge Maria?"
+      ],
+      "explanation": "In Romanian information questions, the question word ('Unde') comes first, followed by the verb ('merge'), then the subject ('Maria'), and finally the time adverbial ('mâine'): QW + V + S + Adv. This is the standard interrogative word order.",
+      "explanationRo": "În întrebările de informație în română, cuvântul interogativ ('Unde') vine primul, urmat de verb ('merge'), apoi subiectul ('Maria') și în fine adverbialul de timp ('mâine'): CI + V + S + Adv. Aceasta este ordinea interogativă standard."
+    },
+    {
+      "id": "q10_005",
+      "type": "multiple-choice",
+      "prompt": "What is the ordinal form of 'trei' (three) for a feminine noun?",
+      "promptRo": "Care este forma ordinală a lui 'trei' pentru un substantiv feminin?",
+      "answer": "a treia",
+      "options": [
+        "al treilea",
+        "a treia",
+        "treilea",
+        "al treia"
+      ],
+      "explanation": "The ordinal for feminine nouns uses the feminine article 'a' + numeral + feminine ending: 'a treia' (the third). For masculine nouns, use 'al treilea'. For neuter nouns, use 'al treilea'. The pattern is: al (m./n.) or a (f.) + cardinal + ordinal ending.",
+      "explanationRo": "Ordinalul pentru substantive feminine folosește articolul feminin 'a' + numeral + terminație feminină: 'a treia'. Pentru substantive masculine, se folosește 'al treilea'. Pentru substantive neutre, se folosește 'al treilea'. Tiparul este: al (m./n.) sau a (f.) + cardinal + terminație ordinală."
+    },
+    {
+      "id": "q10_006",
+      "type": "multiple-choice",
+      "prompt": "Which greeting is appropriate for a formal situation?",
+      "promptRo": "Care salut este potrivit pentru o situație formală?",
+      "answer": "Bună ziua, doamnă profesor.",
+      "options": [
+        "Hei, ce mai faci?",
+        "Bună ziua, doamnă profesor.",
+        "Ceau, boss!",
+        "Salut, profa!"
+      ],
+      "explanation": "'Bună ziua' is the standard formal greeting in Romanian. Combined with a formal title ('doamnă profesor'), this is appropriate for addressing a teacher or professional. 'Hei' and 'Ceau' are very informal, and 'profa' is a colloquial shortening of 'profesoară' unsuitable for formal contexts.",
+      "explanationRo": "'Bună ziua' este salutul formal standard în română. Combinat cu un titlu formal ('doamnă profesor'), acesta este potrivit pentru a vă adresa unui profesor sau unui profesionist. 'Hei' și 'Ceau' sunt foarte informale, iar 'profa' este o scurtare colocvială a 'profesoară', nepotrivită pentru contexte formale."
+    },
+    {
+      "id": "q10_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses 'dumneavoastră' (formal you)?",
+      "promptRo": "Care propoziție folosește corect 'dumneavoastră' (pronumele formal de politicos)?",
+      "answer": "Aveți dumneavoastră un moment liber?",
+      "options": [
+        "Ai tu un moment liber?",
+        "Aveți dumneavoastră un moment liber?",
+        "Are dumneata un moment liber?",
+        "Aveți voi un moment liber?"
+      ],
+      "explanation": "'Aveți dumneavoastră' uses the 2nd person plural verb form 'aveți' with the formal pronoun 'dumneavoastră'. 'Ai tu' is informal 'tu'. 'Dumneata' is an older, less common semi-formal form. 'Voi' is the informal plural 'you'.",
+      "explanationRo": "'Aveți dumneavoastră' folosește forma de persoana a II-a plural 'aveți' cu pronumele formal 'dumneavoastră'. 'Ai tu' este informal 'tu'. 'Dumneata' este o formă mai veche, mai puțin comună, semiformală. 'Voi' este pluralul informal 'voi'."
+    },
+    {
+      "id": "q10_008",
+      "type": "multiple-choice",
+      "prompt": "Where does the adjective generally go in Romanian?",
+      "promptRo": "Unde se plasează în general adjectivul în română?",
+      "answer": "After the noun, but some adjectives can go before for emphasis.",
+      "options": [
+        "Always before the noun.",
+        "Always after the noun.",
+        "After the noun, but some adjectives can go before for emphasis.",
+        "At the end of the sentence."
+      ],
+      "explanation": "In Romanian, the default adjective position is after the noun: 'o carte bună' (a good book). However, certain adjectives can precede the noun for emphasis or stylistic effect: 'o bună carte' (a truly good book). Some adjectives like 'mare', 'mic' commonly appear before the noun in certain contexts.",
+      "explanationRo": "În română, poziția implicită a adjectivului este după substantiv: 'o carte bună'. Totuși, anumite adjective pot preceda substantivul pentru accent sau efect stilistic: 'o bună carte'. Unele adjective precum 'mare', 'mic' apar frecvent înaintea substantivului în anumite contexte."
+    },
+    {
+      "id": "q10_009",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct way to write 'twenty-one' in Romanian?",
+      "promptRo": "Care este forma corectă pentru 'twenty-one'?",
+      "answer": "douăzeci și unu",
+      "options": [
+        "douăzeciun",
+        "douăzeci și unu",
+        "doișpe",
+        "douăzeciunu"
+      ],
+      "explanation": "Romanian compound numerals from 21 to 29 use 'și' (and) between the tens and units: 'douăzeci și unu' (21), 'douăzeci și doi' (22), etc. The same pattern applies to 31-39, 41-49, and so on. The word is written as separate words with 'și'.",
+      "explanationRo": "Numeralele compuse românești de la 21 la 29 folosesc 'și' între zeci și unități: 'douăzeci și unu' (21), 'douăzeci și doi' (22) etc. Același tipar se aplică la 31-39, 41-49 și așa mai departe. Cuvântul se scrie ca cuvinte separate cu 'și'."
+    },
+    {
+      "id": "q10_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct clitic pronoun: 'Profesorul ___ a explicat lecția a fost foarte bun.'",
+      "promptRo": "Completează cu pronumele clitic corect: 'Profesorul ___ a explicat lecția a fost foarte bun.'",
+      "sentence": "Profesorul ___ a explicat lecția a fost foarte bun.",
+      "answer": "ne-",
+      "acceptableAnswers": [
+        "ne-",
+        "ne",
+        "ne- a"
+      ],
+      "explanation": "The dative clitic 'ne-' (to us) goes before the verb: 'ne-a explicat' (explained to us). Clitic pronouns always precede the verb in Romanian. The hyphen connects the clitic to the auxiliary verb.",
+      "explanationRo": "Cliticul dativ 'ne-' (nouă) se plasează înaintea verbului: 'ne-a explicat'. Pronumele clitice preced întotdeauna verbul în română. Cratima leagă cliticul de verbul auxiliar."
+    },
+    {
+      "id": "q10_011",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct ordinal number: 'Aceasta este ___ oară când vin la București.' (This is the second time I am coming to Bucharest.)",
+      "promptRo": "Completează cu numărul ordinal corect: 'Aceasta este ___ oară când vin la București.'",
+      "sentence": "Aceasta este ___ oară când vin la București.",
+      "answer": "a doua",
+      "acceptableAnswers": [
+        "a doua"
+      ],
+      "explanation": "'A doua' is the feminine ordinal form of 'doi' (two). Since 'oară' is feminine, the ordinal must be feminine: 'a doua' (the second). The masculine form 'al doilea' is used with masculine nouns. Note that 'două' changes to 'do' in ordinal forms.",
+      "explanationRo": "'A doua' este forma ordinală feminină a lui 'doi' (doi). Deoarece 'oară' este feminin, ordinalul trebuie să fie feminin: 'a doua'. Forma masculină 'al doilea' se folosește cu substantive masculine. Observă că 'două' devine 'do' în formele ordinale."
+    },
+    {
+      "id": "q10_012",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct formal greeting: '___, domnule director. Aș dori să discut despre proiect.' (___, Mr. Director. I would like to discuss the project.)",
+      "promptRo": "Completează cu salutul formal corect: '___, domnule director. Aș dori să discut despre proiect.'",
+      "sentence": "___, domnule director. Aș dori să discut despre proiect.",
+      "answer": "Bună ziua",
+      "acceptableAnswers": [
+        "Bună ziua",
+        "bună ziua",
+        "Stimați domnule director"
+      ],
+      "explanation": "'Bună ziua' is the standard formal greeting in Romanian, appropriate for professional and official contexts. It is used with formal titles such as 'domnule director' (Mr. Director). 'Bună dimineața' can also be used in the morning.",
+      "explanationRo": "'Bună ziua' este salutul formal standard în română, potrivit pentru contexte profesionale și oficiale. Se folosește cu titluri formale precum 'domnule director'. 'Bună dimineața' poate fi de asemenea folosit dimineața."
+    },
+    {
+      "id": "q10_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Lui Maria am dat cartea ieri.",
+      "answer": "Mariei am dat cartea ieri.",
+      "explanation": "The error is 'Lui Maria'. In Romanian, feminine names ending in '-a' take the dative ending '-ei' instead of the masculine 'lui': 'Mariei' (to Maria). The correct form is 'Mariei am dat cartea' (I gave the book to Maria). The article 'lui' is only used with masculine names: 'lui Mihai'.",
+      "explanationRo": "Greșeala este 'Lui Maria'. În română, numele feminine care se termină în '-a' iau terminația de dativ '-ei' în loc de 'lui' masculin: 'Mariei'. Forma corectă este 'Mariei am dat cartea'. Articolul 'lui' se folosește doar cu numele masculine: 'lui Mihai'."
+    },
+    {
+      "id": "q10_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Am cumpărat al treilea carte din serie.",
+      "answer": "Am cumpărat a treia carte din serie.",
+      "explanation": "The error is 'al treilea' instead of 'a treia'. Since 'carte' is feminine, the ordinal must use the feminine form 'a treia' (the third). 'Al treilea' is the masculine/neuter form. Always match the ordinal article and ending to the gender of the noun it modifies.",
+      "explanationRo": "Greșeala este 'al treilea' în loc de 'a treia'. Deoarece 'carte' este feminin, ordinalul trebuie să folosească forma feminină 'a treia'. 'Al treilea' este forma masculin/neutru. Potrivește întotdeauna articolul ordinal și terminația cu genul substantivului pe care îl modifică."
+    },
+    {
+      "id": "q10_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Salut, domnule profesor! Pot să vă întreb ceva?",
+      "answer": "Bună ziua, domnule profesor! Pot să vă întreb ceva?",
+      "explanation": "The error is using 'Salut' (informal) with a formal title 'domnule profesor'. When addressing someone with a formal title, the appropriate greeting is 'Bună ziua'. 'Salut' is reserved for friends, family, and peers in informal situations. Mixing registers sounds unnatural and disrespectful.",
+      "explanationRo": "Greșeala este folosirea lui 'Salut' (informal) cu un titlu formal 'domnule profesor'. Când vă adresați cuiva cu un titlu formal, salutul potrivit este 'Bună ziua'. 'Salut' este rezervat prietenilor, familiei și colegilor în situații informale. Amestecarea registrelor sună nenatural și lipsit de respect."
+    }
+  ]
+}

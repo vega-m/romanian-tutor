@@ -1,0 +1,227 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q08-week8-quiz",
+  "title": "Week 8 Quiz: Connections and Comparisons",
+  "titleRo": "Test Săptămâna 8: Conexiuni și Comparări",
+  "cefrLevel": "A2-B1",
+  "prerequisites": [
+    "G18-conjunctions",
+    "G21-comparatives",
+    "G22-relative-clauses"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Test your knowledge of Romanian conjunctions, comparatives and relative clauses.",
+  "instructionsRo": "Testează-ți cunoștințele despre conjuncții, comparativii și propoziții relative în limba română.",
+  "sourceWeek": 8,
+  "exercises": [
+    {
+      "id": "q08_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct conjunction: '___ plouă, ___ mergem la plajă.' (Although it rains, we still go to the beach.)",
+      "promptRo": "Alege conjuncția corectă: '___ plouă, ___ mergem la plajă.'",
+      "answer": "Deși ... totuși",
+      "options": [
+        "Deși ... totuși",
+        "Pentru că ... așa că",
+        "Și ... și",
+        "Ori ... ori"
+      ],
+      "explanation": "'Deși ... totuși' expresses concession (although ... nevertheless). The first clause introduces the unexpected condition, and the second clause states the contrasting result. 'Pentru că' expresses cause, 'și' expresses addition, and 'ori' expresses alternative.",
+      "explanationRo": "'Deși ... totuși' exprimă concesia (deși ... totuși). Prima propoziție introduce condiția neașteptată, iar a doua exprimă rezultatul contrastant. 'Pentru că' exprimă cauza, 'și' exprimă adăugarea, iar 'ori' exprimă alternativa."
+    },
+    {
+      "id": "q08_002",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct comparative form: 'Brașovul este ___ decât Bucureștiul.' (Brașov is smaller than Bucharest.)",
+      "promptRo": "Alege forma corectă de comparativ: 'Brașovul este ___ decât Bucureștiul.'",
+      "answer": "mai mic",
+      "options": [
+        "mai mic",
+        "micior",
+        "cel mai mic",
+        "mai mica"
+      ],
+      "explanation": "The regular comparative pattern is 'mai + adjective'. For 'mic' (small), the comparative is 'mai mic' (smaller). 'Cel mai mic' is the superlative (the smallest). The form 'micior' is archaic and not used in modern Romanian.",
+      "explanationRo": "Tiparul regulat de comparativ este 'mai + adjectiv'. Pentru 'mic', comparativul este 'mai mic'. 'Cel mai mic' este superlativul (cel mai mic). Forma 'micior' este arhaică și nu se folosește în româna modernă."
+    },
+    {
+      "id": "q08_003",
+      "type": "multiple-choice",
+      "prompt": "Which relative pronoun correctly completes the sentence: 'Oamenii ___ au venit la petrecere sunt prietenii mei.' (The people who came to the party are my friends.)",
+      "promptRo": "Care pronume relativ completează corect propoziția: 'Oamenii ___ au venit la petrecere sunt prietenii mei.'",
+      "answer": "care",
+      "options": [
+        "cine",
+        "care",
+        "ce",
+        "căruia"
+      ],
+      "explanation": "'Care' is the relative pronoun used as the subject of the relative clause. 'Cine' is used in direct questions (Cine a venit?), not in relative clauses. 'Ce' means 'that/what' and is not used for people here. 'Căruia' is a dative form and would require a different sentence structure.",
+      "explanationRo": "'Care' este pronumele relativ folosit ca subiect al propoziției relative. 'Cine' se folosește în întrebări directe, nu în propoziții relative. 'Ce' înseamnă 'că/ce' și nu se folosește pentru persoane aici. 'Căruia' este formă de dativ și ar necesita o structură diferită a propoziției."
+    },
+    {
+      "id": "q08_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct connector: 'A studiat mult, ___ a picat examenul.' (He studied a lot, but he still failed the exam.)",
+      "promptRo": "Alege conectorul corect: 'A studiat mult, ___ a picat examenul.'",
+      "answer": "dar",
+      "options": [
+        "și",
+        "pentru că",
+        "dar",
+        "deci"
+      ],
+      "explanation": "'Dar' expresses contrast/opposition (but). The first clause states an expected cause (studied a lot), and the second clause presents an unexpected result (failed the exam). 'Și' adds information, 'pentru că' gives a reason, and 'deci' draws a conclusion.",
+      "explanationRo": "'Dar' exprimă contrastul/opoziția (dar). Prima propoziție indică o cauză așteptată (a studiat mult), iar a doua prezintă un rezultat neașteptat (a picat examenul). 'Și' adaugă informații, 'pentru că' dă un motiv, iar 'deci' trage o concluzie."
+    },
+    {
+      "id": "q08_005",
+      "type": "multiple-choice",
+      "prompt": "What is the superlative form of 'bun' (good)?",
+      "promptRo": "Care este forma de superlativ a lui 'bun'?",
+      "answer": "cel mai bun",
+      "options": [
+        "mai bunior",
+        "cel mai bun",
+        "bunior",
+        "mai bun"
+      ],
+      "explanation": "'Bun' is an irregular adjective. Its comparative is 'mai bun' (better), and its superlative is 'cel mai bun' (the best). The feminine form is 'cea mai bună', the plural masculine is 'cei mai buni', and the plural feminine is 'cele mai bune'.",
+      "explanationRo": "'Bun' este un adjectiv neregulat. Comparativul său este 'mai bun', iar superlativul este 'cel mai bun'. Forma feminină este 'cea mai bună', pluralul masculin este 'cei mai buni', iar pluralul feminin este 'cele mai bune'."
+    },
+    {
+      "id": "q08_006",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses a relative clause with a possessive meaning?",
+      "promptRo": "Care propoziție folosește corect o propoziție relativă cu sens posesiv?",
+      "answer": "Fata al cărei frate este medic locuiește aici.",
+      "options": [
+        "Fata care frate este medic locuiește aici.",
+        "Fata al cărei frate este medic locuiește aici.",
+        "Fata ce frate este medic locuiește aici.",
+        "Fata cine frate este medic locuiește aici."
+      ],
+      "explanation": "For possessive relative clauses, use 'al cărui' (whose, masculine singular) agreeing with the possessed noun. Since 'frate' is masculine singular, we use 'al cărui'. Other forms: 'a cărei' (f. sg.), 'al căror' (m. pl.), 'ale căror' (f. pl.).",
+      "explanationRo": "Pentru propoziții relative posesive, folosește 'al cărui' acordându-se cu substantivul posedat. Deoarece 'frate' este masculin singular, folosim 'al cărui'. Alte forme: 'a cărei' (f. sg.), 'al căror' (m. pl.), 'ale căror' (f. pl.)."
+    },
+    {
+      "id": "q08_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct conjunction: '___ vrei ceai ___ cafea?' (Do you want tea or coffee?)",
+      "promptRo": "Alege conjuncția corectă: '___ vrei ceai ___ cafea?'",
+      "answer": "Ori ... ori",
+      "options": [
+        "Și ... și",
+        "Sau ... ori",
+        "Ori ... ori",
+        "Fie ... dar"
+      ],
+      "explanation": "'Ori ... ori' (either ... or) is used to present alternatives. It is more emphatic than 'sau ... sau' and is common in questions and conditional contexts. 'Și ... și' means 'both ... and' and adds items, not alternatives.",
+      "explanationRo": "'Ori ... ori' (fie ... fie) se folosește pentru a prezenta alternative. Este mai expresiv decât 'sau ... sau' și este comun în întrebări și contexte condiționale. 'Și ... și' înseamnă 'și ... și' și adaugă elemente, nu alternative."
+    },
+    {
+      "id": "q08_008",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct form? 'Aceasta este ___ problema pe care am discutat-o.' (This is the most important problem we discussed.)",
+      "promptRo": "Care este forma corectă? 'Aceasta este ___ problema pe care am discutat-o.'",
+      "answer": "cea mai importantă",
+      "options": [
+        "mai important",
+        "cea mai importantă",
+        "cel mai important",
+        "mai importantă"
+      ],
+      "explanation": "Since 'problemă' is feminine, the superlative uses 'cea mai' + feminine adjective form: 'cea mai importantă'. 'Cel mai' is used with masculine nouns. 'Mai important' without 'cea' is only the comparative, not the superlative.",
+      "explanationRo": "Deoarece 'problemă' este feminin, superlativul folosește 'cea mai' + forma feminină a adjectivului: 'cea mai importantă'. 'Cel mai' se folosește cu substantive masculine. 'Mai important' fără 'cea' este doar comparativul, nu superlativul."
+    },
+    {
+      "id": "q08_009",
+      "type": "multiple-choice",
+      "prompt": "Which relative pronoun is correct as the direct object: 'Cartea ___ am citit-o este foarte interesantă.' (The book that I read is very interesting.)",
+      "promptRo": "Care pronume relativ este corect ca obiect direct: 'Cartea ___ am citit-o este foarte interesantă.'",
+      "answer": "pe care",
+      "options": [
+        "care",
+        "pe care",
+        "ce",
+        "cine"
+      ],
+      "explanation": "When 'care' is the direct object of a relative clause, it requires the preposition 'pe': 'pe care'. 'Cartea pe care am citit-o' = the book that I read. Without 'pe', the sentence would be grammatically incorrect.",
+      "explanationRo": "Când 'care' este obiectul direct al unei propoziții relative, necesită prepoziția 'pe': 'pe care'. 'Cartea pe care am citit-o' = cartea pe care am citit-o. Fără 'pe', propoziția ar fi incorectă din punct de vedere gramatical."
+    },
+    {
+      "id": "q08_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct conjunction: '___ a plouat, terenul este uscat.' (Even though it rained, the ground is dry.)",
+      "promptRo": "Completează cu conjuncția corectă: '___ a plouat, terenul este uscat.'",
+      "sentence": "___ a plouat, terenul este uscat.",
+      "answer": "Deși",
+      "acceptableAnswers": [
+        "Deși",
+        "Cu toate că",
+        "deși"
+      ],
+      "explanation": "'Deși' (although) introduces a concessive clause. The first clause states a fact that would normally lead to the opposite result. 'Cu toate că' is a synonym and is also acceptable here.",
+      "explanationRo": "'Deși' (deși) introduce o propoziție concesivă. Prima propoziție afirmă un fapt care ar duce în mod normal la rezultatul opus. 'Cu toate că' este un sinonim și este, de asemenea, acceptabil aici."
+    },
+    {
+      "id": "q08_011",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct comparative: 'Mihai este ___ înalt ___ mine.' (Mihai is taller than me.)",
+      "promptRo": "Completează cu comparativul corect: 'Mihai este ___ înalt ___ mine.'",
+      "sentence": "Mihai este ___ înalt ___ mine.",
+      "answer": "mai ... decât",
+      "acceptableAnswers": [
+        "mai ... decât",
+        "mai ... ca"
+      ],
+      "explanation": "The comparative structure is 'mai + adjective + decât/ca': 'mai înalt decât mine' (taller than me). Both 'decât' and 'ca' can introduce the second term of comparison, though 'decât' is more formal and preferred in writing.",
+      "explanationRo": "Structura comparativă este 'mai + adjectiv + decât/ca': 'mai înalt decât mine'. Atât 'decât', cât și 'ca' pot introduce al doilea termen al comparației, deși 'decât' este mai formal și preferat în scris."
+    },
+    {
+      "id": "q08_012",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct relative pronoun (dative form): 'Persoanei ___ i-am scris nu i-a răspuns încă.' (The person I wrote to has not replied yet.)",
+      "promptRo": "Completează cu pronumele relativ corect (cazul dativ): 'Persoanei ___ i-am scris nu i-a răspuns încă.'",
+      "sentence": "Persoanei ___ i-am scris nu i-a răspuns încă.",
+      "answer": "căreia",
+      "acceptableAnswers": [
+        "căreia",
+        "carei"
+      ],
+      "explanation": "'Căreia' is the dative form of 'care' for feminine singular. Since 'persoanei' is feminine singular dative, we use 'căreia': 'Persoanei căreia i-am scris' (The person to whom I wrote). The dative forms are: căruia (m. sg.), căreia (f. sg.), cărora (pl.).",
+      "explanationRo": "'Căreia' este forma de dativ a lui 'care' pentru feminin singular. Deoarece 'persoanei' este feminin singular dativ, folosim 'căreia'. Formele de dativ sunt: căruia (m. sg.), căreia (f. sg.), cărora (pl.)."
+    },
+    {
+      "id": "q08_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Acesta este cea mai bun film pe care l-am văzut vreodată.",
+      "answer": "Acesta este cel mai bun film pe care l-am văzut vreodată.",
+      "explanation": "The error is 'cea mai bun' instead of 'cel mai bun'. Since 'film' is masculine, the superlative must use the masculine article 'cel': 'cel mai bun'. The feminine form 'cea mai bună' would be used with feminine nouns such as 'cartea cea mai bună' (the best book).",
+      "explanationRo": "Greșeala este 'cea mai bun' în loc de 'cel mai bun'. Deoarece 'film' este masculin, superlativul trebuie să folosească articolul masculin 'cel': 'cel mai bun'. Forma feminină 'cea mai bună' s-ar folosi cu substantive feminine precum 'cartea cea mai bună'."
+    },
+    {
+      "id": "q08_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "El este mai bun ca mine la matematică, deși nu studiază mult.",
+      "answer": "El este mai bun decât mine la matematică, deși nu studiază mult.",
+      "explanation": "The error is 'ca' instead of 'decât' in a comparative sentence. In formal Romanian, 'decât' is preferred over 'ca' in comparatives: 'mai bun decât mine' (better than me). While 'ca' is sometimes used in spoken language, 'decât' is the standard form in writing.",
+      "explanationRo": "Greșeala este 'ca' în loc de 'decât' într-o propoziție comparativă. În româna formală, 'decât' este preferat față de 'ca' în comparative: 'mai bun decât mine'. Deși 'ca' se folosește uneori în limba vorbită, 'decât' este forma standard în scris."
+    },
+    {
+      "id": "q08_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Femeia care i-am dat cheia este vecina noastră.",
+      "answer": "Femeia căreia i-am dat cheia este vecina noastră.",
+      "explanation": "The error is using 'care' instead of 'căreia'. When the relative pronoun is the indirect object (dative), it must take the dative form: 'căreia' (feminine singular). 'Femeia căreia i-am dat cheia' = The woman to whom I gave the key. The pronoun 'i-' is the dative clitic pronoun.",
+      "explanationRo": "Greșeala este folosirea lui 'care' în loc de 'căreia'. Când pronumele relativ este obiectul indirect (dativ), trebuie să ia forma de dativ: 'căreia' (feminin singular). 'Femeia căreia i-am dat cheia' = Femeia căreia i-am dat cheia. Pronumele 'i-' este pronumele clitic de dativ."
+    }
+  ]
+}

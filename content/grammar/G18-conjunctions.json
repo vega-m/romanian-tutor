@@ -1,0 +1,189 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G18-conjunctions",
+  "title": "Conjuncțiile (Conjuncțiile în Română)",
+  "titleEn": "Conjunctions in Romanian",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G10-past-compound"],
+  "estimatedMinutes": 35,
+  "introduction": "Conjunctions are the 'glue' of the Romanian language, linking words, phrases, or entire clauses. They are essential for moving from simple sentences to the complex coordination and subordination required for B1 level writing and speaking.",
+  "introductionRo": "Conjuncțiile reprezintă „adezivul” limbii române, realizând legătura între cuvinte, grupuri de cuvinte sau propoziții întregi. Ele sunt esențiale pentru a trece de la enunțuri simple la structurile complexe de coordonare și subordonare cerute la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Coordinating Conjunctions",
+      "headingRo": "Conjuncțiile Coordonatoare",
+      "content": "Coordinating conjunctions connect elements of the same grammatical rank. They are used to add information, show alternatives, or express contrast.",
+      "contentRo": "Conjuncțiile coordonatoare leagă elemente cu aceeași funcție gramaticală. Acestea sunt folosite pentru a adăuga informații, pentru a indica alternative sau pentru a exprima un contrast.",
+      "table": {
+        "headers": ["Conjunction", "Meaning", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["și", "and", "Eu și tu.", "You and I."],
+          ["sau", "or", "Cafea sau ceai?", "Coffee or tea?"],
+          ["dar", "but", "E frumos, dar mic.", "It's beautiful but small."],
+          ["ci", "but/rather", "Nu am bani, ci timp.", "I don't have money, but time."],
+          ["însă", "however", "E greu, însă posibil.", "It's hard, however possible."],
+          ["ori", "either/or", "Ori vii, ori pleci.", "Either you come or you leave."],
+          ["Ba...ba", "both...and / now...now", "Ba plouă, ba bate vântul.", "Now it rains, now the wind blows."],
+          ["nu numai...ci și", "not only...but also", "Nu numai citește, ci și scrie.", "Not only does he read, but also writes."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Vreau să mănânc și să beau. (I want to eat and drink.)",
+          "en": "'și' connects two infinitive clauses.",
+          "notes": "'și' can connect any grammatical elements of the same type."
+        },
+        {
+          "ro": "Nu e alb, ci negru. (It's not white, but rather black.)",
+          "en": "'ci' is used after a negative to correct: 'not X, but Y'.",
+          "notes": "'ci' is stronger than 'dar' and always follows a negation."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Subordinating Conjunctions",
+      "headingRo": "Conjuncții Subordonatoare",
+      "content": "Subordinating conjunctions introduce dependent clauses and connect them to the main clause:",
+      "contentRo": "Conjuncțiile subordonatoare introduc propoziții subordonate și le conectează de propoziția principală:",
+      "table": {
+        "headers": ["Conjunction", "Meaning", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["că", "that", "Cred că e adevărat.", "I believe that it's true."],
+          ["dacă", "if", "Dacă plouă, stăm acasă.", "If it rains, we stay home."],
+          ["deoarece", "because", "Vine deoarece vrea.", "He comes because he wants to."],
+          ["pentru că", "because", "Plâng pentru că sunt fericit.", "I cry because I'm happy."],
+          ["deși", "although", "Deși e greu, încerc.", "Although it's hard, I try."],
+          ["când", "when", "Când am ajuns, era târziu.", "When I arrived, it was late."],
+          ["în timp ce", "while", "În timp ce eu citeam, el dormea.", "While I was reading, he was sleeping."],
+          ["până când", "until", "Aștept până când vine.", "I wait until he comes."],
+          ["de îndată ce", "as soon as", "De îndată ce am terminat, am plecat.", "As soon as I finished, I left."],
+          ["înainte ca...să", "before", "Înainte ca să plece, a sunat.", "Before leaving, he called."],
+          ["după ce", "after", "După ce am mâncat, am plecat.", "After eating, we left."],
+          ["încât", "so...that (with așa...)", "A alergat așa de mult încât s-a ostenit.", "He ran so much that he got tired."],
+          ["fără să", "without", "A plecat fără să spună.", "He left without saying."],
+          ["deși", "even though", "Deși a plouat, am ieșit.", "Even though it rained, we went out."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Nu merg la petrecere pentru că sunt obosit. (I'm not going to the party because I'm tired.)",
+          "en": "'pentru că' is the most common way to say 'because' in everyday Romanian.",
+          "notes": "'deoarece' is more formal. Both mean 'because'."
+        },
+        {
+          "ro": "Dacă ai timp, hai să ieșim. (If you have time, let's go out.)",
+          "en": "'dacă' introduces a condition.",
+          "notes": "The verb after 'dacă' can be in the indicative or subjunctive depending on context."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Correlative Conjunctions (Pairs)",
+      "headingRo": "Conjuncții Correlative (Perechi)",
+      "content": "These conjunctions work in pairs to connect elements:",
+      "contentRo": "Aceste conjuncții funcționează în perechi pentru a conecta elementele:",
+      "table": {
+        "headers": ["Pair", "Meaning", "Example", "Translation"],
+        "rows": [
+          ["atât...cât", "as...as", "E la fel de bun cât mine.", "He's as good as me."],
+          ["nu numai...ci și", "not only...but also", "Nu numai citește, ci și scrie.", "Not only reads but also writes."],
+          ["fie...fie", "either...or", "Fie vinzi, fie cumperi.", "Either sell or buy."],
+          ["sau...sau", "either...or", "Sau vii, sau pleci.", "Either you come or you leave."],
+          ["nici...nici", "neither...nor", "Nici nu mănâncă, nici nu bea.", "He neither eats nor drinks."],
+          ["cu cât...cu atât", "the more...the more", "Cu cât muncești, cu atât câștigi.", "The more you work, the more you earn."],
+          ["deși...totuși", "although...still", "Deși e greu, totuși reușesc.", "Although it's hard, I still succeed."],
+          ["încât...încât", "so...that", "E cald încât nu pot sta.", "It's so hot that I can't stay."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Nici el nici ea nu au venit. (Neither he nor she came.)",
+          "en": "'nici...nici' connects two negative elements.",
+          "notes": "Note: double negation applies: 'nici el nici ea nu...' (three negative elements, all required)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Conjunctions with the Subjunctive",
+      "headingRo": "Conjuncții cu Conjunctivul",
+      "content": "Some conjunctions require the subjunctive mood (să + verb) in the following clause:",
+      "contentRo": "Unele conjuncții cer modul conjunctiv (să + verb) în propoziția care urmează:",
+      "table": {
+        "headers": ["Conjunction", "Meaning", "Example", "Translation"],
+        "rows": [
+          ["fără să", "without", "A plecat fără să spună.", "He left without saying."],
+          ["înainte de a / înainte să", "before", "Înainte să plece, sună.", "Before leaving, call."],
+          ["pentru a / ca să", "in order to / so that", "Ca să înțelegi, citește.", "In order to understand, read."],
+          ["de (mânie) să", "(out of anger) to", "De supărare a strigat.", "Out of anger he shouted."],
+          ["chiar dacă", "even if", "Chiar dacă plouă, merg.", "Even if it rains, I'm going."],
+          ["când să", "just as...to", "Când să plec, a sunat.", "Just as I was about to leave, he called."]
+        ]
+      },
+      "rules": [
+        "fără să + subjunctive: fără să mănânc (without eating)",
+        "ca să + subjunctive: ca să înțelegi (so that you understand)",
+        "înainte să + subjunctive: înainte să pleci (before you leave)",
+        "pentru a + infinitive: pentru a înțelege (in order to understand) — alternative form"
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "că vs. căci (because) vs. că (that)",
+      "content": "Be careful not to confuse 'că' (that) with 'căci' (because/since). They look similar but mean different things:",
+      "contentRo": "Ai grijă să nu confunzi 'că' (că) cu 'căci' (pentru că/deoarece). Arată similar dar au sensuri diferite:",
+      "rules": [
+        "că (that): Știu că vine. (I know that he's coming.)",
+        "căci (because/since): Nu merg, căci plouă. (I'm not going, because it's raining.)",
+        "pentru că (because): Nu merg pentru că plouă. (I'm not going because it's raining.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using conjunctions:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești conjuncțiile:",
+      "rules": [
+        "Don't confuse 'sau' (or) with 'sau' (his — possessive pronoun, spelled the same!)",
+        "Don't use 'dar' after a negation — use 'ci' instead: Nu e bun, ci rău.",
+        "Don't forget that 'dacă' (if) + future requires subjunctive, not future tense",
+        "Don't confuse 'că' (that) with 'căci' (because)",
+        "Remember: 'pentru că' introduces a reason, 'pentru a' introduces a purpose"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Nu e alb, ci negru. (It's not white, but black.)",
+          "en": "After a negation, use 'ci' (not 'dar') to correct.",
+          "notes": "'dar' is used after affirmative statements: E mic, dar puternic. (It's small but powerful.)"
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Coordinating: și (and), sau (or), dar (but), ci (but rather), ori (either/or)",
+    "Subordinating: că (that), dacă (if), deoarece/pentru că (because), deși (although)",
+    "Time conjunctions: când (when), după ce (after), până când (until), în timp ce (while)",
+    "Correlative pairs: nici...nici (neither...nor), fie...fie (either...or), cu cât...cu atât",
+    "Not only...but also: nu numai...ci și",
+    "Some conjunctions require subjunctive: fără să, ca să, înainte să",
+    "pentru că = because (reason); pentru a = in order to (purpose)",
+    "After negation, use 'ci' (not 'dar') to correct: Nu X, ci Y",
+    "că (that) vs. căci (because) — different meanings, similar spelling"
+  ],
+  "summaryPointsRo": [
+    "Coordonatoare: și (și), sau (sau), dar (dar), ci (ci), ori (ori)",
+    "Subordonatoare: că (că), dacă (dacă), deoarece/pentru că (pentru că), deși (deși)",
+    "Conjuncții de timp: când (când), după ce (după ce), până când (până când), în timp ce (în timp ce)",
+    "Perechi correlative: nici...nici, fie...fie, cu cât...cu atât",
+    "Nu numai...ci și",
+    "Unele conjuncții cer conjunctiv: fără să, ca să, înainte să",
+    "pentru că = deoarece (motiv); pentru a = pentru a (scop)",
+    "După negație, folosește 'ci' (nu 'dar') pentru a corecta: Nu X, ci Y",
+    "că (că) vs. căci (pentru că) — sensuri diferite, ortografie similară"
+  ],
+  "relatedExercises": ["E15-connectors-drill"]
+}

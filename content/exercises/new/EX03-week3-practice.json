@@ -1,0 +1,203 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX03-week3-practice",
+  "title": "Week 3 Practice: Pronouns and Adjective Agreement",
+  "titleRo": "Exerciții Practice Săptămâna 3: Pronume și Acordul Adjectivelor",
+  "cefrLevel": "A1-A2",
+  "prerequisites": [
+    "G06-personal-pronouns",
+    "G08-possessive-pronouns",
+    "G05-adjective-agreement"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice using personal and possessive pronouns, adjective agreement, and error correction. These exercises reinforce the grammar from Week 3. Take your time and review the explanations for each answer.",
+  "instructionsRo": "Exersează folosirea pronumelor personale și posesive, acordul adjectivelor și corectarea erorilor. Aceste exerciții întăresc gramatica din Săptămâna 3. Ia-ți timp și revizuiește explicațiile pentru fiecare răspuns.",
+  "sourceWeek": 3,
+  "exercises": [
+    {
+      "id": "ex03_001",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct personal pronoun: '___ (she) vorbește românește foarte bine.'",
+      "promptRo": "Completează cu pronumele personal corect: '___ vorbește românește foarte bine.'",
+      "sentence": "___ vorbește românește foarte bine.",
+      "answer": "Ea",
+      "acceptableAnswers": [
+        "Ea",
+        "ea"
+      ],
+      "explanation": "'Ea' is the 3rd person feminine singular subject pronoun (she). The verb 'vorbește' is 3rd person singular, confirming we need a singular subject pronoun.",
+      "explanationRo": "'Ea' este pronumele personal de persoana a III-a feminin singular (ea). Verbul 'vorbește' este la persoana a III-a singular, confirmând că avem nevoie de un pronume subiect singular."
+    },
+    {
+      "id": "ex03_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct possessive pronoun: 'Aceasta este ___ (his) mașină nouă.'",
+      "promptRo": "Completează cu pronumele posesiv corect: 'Aceasta este ___ mașină nouă.'",
+      "sentence": "Aceasta este ___ mașină nouă.",
+      "answer": "lui",
+      "acceptableAnswers": [
+        "lui"
+      ],
+      "explanation": "'Lui' is the possessive pronoun for 'el' (he, 3rd person masculine singular). It is invariable for all genders of the possessed noun: 'mașina lui' (his car), 'casa lui' (his house).",
+      "explanationRo": "'Lui' este pronumele posesiv pentru 'el' (persoana a III-a masculin singular). Este invariabil pentru toate genurile substantivului posedat: 'mașina lui' (mașina lui), 'casa lui' (casa lui)."
+    },
+    {
+      "id": "ex03_003",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct possessive pronoun: '___ (your, pl.) copii sunt foarte deștepți.'",
+      "promptRo": "Completează cu pronumele posesiv corect: '___ copii sunt foarte deștepți.'",
+      "sentence": "___ copii sunt foarte deștepți.",
+      "answer": "Voștri",
+      "acceptableAnswers": [
+        "Voștri",
+        "voștri"
+      ],
+      "explanation": "'Voștri' is the possessive pronoun for 'voi' (you, plural) agreeing with a masculine plural noun: 'copiii voștri' (your children). Feminine plural would be 'voastre': 'fetele voastre'.",
+      "explanationRo": "'Voștri' este pronumele posesiv pentru 'voi' (voi, plural) de acord cu un substantiv masculin plural: 'copiii voștri' (copiii voștri). Femininul plural ar fi 'voastre': 'fetele voastre'."
+    },
+    {
+      "id": "ex03_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct personal pronoun: '___ (we) locuim în București de doi ani.'",
+      "promptRo": "Completează cu pronumele personal corect: '___ locuim în București de doi ani.'",
+      "sentence": "___ locuim în București de doi ani.",
+      "answer": "Noi",
+      "acceptableAnswers": [
+        "Noi",
+        "noi"
+      ],
+      "explanation": "'Noi' is the 1st person plural subject pronoun (we). The verb 'locuim' is 1st person plural, confirming the pronoun 'noi'.",
+      "explanationRo": "'Noi' este pronumele personal de persoana I plural (noi). Verbul 'locuim' este la persoana I plural, confirmând pronumele 'noi'."
+    },
+    {
+      "id": "ex03_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct adjective form for 'un băiat' (a boy): 'un băiat ___' (smart)",
+      "promptRo": "Alegeți forma corectă a adjectivului pentru 'un băiat' (un băiat): 'un băiat ___'",
+      "answer": "deștept",
+      "options": [
+        "deștept",
+        "deșteaptă",
+        "deștepți",
+        "deștepte"
+      ],
+      "explanation": "'Băiat' is masculine singular, so the adjective must be masculine singular: 'deștept'. 'Un băiat deștept' (a smart boy).",
+      "explanationRo": "'Băiat' este masculin singular, deci adjectivul trebuie să fie masculin singular: 'deștept'. 'Un băiat deștept' (un băiat deștept).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex03_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct adjective form for 'o masă' (a table): 'o masă ___' (round)",
+      "promptRo": "Alegeți forma corectă a adjectivului pentru 'o masă' (o masă): 'o masă ___'",
+      "answer": "rotundă",
+      "options": [
+        "rotund",
+        "rotundă",
+        "rotunzi",
+        "rotunde"
+      ],
+      "explanation": "'Masă' is feminine singular, so the adjective must be feminine singular: 'rotundă'. 'O masă rotundă' (a round table).",
+      "explanationRo": "'Masă' este feminin singular, deci adjectivul trebuie să fie feminin singular: 'rotundă'. 'O masă rotundă' (o masă rotundă).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex03_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct adjective form for 'scaune' (chairs, neuter plural): 'scaune ___' (comfortable)",
+      "promptRo": "Alegeți forma corectă a adjectivului pentru 'scaune' (scaune, neutru plural): 'scaune ___'",
+      "answer": "confortabile",
+      "options": [
+        "confortabil",
+        "confortabile",
+        "confortabili",
+        "confortabilul"
+      ],
+      "explanation": "'Scaune' is neuter plural. Neuter nouns take feminine adjective forms in the plural: 'confortabile'. 'Scaune confortabile' (comfortable chairs).",
+      "explanationRo": "'Scaune' este neutru plural. Substantivele neutre iau adjective la feminin la plural: 'confortabile'. 'Scaune confortabile' (scaune confortabile)."
+    },
+    {
+      "id": "ex03_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the error: 'Mama meu gătește foarte bine.'",
+      "promptRo": "Găsiți și corectați eroarea: 'Mama meu gătește foarte bine.'",
+      "sentence": "Mama meu gătește foarte bine.",
+      "answer": "Mama mea gătește foarte bine.",
+      "explanation": "The error is in the possessive pronoun. 'Mama' is feminine singular, so the possessive must be 'mea' (feminine singular), not 'meu' (masculine singular). 'Mama mea gătește foarte bine.'",
+      "explanationRo": "Eroarea este la pronumele posesiv. 'Mama' este feminin singular, deci posesivul trebuie să fie 'mea' (feminin singular), nu 'meu' (masculin singular). 'Mama mea gătește foarte bine.'",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex03_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the error: 'Pomul este foarte înaltă.'",
+      "promptRo": "Găsiți și corectați eroarea: 'Pomul este foarte înaltă.'",
+      "sentence": "Pomul este foarte înaltă.",
+      "answer": "Pomul este foarte înalt.",
+      "explanation": "The error is in the adjective form. 'Pomul' is masculine singular (neuter nouns use masculine forms in the singular), so the adjective must be 'înalt' (masculine singular), not 'înaltă' (feminine singular). 'Pomul este foarte înalt.'",
+      "explanationRo": "Eroarea este la forma adjectivului. 'Pomul' este masculin singular (substantivele neutre folosesc forme masculine la singular), deci adjectivul trebuie să fie 'înalt' (masculin singular), nu 'înaltă' (feminin singular). 'Pomul este foarte înalt.'",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex03_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the error: 'Noi am văzut ei la magazin.'",
+      "promptRo": "Găsiți și corectați eroarea: 'Noi am văzut ei la magazin.'",
+      "sentence": "Noi am văzut ei la magazin.",
+      "answer": "Noi i-am văzut la magazin.",
+      "explanation": "The error is in the pronoun form. After the auxiliary 'am', you must use the clitic pronoun, not the stressed form. The direct object clitic for 'ei' (masculine plural) is 'i-': 'Noi i-am văzut la magazin.' Alternatively, with the stressed form after the verb: 'Noi am văzut pe ei la magazin.'",
+      "explanationRo": "Eroarea este la forma pronumelui. După auxiliarul 'am', trebuie folosit pronumele clitic, nu forma accentuată. Cliticul obiect direct pentru 'ei' (masculin plural) este 'i-': 'Noi i-am văzut la magazin.' Alternativ, cu forma accentuată după verb: 'Noi am văzut pe ei la magazin.'",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex03_011",
+      "type": "writing",
+      "prompt": "Write a short description (40-60 words) of your favorite meal. Use at least:\n- Two possessive pronouns (meu, mea, tău, ta, lui, ei, noastre, voastre, lor, etc.)\n- Three adjectives with correct agreement (gender and number)\n- Correct personal pronouns where appropriate\n\nExample starters: 'Mâncarea mea preferată este...' or 'Felul meu favorit este...'",
+      "promptRo": "Scrie o scurtă descriere (40-60 cuvinte) a mesei tale preferate. Folosește cel puțin:\n- Două pronume posesive (meu, mea, tău, ta, lui, ei, noastre, voastre, lor etc.)\n- Trei adjective cu acord corect (gen și număr)\n- Pronume personale corecte acolo unde este cazul\n\nExemple de început: 'Mâncarea mea preferată este...' sau 'Felul meu favorit este...'",
+      "answer": "Mâncarea mea preferată este sarmalele. Mama lor gătește sarmale delicioase de fiecare dată când avem o sărbătoare. Carnea tocată este foarte condimentată, iar varza este moale și gustoasă. Noi, toți membrii familiei noastre, așteptăm cu nerăbdare această masă tradițională. Mâncarea noastră românească este cea mai bună!",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Pronoun Usage",
+            "description": "Uses at least two possessive pronouns and correct personal pronouns with proper agreement",
+            "maxPoints": 3
+          },
+          {
+            "name": "Adjective Agreement",
+            "description": "Uses at least three adjectives with correct gender and number agreement",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Appropriate food-related vocabulary and natural word choice",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct sentence structure, verb forms, and articles",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      },
+      "explanation": "This writing exercise tests your ability to use possessive pronouns (mea, lor, noastre, noastră) and adjectives with correct agreement (preferată, delicioase, condimentată, moale, gustoasă, tradițională, bună). The model answer demonstrates correct adjective agreement for feminine singular and plural nouns, and proper use of both possessive and personal pronouns.",
+      "explanationRo": "Acest exercițiu de scriere testează capacitatea de a folosi pronume posesive (mea, lor, noastre, noastră) și adjective cu acord corect (preferată, delicioase, condimentată, moale, gustoasă, tradițională, bună). Răspunsul model demonstrează acordul corect al adjectivelor pentru substantive feminine singular și plural, și folosirea corectă a pronumelor posesive și personale.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex03_012",
+      "type": "translation",
+      "prompt": "Translate the following sentences from English to Romanian. Pay attention to pronoun and adjective agreement.\n\n1. 'My sister is very tall.'\n2. 'Their house is big and beautiful.'\n3. 'We have a new car.'",
+      "promptRo": "Traduceți următoarele propoziții din engleză în română. Acordați atenție acordului pronumelor și adjectivelor.\n\n1. 'My sister is very tall.'\n2. 'Their house is big and beautiful.'\n3. 'We have a new car.'",
+      "direction": "en-ro",
+      "answer": "1. Sora mea este foarte înaltă.\n2. Casa lor este mare și frumoasă.\n3. Noi avem o mașină nouă.",
+      "acceptableAnswers": [
+        "1. Sora mea este foarte înaltă.\n2. Casa lor este mare și frumoasă.\n3. Noi avem o mașină nouă.",
+        "1. Sora mea e foarte înaltă.\n2. Casa lor e mare și frumoasă.\n3. Avem o mașină nouă."
+      ],
+      "explanation": "1. 'Sora' (f.) + 'mea' (f. possessive) + 'înaltă' (f. adj.). 2. 'Casa' (f.) + 'lor' (invariable possessive) + 'mare' (f.) + 'frumoasă' (f.). 3. 'Noi' (subject pronoun) + 'o mașină' (f., indefinite article 'o') + 'nouă' (f. adj.).",
+      "explanationRo": "1. 'Sora' (f.) + 'mea' (posesiv f.) + 'înaltă' (adj. f.). 2. 'Casa' (f.) + 'lor' (posesiv invariabil) + 'mare' (f.) + 'frumoasă' (f.). 3. 'Noi' (pronume subiect) + 'o mașină' (f., articol nehotărât 'o') + 'nouă' (adj. f.)."
+    }
+  ]
+}

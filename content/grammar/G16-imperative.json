@@ -1,0 +1,228 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G16-imperative",
+  "title": "Imperativul (Modul Imperativ)",
+  "titleEn": "The Imperative Mood",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G14-subjunctive"],
+  "estimatedMinutes": 30,
+  "introduction": "The imperative mood (imperativul) is used to give orders, make requests, or offer advice. Romanian distinguishes between singular and plural forms, and its negative form (don't) often uses a completely different structure based on the infinitive. Mastering these nuances is essential for direct communication.",
+  "introductionRo": "Modul imperativ se folosește pentru a da ordine, a face rugăminți sau a oferi sfaturi. În limba română, se face distincția între formele de singular și plural, iar forma negativă (interdicția) folosește adesea o structură complet diferită, bazată pe infinitiv. Stăpânirea acestor nuanțe este esențială pentru o comunicare directă.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Singular Imperative (2nd Person)",
+      "headingRo": "Imperativul la Singular (Persoana a II-a)",
+      "content": "The affirmative singular imperative is typically derived from the 2nd or 3rd person singular of the present indicative. This form is used for informal address (tu).",
+      "contentRo": "Imperativul afirmativ la singular derivă, de regulă, din persoana a II-a sau a III-a singular a indicativului prezent. Această formă se folosește pentru adresarea informală (tu).",
+      "table": {
+        "headers": ["Conjugation", "Present (tu)", "Imperative (tu)", "Example", "Meaning"],
+        "rows": [
+          ["1st (-a)", "cânți", "cântă!", "Cântă bine!", "Sing well!"],
+          ["2nd (-ea)", "bei", "bea!", "Bea apă!", "Drink water!"],
+          ["3rd (-e)", "mergi", "mergi!", "Mergi acasă!", "Go home!"],
+          ["4th (-i)", "dormi", "dormi!", "Dormi bine!", "Sleep well!"],
+          ["4th (-î)", "cobori", "coboară!", "Coboară!", "Come down!"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mergi la magazin! (Go to the store!)",
+          "en": "For 3rd conjugation, the imperative is the same as the 2nd person present: mergi.",
+          "notes": "Some 3rd conjugation verbs keep the same form: mergi → mergi!, scrii → scrie!."
+        },
+        {
+          "ro": "Cântă! (Sing!)",
+          "en": "For 1st conjugation, the imperative is the 3rd person form: cântă.",
+          "notes": "cânți (you sing) → cântă! (sing! — drop the 'i' or use 3rd person form)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Imperative for 2nd Person Plural (voi)",
+      "headingRo": "Imperativul pentru Persoana a II-a Plural (voi)",
+      "content": "The 2nd person plural imperative uses the 'să' + subjunctive construction:",
+      "contentRo": "Imperativul la persoana a II-a plural folosește construcția 'să' + conjunctiv:",
+      "table": {
+        "headers": ["Verb", "Imperative (voi)", "Example", "Translation"],
+        "rows": [
+          ["a cânta", "Să cântați!", "Să cântați bine!", "Sing well! (pl.)"],
+          ["a merge", "Să mergeți!", "Să mergeți acasă!", "Go home! (pl.)"],
+          ["a scrie", "Să scrieți!", "Să scrieți clar!", "Write clearly! (pl.)"],
+          ["a veni", "Să veniți!", "Să veniți mâine!", "Come tomorrow! (pl.)"],
+          ["a asculta", "Să ascultați!", "Să ascultați!", "Listen! (pl.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Să așteptați aici! (Wait here! — plural/polite)",
+          "en": "să + așteptați (subjunctive 2nd person plural).",
+          "notes": "This form is also used for polite address (formal 'you')."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Polite / Formal Imperative (dumneavoastră)",
+      "headingRo": "Imperativ Politicos / Formal (dumneavoastră)",
+      "content": "When speaking formally (addressing someone as 'dumneavoastră'), the imperative uses 'să' + subjunctive in the 2nd person plural form, often with 'vă rog':",
+      "contentRo": "Când vorbiți formal (adresându-vă cu 'dumneavoastră'), imperativul folosește 'să' + conjunctiv la persoana a II-a plural, adesea cu 'vă rog':",
+      "table": {
+        "headers": ["Informal (tu)", "Formal (dumneavoastră)", "Translation"],
+        "rows": [
+          ["Vino!", "Să veniți, vă rog!", "Come, please!"],
+          ["Stai!", "Să stați, vă rog!", "Stay, please!"],
+          ["Mănâncă!", "Să mâncați, vă rog!", "Eat, please!"],
+          ["Așteaptă!", "Să așteptați, vă rog!", "Wait, please!"],
+          ["Uită-te!", "Să vă uitați, vă rog!", "Look, please!"]
+        ]
+      },
+      "rules": [
+        "For formal commands, always use 'să' + 2nd person plural subjunctive",
+        "Adding 'vă rog' (please) makes it even more polite",
+        "Negative formal: Nu vă uitați! (Don't look! — formal)"
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Negative Imperative",
+      "headingRo": "Imperativ Negativ",
+      "content": "Negative commands are formed with 'nu' before the verb. The form changes slightly in some cases:",
+      "contentRo": "Comenzile negative se formează cu 'nu' înaintea verbului. Forma se schimbă ușor în unele cazuri:",
+      "table": {
+        "headers": ["Affirmative", "Negative", "Translation"],
+        "rows": [
+          ["Cântă!", "Nu cânta!", "Don't sing!"],
+          ["Bea!", "Nu bea!", "Don't drink!"],
+          ["Mergi!", "Nu merge!", "Don't go!"],
+          ["Fă!", "Nu face!", "Don't do!"],
+          ["Spune!", "Nu spune!", "Don't say!"],
+          ["Să veniți!", "Nu să veniți! / Să nu veniți!", "Don't come! (pl.)"],
+          ["Să scrieți!", "Nu să scrieți! / Să nu scrieți!", "Don't write! (pl.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Nu face asta! (Don't do that!)",
+          "en": "a face: affirmative imperative 'fă' → negative 'nu face!' (the verb changes form).",
+          "notes": "For 1st conjugation verbs, the negative imperative uses the 'a' form, not the 'ă' form."
+        },
+        {
+          "ro": "Nu te neliniști! (Don't worry!)",
+          "en": "With reflexive verbs, 'nu' goes before the reflexive pronoun.",
+          "notes": "Structure: nu + reflexive pronoun + verb. Not: te nu neliniști."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Imperatives",
+      "headingRo": "Imperative Neregulate",
+      "content": "Some common verbs have irregular imperative forms:",
+      "contentRo": "Unele verbe comune au forme neregulate de imperativ:",
+      "table": {
+        "headers": ["Verb", "Infinitive", "Imperative (tu)", "Imperative (voi)", "Negative"],
+        "rows": [
+          ["a fi", "to be", "fii!", "să fiți!", "nu fi!"],
+          ["a avea", "to have", "ai!", "să aveți!", "nu avea!"],
+          ["a fi (negative)", "not to be", "—", "—", "nu fi!"],
+          ["a sta", "to stay", "stai!", "să stați!", "nu sta!"],
+          ["a da", "to give", "dă!", "să dați!", "nu da!"],
+          ["a lua", "to take", "ia!", "să luați!", "nu lua!"],
+          ["a veni", "to come", "vino!", "să veniți!", "nu veni!"],
+          ["a face", "to do/make", "fă!", "să faceți!", "nu face!"],
+          ["a duce", "to take/lead", "du!", "să duceți!", "nu duce!"],
+          ["a pune", "to put", "pune!", "să puneți!", "nu pune!"],
+          ["a ști", "to know", "știi!", "să știți!", "nu ști!"],
+          ["a vrea", "to want", "vrei! (rare)", "să vreți!", "nu vrea!"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Fii atent! (Be careful!)",
+          "en": "a fi → fii (imperative): completely irregular, must be memorized.",
+          "notes": "Negative: Nu fi trist! (Don't be sad!)"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Let's... (1st Person Plural Imperative)",
+      "headingRo": "Să... (Imperativ la Persoana I Plural)",
+      "content": "To say 'let's...', Romanian uses 'hai să' + subjunctive or 'să' + subjunctive (1st person plural):",
+      "contentRo": "Pentru a spune 'hai să...', româna folosește 'hai să' + conjunctiv sau 'să' + conjunctiv (persoana I plural):",
+      "table": {
+        "headers": ["Pattern", "Example", "Translation"],
+        "rows": [
+          ["hai să + subj.", "Hai să mergem!", "Let's go!"],
+          ["hai să + subj.", "Hai să mâncăm!", "Let's eat!"],
+          ["să + subj. (1st pl.)", "Să începem!", "Let's begin!"],
+          ["să + subj. (1st pl.)", "Să ne întâlnim!", "Let's meet!"]
+        ]
+      },
+      "rules": [
+        "'Hai să' is the most common way to say 'let's' in spoken Romanian",
+        "'Să' + 1st person plural subjunctive also works but is slightly less common",
+        "Negative: Nu hai să... doesn't exist. Use: Să nu mergem! (Let's not go!)"
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Softening Commands",
+      "content": "In Romanian, commands can sound harsh. Soften them with these strategies:",
+      "contentRo": "În română, comenzile pot suna aspru. Înmoaie-le cu aceste strategii:",
+      "rules": [
+        "Add 'te rog' (please): Mergi, te rog. (Go, please.)",
+        "Use conditional instead: Ai putea să mergi? (Could you go?)",
+        "Add 'hai' for suggestions: Hai să mergem. (Let's go.)",
+        "Use 'vreau să' (I want you to): Vreau să vii. (I want you to come.)",
+        "Add 'doar' (just): Spune doar. (Just say.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using the imperative:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești imperativul:",
+      "rules": [
+        "Don't use the infinitive for commands: 'A merge!' is WRONG — use 'Mergi!' or 'Să mergeți!'",
+        "Don't forget that negative imperative of a face is 'nu face!' (not 'nu fă!')",
+        "Don't use informal imperative with strangers — use 'să' + 2nd plural or 'vă rog'",
+        "Remember: a fi imperative is 'fii!' (not 'este!')",
+        "For reflexive verbs: negative form is 'nu te...' not 'te nu...'"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Nu face așa! (Don't do that!)",
+          "en": "The negative imperative of a face is 'nu face!' — the verb changes form.",
+          "notes": "Common mistake: saying 'nu fă' — this sounds ungrammatical."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "2nd person singular imperative: usually the present tense without final 'i' or 3rd person form",
+    "2nd person plural imperative: să + subjunctive (Să mergeți!)",
+    "Formal imperative: să + 2nd person plural subjunctive + vă rog",
+    "Negative: nu + verb (Nu merge! / Să nu mergeți!)",
+    "Key irregular imperatives: fii! (a fi), fă! (a face), vino! (a veni), dă! (a da), ia! (a lua)",
+    "Negative a face: nu face! (not 'nu fă!')",
+    "Let's... = Hai să + subjunctive (Hai să mergem!)",
+    "Soften commands with te rog, conditional, or hai să",
+    "Reflexive negative: nu + pronoun + verb (Nu te neliniști!)"
+  ],
+  "summaryPointsRo": [
+    "Imperativ persoana a II-a singular: de obicei timpul prezent fără 'i' final sau forma persoanei a III-a",
+    "Imperativ persoana a II-a plural: să + conjunctiv (Să mergeți!)",
+    "Imperativ formal: să + conjunctiv persoana a II-a plural + vă rog",
+    "Negativ: nu + verb (Nu merge! / Să nu mergeți!)",
+    "Imperative neregulate cheie: fii! (a fi), fă! (a face), vino! (a veni), dă! (a da), ia! (a lua)",
+    "Negativ a face: nu face! (nu 'nu fă!')",
+    "Să... = Hai să + conjunctiv (Hai să mergem!)",
+    "Înmoaie comenzile cu te rog, condițional sau hai să",
+    "Reflexiv negativ: nu + pronume + verb (Nu te neliniști!)"
+  ],
+  "relatedExercises": ["E16-conditional-imperative"]
+}

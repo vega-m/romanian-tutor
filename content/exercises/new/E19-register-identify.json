@@ -1,0 +1,129 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E19-register-identify",
+  "title": "Identificarea Registrelui",
+  "titleRo": "Exerciții de Identificare a Registrelui (Formal vs. Informal)",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Identify whether each sentence or phrase is FORMAL (formal) or INFORMAL (informal). Understanding register is essential for the B1 exam, especially for the writing section where you must write formal letters and opinion texts.",
+  "instructionsRo": "Identificați dacă fiecare propoziție sau frază este FORMALĂ (formal) sau INFORMALĂ (informal). Înțelegerea registrului este esențială pentru examenul B1, în special pentru secțiunea de scriere unde trebuie să redactați scrisori oficiale și texte de opinie.",
+  "sourceWeek": 10,
+  "exercises": [
+    {
+      "id": "e19_001",
+      "type": "multiple-choice",
+      "prompt": "Is this sentence formal or informal? 'Vă rog să-mi trimiteți documentele cât mai curând.'",
+      "promptRo": "Este această propoziție formală sau informală? 'Vă rog să-mi trimiteți documentele cât mai curând.'",
+      "answer": "Formal",
+      "options": [
+        "Formal",
+        "Informal"
+      ],
+      "explanation": "'Vă rog' (formal 'please'), 'să-mi' (subjunctive with clitic), 'documente' (formal vocabulary), and the overall polite tone indicate this is a formal request. The pronoun 'vă' shows formal address.",
+      "explanationRo": "'Vă rog' (formal 'vă rog'), 'să-mi' (subjunctiv cu clitic), 'documente' (vocabular formal) și tonul politicos indică o cerere formală. Pronumele 'vă' arată adresarea formală."
+    },
+    {
+      "id": "e19_002",
+      "type": "multiple-choice",
+      "prompt": "Is this sentence formal or informal? 'Hei, dă-mi un telefon când ajungi, mersi!'",
+      "promptRo": "Este această propoziție formală sau informală? 'Hei, dă-mi un telefon când ajungi, mersi!'",
+      "answer": "Informal",
+      "options": [
+        "Formal",
+        "Informal"
+      ],
+      "explanation": "'Hei' (hey) is informal, 'dă-mi' uses imperative informal, 'mersi' is the informal version of 'mulțumesc'. This is clearly a casual conversation between friends.",
+      "explanationRo": "'Hei' este informal, 'dă-mi' folosește imperativ informal, 'mersi' este versiunea informală a 'mulțumesc'. Aceasta este clar o conversație casual între prieteni."
+    },
+    {
+      "id": "e19_003",
+      "type": "multiple-choice",
+      "prompt": "Which sentence would you use in a formal letter to a school principal?",
+      "promptRo": "Ce propoziție ați folosi într-o scrisoare oficială către un director de școală?",
+      "answer": "Vă adresez respectuoasa cerere de a fi admis la programul de studiu.",
+      "options": [
+        "Vă adresez respectuoasa cerere de a fi admis la programul de studiu.",
+        "Vreau să intru la programul ăla de studiu, da-i OK?",
+        "Bună ziua, vreau să vă zic că mi-ar plăcea să intru la program.",
+        "Am nevoie de un loc în programul vostru, pls."
+      ],
+      "explanation": "The first option uses formal vocabulary: 'Vă adresez' (I address), 'respectuoasa cerere' (respectful request), 'a fi admis' (to be admitted). This is appropriate for a formal letter.",
+      "explanationRo": "Prima opțiune folosește vocabular formal: 'Vă adresez' (vă adresez), 'respectuoasa cerere' (cererea respectuoasă), 'a fi admis' (a fi admis). Aceasta este potrivită pentru o scrisoare oficială."
+    },
+    {
+      "id": "e19_004",
+      "type": "multiple-choice",
+      "prompt": "Which sentence would you use when messaging a friend?",
+      "promptRo": "Ce propoziție ați folosi când trimiteți un mesaj unui prieten?",
+      "answer": "Ne vedem diseară la 8 la cafea, OK?",
+      "options": [
+        "Ne vedem diseară la 8 la cafea, OK?",
+        "Vă invit respectuos la o întâlnire diseară la ora 20:00.",
+        "Solicit prezența dumneavoastră la cafenea în seara aceasta.",
+        "Aș dori să vă informez că intenționez să ne întâlnim diseară."
+      ],
+      "explanation": "The first option is casual: 'Ne vedem' (we'll see each other), 'la 8' (colloquial time reference), 'OK?' (informal confirmation). Perfect for a friend.",
+      "explanationRo": "Prima opțiune este casual: 'Ne vedem' (ne vom vedea), 'la 8' (referință de timp colocvială), 'OK?' (confirmare informală). Perfectă pentru un prieten."
+    },
+    {
+      "id": "e19_005",
+      "type": "multiple-choice",
+      "prompt": "Is this sentence formal or informal? 'Subsemnatul, Popescu Ion, solicit aprobarea pentru concediul de odihnă.'",
+      "promptRo": "Este această propoziție formală sau informală? 'Subsemnatul, Popescu Ion, solicit aprobarea pentru concediul de odihnă.'",
+      "answer": "Formal",
+      "options": [
+        "Formal",
+        "Informal"
+      ],
+      "explanation": "'Subsemnatul' (the undersigned) is a formal administrative term. 'Solicit' (I request) is formal. 'Concediul de odihnă' (vacation leave) is the official term. This is typical administrative/formal language.",
+      "explanationRo": "'Subsemnatul' este un termen administrativ formal. 'Solicit' (solicit) este formal. 'Concediul de odihnă' este termenul oficial. Aceasta este limbă administrativă/formală tipică."
+    },
+    {
+      "id": "e19_006",
+      "type": "multiple-choice",
+      "prompt": "Which rewrite changes this informal sentence to formal? 'Nu prea merge chestia aia cu netul.'",
+      "promptRo": "Ce rescriere transformă această propoziție informală în formală? 'Nu prea merge chestia aia cu netul.'",
+      "answer": "Conexiunea la internet nu funcționează corespunzător.",
+      "options": [
+        "Conexiunea la internet nu funcționează corespunzător.",
+        "Netul e stricat din nou.",
+        "Internetu' nu merge cum trebuie.",
+        "Problema cu netu' e nasoală."
+      ],
+      "explanation": "'Chestia aia' (that thing) → 'conexiunea' (connection). 'Cu netul' (with the net) → 'la internet' (to the internet). 'Nu prea merge' (doesn't really work) → 'nu funcționează corespunzător' (doesn't function properly).",
+      "explanationRo": "'Chestia aia' → 'conexiunea'. 'Cu netul' → 'la internet'. 'Nu prea merge' → 'nu funcționează corespunzător'. Toate transformările sunt de la informal la formal."
+    },
+    {
+      "id": "e19_007",
+      "type": "multiple-choice",
+      "prompt": "Is this sentence formal or informal? 'Am văzut pe la știri că o să plouă toată săptămâna.'",
+      "promptRo": "Este această propoziție formală sau informală? 'Am văzut pe la știri că o să plouă toată săptămâna.'",
+      "answer": "Informal",
+      "options": [
+        "Formal",
+        "Informal"
+      ],
+      "explanation": "'Pe la știri' (on the news — colloquial expression), 'o să plouă' (going to rain — future with 'o să' is more colloquial than 'va ploua'). The tone is casual, everyday speech.",
+      "explanationRo": "'Pe la știri' (la știri — expresie colocvială), 'o să plouă' (va ploua — viitorul cu 'o să' este mai colocvial decât 'va ploua'). Tonul este casual, vorbire de zi cu zi."
+    },
+    {
+      "id": "e19_008",
+      "type": "multiple-choice",
+      "prompt": "Which of these connectors is most appropriate for a formal essay?",
+      "promptRo": "Care dintre acești conectori este cel mai potrivit pentru un eseu formal?",
+      "answer": "Prin urmare",
+      "options": [
+        "Prin urmare",
+        "Deci",
+        "Asta înseamnă că",
+        "Și-atunci"
+      ],
+      "explanation": "'Prin urmare' (therefore) is a formal connector suitable for essays and academic writing. 'Deci' is neutral, while 'Asta înseamnă că' and 'Și-atunci' are informal/colloquial.",
+      "explanationRo": "'Prin urmare' (prin urmare) este un conector formal potrivit pentru eseuri și scrieri academice. 'Deci' este neutru, în timp ce 'Asta înseamnă că' și 'Și-atunci' sunt informale/colocviale."
+    }
+  ]
+}

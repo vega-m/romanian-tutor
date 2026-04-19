@@ -1,0 +1,135 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "R01-articles-gender",
+  "title": "Recapitulare: Articole și Gen",
+  "titleRo": "Recapitulare: Articole și Gen (Săptămâna 2)",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G02-articles",
+    "G03-nouns"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Review exercises for articles, gender, and noun forms at a B1 level. These exercises focus on correct agreement in complex contexts.",
+  "instructionsRo": "Exerciții de recapitulare pentru articole, gen și forme ale substantivelor la nivel B1. Aceste exerciții se concentrează pe acordul corect în contexte complexe.",
+  "sourceWeek": 2,
+  "exercises": [
+    {
+      "id": "r01_001",
+      "type": "multiple-choice",
+      "prompt": "Identify the correct plural form and gender for 'instituție' (institution):",
+      "promptRo": "Identificați forma de plural și genul corect pentru 'instituție' (instituție):",
+      "answer": "instituții (Feminine)",
+      "options": [
+        "instituțuri (Neuter)",
+        "instituții (Feminine)",
+        "instituție (Masculine)",
+        "instituțiile (Feminine)"
+      ],
+      "explanation": "'Instituție' is feminine. Most nouns ending in '-ție' are feminine and form the plural in '-ții'.",
+      "explanationRo": "'Instituție' este feminin. Majoritatea substantivelor care se termină în '-ție' sunt feminine și formează pluralul în '-ții'."
+    },
+    {
+      "id": "r01_002",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct definite article for the neuter noun 'obiectiv' (objective) in the plural?",
+      "promptRo": "Care este articolul hotărât corect pentru substantivul neutru 'obiectiv' (obiectiv) la plural?",
+      "answer": "obiectivele",
+      "options": [
+        "obiectivii",
+        "obiectivurile",
+        "obiectivele",
+        "obiectivelor"
+      ],
+      "explanation": "'Obiectiv' is neuter (un obiectiv, două obiective). Neuter plurals take the feminine definite article ending '-le'.",
+      "explanationRo": "'Obiectiv' este neutru (un obiectiv, două obiective). Pluralul neutrelor ia terminația articolului hotărât feminin '-le'."
+    },
+    {
+      "id": "r01_003",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct indefinite article: '___ cetățean responsabil respectă legile.'",
+      "promptRo": "Completați cu articolul nehotărât corect: '___ cetățean responsabil respectă legile.'",
+      "sentence": "___ cetățean responsabil respectă legile.",
+      "answer": "Un",
+      "acceptableAnswers": [
+        "Un",
+        "un"
+      ],
+      "explanation": "'Cetățean' is a masculine noun. The indefinite article for masculine singular is 'un'.",
+      "explanationRo": "'Cetățean' este un substantiv masculin. Articolul nehotărât pentru masculin singular este 'un'."
+    },
+    {
+      "id": "r01_004",
+      "type": "multiple-choice",
+      "prompt": "Identify the NEUTER noun in this list of B1-level vocabulary:",
+      "promptRo": "Identificați substantivul NEUTRU în această listă de vocabular de nivel B1:",
+      "answer": "echipament",
+      "options": [
+        "dezvoltare",
+        "echipament",
+        "negociator",
+        "societate"
+      ],
+      "explanation": "'Echipament' is neuter (un echipament, două echipamente). 'Dezvoltare' and 'societate' are feminine, 'negociator' is masculine.",
+      "explanationRo": "'Echipament' este neutru (un echipament, două echipamente). 'Dezvoltare' și 'societate' sunt feminine, 'negociator' este masculin."
+    },
+    {
+      "id": "r01_005",
+      "type": "multiple-choice",
+      "prompt": "What is the correct plural of 'copil' (child)?",
+      "promptRo": "Care este pluralul corect al cuvântului 'copil' (copil)?",
+      "answer": "copii",
+      "options": [
+        "copili",
+        "copiii",
+        "copii",
+        "copile"
+      ],
+      "explanation": "'Copil' is masculine (un copil, doi copii). Note that 'copii' has two 'i's in the dictionary form, and 'copiii' has three 'i's with the definite article.",
+      "explanationRo": "'Copil' este masculin (un copil, doi copii). Rețineți că 'copii' are doi de 'i' în forma de dicționar, iar 'copiii' are trei de 'i' cu articolul hotărât."
+    },
+    {
+      "id": "r01_006",
+      "type": "fill-blank",
+      "prompt": "Fill in with the correct noun form including the definite article: 'Directorul a semnat ___ (the agreement) ieri.'",
+      "promptRo": "Completați cu forma corectă a substantivului incluzând articolul hotărât: 'Directorul a semnat ___ ieri.'",
+      "sentence": "Directorul a semnat ___ ieri.",
+      "answer": "acordul",
+      "acceptableAnswers": [
+        "acordul"
+      ],
+      "explanation": "'Acord' is a neuter noun. The definite article for masculine/neuter singular is '-ul'.",
+      "explanationRo": "'Acord' este un substantiv neutru. Articolul hotărât pentru masculin/neutru singular este '-ul'."
+    },
+    {
+      "id": "r01_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural possessive form: 'Acesta este proiectul ___ (her).'",
+      "promptRo": "Alegeți forma posesivă naturală: 'Acesta este proiectul ___ .'",
+      "answer": "ei",
+      "options": [
+        "ei",
+        "său",
+        "sa",
+        "lor"
+      ],
+      "explanation": "In B1 Romanian, 'ei' (her) or 'lui' (his) are the most common and natural ways to express possession in neutral or informal contexts.",
+      "explanationRo": "În româna de nivel B1, 'ei' sau 'lui' sunt cele mai comune și naturale modalități de a exprima posesia în contexte neutre sau informale."
+    },
+    {
+      "id": "r01_008",
+      "type": "multiple-choice",
+      "prompt": "Which demonstrative form is correct? '___ (That) fenomen este greu de explicat.'",
+      "promptRo": "Care formă demonstrativă este corectă? '___ fenomen este greu de explicat.'",
+      "answer": "Acel",
+      "options": [
+        "Acel",
+        "Acela",
+        "Acea",
+        "Aceea"
+      ],
+      "explanation": "For masculine/neuter singular nouns followed by the noun, use 'acel'. 'Fenomen' is neuter.",
+      "explanationRo": "Pentru substantivele masculine/neutre la singular urmate de substantiv, se folosește 'acel'. 'Fenomen' este neutru."
+    }
+  ]
+}

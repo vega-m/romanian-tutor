@@ -1,0 +1,193 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX07-week7-practice",
+  "title": "Week 7 Practice: Cases and Prepositions",
+  "titleRo": "Exerciții Săptămâna 7: Cazuri și Prepoziții",
+  "cefrLevel": "A2-B1",
+  "prerequisites": [
+    "G04-noun-cases",
+    "G17-prepositions",
+    "G07-demonstrative-pronouns"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice Romanian cases, prepositions, and demonstrative pronouns. These exercises include fill-in-the-blank, multiple-choice, error correction, a free writing task, and translation. Focus on correct case forms, preposition+case agreement, and demonstrative pronoun usage.",
+  "instructionsRo": "Exersează cazurile, prepozițiile și pronumele demonstrative în limba română. Aceste exerciții includ completare de spații libere, alegere din opțiuni multiple, corectare a greșelilor, o sarcină de scriere liberă și traducere. Concentrează-te pe formele corecte de caz, acordul prepoziție+caz și folosirea pronumelor demonstrative.",
+  "sourceWeek": 7,
+  "exercises": [
+    {
+      "id": "ex07_001",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct genitive form of 'fratele' (the brother): 'Telefonul ___ este pe masă.' (The brother's phone is on the table.)",
+      "promptRo": "Completează spațiul liber cu forma corectă de genitiv a lui 'fratele': 'Telefonul ___ este pe masă.'",
+      "sentence": "Telefonul ___ este pe masă.",
+      "answer": "fratelui",
+      "acceptableAnswers": [
+        "fratelui",
+        "fratelui"
+      ],
+      "explanation": "'Fratele' is a masculine noun. In the genitive-dative singular, the definite article '-le' changes to '-lui': 'fratele' → 'fratelui'. The sentence 'Telefonul fratelui este pe masă' means 'The brother's phone is on the table'.",
+      "explanationRo": "'Fratele' este un substantiv masculin. La genitiv-dativ singular, articolul hotărât '-le' devine '-lui': 'fratele' → 'fratelui'. Propoziția 'Telefonul fratelui este pe masă' înseamnă 'Telefonul fratelui este pe masă'."
+    },
+    {
+      "id": "ex07_002",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct preposition: 'Mergem ___ școală în fiecare zi.' (We go to school every day.)",
+      "promptRo": "Completează spațiul liber cu prepoziția corectă: 'Mergem ___ școală în fiecare zi.'",
+      "sentence": "Mergem ___ școală în fiecare zi.",
+      "answer": "la",
+      "acceptableAnswers": [
+        "la"
+      ],
+      "explanation": "The preposition 'la' + accusative is used for going to a place (institution, building). 'Mergem la școală' means 'We go to school'. 'La' requires the accusative case, and for feminine nouns like 'școală', the accusative is the same as the nominative when indefinite.",
+      "explanationRo": "Prepoziția 'la' + acuzativ se folosește pentru a merge la un loc (instituție, clădire). 'Mergem la școală' înseamnă 'Mergem la școală'. 'La' cere cazul acuzativ, iar pentru substantivele feminine ca 'școală', acuzativul este același cu nominativul când este nehotărât."
+    },
+    {
+      "id": "ex07_003",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct dative form of 'copiii' (the children): 'Le povestesc ___ o basm.' (I tell the children a fairy tale.)",
+      "promptRo": "Completează spațiul liber cu forma corectă de dativ a lui 'copiii': 'Le povestesc ___ o basm.'",
+      "sentence": "Le povestesc ___ o basm.",
+      "answer": "copiilor",
+      "acceptableAnswers": [
+        "copiilor"
+      ],
+      "explanation": "'Copiii' is a masculine plural noun. In the dative plural, the ending is '-lor': 'copiii' → 'copiilor'. The sentence 'Le povestesc copiilor o basm' means 'I tell the children a fairy tale'. The dative clitic 'Le' (to them) is reinforced by 'copiilor'.",
+      "explanationRo": "'Copiii' este un substantiv masculin plural. La dativ plural, terminația este '-lor': 'copiii' → 'copiilor'. Propoziția 'Le povestesc copiilor o basm' înseamnă 'Le povestesc copiilor o basm'. Clitica dativ 'Le' (lor) este întărită de 'copiilor'."
+    },
+    {
+      "id": "ex07_004",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct demonstrative adjective: '___ studente sunt din Germania.' (Those students [f.] are from Germany.)",
+      "promptRo": "Completează spațiul liber cu adjectivul demonstrativ corect: '___ studente sunt din Germania.'",
+      "sentence": "___ studente sunt din Germania.",
+      "answer": "Acele",
+      "acceptableAnswers": [
+        "Acele"
+      ],
+      "explanation": "'Studente' is feminine plural, so we need the feminine plural demonstrative adjective. 'Acele' is the feminine plural form of 'acel/acea/acele' (that/those). The sentence 'Acele studente sunt din Germania' means 'Those students [f.] are from Germany'.",
+      "explanationRo": "'Studente' este feminin plural, deci avem nevoie de adjectivul demonstrativ feminin plural. 'Acele' este forma de feminin plural a lui 'acel/acea/acele' (acea/acele). Propoziția 'Acele studente sunt din Germania' înseamnă 'Acele studente sunt din Germania'."
+    },
+    {
+      "id": "ex07_005",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct genitive form of 'muntele' (the mountain) in: 'Vârful ___ este acoperit de zăpadă.' (The peak of the mountain is covered in snow.)",
+      "promptRo": "Care este forma corectă de genitiv a lui 'muntele' în: 'Vârful ___ este acoperit de zăpadă.'",
+      "answer": "muntelui",
+      "options": [
+        "muntelui",
+        "muntele",
+        "muntel",
+        "muntelor"
+      ],
+      "explanation": "'Muntele' is a masculine noun. In the genitive-dative singular, the definite article '-le' changes to '-lui': 'muntele' → 'muntelui'. The sentence 'Vârful muntelui este acoperit de zăpadă' means 'The peak of the mountain is covered in snow'.",
+      "explanationRo": "'Muntele' este un substantiv masculin. La genitiv-dativ singular, articolul hotărât '-le' devine '-lui': 'muntele' → 'muntelui'. Propoziția 'Vârful muntelui este acoperit de zăpadă' înseamnă 'Vârful muntelui este acoperit de zăpadă'."
+    },
+    {
+      "id": "ex07_006",
+      "type": "multiple-choice",
+      "prompt": "Which preposition + case correctly completes: 'Am așteptat ___ autobuz timp de o oră.' (I waited for the bus for an hour.)",
+      "promptRo": "Care prepoziție + caz completează corect: 'Am așteptat ___ autobuz timp de o oră.'",
+      "answer": "autobuzul (accusative, no preposition needed)",
+      "options": [
+        "autobuzul (accusative, no preposition needed)",
+        "de autobuz",
+        "la autobuz",
+        "pentru autobuzul"
+      ],
+      "explanation": "In Romanian, 'a aștepta' (to wait for) takes a direct object in the accusative case without a preposition. 'Am așteptat autobuzul' means 'I waited for the bus'. Unlike English 'wait for', Romanian does not use a preposition here. The accusative of 'autobuzul' is 'autobuzul'.",
+      "explanationRo": "În limba română, 'a aștepta' (a aștepta pe cineva/ceva) ia un complement direct la acuzativ, fără prepoziție. 'Am așteptat autobuzul' înseamnă 'Am așteptat autobuzul'. Spre deosebire de engleză 'wait for', româna nu folosește o prepoziție aici. Acuzativul lui 'autobuzul' este 'autobuzul'."
+    },
+    {
+      "id": "ex07_007",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct form? '___ este profesorul care m-a ajutat.' (That is the teacher who helped me.)",
+      "promptRo": "Care este forma corectă? '___ este profesorul care m-a ajutat.'",
+      "answer": "Acel",
+      "options": [
+        "Acel",
+        "Acesta",
+        "Aceea",
+        "Acei"
+      ],
+      "explanation": "'Acel' is the masculine singular demonstrative adjective used before a noun: 'acel profesor' (that teacher). 'Acesta' is a demonstrative pronoun (standalone, not before a noun). 'Aceea' is feminine singular. 'Acei' is masculine plural. Since 'profesorul' follows, we need the adjective form 'Acel'.",
+      "explanationRo": "'Acel' este adjectivul demonstrativ masculin singular folosit înaintea unui substantiv: 'acel profesor'. 'Acesta' este un pronume demonstrativ (de sine stătător, nu înaintea unui substantiv). 'Aceea' este feminin singular. 'Acei' este masculin plural. Deoarece 'profesorul' urmează, avem nevoie de forma de adjectiv 'Acel'."
+    },
+    {
+      "id": "ex07_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the case error in this sentence:",
+      "promptRo": "Găsește și corectează eroarea de caz din această propoziție:",
+      "sentence": "Mașina de vecin este nouă.",
+      "answer": "Mașina vecinului este nouă.",
+      "explanation": "The error is 'de vecin'. To express possession ('the neighbor's car'), Romanian uses the genitive case without a preposition. The correct genitive form of 'vecinul' (masculine) is 'vecinului'. Correct: Mașina vecinului este nouă.",
+      "explanationRo": "Greșeala este 'de vecin'. Pentru a exprima posesia ('mașina vecinului'), limba română folosește cazul genitiv fără prepoziție. Forma corectă de genitiv a lui 'vecinul' (masculin) este 'vecinului'. Corect: Mașina vecinului este nouă."
+    },
+    {
+      "id": "ex07_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the preposition error in this sentence:",
+      "promptRo": "Găsește și corectează eroarea de prepoziție din această propoziție:",
+      "sentence": "Cartea este în masă.",
+      "answer": "Cartea este pe masă.",
+      "explanation": "The error is 'în' — for objects resting on a surface, the correct preposition is 'pe' (on), not 'în' (in). 'În masă' would mean 'inside the table', which is incorrect. Correct: Cartea este pe masă. (The book is on the table.)",
+      "explanationRo": "Greșeala este 'în' — pentru obiectele aflate pe o suprafață, prepoziția corectă este 'pe' (pe), nu 'în' (în). 'În masă' ar însemna 'în interiorul mesei', ceea ce este incorect. Corect: Cartea este pe masă."
+    },
+    {
+      "id": "ex07_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the demonstrative agreement error in this sentence:",
+      "promptRo": "Găsește și corectează eroarea de acord al demonstrativului din această propoziție:",
+      "sentence": "Acel hoteluri sunt foarte scumpe.",
+      "answer": "Acele hoteluri sunt foarte scumpe.",
+      "explanation": "The error is 'Acel' — since 'hoteluri' is neuter plural (noun ending in '-uri'), the demonstrative adjective must agree. The correct form is 'Acele' (neuter plural follows the feminine pattern for the demonstrative). Correct: Acele hoteluri sunt foarte scumpe. (Those hotels are very expensive.)",
+      "explanationRo": "Greșeala este 'Acel' — deoarece 'hoteluri' este neutru plural (substantiv terminat în '-uri'), adjectivul demonstrativ trebuie să se acorde. Forma corectă este 'Acele' (neutru plural urmează tiparul feminin pentru demonstrativ). Corect: Acele hoteluri sunt foarte scumpe."
+    },
+    {
+      "id": "ex07_011",
+      "type": "writing",
+      "prompt": "Describe your job or your studies (lucrul tău sau studiile tale) using correct cases and prepositions. Write 8-10 sentences. Include: at least 3 different cases (nominative, accusative, genitive, dative), at least 4 different prepositions (pe, la, de, în, cu, spre/către, despre, etc.), and at least 2 demonstrative pronouns or adjectives (acest/această, acel/acea, aceasta/aceea, etc.).",
+      "promptRo": "Descrie lucrul tău sau studiile tale folosind cazuri și prepoziții corecte. Scrie 8-10 propoziții. Include: cel puțin 3 cazuri diferite (nominativ, acuzativ, genitiv, dativ), cel puțin 4 prepoziții diferite (pe, la, de, în, cu, spre/către, despre etc.) și cel puțin 2 pronume sau adjective demonstrative (acest/această, acel/acea, aceasta/aceea etc.).",
+      "answer": "Model answer:\n\nEu sunt student la Universitatea din București. Fac parte la Facultatea de Litere. Merg la cursuri în fiecare zi de luni până vineri. Profesorii facultății sunt foarte bine pregătiți. Îi dau profesorului meu lucrările la timp. Această universitate are o bibliotecă mare, unde studiem pentru examene. În bibliotecă, stau la masă și citesc cărți despre istoria României. Acel coleg de la grupa mea lucrează și el la proiectul de cercetare. Vorbesc cu colegii mei despre temele pentru examen. Spre seară, mă întorc acasă cu autobuzul. Aceste studii îmi plac foarte mult.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Case Usage",
+            "description": "Correct use of at least 3 different cases (nominative, accusative, genitive, dative) with proper noun and adjective endings, including definite article forms in genitive and dative",
+            "maxPoints": 3
+          },
+          {
+            "name": "Prepositions",
+            "description": "Correct use of at least 4 different prepositions (pe, la, de, în, cu, spre/către, despre) with proper case agreement after each preposition",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Appropriate vocabulary related to work or studies (universitate, facultate, cursuri, profesori, colegi, examen, bibliotecă, proiect, etc.)",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct overall grammar including demonstrative pronouns/adjectives (acest/această, acel/acea), subject-verb agreement, and natural sentence flow",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "ex07_012",
+      "type": "translation",
+      "direction": "ro-to-en",
+      "prompt": "Translate the following Romanian sentences into English:\n1. Cartea profesorului este pe birou.\n2. Mergem la magazin cu mama.\n3. Aceste flori sunt pentru tine.",
+      "promptRo": "Traduce următoarele propoziții din română în engleză:\n1. Cartea profesorului este pe birou.\n2. Mergem la magazin cu mama.\n3. Aceste flori sunt pentru tine.",
+      "answer": "1. The teacher's book is on the desk.\n2. We are going to the store with Mom.\n3. These flowers are for you.",
+      "acceptableAnswers": [
+        "1. The teacher's book is on the desk.\n2. We are going to the store with Mom.\n3. These flowers are for you.",
+        "1. The teacher's book is on the desk.\n2. We go to the store with mom.\n3. These flowers are for you."
+      ],
+      "explanation": "Sentence 1 uses the genitive case ('profesorului' = of the teacher) and the preposition 'pe' + accusative ('pe birou' = on the desk). Sentence 2 uses the preposition 'la' + accusative ('la magazin' = to the store) and 'cu' + accusative ('cu mama' = with mom). Sentence 3 uses the demonstrative adjective 'Aceste' (these, feminine plural) agreeing with 'flori'.",
+      "explanationRo": "Propoziția 1 folosește cazul genitiv ('profesorului' = al profesorului) și prepoziția 'pe' + acuzativ ('pe birou' = pe birou). Propoziția 2 folosește prepoziția 'la' + acuzativ ('la magazin' = la magazin) și 'cu' + acuzativ ('cu mama' = cu mama). Propoziția 3 folosește adjectivul demonstrativ 'Aceste' (aceste, feminin plural) care se acordă cu 'flori'."
+    }
+  ]
+}

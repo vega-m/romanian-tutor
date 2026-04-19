@@ -1,0 +1,207 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G12-past-imperfect",
+  "title": "Imperfectul (Trecutul Imperfect)",
+  "titleEn": "The Imperfect Tense",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G10-past-compound"],
+  "estimatedMinutes": 40,
+  "introduction": "The Imperfect (imperfectul) is used to describe ongoing, habitual, or repetitive actions in the past. If the Compound Past is 'I did it', the Imperfect is 'I was doing it'. It is the essential tense for setting the scene and providing background information in a past narrative.",
+  "introductionRo": "Imperfectul se folosește pentru a descrie acțiuni continue, obișnuite sau repetitive în trecut. Dacă perfectul compus indică „am făcut”, imperfectul indică „făceam”. Este timpul verbal esențial pentru a crea cadrul unei narațiuni și pentru a oferi informații de fundal.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Imperfect",
+      "headingRo": "Formarea Imperfectului",
+      "content": "The Imperfect is formed by adding specific endings to the verb stem. For 1st conjugation verbs, note the internal vowel change ('a' becomes 'ă'). Crucially, the endings remain identical across all four conjugation groups.",
+      "contentRo": "Imperfectul se formează prin adăugarea unor terminații specifice la rădăcina verbului. Pentru verbele de conjugarea I, observați alternanța vocalică internă („a” devine „ă”). Un aspect esențial este că terminațiile rămân identice pentru toate cele patru grupuri de conjugare.",
+      "table": {
+        "headers": ["Person", "Ending", "a cânta (to sing) [ACC]", "a merge (to go)", "a dormi (to sleep)"],
+        "rows": [
+          ["eu", "-am", "cântam", "mergeam", "dormeam"],
+          ["tu", "-ai", "cântai", "mergeai", "dormeai"],
+          ["el/ea", "-a", "cânta", "mergea", "dormea"],
+          ["noi", "-am", "cântam", "mergeam", "dormeam"],
+          ["voi", "-ați", "cântați", "mergeați", "dormeați"],
+          ["ei/ele", "-au", "cântau", "mergeau", "dormeau"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Eu cântam în cor când eram mic. (I used to sing in the choir when I was little.)",
+          "en": "The 1st person singular ending is -am: cântam.",
+          "notes": "Don't confuse with the compound past 'am cântat'! The order of elements is different."
+        },
+        {
+          "ro": "El mergea la școală pe jos. (He used to walk to school.)",
+          "en": "3rd person singular ending is -a: mergea.",
+          "notes": "The stem is 'merg-' (not 'merge-'). Remove the final 'e' from the infinitive stem."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Formation Details by Conjugation",
+      "headingRo": "Detalii de Formare după Conjugare",
+      "content": "Each conjugation has its own stem formation rules:",
+      "contentRo": "Fiecare conjugare are propriile reguli de formare a temei:",
+      "table": {
+        "headers": ["Conjugation", "Stem Formation", "Example Verb", "Imperfect (eu)"],
+        "rows": [
+          ["1st (-a)", "Remove -a, change a→ă", "a lucra [ACC] → lucră-", "lucram"],
+          ["1st (-a, no shift)", "Some keep 'a'", "a sta → sta-", "stăteam (with shift) / staiam"],
+          ["2nd (-ea)", "Remove -ea", "a bea [ACC] → be-", "beam"],
+          ["3rd (-e)", "Remove -e", "a merge → merg-", "mergeam"],
+          ["4th (-i)", "Remove -i", "a dormi → dorm-", "dormeam"],
+          ["4th (-î)", "Remove -î", "a coborî [ACC] → cobor-", "coboram"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Eu beam cafea în fiecare dimineață. (I used to drink coffee every morning.)",
+          "en": "a bea → beam: the stem is 'be-' and the ending is '-am'.",
+          "notes": "The 'e' in the stem may change to 'ea' in some forms: beam, beai, bea, beam, beați, beau."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Imperfect: a fi (to be)",
+      "headingRo": "Imperfect Neregulat: a fi (a fi)",
+      "content": "The verb 'a fi' has an irregular imperfect that is extremely common:",
+      "contentRo": "Verbul 'a fi' are un imperfect neregulat care este extrem de comun:",
+      "table": {
+        "headers": ["Person", "Imperfect", "Example", "Translation"],
+        "rows": [
+          ["eu", "eram", "Eu eram copil.", "I was a child."],
+          ["tu", "erai", "Tu erai fericit.", "You were happy."],
+          ["el/ea", "era", "Era o zi frumoasă.", "It was a beautiful day."],
+          ["noi", "eram", "Noi eram acasă.", "We were at home."],
+          ["voi", "erați", "Voi erați prieteni.", "You (pl.) were friends."],
+          ["ei/ele", "erau", "Erau obosiți.", "They were tired."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Era târziu când am ajuns. (It was late when I arrived.)",
+          "en": "The imperfect 'era' sets the background, while 'am ajuns' (compound past) is the main event.",
+          "notes": "This combination of imperfect (background) + compound past (main action) is very common."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Imperfect: a avea (to have)",
+      "headingRo": "Imperfect Neregulat: a avea (a avea)",
+      "content": "The verb 'a avea' also has an irregular imperfect:",
+      "contentRo": "Verbul 'a avea' are și el un imperfect neregulat:",
+      "table": {
+        "headers": ["Person", "Imperfect", "Example", "Translation"],
+        "rows": [
+          ["eu", "aveam", "Eu aveam un câine.", "I had a dog."],
+          ["tu", "aveai", "Tu aveai dreptate.", "You were right."],
+          ["el/ea", "avea", "Avea o casă mare.", "He/She had a big house."],
+          ["noi", "aveam", "Noi aveam mult timp.", "We had a lot of time."],
+          ["voi", "aveați", "Voi aveați noroc.", "You (pl.) were lucky."],
+          ["ei/ele", "aveau", "Aveau mulți prieteni.", "They had many friends."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Când eram mic, aveam o bicicletă roșie. (When I was little, I had a red bicycle.)",
+          "en": "Both imperfect verbs describe a state in the past: 'I was little' and 'I had a bicycle'.",
+          "notes": "This is a classic example of the imperfect describing ongoing past states."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Usage: Imperfect vs. Compound Past",
+      "headingRo": "Folosire: Imperfect vs. Trecutul Compus",
+      "content": "The key difference is between ongoing/background states (imperfect) and completed actions (compound past):",
+      "contentRo": "Diferența cheie este între stări în desfășurare/fond (imperfect) și acțiuni terminate (trecut compus):",
+      "table": {
+        "headers": ["Situation", "Imperfect (background)", "Compound Past (completed action)"],
+        "rows": [
+          ["Habitual action", "Mergeam la școală în fiecare zi.", "I used to go to school every day."],
+          ["Single completed action", "—", "Am mers la școală ieri. (I went to school yesterday.)"],
+          ["Ongoing state", "Ploua când am ieșit.", "It was raining when I went out."],
+          ["Description in past", "Era frumos și soarele strălucea.", "It was beautiful and the sun was shining."],
+          ["Time/age in past", "Aveam 10 ani.", "I was 10 years old (at that time)."],
+          ["Simultaneous actions", "Citeam când a sunat telefonul.", "I was reading when the phone rang."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Citeam o carte când a venit prietenul meu. (I was reading a book when my friend came.)",
+          "en": "citeam (imperfect) = ongoing background; a venit (compound past) = interrupting event.",
+          "notes": "This is the classic 'was doing X when Y happened' pattern. Imperfect sets the scene."
+        },
+        {
+          "ro": "În copilărie, jucam fotbal în parc. (In childhood, I used to play football in the park.)",
+          "en": "The imperfect expresses a repeated/habitual action in the past.",
+          "notes": "Keywords like 'în copilărie' (in childhood), 'în fiecare zi' (every day) often signal the imperfect."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Keywords That Signal the Imperfect",
+      "content": "These words and expressions often indicate that the imperfect tense should be used:",
+      "contentRo": "Aceste cuvinte și expresii indică adesea că trebuie folosit timpul imperfect:",
+      "rules": [
+        "în fiecare zi (every day) — Mergeam în fiecare zi.",
+        "tot timpul (all the time) — Ploua tot timpul.",
+        "înainte (before, formerly) — Înainte locuiam la țară.",
+        "când eram mic/copil (when I was little/a child) — Când eram mic, aveam un cal.",
+        "în timp ce (while) — În timp ce el citea, eu găteam.",
+        "de obicei (usually) — De obicei mă trezeam devreme.",
+        "uneori (sometimes) — Uneori beam ceai în loc de cafea."
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Watch out for these frequent errors when using the imperfect tense:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești timpul imperfect:",
+      "rules": [
+        "Don't confuse eu cântam (imperfect: I was singing) with am cântat (compound past: I sang)",
+        "Don't use the imperfect for single completed actions: 'Am mers ieri' (not 'Mergeam ieri')",
+        "Don't forget the irregular forms of a fi: eram, erai, era (not 'am fost')",
+        "Don't use the imperfect to tell what time it is now — only for past descriptions",
+        "Remember: the imperfect describes the 'background', the compound past describes the 'foreground'"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Când eram la universitate, studiam mult. (When I was at university, I used to study a lot.)",
+          "en": "Both verbs are in the imperfect because they describe a habitual/repeated situation.",
+          "notes": "If you said 'am studiat', it would mean 'I studied' (one specific time)."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Imperfect endings: -am, -ai, -a, -am, -ați, -au (same for all conjugations)",
+    "For 1st conjugation: stem vowel a → ă (cânta → cântam)",
+    "a fi imperfect: eram, erai, era, eram, erați, erau (irregular)",
+    "a avea imperfect: aveam, aveai, avea, aveam, aveați, aveau (irregular)",
+    "Imperfect = ongoing, habitual, or background actions in the past",
+    "Compound Past = single, completed actions in the past",
+    "Common pattern: imperfect (background) + compound past (interrupting event)",
+    "Keywords: în fiecare zi, tot timpul, când eram mic, în timp ce, de obicei",
+    "Think 'was doing' or 'used to do' for the imperfect"
+  ],
+  "summaryPointsRo": [
+    "Terminațiile imperfectului: -am, -ai, -a, -am, -ați, -au (aceleași pentru toate conjugările)",
+    "Pentru conjugarea I: vocala de temă a → ă (cânta → cântam)",
+    "a fi imperfect: eram, erai, era, eram, erați, erau (neregulat)",
+    "a avea imperfect: aveam, aveai, avea, aveam, aveați, aveau (neregulat)",
+    "Imperfect = acțiuni în curs, obișnuite sau de fond în trecut",
+    "Trecut compus = acțiuni unice, terminate în trecut",
+    "Model comun: imperfect (fond) + trecut compus (acțiune de prim-plan)",
+    "Cuvinte cheie: în fiecare zi, tot timpul, când eram mic, în timp ce, de obicei",
+    "Gândește 'was doing' sau 'used to do' pentru imperfect"
+  ],
+  "relatedExercises": ["E08-past-tense-choice"]
+}

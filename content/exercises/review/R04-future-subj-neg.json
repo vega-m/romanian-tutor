@@ -1,0 +1,131 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "R04-future-subj-neg",
+  "title": "Recapitulare: Viitor, Subjonctiv și Negație",
+  "titleRo": "Recapitulare: Viitor, Subjonctiv și Negație (Săptămâna 6)",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G13-future-tense",
+    "G14-subjunctive",
+    "G20-negation"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Review future tense, subjunctive mood, and negation at a B1 level, focusing on complex sentence structures and professional communication.",
+  "instructionsRo": "Exerciții de recapitulare pentru viitor, subjonctiv și negație la nivel B1, punând accent pe structuri complexe ale frazei și comunicare profesională.",
+  "sourceWeek": 6,
+  "exercises": [
+    {
+      "id": "r04_001",
+      "type": "fill-blank",
+      "prompt": "Conjugate in Future 1 (with 'voi'), 3rd person plural: 'Experții ___ (to analyze) datele în ședința de mâine.'",
+      "promptRo": "Conjugați la Viitorul 1 (cu 'voi'), persoana a III-a plural: 'Experții ___ (a analiza) datele în ședința de mâine.'",
+      "sentence": "Experții ___ datele în ședința de mâine.",
+      "answer": "vor analiza",
+      "acceptableAnswers": [
+        "vor analiza"
+      ],
+      "explanation": "Future 1: auxiliary 'vor' (3rd pl) + infinitive 'a analiza'.",
+      "explanationRo": "Viitorul 1: auxiliar 'vor' (3 pl) + infinitiv 'a analiza'."
+    },
+    {
+      "id": "r04_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the subjunctive: 'Este important ca dumneavoastră ___ (to sign) acest document.'",
+      "promptRo": "Completați cu subjonctivul: 'Este important ca dumneavoastră ___ (a semna) acest document.'",
+      "sentence": "Este important ca dumneavoastră ___ acest document.",
+      "answer": "să semnați",
+      "acceptableAnswers": [
+        "să semnați"
+      ],
+      "explanation": "Subjunctive present of 'a semna' (2nd person plural) is 'să semnați'. After 'este important ca', the subjunctive is mandatory.",
+      "explanationRo": "Subjonctivul prezent al verbului 'a semna' (persoana a II-a plural) este 'să semnați'. După 'este important ca', subjonctivul este obligatoriu."
+    },
+    {
+      "id": "r04_003",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct negative form for a past action? 'Comisia ___ (did not approve) solicitarea noastră.'",
+      "promptRo": "Care este forma negativă corectă pentru o acțiune trecută? 'Comisia ___ solicitarea noastră.'",
+      "answer": "nu a aprobat",
+      "options": [
+        "nu a aprobat",
+        "nu a aprobe",
+        "a nu aprobat",
+        "nu aprobat"
+      ],
+      "explanation": "Negative compound past: 'nu' + auxiliary 'a' + past participle 'aprobat'.",
+      "explanationRo": "Perfectul compus negativ: 'nu' + auxiliar 'a' + participiu trecut 'aprobat'."
+    },
+    {
+      "id": "r04_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the future tense (Future 1), 1st person plural: 'Noi ___ (to implement) noile măsuri de securitate luna viitoare.'",
+      "promptRo": "Completați cu viitorul (Viitorul 1), persoana I plural: 'Noi ___ (a implementa) noile măsuri de securitate luna viitoare.'",
+      "sentence": "Noi ___ noile măsuri de securitate luna viitoare.",
+      "answer": "vom implementa",
+      "acceptableAnswers": [
+        "vom implementa"
+      ],
+      "explanation": "Future 1: 'vom' (1st pl auxiliary) + infinitive 'a implementa'.",
+      "explanationRo": "Viitorul 1: 'vom' (auxiliar 1 pl) + infinitiv 'a implementa'."
+    },
+    {
+      "id": "r04_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct subjunctive form after 'trebuie': 'Trebuie ___ (we solve) această problemă urgent.'",
+      "promptRo": "Alegeți forma corectă de subjonctiv după 'trebuie': 'Trebuie ___ această problemă urgent.'",
+      "answer": "să rezolvăm",
+      "options": [
+        "să rezolvăm",
+        "să rezolvăm",
+        "vom rezolva",
+        "rezolvăm"
+      ],
+      "explanation": "After 'trebuie', the subjunctive 'să rezolvăm' is used to express necessity or obligation.",
+      "explanationRo": "După 'trebuie', se folosește subjonctivul 'să rezolvăm' pentru a exprima necesitatea sau obligația."
+    },
+    {
+      "id": "r04_006",
+      "type": "fill-blank",
+      "prompt": "Complete with the negative subjunctive: 'Vă rog să nu ___ (to delay) livrarea.'",
+      "promptRo": "Completați cu subjonctivul negativ: 'Vă rog să nu ___ (a întârzia) livrarea.'",
+      "sentence": "Vă rog să nu ___ livrarea.",
+      "answer": "întârziați",
+      "acceptableAnswers": [
+        "întârziați"
+      ],
+      "explanation": "Negative subjunctive: 'să' + 'nu' + present subjunctive form. Here 'întârziați' is 2nd person plural (polite/plural).",
+      "explanationRo": "Subjonctiv negativ: 'să' + 'nu' + forma de subjonctiv prezent. Aici 'întârziați' este persoana a II-a plural (politicos/plural)."
+    },
+    {
+      "id": "r04_007",
+      "type": "multiple-choice",
+      "prompt": "Which Future 1 form expresses a promise/intention for 'a confirma' (to confirm), 1st person singular?",
+      "promptRo": "Care formă de Viitor 1 exprimă o promisiune/intenție pentru 'a confirma', persoana I singular?",
+      "answer": "voi confirma",
+      "options": [
+        "voi confirma",
+        "o să confirm",
+        "am să confirm",
+        "confirm"
+      ],
+      "explanation": "While 'o să' and 'am să' are common in speech, 'voi confirma' (Future 1) is preferred in formal/professional writing.",
+      "explanationRo": "Deși 'o să' și 'am să' sunt comune în vorbire, 'voi confirma' (Viitorul 1) este preferat în scrierea formală/profesională."
+    },
+    {
+      "id": "r04_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has correct placement of 'niciodată' (never) with negation?",
+      "promptRo": "Ce propoziție are plasarea corectă a lui 'niciodată' cu negația?",
+      "answer": "Nu am întâlnit niciodată o asemenea problemă.",
+      "options": [
+        "Nu am întâlnit niciodată o asemenea problemă.",
+        "Niciodată am întâlnit o asemenea problemă.",
+        "Am întâlnit niciodată o asemenea problemă.",
+        "Nu niciodată am întâlnit o asemenea problemă."
+      ],
+      "explanation": "Double negation is standard in Romanian: 'nu' (before verb) + 'niciodată' (usually after the verb phrase).",
+      "explanationRo": "Dubla negație este standard în română: 'nu' (înaintea verbului) + 'niciodată' (de obicei după grupul verbal)."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E07-verb-selection",
+  "title": "Verb Selection Drill",
+  "titleRo": "Exerciții de Alegere a Verbului",
+  "cefrLevel": "A2",
+  "prerequisites": ["G09-present-tense", "G31-reflexive-verbs-deep-dive"],
+  "estimatedMinutes": 15,
+  "instructions": "Choose the correct verb to complete each sentence. Focus on meaning, reflexive usage, and verb pairs that are commonly confused.",
+  "instructionsRo": "Alege verbul corect pentru a completa fiecare propoziție. Concentrează-te pe sens, folosirea reflexivă și perechile de verbe confuze frecvent.",
+  "sourceWeek": 4,
+  "exercises": [
+    {
+      "id": "e07_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb: Eu ___ limba română de un an.",
+      "promptRo": "Alege verbul corect: Eu ___ limba română de un an.",
+      "answer": "învăț",
+      "options": ["învață", "învăț", "învățătură", "învăța"],
+      "explanation": "'Eu învăț' = I learn/study. 'El/ea învață' = He/she learns. The verb 'a învăța' is 1st conjugation.",
+      "explanationRo": "'Eu învăț' = Eu învăț. 'El/ea învață' = El/ea învață. Verbul 'a învăța' este de conjugarea I.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e07_002",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct reflexive verb: În fiecare dimineață, ___ la ora șapte.",
+      "promptRo": "Alege verbul reflexiv corect: În fiecare dimineață, ___ la ora șapte.",
+      "answer": "mă scol",
+      "options": ["mă scol", "se scoală", "te scoli", "se scol"],
+      "explanation": "'Mă scol' = I get up (1st person singular reflexive). The reflexive pronoun 'mă' matches the subject 'eu'. The verb is 'a se scula' (1st conjugation).",
+      "explanationRo": "'Mă scol' = Mă scol (persoana I singular reflexivă). Pronumele reflexiv 'mă' corespunde subiectului 'eu'. Verbul este 'a se scula' (conjugarea I).",
+      "sourceGrammarId": "G31-reflexive-verbs-deep-dive"
+    },
+    {
+      "id": "e07_003",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb: Prietenii mei ___ în Germania acum.",
+      "promptRo": "Alege verbul corect: Prietenii mei ___ în Germania acum.",
+      "answer": "locuiesc",
+      "options": ["locuiește", "locuiesc", "locuim", "locuiești"],
+      "explanation": "'Locuiesc' = they live (3rd person plural). The subject 'prietenii mei' is plural, so we need the 3rd person plural form of 'a locui' (4th conjugation with -esc).",
+      "explanationRo": "'Locuiesc' = ei locuiesc (persoana a III-a plural). Subiectul 'prietenii mei' este la plural, deci avem nevoie de persoana a III-a plural a verbului 'a locui' (conjugarea a IV-a cu -esc).",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e07_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb: Nu ___ cum se numește strada asta.",
+      "promptRo": "Alege verbul corect: Nu ___ cum se numește strada asta.",
+      "answer": "știu",
+      "options": ["știe", "știu", "știți", "știm"],
+      "explanation": "'Știu' = I know (1st person singular). The implied subject is 'eu' (I), so we use the 1st person singular form of 'a ști' (4th conjugation).",
+      "explanationRo": "'Știu' = Eu știu (persoana I singular). Subiectul implicit este 'eu', deci folosim persoana I singular a verbului 'a ști' (conjugarea a IV-a).",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e07_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb: Bunica ___ o prăjitură delicioasă.",
+      "promptRo": "Alege verbul corect: Bunica ___ o prăjitură delicioasă.",
+      "answer": "gătește",
+      "options": ["gătesc", "gătiți", "gătim", "gătește"],
+      "explanation": "'Gătește' = she cooks (3rd person singular). 'Bunica' is feminine singular, so we use the 3rd person singular form of 'a găti' (4th conjugation with -esc).",
+      "explanationRo": "'Gătește' = ea gătește (persoana a III-a singular). 'Bunica' este feminin singular, deci folosim persoana a III-a singular a verbului 'a găti' (conjugarea a IV-a cu -esc).",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e07_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb: ___ te rog, este departe gara?",
+      "promptRo": "Alege verbul corect: ___ te rog, este departe gara?",
+      "answer": "Spune",
+      "options": ["Spune", "Spunem", "Spuneți", "Spun"],
+      "explanation": "'Spune' = tell/say (imperative, 2nd person singular). The imperative form of 'a spune' (3rd conjugation) is the same as the 3rd person singular present indicative.",
+      "explanationRo": "'Spune' = spune (imperativ, persoana a II-a singular). Forma de imperativ a verbului 'a spune' (conjugarea a III-a) este aceeași cu persoana a III-a singular prezent indicativ.",
+      "sourceGrammarId": "G16-imperative"
+    },
+    {
+      "id": "e07_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct reflexive verb: După muncă, ___ puțin înainte de cină.",
+      "promptRo": "Alege verbul reflexiv corect: După muncă, ___ puțin înainte de cină.",
+      "answer": "mă odihnesc",
+      "options": ["mă odihnesc", "se odihnește", "te odihnești", "ne odihnim"],
+      "explanation": "'Mă odihnesc' = I rest (1st person singular reflexive). 'A se odihni' is a reflexive verb (4th conjugation with -esc). The subject is implied 'eu', so we use 'mă' + 'odihnesc'.",
+      "explanationRo": "'Mă odihnesc' = Eu mă odihnesc (persoana I singular reflexivă). 'A se odihni' este un verb reflexiv (conjugarea a IV-a cu -esc). Subiectul implicit este 'eu', deci folosim 'mă' + 'odihnesc'.",
+      "sourceGrammarId": "G31-reflexive-verbs-deep-dive"
+    },
+    {
+      "id": "e07_008",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb: Vrei să ___ un film cu noi diseară?",
+      "promptRo": "Alege verbul corect: Vrei să ___ un film cu noi diseară?",
+      "answer": "vizionezi",
+      "options": ["vizionezi", "vizionez", "vizionează", "vizionăm"],
+      "explanation": "'Vizionezi' = you watch (2nd person singular subjunctive/present). The question addresses 'tu' (informal), so we need the 2nd person singular of 'a viziona' (1st conjugation with -ez).",
+      "explanationRo": "'Vizionezi' = tu vizionezi (persoana a II-a singular). Întrebarea se adresează 'tu' (informal), deci avem nevoie de persoana a II-a singular a verbului 'a viziona' (conjugarea I cu -ez).",
+      "sourceGrammarId": "G14-subjunctive"
+    }
+  ]
+}

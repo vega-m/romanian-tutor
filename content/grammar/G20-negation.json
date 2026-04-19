@@ -1,0 +1,200 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G20-negation",
+  "title": "Negarea (Negarea în Română)",
+  "titleEn": "Negation in Romanian",
+  "cefrLevel": "A2",
+  "prerequisites": ["G09-present-tense", "G03-noun-gender"],
+  "estimatedMinutes": 35,
+  "introduction": "Negation in Romanian is more than just adding 'not' to a sentence. It involves specific particle placement, the frequent use of double negation, and the choice between 'dar' and 'ci'. Mastering these structures is vital for clarity and social nuance.",
+  "introductionRo": "Negația în limba română implică mai mult decât simpla adăugare a particulei „nu”. Aceasta presupune o plasare specifică a particulelor, utilizarea frecventă a negației duble și alegerea corectă între „dar” și „ci”. Stăpânirea acestor structuri este vitală pentru claritate și pentru nuanțele sociale.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Standard Verb Negation",
+      "headingRo": "Negația Verbului",
+      "content": "The primary way to negate a sentence is by placing the particle 'nu' before the finite verb. In speech, 'nu' often contracts with the following word, especially if it begins with a vowel or is a clitic pronoun.",
+      "contentRo": "Modalitatea principală de a nega o propoziție este plasarea particulei „nu” înaintea verbului la mod personal. În vorbire, „nu” se contractă adesea cu cuvântul următor, în special dacă acesta începe cu o vocală sau este un pronume clitic.",
+      "table": {
+        "headers": ["Affirmative", "Negative", "Translation"],
+        "rows": [
+          ["Eu merg.", "Eu nu merg.", "I am not going."],
+          ["Ea înțelege.", "Ea nu înțelege.", "She does not understand."],
+          ["Avem timp.", "Nu avem timp.", "We do not have time."],
+          ["Este frumos.", "Nu este frumos.", "It is not beautiful."],
+          ["Pot veni.", "Nu pot veni.", "I cannot come."],
+          ["Vreau cafea.", "Nu vreau cafea.", "I do not want coffee."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Nu știu. (I don't know.)",
+          "en": "One of the most useful phrases in any language!",
+          "notes": "'Nu știu' is used constantly in everyday Romanian."
+        },
+        {
+          "ro": "Nu, mulțumesc. (No, thank you.)",
+          "en": "'Nu' alone can be a complete answer.",
+          "notes": "Always use 'nu, mulțumesc' or 'nu, mersi' to be polite."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Double Negation in Romanian",
+      "headingRo": "Dubla Negație în Română",
+      "content": "Unlike English, Romanian requires double negation. When a negative word (nimeni, nimic, niciodată, etc.) appears in the sentence, 'nu' must still be used before the verb. This is NOT optional — it is grammatically required:",
+      "contentRo": "Spre deosebire de engleză, româna cere dubla negație. Când un cuvânt negativ (nimeni, nimic, niciodată etc.) apare în propoziție, 'nu' trebuie totuși folosit înaintea verbului. Acest lucru NU este opțional — este cerut gramatical:",
+      "table": {
+        "headers": ["Negative Word", "Meaning", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["nimic", "nothing", "Nu am nimic.", "I don't have anything/nothing."],
+          ["nimeni", "nobody/no one", "Nu vine nimeni.", "Nobody is coming."],
+          ["niciodată", "never", "Nu am fost niciodată.", "I have never been."],
+          ["niciunul/nicio", "not any/no", "Nu am niciun frate.", "I don't have any brother."],
+          ["nici", "neither/nor/not even", "Nu a venit nici el.", "He didn't come either."],
+          ["niciunul...nici", "neither...nor", "Niciunul nici altul.", "Neither one nor the other."],
+          ["niciunde", "nowhere", "Nu merge niciunde.", "He does not go anywhere."],
+          ["niciodată", "never (alt.)", "Nu am văzut niciodată.", "I have never seen."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Nu am văzut pe nimeni. (I didn't see anyone.)",
+          "en": "Both 'nu' AND 'nimeni' are required. You cannot say just 'Am văzut pe nimeni.'",
+          "notes": "In Romanian, 'nu am văzut pe nimeni' is grammatically correct. In English, 'I didn't see nobody' would be wrong."
+        },
+        {
+          "ro": "Nu am nimic de spus. (I have nothing to say.)",
+          "en": "nu (not) + nimic (nothing) — double negation is mandatory.",
+          "notes": "This is one of the biggest differences from English grammar."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Negative Pronouns and Their Forms",
+      "headingRo": "Pronumele Negative și Formele Lor",
+      "content": "Some negative words change form based on gender and case:",
+      "contentRo": "Unele cuvinte negative își schimbă forma în funcție de gen și caz:",
+      "table": {
+        "headers": ["Word", "Masculine", "Feminine", "Meaning", "Example"],
+        "rows": [
+          ["niciun-", "niciun (frate)", "nicio (soră)", "no (not any)", "Nu am niciun frate."],
+          ["nimeni", "nimeni", "nimeni", "nobody", "Nu e nimeni aici."],
+          ["nimic", "nimic", "nimic", "nothing", "Nu face nimic."],
+          ["niciunde", "niciunde", "niciunde", "nowhere", "Nu e niciunde."],
+          ["niciodată", "niciodată", "niciodată", "never", "Nu vine niciodată."],
+          ["nicicum", "nicicum", "nicicum", "no way", "Nu merge nicicum."]
+        ]
+      },
+      "rules": [
+        "niciun + masculine noun: niciun om, niciun bărbat",
+        "nicio + feminine noun: nicio femeie, nicio idee",
+        "Note: 'niciun' can also be 'niciunul' (niciunul, niciuna)",
+        "With possessive: niciun prieten al meu (no friend of mine)"
+      ],
+      "examples": [
+        {
+          "ro": "Nu am nicio idee. (I have no idea.)",
+          "en": "'nicio' is used before feminine nouns: nicio idee, nicio problemă, nicio soluție.",
+          "notes": "Note the vowel: 'nicio' (with 'o') for feminine, 'niciun' (with 'u') for masculine."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Negation with Different Tenses",
+      "headingRo": "Negarea cu Diferite Timpuri",
+      "content": "'Nu' is placed before the verb in all tenses:",
+      "contentRo": "'Nu' se plasează înaintea verbului la toate timpurile:",
+      "table": {
+        "headers": ["Tense", "Affirmative", "Negative"],
+        "rows": [
+          ["Present", "Merg la școală.", "Nu merg la școală."],
+          ["Compound Past", "Am mâncat.", "Nu am mâncat."],
+          ["Imperfect", "Mergeam repede.", "Nu mergeam repede."],
+          ["Future (formal)", "Voi veni.", "Nu voi veni."],
+          ["Future (popular)", "O să vin.", "Nu o să vin."],
+          ["Subjunctive", "Trebuie să merg.", "Nu trebuie să merg."],
+          ["Imperative", "Vino aici!", "Nu veni aici!"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Nu am înțeles ce ai spus. (I didn't understand what you said.)",
+          "en": "'Nu' goes before the auxiliary 'am' in the compound past.",
+          "notes": "Position: nu + auxiliary + participle. Never put 'nu' after the auxiliary."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Other Negative Expressions",
+      "headingRo": "Alte Expresii Negative",
+      "content": "Romanian has several other useful negative expressions:",
+      "contentRo": "Româna are mai multe alte expresii negative utile:",
+      "rules": [
+        "ne- + adjective = negative prefix: neimportant (unimportant), nefinalizat (unfinished)",
+        "deloc = not at all: Nu mă deranjează deloc. (It doesn't bother me at all.)",
+        "nicidecum = by no means: Nicidecum nu am spus asta. (I by no means said that.)",
+        "de loc = not at all (variant): Nu e de loc frumos. (It's not at all beautiful.)",
+        "nici pe departe = not by far: Nu e nici pe departe greu. (It's not hard by far.)",
+        "nici măcar = not even: Nu am nici măcar un ban. (I don't have even a penny.)",
+        "nu...nici = neither...nor: Nu mănâncă nici carne nici pește. (He eats neither meat nor fish.)"
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Shortening 'nu' in Speech",
+      "content": "In fast spoken Romanian, 'nu' is sometimes shortened. This is especially common with the verb 'a fi': 'nu ești' can become 'nu-ți' in very informal speech, and 'nu este' can become 'n-este'. However, in writing, always use the full form 'nu'.",
+      "contentRo": "În româna vorbită rapid, 'nu' se scurtează uneori. Acest lucru este comun cu verbul 'a fi': 'nu ești' poate deveni 'nu-ți' în vorbirea foarte informală, iar 'nu este' poate deveni 'n-este'. Totuși, în scris, folosește mereu forma completă 'nu'."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using negation:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești negația:",
+      "rules": [
+        "Don't forget double negation: 'Nu am nimic' (not just 'Am nimic')",
+        "Don't use English-style single negation: 'Am văzut pe nimeni' is WRONG",
+        "Don't confuse niciun (masc.) with nicio (fem.): niciun băiat vs. nicio fată",
+        "Don't put 'nu' after the verb: 'Merg nu' is WRONG",
+        "Remember: 'nici' can mean 'not even', 'neither', or 'nor' depending on context"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Nu am văzut pe nimeni aici. (I didn't see anyone here.)",
+          "en": "Both 'nu' and 'nimeni' are required in Romanian.",
+          "notes": "English speakers often forget the 'nu' because in English you'd say 'I saw nobody' (one negation)."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Basic negation: place 'nu' before the verb",
+    "Double negation is MANDATORY in Romanian: nu + negative word",
+    "Negative words: nimic (nothing), nimeni (nobody), niciodată (never), niciunde (nowhere)",
+    "niciun + masculine noun, nicio + feminine noun (no/not any)",
+    "'nu' goes before the verb in ALL tenses, including before auxiliaries",
+    "nici = not even / neither / nor",
+    "ne- = negative prefix (neimportant, nefinalizat)",
+    "deloc / de loc = not at all",
+    "nici măcar = not even",
+    "In Romanian, double negative is correct; single negative is wrong"
+  ],
+  "summaryPointsRo": [
+    "Negarea de bază: plasează 'nu' înaintea verbului",
+    "Dubla negație este OBLIGATORIE în română: nu + cuvânt negativ",
+    "Cuvinte negative: nimic (nimic), nimeni (nimeni), niciodată (niciodată), niciunde (niciunde)",
+    "niciun + substantiv masculin, nicio + substantiv feminin (niciunul/nicio)",
+    "'nu' se pune înaintea verbului la TOATE timpurile, inclusiv înaintea auxiliarelor",
+    "nici = nici măcar / nici / nici",
+    "ne- = prefix negativ (neimportant, nefinalizat)",
+    "deloc / de loc = deloc",
+    "nici măcar = nici măcar",
+    "În română, dubla negație este corectă; negația simplă este greșită"
+  ],
+  "relatedExercises": ["E11-negation-drill"]
+}

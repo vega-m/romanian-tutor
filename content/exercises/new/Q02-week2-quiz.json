@@ -1,0 +1,224 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q02-week2-quiz",
+  "title": "Week 2 Quiz: Articles and Noun Gender",
+  "titleRo": "Test Săptămâna 2: Articole și Genul Substantivelor",
+  "cefrLevel": "A1",
+  "prerequisites": [
+    "G02-articles",
+    "G03-noun-gender"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Answer the following questions about Romanian articles and noun gender.",
+  "instructionsRo": "Răspunde la următoarele întrebări despre articolele și genul substantivelor în limba română.",
+  "sourceWeek": 2,
+  "exercises": [
+    {
+      "id": "q02_001",
+      "type": "multiple-choice",
+      "prompt": "What is the correct indefinite article for the feminine noun 'casă' (house)?",
+      "promptRo": "Care este articolul nehotărât corect pentru substantivul feminin 'casă' (casă)?",
+      "answer": "o",
+      "options": [
+        "un",
+        "o",
+        "niște",
+        "una"
+      ],
+      "explanation": "'O' is the feminine singular indefinite article. 'Casă' is feminine, so: o casă (a house). 'Un' is for masculine/neuter, 'niște' is the plural indefinite article.",
+      "explanationRo": "'O' este articolul nehotărât singular feminin. 'Casă' este feminin, deci: o casă. 'Un' este pentru masculin/neutru, 'niște' este articolul nehotărât plural."
+    },
+    {
+      "id": "q02_002",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'copac' (tree)?",
+      "promptRo": "Ce gen este substantivul 'copac' (copac)?",
+      "answer": "Neuter",
+      "options": [
+        "Masculine",
+        "Feminine",
+        "Neuter",
+        "Common"
+      ],
+      "explanation": "'Copac' is neuter. In the singular, neuter nouns behave like masculine (copacul), and in the plural, like feminine (copacii → copacele). Many nouns ending in a consonant are neuter.",
+      "explanationRo": "'Copac' este neutru. La singular, substantivele neutre se comportă ca cele masculine (copacul), iar la plural, ca cele feminine (copacele). Multe substantive terminate în consoană sunt neutre."
+    },
+    {
+      "id": "q02_003",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct definite article form for 'femeie' (woman)?",
+      "promptRo": "Care este forma corectă cu articol hotărât pentru 'femeie' (femeie)?",
+      "answer": "femeia",
+      "options": [
+        "femeiea",
+        "femeia",
+        "femeiul",
+        "femeiele"
+      ],
+      "explanation": "'Femeie' is feminine and ends in '-e'. For feminine nouns ending in '-e', the definite article replaces '-e' with '-a': femeie → femeia. The article is not added as a separate suffix.",
+      "explanationRo": "'Femeie' este feminin și se termină în '-e'. Pentru substantivele feminine terminate în '-e', articolul hotărât înlocuiește '-e' cu '-a': femeie → femeia. Articolul nu se adaugă ca sufix separat."
+    },
+    {
+      "id": "q02_004",
+      "type": "multiple-choice",
+      "prompt": "What is the plural indefinite article in Romanian?",
+      "promptRo": "Care este articolul nehotărât plural în limba română?",
+      "answer": "niște",
+      "options": [
+        "unii",
+        "niște",
+        "unele",
+        "cele"
+      ],
+      "explanation": "'Niște' is the plural indefinite article, used for all genders: niște băieți (some boys), niște fete (some girls), niște scaune (some chairs). It does not distinguish gender.",
+      "explanationRo": "'Niște' este articolul nehotărât plural, folosit pentru toate genurile: niște băieți, niște fete, niște scaune. Nu distinge genul."
+    },
+    {
+      "id": "q02_005",
+      "type": "multiple-choice",
+      "prompt": "What is the gender of the noun 'problema' (problem)?",
+      "promptRo": "Ce gen este substantivul 'problema' (problema)?",
+      "answer": "Feminine",
+      "options": [
+        "Masculine",
+        "Feminine",
+        "Neuter",
+        "It changes depending on context"
+      ],
+      "explanation": "'Problemă' (ending in '-ă') is feminine, despite looking similar to the masculine Spanish/Italian 'problema'. In Romanian, the indefinite article 'o problemă' and the definite article 'problema' confirm it is feminine.",
+      "explanationRo": "'Problemă' (care se termină în '-ă') este feminin, deși seamănă cu 'problema' masculin din spaniolă/italiană. În română, articolul nehotărât 'o problemă' și articolul hotărât 'problema' confirmă că este feminin."
+    },
+    {
+      "id": "q02_006",
+      "type": "multiple-choice",
+      "prompt": "Which of these nouns is masculine?",
+      "promptRo": "Care dintre aceste substantive este masculin?",
+      "answer": "profesor",
+      "options": [
+        "carte",
+        "profesor",
+        "masă",
+        "geam"
+      ],
+      "explanation": "'Profesor' (teacher) is masculine: un profesor, profesorul. 'Carte' and 'masă' are feminine. 'Geam' (window) is neuter.",
+      "explanationRo": "'Profesor' este masculin: un profesor, profesorul. 'Carte' și 'masă' sunt feminine. 'Geam' este neutru."
+    },
+    {
+      "id": "q02_007",
+      "type": "multiple-choice",
+      "prompt": "How do you say 'the boys' in Romanian?",
+      "promptRo": "Cum spui 'the boys' în română?",
+      "answer": "băieții",
+      "options": [
+        "băieții",
+        "băiețele",
+        "băiețiii",
+        "băieți"
+      ],
+      "explanation": "Masculine plural definite article is '-ii' (or '-i' for nouns ending in '-e'). Băieți → băieții. The '-i' ending marks the masculine plural, and the extra '-i' is the definite article suffix.",
+      "explanationRo": "Articolul hotărât plural masculin este '-ii' (sau '-i' pentru substantivele terminate în '-e'). Băieți → băieții. Terminația '-i' marchează pluralul masculin, iar '-i' suplimentar este sufixul articolului hotărât."
+    },
+    {
+      "id": "q02_008",
+      "type": "multiple-choice",
+      "prompt": "What happens to neuter nouns in the plural?",
+      "promptRo": "Ce se întâmplă cu substantivele neutre la plural?",
+      "answer": "They take feminine plural endings: copac → copace → copacele",
+      "options": [
+        "They take masculine plural endings: copac → copaci → copacii",
+        "They take feminine plural endings: copac → copace → copacele",
+        "They keep the same ending: copac → copac → copacul",
+        "Neuter nouns do not have plural forms"
+      ],
+      "explanation": "Neuter nouns behave like masculine in the singular (copacul) but like feminine in the plural (copacele). The plural ending is typically '-e' and the definite article is '-le'.",
+      "explanationRo": "Substantivele neutre se comportă ca cele masculine la singular (copacul), dar ca cele feminine la plural (copacele). Terminația pluralului este de obicei '-e', iar articolul hotărât este '-le'."
+    },
+    {
+      "id": "q02_009",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the indefinite article correctly?",
+      "promptRo": "Care propoziție folosește articolul nehotărât corect?",
+      "answer": "Am cumpărat o carte interesantă.",
+      "options": [
+        "Am cumpărat un carte interesantă.",
+        "Am cumpărat o carte interesantă.",
+        "Am cumpărat una carte interesantă.",
+        "Am cumpărat niște carte interesantă."
+      ],
+      "explanation": "'Carte' is feminine singular, so the correct indefinite article is 'o': o carte interesantă. 'Un' is for masculine/neuter, 'una' is an indefinite pronoun, and 'niște' is for plural.",
+      "explanationRo": "'Carte' este feminin singular, deci articolul nehotărât corect este 'o': o carte interesantă. 'Un' este pentru masculin/neutru, 'una' este un pronume nehotărât, iar 'niște' este pentru plural."
+    },
+    {
+      "id": "q02_010",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct indefinite article: '___ (a) scaun este în bucătărie.'",
+      "promptRo": "Completați cu articolul nehotărât corect: '___ scaun este în bucătărie.'",
+      "sentence": "___ scaun este în bucătărie.",
+      "answer": "Un",
+      "acceptableAnswers": [
+        "Un",
+        "un"
+      ],
+      "explanation": "'Scaun' is neuter, and neuter nouns take 'un' as the indefinite article (same as masculine): un scaun. Feminine nouns take 'o'.",
+      "explanationRo": "'Scaun' este neutru, iar substantivele neutre iau 'un' ca articol nehotărât (la fel ca masculinul): un scaun. Substantivele feminine iau 'o'."
+    },
+    {
+      "id": "q02_011",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct definite article: '___ (the) fete sunt la școală.'",
+      "promptRo": "Completați cu articolul hotărât corect: '___ fete sunt la școală.'",
+      "sentence": "___ fete sunt la școală.",
+      "answer": "Fetele",
+      "acceptableAnswers": [
+        "Fetele",
+        "fetele"
+      ],
+      "explanation": "'Fete' is feminine plural. The definite article for feminine plural is '-le': fete → fetele.",
+      "explanationRo": "'Fete' este feminin plural. Articolul hotărât pentru feminin plural este '-le': fete → fetele."
+    },
+    {
+      "id": "q02_012",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct indefinite article: 'Azi am văzut ___ (some) flori frumoase în parc.'",
+      "promptRo": "Completați cu articolul nehotărât corect: 'Azi am văzut ___ flori frumoase în parc.'",
+      "sentence": "Azi am văzut ___ flori frumoase în parc.",
+      "answer": "niște",
+      "acceptableAnswers": [
+        "niște"
+      ],
+      "explanation": "'Niște' is the plural indefinite article, used for all genders. 'Flori' is feminine plural, and 'niște flori' means 'some flowers'.",
+      "explanationRo": "'Niște' este articolul nehotărât plural, folosit pentru toate genurile. 'Flori' este feminin plural, iar 'niște flori' înseamnă 'niște flori'."
+    },
+    {
+      "id": "q02_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the article error: 'Un femeie citește o carte.'",
+      "promptRo": "Găsiți și corectați eroarea de articol: 'Un femeie citește o carte.'",
+      "sentence": "Un femeie citește o carte.",
+      "answer": "O femeie citește o carte.",
+      "explanation": "'Femeie' is feminine, so the indefinite article must be 'o', not 'un'. 'Un' is for masculine and neuter nouns. The correct sentence is: O femeie citește o carte.",
+      "explanationRo": "'Femeie' este feminin, deci articolul nehotărât trebuie să fie 'o', nu 'un'. 'Un' este pentru substantive masculine și neutre. Propoziția corectă este: O femeie citește o carte."
+    },
+    {
+      "id": "q02_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the article error: 'Pisica meu doarme pe canapea.'",
+      "promptRo": "Găsiți și corectați eroarea de articol: 'Pisica meu doarme pe canapea.'",
+      "sentence": "Pisica meu doarme pe canapea.",
+      "answer": "Pisica mea doarme pe canapea.",
+      "explanation": "'Pisica' is feminine, so the possessive pronoun must agree in gender: 'mea' (feminine), not 'meu' (masculine). The article on the noun is correct ('pisica'), but the possessive must match.",
+      "explanationRo": "'Pisica' este feminin, deci pronumele posesiv trebuie să fie de acord în gen: 'mea' (feminin), nu 'meu' (masculin). Articolul de pe substantiv este corect ('pisica'), dar posesivul trebuie să corespundă."
+    },
+    {
+      "id": "q02_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the article error: 'Băieții este în clasa.'",
+      "promptRo": "Găsiți și corectați eroarea de articol: 'Băieții este în clasa.'",
+      "sentence": "Băieții este în clasa.",
+      "answer": "Băieții sunt în clasă.",
+      "explanation": "Two errors: (1) 'Băieții' is plural, so the verb must be 'sunt' (plural), not 'este' (singular). (2) 'În clasă' does not take a definite article — it is a location after the preposition 'în' without article in this construction.",
+      "explanationRo": "Două erori: (1) 'Băieții' este plural, deci verbul trebuie să fie 'sunt' (plural), nu 'este' (singular). (2) 'În clasă' nu ia articol hotărât — este o locație după prepoziția 'în' fără articol în această construcție."
+    }
+  ]
+}

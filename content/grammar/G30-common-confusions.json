@@ -1,0 +1,63 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G30-common-confusions",
+  "title": "Confuzii Frecvente (Gramatică Contrastivă)",
+  "titleEn": "Common Confusions",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G17-prepositions"],
+  "estimatedMinutes": 45,
+  "introduction": "Even with perfect conjugation, certain word choices can reveal a non-native or 'translated' mindset. This lesson addresses the most common traps for English and heritage speakers, helping you sound more like a native professional.",
+  "introductionRo": "Chiar și cu o conjugare perfectă, alegerea anumitor cuvinte poate trăda un mod de gândire „tradus” sau nenativ. Această lecție abordează cele mai frecvente capcane pentru vorbitorii de engleză și cei de moștenire, ajutându-vă să sunați mai aproape de un vorbitor nativ.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "a ști vs. a cunoaște (To Know)",
+      "headingRo": "a ști vs. a cunoaște",
+      "content": "English uses 'to know' for everything. Romanian makes a sharp distinction between knowing facts and being acquainted with people or places.",
+      "contentRo": "Limba engleză folosește „to know” pentru orice context. Româna face o distincție clară între cunoașterea faptelor și familiaritatea cu persoane sau locuri.",
+      "table": {
+        "headers": ["Verb", "Usage", "Example (ro)"],
+        "rows": [
+          ["a ști", "Facts, information, skills", "Știu unde locuiește. / Știu să înot."],
+          ["a cunoaște", "People, places, deep expertise", "Îl cunosc pe director. / Cunosc orașul."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "pe vs. la (Location and Objects)",
+      "headingRo": "pe vs. la",
+      "content": "Heritage speakers often confuse these prepositions because of English influences or colloquial habits.",
+      "contentRo": "Vorbitorii de moștenire confundă adesea aceste prepoziții din cauza influențelor limbii engleze sau a obiceiurilor colocviale.",
+      "table": {
+        "headers": ["Preposition", "Usage", "Example"],
+        "rows": [
+          ["la", "Direction or general location", "Merg la birou. (I'm going to the office.)"],
+          ["pe", "On a surface OR direct object person", "Cartea e pe masă. / Îl văd pe Ion."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "pentru că vs. deoarece vs. căci",
+      "headingRo": "pentru că vs. deoarece vs. căci",
+      "content": "All mean 'because', but they belong to different language registers.",
+      "contentRo": "Toate înseamnă „pentru că”, dar aparțin unor registre de limbaj diferite.",
+      "table": {
+        "headers": ["Word", "Register", "B1 Strategy"],
+        "rows": [
+          ["pentru că", "Standard / Neutral", "Safe to use everywhere."],
+          ["deoarece", "Formal / Academic", "Use in B1 formal letters."],
+          ["căci", "Literary / Archaic", "Avoid in modern B1 essays."]
+        ]
+      }
+    }
+  ],
+  "summaryPoints": [
+    "Use 'a ști' for information and 'a cunoaște' for people",
+    "'la' is for location, 'pe' is for surfaces or 'pe care'",
+    "Vary your reasons with 'deoarece' in formal writing"
+  ],
+  "relatedExercises": []
+}

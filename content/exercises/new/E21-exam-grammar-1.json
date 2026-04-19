@@ -1,0 +1,241 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E21-exam-G1",
+  "title": "Gramatică Mixtă - Examen B1",
+  "titleRo": "Exerciții de Gramatică Mixtă în Format de Examen B1",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order",
+    "G19-numerals",
+    "G11-past-simple"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Complete these mixed grammar exercises covering all topics studied so far. Each question tests a different grammar point. This simulates the grammar section of the B1 exam.",
+  "instructionsRo": "Completați aceste exerciții de gramatică mixtă care acoperă toate subiectele studiate până acum. Fiecare întrebare testează un punct de gramatică diferit. Aceasta simulează secțiunea de gramatică a examenului B1.",
+  "sourceWeek": 11,
+  "exercises": [
+    {
+      "id": "e21_001",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct form of the verb 'a fi' (to be) in the present tense, 3rd person plural:",
+      "promptRo": "Completați spațiul liber cu forma corectă a verbului 'a fi' la prezent, persoana a III-a plural:",
+      "sentence": "Ei ___ studenți la Universitatea din București.",
+      "answer": "sunt",
+      "acceptableAnswers": [
+        "sunt"
+      ],
+      "explanation": "'Ei sunt' — 3rd person plural of 'a fi'. The form 'sunt' is used for both 'noi' (1st pl) and 'ei/ele' (3rd pl) in the present tense.",
+      "explanationRo": "'Ei sunt' — persoana a III-a plural a verbului 'a fi'. Forma 'sunt' se folosește atât pentru 'noi' (1 sg pl) cât și pentru 'ei/ele' (3 pl) la prezent."
+    },
+    {
+      "id": "e21_002",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct article for the neuter noun 'scaun' (chair):",
+      "promptRo": "Alegeți articolul corect pentru substantivul neutru 'scaun' (scaun):",
+      "answer": "scaunul (definite article: -ul)",
+      "options": [
+        "scauna (definite article: -a)",
+        "scaunul (definite article: -ul)",
+        "scaunle (definite article: -le)",
+        "scaunul (definite article: -l)"
+      ],
+      "explanation": "Neuter nouns take the masculine definite article in the singular nominative-accusative: scaun → scaunul. In the plural, they take the feminine article: scaune → scaunele.",
+      "explanationRo": "Substantivele neutre iau articolul hotărât masculin la singular nominativ-acuzativ: scaun → scaunul. La plural, iau articolul feminin: scaune → scaunele."
+    },
+    {
+      "id": "e21_003",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the natural possessive pronoun (informal/neutral):",
+      "promptRo": "Completați spațiul liber cu pronumele posesiv natural (informal/neutru):",
+      "sentence": "Maria și-a uitat telefonul ___ la birou. (her)",
+      "answer": "ei",
+      "acceptableAnswers": [
+        "ei",
+        "său"
+      ],
+      "explanation": "In B1 Romanian, using 'ei' (her) or 'lui' (his) is the most natural way to express possession. 'Său' is more formal or literary.",
+      "explanationRo": "În româna de nivel B1, folosirea lui 'ei' sau 'lui' este cea mai naturală modalitate de a exprima posesia. 'Său' este mai formal sau literar."
+    },
+    {
+      "id": "e21_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past participle form:",
+      "promptRo": "Alegeți forma corectă a participiului trecut:",
+      "answer": "scris (from a scrie)",
+      "options": [
+        "scrivat (from a scrie)",
+        "scris (from a scrie)",
+        "scriut (from a scrie)",
+        "scrins (from a scrie)"
+      ],
+      "explanation": "The past participle of 'a scrie' (to write) is 'scris'. This is an irregular participle that must be memorized.",
+      "explanationRo": "Participiul trecut al verbului 'a scrie' (a scrie) este 'scris'. Acesta este un participiu neregulat care trebuie memorat."
+    },
+    {
+      "id": "e21_005",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct future tense form (Future 1 with 'voi'):",
+      "promptRo": "Completați spațiul liber cu forma corectă a viitorului (Viitorul 1 cu 'voi'):",
+      "sentence": "Noi ___ la conferință mâine dimineață. (a participa)",
+      "answer": "vom participa",
+      "acceptableAnswers": [
+        "vom participa",
+        "voi participa"
+      ],
+      "explanation": "Future 1: 'voi' (1st pl) + infinitive 'a participa' → 'vom participa'. The auxiliary 'voi' changes: voi, vei, va, vom, veți, vor.",
+      "explanationRo": "Viitorul 1: 'voi' (1 pl) + infinitiv 'a participa' → 'vom participa'. Auxiliarul 'voi' se schimbă: voi, vei, va, vom, veți, vor."
+    },
+    {
+      "id": "e21_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct subjunctive form:",
+      "promptRo": "Alegeți forma corectă a subjonctivului:",
+      "answer": "vreau să merg (I want to go)",
+      "options": [
+        "vreau merge (I want to go)",
+        "vreau să merg (I want to go)",
+        "vreau mergând (I want to go)",
+        "vreau de merg (I want to go)"
+      ],
+      "explanation": "The subjunctive in Romanian uses 'să' + present subjunctive form: 'vreau să merg'. The subjunctive form of 'a merge' (1st sg) is the same as the present indicative: 'merg'.",
+      "explanationRo": "Subjonctivul în română folosește 'să' + forma de subjonctiv prezent: 'vreau să merg'. Forma de subjonctiv a lui 'a merge' (1 sg) este aceeași cu indicativul prezent: 'merg'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e21_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the negative form?",
+      "promptRo": "Ce propoziție folosește corect forma negativă?",
+      "answer": "Nu am văzut niciodată un film atât de bun.",
+      "options": [
+        "Am nu văzut niciodată un film atât de bun.",
+        "Nu am văzut niciodată un film atât de bun.",
+        "Nu am văzut nimic un film atât de bun.",
+        "Am văzut nu niciodată un film atât de bun."
+      ],
+      "explanation": "In Romanian, negation: 'nu' goes before the auxiliary verb. 'Niciodată' (never) is the negative adverb. Word order: Nu + auxiliary + participle + negative adverb.",
+      "explanationRo": "În română, negația: 'nu' merge înaintea verbului auxiliar. 'Niciodată' este adverbul negativ. Ordinea: Nu + auxiliar + participiu + adverb negativ.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e21_008",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct ordinal number (feminine):",
+      "promptRo": "Completați spațiul liber cu numărul ordinal corect (feminin):",
+      "sentence": "Aceasta este a ___ oară când vin la București. (three → ordinal)",
+      "answer": "treia",
+      "acceptableAnswers": [
+        "treia",
+        "a treia"
+      ],
+      "explanation": "The ordinal for 3 is 'al treilea' (masculine) / 'a treia' (feminine). Since 'oară' is feminine, we use 'a treia'.",
+      "explanationRo": "Ordinalul pentru 3 este 'al treilea' (masculin) / 'a treia' (feminin). Deoarece 'oară' este feminin, folosim 'a treia'."
+    },
+    {
+      "id": "e21_009",
+      "type": "multiple-choice",
+      "prompt": "Identify the Perfect Simplu form in this sentence: 'Regele ceru sfatul bătrânilor și hotărî să pornească la război.'",
+      "promptRo": "Identificați forma de Perfect Simplu în această propoziție: 'Regele ceru sfatul bătrânilor și hotărî să pornească la război.'",
+      "answer": "ceru și hotărî",
+      "options": [
+        "ceru și hotărî",
+        "sfatul și bătrânilor",
+        "să pornească",
+        "la război"
+      ],
+      "explanation": "'Ceru' (from 'a cere' — to ask) and 'hotărî' (from 'a hotărî' — to decide) are both Perfect Simplu, 3rd person singular. The short ending vowels and literary context are the clues.",
+      "explanationRo": "'Ceru' (de la 'a cere') și 'hotărî' (de la 'a hotărî') sunt ambele Perfect Simplu, persoana a III-a singular. Terminațiile scurte de vocală și contextul literar sunt indiciile.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e21_010",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct adjective agreement: 'Profesoara este foarte ___' (intelligent, feminine singular):",
+      "promptRo": "Alegeți acordul corect al adjectivului: 'Profesoara este foarte ___' :",
+      "answer": "inteligentă",
+      "options": [
+        "inteligent",
+        "inteligentă",
+        "inteligentul",
+        "inteligente"
+      ],
+      "explanation": "'Profesoara' is feminine singular, so the adjective must agree: 'inteligentă' (feminine singular). The feminine form adds '-ă'.",
+      "explanationRo": "'Profesoara' este feminin singular, deci adjectivul trebuie să fie de acord: 'inteligentă' (feminin singular). Forma feminină adaugă '-ă'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e21_011",
+      "type": "fill-blank",
+      "prompt": "Fill in with the correct clitic pronoun: '___ (to me) dă profesorul cartea.'",
+      "promptRo": "Completați cu pronumele clitic corect: '___ (mie) dă profesorul cartea.'",
+      "sentence": "___ dă profesorul cartea.",
+      "answer": "Îmi",
+      "acceptableAnswers": [
+        "Îmi",
+        "îmi"
+      ],
+      "explanation": "Dative clitic for 'eu' (1st person) is 'îmi' (before verb). The sentence: Îmi dă profesorul cartea. = The teacher gives me the book.",
+      "explanationRo": "Cliticul dativ pentru 'eu' (persoana I) este 'îmi' (înaintea verbului). Propoziția: Îmi dă profesorul cartea. = Profesorul îmi dă cartea."
+    },
+    {
+      "id": "e21_012",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has correct clitic placement?",
+      "promptRo": "Ce propoziție are plasarea corectă a pronumelor clitice?",
+      "answer": "L-am văzut ieri la magazin.",
+      "options": [
+        "Am văzut-l ieri la magazin.",
+        "L-am văzut ieri la magazin.",
+        "Ieri l-am la magazin văzut.",
+        "Văzut am-l ieri la magazin."
+      ],
+      "explanation": "In compound perfect, clitics go BEFORE the auxiliary + participle: 'L-am văzut'. The clitic 'l-' (direct object, masculine singular) + auxiliary 'am' + participle 'văzut'.",
+      "explanationRo": "La perfectul compus, cliticele merg ÎNAINTEA auxiliarului + participiu: 'L-am văzut'. Cliticul 'l-' (obiect direct, masculin singular) + auxiliar 'am' + participiu 'văzut'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e21_013",
+      "type": "multiple-choice",
+      "prompt": "What number does 'două sute patruzeci și cinci' represent?",
+      "promptRo": "Ce număr reprezintă 'două sute patruzeci și cinci'?",
+      "answer": "245",
+      "options": [
+        "245",
+        "250",
+        "235",
+        "405"
+      ],
+      "explanation": "două sute (200) + patruzeci (40) + cinci (5) = 245. The 'și' connects the tens to the units only.",
+      "explanationRo": "două sute (200) + patruzeci (40) + cinci (5) = 245. 'Și' conectează doar zecile cu unitățile."
+    },
+    {
+      "id": "e21_014",
+      "type": "multiple-choice",
+      "prompt": "Which word order is most natural for emphasizing the TOPIC (the thing already being discussed)?",
+      "promptRo": "Ce ordine a cuvintelor este cea mai naturală pentru a accentua SUBIECTUL DISCUȚIEI (lucrul deja discutat)?",
+      "answer": "Cartea, am citit-o deja.",
+      "options": [
+        "Am citit cartea deja.",
+        "Cartea, am citit-o deja.",
+        "Citit am cartea deja.",
+        "Deja am cartea citit."
+      ],
+      "explanation": "Topicalization: moving 'cartea' to the front signals that the book is the topic. The clitic 'o' doubles the topicalized object. This is very natural in Romanian.",
+      "explanationRo": "Tematizarea: mutarea lui 'cartea' la început semnalează că cartea este subiectul discuției. Cliticul 'o' dublează obiectul tematizat. Aceasta este foarte naturală în română."
+    },
+    {
+      "id": "e21_015",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct form of 'a putea' (can/may) in the subjunctive, 2nd person singular:",
+      "promptRo": "Completați spațiul liber cu forma corectă a lui 'a putea' (a putea) la subjonctiv, persoana a II-a singular:",
+      "sentence": "Vreau să ___ (tu) să vii la petrecere. (a putea)",
+      "answer": "poți",
+      "acceptableAnswers": [
+        "poți"
+      ],
+      "explanation": "The subjunctive form of 'a putea' for 'tu' (2nd sg) is 'poți'. Structure: 'vreau să poți' (I want you to be able).",
+      "explanationRo": "Forma de subjonctiv a lui 'a putea' pentru 'tu' (2 sg) este 'poți'. Structura: 'vreau să poți' (vreau să poți)."
+    }
+  ]
+}

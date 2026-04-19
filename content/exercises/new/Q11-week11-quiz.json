@@ -1,0 +1,227 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q11-week11-quiz",
+  "title": "Week 11 Quiz: Exam Practice — Grammar Review",
+  "titleRo": "Test Săptămâna 11: Practică de Examen — Recenzie Gramaticală",
+  "cefrLevel": "B1",
+  "prerequisites": [],
+  "estimatedMinutes": 25,
+  "instructions": "Comprehensive grammar review simulating B1 exam questions. Topics span all previous weeks.",
+  "instructionsRo": "Recenzie gramaticală completă simulând întrebările de examen B1. Subiectele acoperă toate săptămânile anterioare.",
+  "sourceWeek": 11,
+  "exercises": [
+    {
+      "id": "q11_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct article: '___ carte este pe masă.' (The book is on the table.)",
+      "promptRo": "Alege articolul corect: '___ carte este pe masă.'",
+      "answer": "Cartea",
+      "options": [
+        "Carte",
+        "O carte",
+        "Cartea",
+        "Niște carte"
+      ],
+      "explanation": "'Cartea' uses the enclitic definite article '-a' for feminine singular nouns. Romanian places the definite article at the end of the noun, unlike English which uses 'the' before it.",
+      "explanationRo": "'Cartea' folosește articolul hotărât enclitic '-a' pentru substantive feminine singular. Româna plasează articolul hotărât la sfârșitul substantivului, spre deosebire de engleză care folosește 'the' înainte."
+    },
+    {
+      "id": "q11_002",
+      "type": "multiple-choice",
+      "prompt": "Which pronoun correctly completes the sentence: '___ am dat telefon mamei ieri.' (I called mom yesterday.)",
+      "promptRo": "Care pronume completează corect propoziția: '___ am dat telefon mamei ieri.'",
+      "answer": "I-",
+      "options": [
+        "Îl",
+        "I-",
+        "O-",
+        "Îi"
+      ],
+      "explanation": "'I-' is the dative clitic pronoun for 'ei' (3rd person plural). 'A da telefon cuiva' requires the dative case (to someone). The verb 'a da' takes the dative for the recipient. 'Îi' would be for singular, 'I-' for plural.",
+      "explanationRo": "'I-' este pronumele clitic de dativ pentru 'ei' (persoana a III-a plural). 'A da telefon cuiva' cere cazul dativ. Verbul 'a da' primește dativ pentru destinatar."
+    },
+    {
+      "id": "q11_003",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct present tense form: 'Ei (a veni) ___ în fiecare zi la birou.' (They come to the office every day.)",
+      "promptRo": "Alege forma corectă de prezent: 'Ei (a veni) ___ în fiecare zi la birou.'",
+      "answer": "vin",
+      "options": [
+        "vin",
+        "vind",
+        "ven",
+        "vine"
+      ],
+      "explanation": "'A veni' is a 4th conjugation verb (-i/-î). The 3rd person plural present is 'vin' (they come). 'Vine' is 3rd person singular, 'vind' is from 'a vinde' (to sell), and 'ven' is not a valid form.",
+      "explanationRo": "'A veni' este un verb de conjugarea a IV-a. Persoana a III-a plural prezent este 'vin'. 'Vine' este persoana a III-a singular, 'vind' este de la 'a vinde', iar 'ven' nu este o formă corectă."
+    },
+    {
+      "id": "q11_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: 'Când am ajuns acasă, copiii (a dormi) ___ deja.' (When I got home, the children were already sleeping.)",
+      "promptRo": "Alege timpul trecut corect: 'Când am ajuns acasă, copiii (a dormi) ___ deja.'",
+      "answer": "dormeau",
+      "options": [
+        "au dormit",
+        "dormeau",
+        "dormiseră",
+        "au dormit deja"
+      ],
+      "explanation": "The imperfect 'dormeau' is correct here because it describes an ongoing background action when another action interrupted it. 'Au dormit' (perfect compus) would mean a completed action, which doesn't fit the context of simultaneous events.",
+      "explanationRo": "Imperfectul 'dormeau' este corect aici deoarece descrie o acțiune de fundal în desfășurare când o altă acțiune a întrerupt-o. 'Au dormit' ar însemna o acțiune completată, care nu se potrivește contextului."
+    },
+    {
+      "id": "q11_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the future tense?",
+      "promptRo": "Care propoziție folosește corect timpul viitor?",
+      "answer": "Mâine voi pleca la București.",
+      "options": [
+        "Mâine voi plec la București.",
+        "Mâine voi pleca la București.",
+        "Mâne o să plec la București.",
+        "Mâine am să plece la București."
+      ],
+      "explanation": "'Voi pleca' is the correct future tense: 'voi' (auxiliary) + infinitive 'pleca'. 'Voi plec' mixes auxiliary with present tense. 'O să plec' is also correct but uses the colloquial future with subjunctive. 'Am să plece' uses 3rd person form incorrectly.",
+      "explanationRo": "'Voi pleca' este viitorul corect: 'voi' (auxiliar) + infinitiv 'pleca'. 'Voi plec' amestecă auxiliarul cu timpul prezent. 'O să plec' este de asemenea corect dar folosește viitorul colocvial cu conjunctiv.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q11_006",
+      "type": "multiple-choice",
+      "prompt": "Which preposition correctly governs the accusative case: 'Am vorbit ___ problemele proiectului.' (We talked about the project's problems.)",
+      "promptRo": "Care prepoziție guvernează corect cazul acuzativ: 'Am vorbit ___ problemele proiectului.'",
+      "answer": "despre",
+      "options": [
+        "cu",
+        "despre",
+        "la",
+        "de"
+      ],
+      "explanation": "'Despre' (about) governs the accusative case. 'A vorbi despre ceva' = to talk about something. 'Cu' (with) also takes accusative but means 'with', not 'about'. 'La' and 'de' require different contexts.",
+      "explanationRo": "'Despre' guvernează cazul acuzativ. 'A vorbi despre ceva' = a vorbi despre ceva. 'Cu' ia de asemenea acuzativ dar înseamnă 'cu', nu 'despre'."
+    },
+    {
+      "id": "q11_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct connector: '___ plouă, ___ nu am umbrelă.' (It's raining, and I don't have an umbrella.)",
+      "promptRo": "Alege conectorul corect: '___ plouă, ___ nu am umbrelă.'",
+      "answer": "Și ... iar",
+      "options": [
+        "Și ... iar",
+        "Deși ... totuși",
+        "Pentru că ... deci",
+        "Dacă ... atunci"
+      ],
+      "explanation": "'Și ... iar' adds information: it's raining AND I don't have an umbrella (two negative facts adding up). 'Deși ... totuși' expresses concession, 'pentru că ... deci' expresses cause-effect, and 'dacă ... atunci' expresses condition.",
+      "explanationRo": "'Și ... iar' adaugă informație: plouă ȘI nu am umbrelă (două fapte negative care se adună). 'Deși ... totuși' exprimă concesie, 'pentru că ... deci' cauză-efect, iar 'dacă ... atunci' condiție.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q11_008",
+      "type": "multiple-choice",
+      "prompt": "Which comparative form is correct? 'Acest film este ___ interesant decât celălalt.' (This film is more interesting than the other one.)",
+      "promptRo": "Care formă de comparativ este corectă? 'Acest film este ___ interesant decât celălalt.'",
+      "answer": "mai",
+      "options": [
+        "cel mai",
+        "mai",
+        "mult mai",
+        "mai mult"
+      ],
+      "explanation": "'Mai interesant' is the correct comparative form (more interesting). 'Cel mai interesant' is the superlative (the most interesting), not comparative. 'Mult mai' is emphatic but still uses 'mai' before the adjective, not 'mult mai' as a separate option here.",
+      "explanationRo": "'Mai interesant' este forma corectă de comparativ. 'Cel mai interesant' este superlativul, nu comparativul. 'Mult mai' este enfatic dar folosește 'mai' înaintea adjectivului."
+    },
+    {
+      "id": "q11_009",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct conditional form: 'Dacă aș avea timp, ___ la conferință.' (If I had time, I would go to the conference.)",
+      "promptRo": "Alege forma corectă de condițional: 'Dacă aș avea timp, ___ la conferință.'",
+      "answer": "aș merge",
+      "options": [
+        "voi merge",
+        "aș merge",
+        "mergeam",
+        "voi mergea"
+      ],
+      "explanation": "'Aș merge' is the present conditional (1st person singular): 'aș' (conditional auxiliary) + infinitive 'merge'. The conditional is used here because it's a hypothetical situation (if I had time...). 'Voi merge' is future, 'mergeam' is imperfect.",
+      "explanationRo": "'Aș merge' este condiționalul prezent (persoana I singular): 'aș' (auxiliar condițional) + infinitiv 'merge'. Condiționalul se folosește aici deoarece este o situație ipotetică.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q11_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct word order: '___ cartea, Maria a plecat.' (Maria left after reading the book.)",
+      "promptRo": "Completează cu ordinea corectă a cuvintelor: '___ cartea, Maria a plecat.'",
+      "sentence": "___ cartea, Maria a plecat.",
+      "answer": "Citind",
+      "acceptableAnswers": [
+        "Citind",
+        "După ce a citit",
+        "După ce a citit-o"
+      ],
+      "explanation": "'Citind' is the gerund of 'a citi' (reading). The gerund expresses a simultaneous or preceding action. 'După ce a citit' (after having read) is also acceptable as it expresses a completed prior action.",
+      "explanationRo": "'Citind' este gerunziul lui 'a citi'. Gerunziul exprimă o acțiune simultană sau anterioară. 'După ce a citit' este de asemenea acceptabil deoarece exprimă o acțiune anterioară completată."
+    },
+    {
+      "id": "q11_011",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct verb form: 'Trebuie ___ la timp.' (We must arrive on time.)",
+      "promptRo": "Completează cu forma verbală corectă: 'Trebuie ___ la timp.'",
+      "sentence": "Trebuie ___ la timp.",
+      "answer": "să ajungem",
+      "acceptableAnswers": [
+        "să ajungem"
+      ],
+      "explanation": "'Trebuie să ajungem' uses the subjunctive: 'trebuie' + 'să' + subjunctive (1st person plural 'ajungem'). In modern Romanian, 'trebuie să' is much more common than 'trebuie a' (infinitive). The subject is implicit 'noi' (we).",
+      "explanationRo": "'Trebuie să ajungem' folosește conjunctivul: 'trebuie' + 'să' + conjunctiv (persoana I plural 'ajungem'). În româna modernă, 'trebuie să' este mult mai comun decât 'trebuie a'."
+    },
+    {
+      "id": "q11_012",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct case form: 'Aceasta este camera în ___ locuiesc.' (This is the room where I live.)",
+      "promptRo": "Completează cu forma corectă de caz: 'Aceasta este camera în ___ locuiesc.'",
+      "sentence": "Aceasta este camera în ___ locuiesc.",
+      "answer": "care",
+      "acceptableAnswers": [
+        "care",
+        "care "
+      ],
+      "explanation": "'În care' (in which) is the correct relative pronoun with preposition for expressing place. 'Unde' (where) is also acceptable as a relative adverb. Both are grammatically correct and commonly used.",
+      "explanationRo": "'În care' este pronumele relativ corect cu prepoziție pentru a exprima locul. 'Unde' este de asemenea acceptabil ca adverb relativ. Ambele sunt corecte gramatical și frecvent folosite."
+    },
+    {
+      "id": "q11_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Băieții frumoase au câștigat premiul.",
+      "answer": "Băieții frumoși au câștigat premiul.",
+      "explanation": "The error is 'frumoase' (feminine plural) instead of 'frumoși' (masculine plural). Since 'băieții' is masculine plural, the adjective must also be masculine plural: 'frumoși'. A common mistake is using the feminine plural form.",
+      "explanationRo": "Greșeala este 'frumoase' (feminin plural) în loc de 'frumoși' (masculin plural). Deoarece 'băieții' este masculin plural, adjectivul trebuie să fie de asemenea masculin plural: 'frumoși'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q11_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "I-am dat cartea lui Maria.",
+      "answer": "I-am dat cartea Mariei.",
+      "explanation": "The error is 'lui Maria' instead of 'Mariei'. When a proper name is the indirect object (dative), it takes the dative form directly: 'Mariei' (not 'lui Maria'). The article 'lui' is only used with common nouns: 'lui profesor', 'lui băiat'.",
+      "explanationRo": "Greșeala este 'lui Maria' în loc de 'Mariei'. Când un nume propriu este obiectul indirect (dativ), ia direct forma de dativ: 'Mariei' (nu 'lui Maria'). Articolul 'lui' se folosește doar cu substantive comune."
+    },
+    {
+      "id": "q11_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Ea a citit cartea pe care l-am cumpărat.",
+      "answer": "Ea a citit cartea pe care am cumpărat-o.",
+      "explanation": "The error is 'l-am cumpărat' instead of 'am cumpărat-o'. The direct object relative pronoun is 'pe care', and the clitic pronoun must agree with the antecedent: 'cartea' is feminine, so the clitic is 'o' (not 'l' which is masculine). The correct word order is: verb + clitic: 'am cumpărat-o'.",
+      "explanationRo": "Greșeala este 'l-am cumpărat' în loc de 'am cumpărat-o'. Pronumele relativ obiect direct este 'pe care', iar pronumele clitic trebuie să fie de acord cu antecedentul: 'cartea' este feminin, deci cliticul este 'o' (nu 'l' care este masculin).",
+      "acceptableAnswers": []
+    }
+  ]
+}

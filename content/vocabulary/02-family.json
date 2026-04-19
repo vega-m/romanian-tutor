@@ -1,0 +1,791 @@
+{
+  "$schema": "vocabulary",
+  "version": "1.0",
+  "theme": "family",
+  "themeRo": "Familia și Relațiile",
+  "themeEn": "Family & Relationships",
+  "cefrLevel": "A1",
+  "words": [
+    {
+      "id": "v02_001",
+      "word": "familia",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "the family",
+      "translationRo": "familia (f.)",
+      "exampleSentence": "Familia mea este mare.",
+      "exampleTranslation": "My family is big.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/fa.'mi.lja/",
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "relatedWords": [
+        "părinți",
+        "copii"
+      ]
+    },
+    {
+      "id": "v02_002",
+      "word": "mama",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "the mother / mom",
+      "translationRo": "mama (f.)",
+      "exampleSentence": "Mama mea gătește foarte bine.",
+      "exampleTranslation": "My mom cooks very well.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'ma.ma/",
+      "tags": [
+        "family",
+        "immediate"
+      ],
+      "relatedWords": [
+        "tata",
+        "părinți"
+      ]
+    },
+    {
+      "id": "v02_003",
+      "word": "tata",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "the father / dad",
+      "translationRo": "tata (m.)",
+      "exampleSentence": "Tata meu lucrează la o fabrică.",
+      "exampleTranslation": "My dad works at a factory.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'ta.ta/",
+      "tags": [
+        "family",
+        "immediate"
+      ],
+      "relatedWords": [
+        "mama",
+        "părinți"
+      ]
+    },
+    {
+      "id": "v02_004",
+      "word": "părinți",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "parents",
+      "translationRo": "părinți (m. pl.)",
+      "exampleSentence": "Părinții mei locuiesc în Brașov.",
+      "exampleTranslation": "My parents live in Brașov.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/pə.'rin.tsʲ/",
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "relatedWords": [
+        "mama",
+        "tata"
+      ]
+    },
+    {
+      "id": "v02_005",
+      "word": "frate",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "brother",
+      "translationRo": "frate (m.)",
+      "exampleSentence": "Am un frate mai mare și o soră mai mică.",
+      "exampleTranslation": "I have an older brother and a younger sister.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'fra.te/",
+      "tags": [
+        "family",
+        "siblings"
+      ],
+      "relatedWords": [
+        "soră",
+        "frați"
+      ]
+    },
+    {
+      "id": "v02_006",
+      "word": "soră",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "sister",
+      "translationRo": "soră (f.)",
+      "exampleSentence": "Sora mea studiază medicina.",
+      "exampleTranslation": "My sister studies medicine.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'so.rə/",
+      "tags": [
+        "family",
+        "siblings"
+      ],
+      "relatedWords": [
+        "frate",
+        "surori"
+      ]
+    },
+    {
+      "id": "v02_007",
+      "word": "bunic",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "grandfather",
+      "translationRo": "bunic (m.)",
+      "exampleSentence": "Bunicul meu are o grădină mare.",
+      "exampleTranslation": "My grandfather has a big garden.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'bu.nik/",
+      "tags": [
+        "family",
+        "grandparents"
+      ],
+      "relatedWords": [
+        "bunică",
+        "bunici"
+      ]
+    },
+    {
+      "id": "v02_008",
+      "word": "bunică",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "grandmother",
+      "translationRo": "bunică (f.)",
+      "exampleSentence": "Bunica face cel mai bun sarmale.",
+      "exampleTranslation": "Grandma makes the best sarmale.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'bu.ni.kə/",
+      "tags": [
+        "family",
+        "grandparents"
+      ],
+      "relatedWords": [
+        "bunic",
+        "bunici"
+      ]
+    },
+    {
+      "id": "v02_009",
+      "word": "copil",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "child (generic)",
+      "translationRo": "copil (m. / f.)",
+      "exampleSentence": "Copilul se joacă în parc.",
+      "exampleTranslation": "The child is playing in the park.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/ko.'pil/",
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "relatedWords": [
+        "copii",
+        "fiu",
+        "fiică"
+      ]
+    },
+    {
+      "id": "v02_010",
+      "word": "copii",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "children",
+      "translationRo": "copii (m. pl.)",
+      "exampleSentence": "Copiii se joacă în curte.",
+      "exampleTranslation": "The children are playing in the yard.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/ko.'pi.j/",
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "relatedWords": [
+        "copil",
+        "fiu",
+        "fiică"
+      ]
+    },
+    {
+      "id": "v02_011",
+      "word": "fiu",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "son",
+      "translationRo": "fiu (m.)",
+      "exampleSentence": "Fiu-meu are zece ani.",
+      "exampleTranslation": "My son is ten years old.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/fju/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "fiică",
+        "copil"
+      ]
+    },
+    {
+      "id": "v02_012",
+      "word": "fiică",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "daughter",
+      "translationRo": "fiică (f.)",
+      "exampleSentence": "Fiica lor locuiește în Cluj.",
+      "exampleTranslation": "Their daughter lives in Cluj.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'fi.kə/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "fiu",
+        "copil"
+      ]
+    },
+    {
+      "id": "v02_013",
+      "word": "soț",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "husband",
+      "translationRo": "soț (m.)",
+      "exampleSentence": "Soțul meu este inginer.",
+      "exampleTranslation": "My husband is an engineer.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/softs/",
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "relatedWords": [
+        "soție",
+        "căsătorit"
+      ]
+    },
+    {
+      "id": "v02_014",
+      "word": "soție",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "wife",
+      "translationRo": "soție (f.)",
+      "exampleSentence": "Soția lui predă la școală.",
+      "exampleTranslation": "His wife teaches at school.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/so.'tsi.je/",
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "relatedWords": [
+        "soț",
+        "căsătorită"
+      ]
+    },
+    {
+      "id": "v02_015",
+      "word": "unchi",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "uncle",
+      "translationRo": "unchi (m.)",
+      "exampleSentence": "Unchiul meu locuiește la țară.",
+      "exampleTranslation": "My uncle lives in the countryside.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/'un.ki/",
+      "tags": [
+        "family",
+        "extended"
+      ],
+      "relatedWords": [
+        "mătușă",
+        "verișor"
+      ]
+    },
+    {
+      "id": "v02_016",
+      "word": "mătușă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "aunt",
+      "translationRo": "mătușă (f.)",
+      "exampleSentence": "Mătușa mea trăiește în Timișoara.",
+      "exampleTranslation": "My aunt lives in Timișoara.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/mə.'tu.ʃə/",
+      "tags": [
+        "family",
+        "extended"
+      ],
+      "relatedWords": [
+        "unchi",
+        "verișoară"
+      ]
+    },
+    {
+      "id": "v02_017",
+      "word": "verișor",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "cousin (male)",
+      "translationRo": "verișor (m.)",
+      "exampleSentence": "Verișorul meu are aceeași vârstă ca mine.",
+      "exampleTranslation": "My cousin is the same age as me.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ve.ri.'ʃor/",
+      "tags": [
+        "family",
+        "extended"
+      ],
+      "relatedWords": [
+        "verișoară",
+        "unchi",
+        "mătușă"
+      ]
+    },
+    {
+      "id": "v02_018",
+      "word": "verișoară",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "cousin (female)",
+      "translationRo": "verișoară (f.)",
+      "exampleSentence": "Verișoara mea studiază în București.",
+      "exampleTranslation": "My cousin studies in Bucharest.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ve.ri.'ʃo.rə/",
+      "tags": [
+        "family",
+        "extended"
+      ],
+      "relatedWords": [
+        "verișor",
+        "unchi",
+        "mătușă"
+      ]
+    },
+    {
+      "id": "v02_019",
+      "word": "nepot",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "grandson / nephew",
+      "translationRo": "nepot (m.)",
+      "exampleSentence": "Bunica își iubește nepotul.",
+      "exampleTranslation": "Grandma loves her grandson.",
+      "frequency": 3,
+      "importance": 2,
+      "pronunciation": "/'ne.pot/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "nepoată",
+        "bunic"
+      ]
+    },
+    {
+      "id": "v02_020",
+      "word": "nepoată",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "granddaughter / niece",
+      "translationRo": "nepoată (f.)",
+      "exampleSentence": "Nepoata mea are doar trei ani.",
+      "exampleTranslation": "My granddaughter is only three years old.",
+      "frequency": 3,
+      "importance": 2,
+      "pronunciation": "/ne.po.'a.tə/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "nepot",
+        "bunică"
+      ]
+    },
+    {
+      "id": "v02_021",
+      "word": "naș",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "godfather",
+      "translationRo": "naș (m.)",
+      "exampleSentence": "Nașul meu de botez este din Ardeal.",
+      "exampleTranslation": "My baptism godfather is from Transylvania.",
+      "frequency": 2,
+      "importance": 2,
+      "pronunciation": "/naʃ/",
+      "tags": [
+        "family",
+        "cultural"
+      ],
+      "relatedWords": [
+        "nașă",
+        "botez"
+      ]
+    },
+    {
+      "id": "v02_022",
+      "word": "nașă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "godmother",
+      "translationRo": "nașă (f.)",
+      "exampleSentence": "Nașa m-a ajutat mult când eram mic.",
+      "exampleTranslation": "My godmother helped me a lot when I was little.",
+      "frequency": 2,
+      "importance": 2,
+      "pronunciation": "/'na.ʃə/",
+      "tags": [
+        "family",
+        "cultural"
+      ],
+      "relatedWords": [
+        "naș",
+        "botez"
+      ]
+    },
+    {
+      "id": "v02_023",
+      "word": "a se căsători",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to get married",
+      "translationRo": "a se căsători",
+      "exampleSentence": "S-au căsătorit anul trecut.",
+      "exampleTranslation": "They got married last year.",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/a se kə.sə.'to.ri/",
+      "tags": [
+        "family",
+        "marriage",
+        "verb"
+      ],
+      "relatedWords": [
+        "soț",
+        "soție",
+        "nuntă"
+      ]
+    },
+    {
+      "id": "v02_024",
+      "word": "nuntă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "wedding",
+      "translationRo": "nuntă (f.)",
+      "exampleSentence": "Nunta verișoarei mele este în iunie.",
+      "exampleTranslation": "My cousin's wedding is in June.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/'nun.tə/",
+      "tags": [
+        "family",
+        "marriage",
+        "cultural"
+      ],
+      "relatedWords": [
+        "a se căsători",
+        "mire",
+        "mireasă"
+      ]
+    },
+    {
+      "id": "v02_025",
+      "word": "mire",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "groom / bridegroom",
+      "translationRo": "mire (m.)",
+      "exampleSentence": "Mirele poartă un costum negru.",
+      "exampleTranslation": "The groom wears a black suit.",
+      "frequency": 2,
+      "importance": 2,
+      "pronunciation": "/'mi.re/",
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "relatedWords": [
+        "mireasă",
+        "nuntă"
+      ]
+    },
+    {
+      "id": "v02_026",
+      "word": "mireasă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "bride",
+      "translationRo": "mireasă (f.)",
+      "exampleSentence": "Mireasa arată superb în rochia albă.",
+      "exampleTranslation": "The bride looks stunning in the white dress.",
+      "frequency": 2,
+      "importance": 2,
+      "pronunciation": "/mi.re.'a.sə/",
+      "tags": [
+        "family",
+        "marriage"
+      ],
+      "relatedWords": [
+        "mire",
+        "nuntă"
+      ]
+    },
+    {
+      "id": "v02_027",
+      "word": "a divorța",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to divorce / to get divorced",
+      "translationRo": "a divorța",
+      "exampleSentence": "Au divorțat acum doi ani.",
+      "exampleTranslation": "They got divorced two years ago.",
+      "frequency": 3,
+      "importance": 2,
+      "pronunciation": "/a di.vor.'tsa/",
+      "tags": [
+        "family",
+        "marriage",
+        "verb"
+      ],
+      "relatedWords": [
+        "a se căsători",
+        "soț",
+        "soție"
+      ]
+    },
+    {
+      "id": "v02_028",
+      "word": "rude",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "relatives",
+      "translationRo": "rude (f. pl.)",
+      "exampleSentence": "De sărbători se adună toate rudele.",
+      "exampleTranslation": "All the relatives gather for the holidays.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/'ru.de/",
+      "tags": [
+        "family",
+        "essential"
+      ],
+      "relatedWords": [
+        "familia",
+        "părinți"
+      ]
+    },
+    {
+      "id": "v02_029",
+      "word": "a naște",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to give birth",
+      "translationRo": "a naște",
+      "exampleSentence": "Sora mea a născut un băiețel.",
+      "exampleTranslation": "My sister gave birth to a baby boy.",
+      "frequency": 3,
+      "importance": 2,
+      "pronunciation": "/a 'nʃ.te/",
+      "tags": [
+        "family",
+        "verb"
+      ],
+      "relatedWords": [
+        "copil",
+        "bebeluș"
+      ]
+    },
+    {
+      "id": "v02_030",
+      "word": "bebeluș",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "baby",
+      "translationRo": "bebeluș (m.)",
+      "exampleSentence": "Bebelușul doarme toată ziua.",
+      "exampleTranslation": "The baby sleeps all day.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/be.be.'luʃ/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "copil",
+        "a naște"
+      ]
+    },
+    {
+      "id": "v02_031",
+      "word": "tată",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "father (formal)",
+      "translationRo": "tată (m.)",
+      "exampleSentence": "Tatăl meu este profesor universitar.",
+      "exampleTranslation": "My father is a university professor.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/ta.'tə/",
+      "tags": [
+        "family",
+        "formal"
+      ],
+      "relatedWords": [
+        "mama",
+        "părinți",
+        "tata"
+      ]
+    },
+    {
+      "id": "v02_032",
+      "word": "mamă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "mother (formal)",
+      "translationRo": "mamă (f.)",
+      "exampleSentence": "Mama mea lucrează ca asistentă medicală.",
+      "exampleTranslation": "My mother works as a nurse.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/ma.'mə/",
+      "tags": [
+        "family",
+        "formal"
+      ],
+      "relatedWords": [
+        "tată",
+        "părinți",
+        "mama"
+      ]
+    },
+    {
+      "id": "v02_033",
+      "word": "adoptiv",
+      "partOfSpeech": "adjective",
+      "gender": "masculine",
+      "translationEn": "adoptive",
+      "translationRo": "adoptiv (m.) / adoptivă (f.)",
+      "exampleSentence": "Tatăl meu adoptiv este un om minunat.",
+      "exampleTranslation": "My adoptive father is a wonderful man.",
+      "frequency": 2,
+      "importance": 2,
+      "pronunciation": "/a.dop.'tiv/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "a adopta",
+        "copil"
+      ]
+    },
+    {
+      "id": "v02_034",
+      "word": "vitreg",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "stepfather",
+      "translationRo": "vitreg (m.)",
+      "exampleSentence": "Vitregul meu locuiește cu noi.",
+      "exampleTranslation": "My stepfather lives with us.",
+      "frequency": 1,
+      "importance": 2,
+      "pronunciation": "/'vi.treɡ/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "mamă vitregă",
+        "a recăsători"
+      ]
+    },
+    {
+      "id": "v02_035",
+      "word": "mamă vitregă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "stepmother",
+      "translationRo": "mamă vitregă (f.)",
+      "exampleSentence": "Mama vitregă este foarte bună cu mine.",
+      "exampleTranslation": "My stepmother is very kind to me.",
+      "frequency": 1,
+      "importance": 2,
+      "pronunciation": "/ma'ma vi.'tre.gă/",
+      "tags": [
+        "family"
+      ],
+      "relatedWords": [
+        "vitreg",
+        "a recăsători"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "p02_001",
+      "phrase": "Te iubesc!",
+      "translationEn": "I love you! (informal singular)",
+      "context": "Said to close family members, partners, children",
+      "formality": "informal",
+      "exampleResponse": "Și eu te iubesc!"
+    },
+    {
+      "id": "p02_002",
+      "phrase": "Ce frate ai!",
+      "translationEn": "What a brother you are! (expression of gratitude)",
+      "context": "Colloquial expression used when someone does you a big favor",
+      "formality": "informal",
+      "exampleResponse": "Nici nu-i vorbă!"
+    },
+    {
+      "id": "p02_003",
+      "phrase": "E ca familia mea.",
+      "translationEn": "He/she is like family to me.",
+      "context": "Describing a very close friend",
+      "formality": "neutral",
+      "exampleResponse": "Da, e un om deosebit."
+    },
+    {
+      "id": "p02_004",
+      "phrase": "Ne vedem la nuntă!",
+      "translationEn": "See you at the wedding!",
+      "context": "When a family member or friend is getting married",
+      "formality": "neutral",
+      "exampleResponse": "Da, abia aștept!"
+    },
+    {
+      "id": "p02_005",
+      "phrase": "Să ne vedem în familie.",
+      "translationEn": "Let's have a family gathering.",
+      "context": "Proposing a get-together with relatives",
+      "formality": "neutral",
+      "exampleResponse": "Bine, anunț și pe ceilalți."
+    }
+  ]
+}

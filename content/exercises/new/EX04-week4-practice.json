@@ -1,0 +1,197 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX04-week4-practice",
+  "title": "Present Tense Practice — All 4 Conjugations",
+  "titleRo": "Exerciții de Prezent — Toate cele 4 Conjugări",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G09-present-tense"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice conjugating Romanian verbs in the present tense across all four conjugation groups. These exercises mix regular and irregular verbs, context-based selection, error correction, a free writing task, and translation. Focus on accuracy with diacritics and correct subject-verb agreement.",
+  "instructionsRo": "Exersează conjugarea verbelor românești la prezent pentru toate cele patru conjugări. Aceste exerciții combină verbe regulate și neregulate, alegere pe bază de context, corectare a greșelilor, o sarcină de scriere liberă și traducere. Concentrează-te pe acuratețea diacriticelor și acordul corect subiect-verb.",
+  "sourceWeek": 4,
+  "exercises": [
+    {
+      "id": "ex04_001",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a locui' (to live) for 'ea': Ea ___ în București de doi ani.",
+      "promptRo": "Conjugă 'a locui' pentru 'ea': Ea ___ în București de doi ani.",
+      "sentence": "Ea ___ în București de doi ani.",
+      "answer": "locuiește",
+      "acceptableAnswers": [
+        "locuiește"
+      ],
+      "explanation": "'A locui' is a 4th conjugation verb (-ui subgroup). Present: eu locuiesc, tu locuiești, el/ea locuiește, noi locuim, voi locuiți, ei/ele locuiesc. The -esc/-ești/-ește pattern is typical for many 4th conjugation verbs.",
+      "explanationRo": "'A locui' este un verb de conjugarea a IV-a (subgrupul -ui). Prezent: eu locuiesc, tu locuiești, el/ea locuiește, noi locuim, voi locuiți, ei/ele locuiesc. Tiparul -esc/-ești/-ește este tipic pentru multe verbe de conjugarea a IV-a."
+    },
+    {
+      "id": "ex04_002",
+      "type": "fill-blank",
+      "prompt": "Conjugate the irregular verb 'a merge' (to go) for 'voi': Voi ___ la film diseară.",
+      "promptRo": "Conjugă verbul neregulat 'a merge' pentru 'voi': Voi ___ la film diseară.",
+      "sentence": "Voi ___ la film diseară.",
+      "answer": "mergeți",
+      "acceptableAnswers": [
+        "mergeți"
+      ],
+      "explanation": "'A merge' is a 3rd conjugation verb (-e). Present: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg. For 'voi' (2nd person plural), the form is 'mergeți'.",
+      "explanationRo": "'A merge' este un verb de conjugarea a III-a (-e). Prezent: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg. Pentru 'voi' (persoana a II-a plural), forma este 'mergeți'."
+    },
+    {
+      "id": "ex04_003",
+      "type": "fill-blank",
+      "prompt": "Conjugate the 2nd conjugation verb 'a aștepta' (to wait) for 'tu': Tu ___ autobuzul la stație.",
+      "promptRo": "Conjugă verbul de conjugarea I 'a aștepta' pentru 'tu': Tu ___ autobuzul la stație.",
+      "sentence": "Tu ___ autobuzul la stație.",
+      "answer": "aștepți",
+      "acceptableAnswers": [
+        "aștepți"
+      ],
+      "explanation": "'A aștepta' is a 2nd conjugation verb (-ea subgroup). Present: eu aștept, tu aștepți, el/ea așteaptă, noi așteptăm, voi așteptați, ei/ele așteaptă. For 'tu' (2nd person singular), the form is 'aștepți'.",
+      "explanationRo": "'A aștepta' este un verb de conjugarea a II-a (subgrupul -ea). Prezent: eu aștept, tu aștepți, el/ea așteaptă, noi așteptăm, voi așteptați, ei/ele așteaptă. Pentru 'tu' (persoana a II-a singular), forma este 'aștepți'."
+    },
+    {
+      "id": "ex04_004",
+      "type": "fill-blank",
+      "prompt": "Conjugate the irregular verb 'a fi' (to be) for 'ei': Ei ___ profesori la liceu.",
+      "promptRo": "Conjugă verbul neregulat 'a fi' pentru 'ei': Ei ___ profesori la liceu.",
+      "sentence": "Ei ___ profesori la liceu.",
+      "answer": "sunt",
+      "acceptableAnswers": [
+        "sunt"
+      ],
+      "explanation": "'A fi' is highly irregular. Present: eu sunt, tu ești, el/ea este, noi suntem, voi sunteți, ei/ele sunt. For 'ei' (3rd person plural), the form is 'sunt' — the same as 'eu'. Context always clarifies who is meant.",
+      "explanationRo": "'A fi' este foarte neregulat. Prezent: eu sunt, tu ești, el/ea este, noi suntem, voi sunteți, ei/ele sunt. Pentru 'ei' (persoana a III-a plural), forma este 'sunt' — aceeași cu 'eu'. Contextul clarifică mereu cine este la subiect."
+    },
+    {
+      "id": "ex04_005",
+      "type": "fill-blank",
+      "prompt": "Conjugate the 1st conjugation verb 'a călători' (to travel) for 'noi': Noi ___ în vacanță vara.",
+      "promptRo": "Conjugă verbul de conjugarea a IV-a 'a călători' pentru 'noi': Noi ___ în vacanță vara.",
+      "sentence": "Noi ___ în vacanță vara.",
+      "answer": "călătorim",
+      "acceptableAnswers": [
+        "călătorim"
+      ],
+      "explanation": "'A călători' is a 1st conjugation verb (-a). For 'noi' (1st person plural), the ending is '-im': călătorim. Full conjugation: eu călătoresc, tu călătorești, el/ea călătorește, noi călătorim, voi călătoriți, ei/ele călătoresc.",
+      "explanationRo": "'A călători' este un verb de conjugarea I (-a). Pentru 'noi' (persoana I plural), terminația este '-im': călătorim. Conjugarea completă: eu călătoresc, tu călătorești, el/ea călătorește, noi călătorim, voi călătoriți, ei/ele călătoresc."
+    },
+    {
+      "id": "ex04_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb form: 'Copiii ___ în parc acum.' (a juca — to play)",
+      "promptRo": "Alege forma corectă a verbului: 'Copiii ___ în parc acum.' (a juca)",
+      "answer": "joacă",
+      "options": [
+        "joacă",
+        "jucă",
+        "joac",
+        "joc"
+      ],
+      "explanation": "'A juca' is a 1st conjugation verb with a vowel shift (a → o in some forms). For 'copiii' (3rd person plural), the correct form is 'joacă'. Full conjugation: eu joc, tu joci, el/ea joacă, noi jucăm, voi jucați, ei/ele joacă.",
+      "explanationRo": "'A juca' este un verb de conjugarea I cu schimbare de vocală (a → o în unele forme). Pentru 'copiii' (persoana a III-a plural), forma corectă este 'joacă'. Conjugarea completă: eu joc, tu joci, el/ea joacă, noi jucăm, voi jucați, ei/ele joacă.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex04_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb form: 'Tatăl meu ___ ziarul în fiecare dimineață.' (a citi — to read)",
+      "promptRo": "Alege forma corectă a verbului: 'Tatăl meu ___ ziarul în fiecare dimineață.' (a citi)",
+      "answer": "citește",
+      "options": [
+        "citește",
+        "citi",
+        "citesc",
+        "cită"
+      ],
+      "explanation": "'A citi' is a 4th conjugation verb (-i). For 'tătăl meu' (3rd person singular masculine), the correct form is 'citește'. Full conjugation: eu citesc, tu citești, el/ea citește, noi citim, voi citiți, ei/ele citesc.",
+      "explanationRo": "'A citi' este un verb de conjugarea a IV-a (-i). Pentru 'tătăl meu' (persoana a III-a singular masculin), forma corectă este 'citește'. Conjugarea completă: eu citesc, tu citești, el/ea citește, noi citim, voi citiți, ei/ele citesc.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex04_008",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb form: 'Noi ___ frumos la pian.' (a cânta — to sing/play an instrument)",
+      "promptRo": "Alege forma corectă a verbului: 'Noi ___ frumos la pian.' (a cânta)",
+      "answer": "cântăm",
+      "options": [
+        "cântăm",
+        "cântați",
+        "cântă",
+        "cânt"
+      ],
+      "explanation": "'A cânta' is a 1st conjugation verb (-a). For 'noi' (1st person plural), the correct form is 'cântăm'. The ending '-ăm' is typical for the 1st person plural in the 1st conjugation.",
+      "explanationRo": "'A cânta' este un verb de conjugarea I (-a). Pentru 'noi' (persoana I plural), forma corectă este 'cântăm'. Terminația '-ăm' este tipică pentru persoana I plural la conjugarea I.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex04_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the conjugation error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de conjugare din această propoziție:",
+      "sentence": "Ei locuiește într-un apartament mic.",
+      "answer": "Ei locuiesc într-un apartament mic.",
+      "explanation": "The error is 'locuiește' — this is the 3rd person singular form. For 'ei' (3rd person plural), 'a locui' takes the form 'locuiesc'. Correct: Ei locuiesc.",
+      "explanationRo": "Greșeala este 'locuiește' — aceasta este forma persoanei a III-a singular. Pentru 'ei' (persoana a III-a plural), 'a locui' ia forma 'locuiesc'. Corect: Ei locuiesc.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex04_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the conjugation error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de conjugare din această propoziție:",
+      "sentence": "Tu sunt foarte obosit azi.",
+      "answer": "Tu ești foarte obosit azi.",
+      "explanation": "The error is 'sunt' — for 'tu' (2nd person singular), the irregular verb 'a fi' has the form 'ești', not 'sunt'. 'Sunt' is for 'eu' and 'ei/ele'. Correct: Tu ești.",
+      "explanationRo": "Greșeala este 'sunt' — pentru 'tu' (persoana a II-a singular), verbul neregulat 'a fi' are forma 'ești', nu 'sunt'. 'Sunt' este pentru 'eu' și 'ei/ele'. Corect: Tu ești.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex04_011",
+      "type": "writing",
+      "prompt": "Describe your daily routine (rutina zilnică) using the present tense. Write 8-10 sentences about what you do from morning to evening. Use at least 4 different conjugation groups and at least 2 irregular verbs (a fi, a avea, a vrea, a merge, or a ști). Include reflexive verbs if possible (a se trezi, a se spăla, etc.).",
+      "promptRo": "Descrie rutina ta zilnică folosind timpul prezent. Scrie 8-10 propoziții despre ce faci de dimineața până seara. Folosește cel puțin 4 conjugări diferite și cel puțin 2 verbe neregulate (a fi, a avea, a vrea, a merge sau a ști). Include verbe reflexive, dacă este posibil (a se trezi, a se spăla etc.).",
+      "answer": "Model answer:\n\nÎn fiecare dimineață, mă trezesc la ora șapte. Mă spăl pe față și mă îmbrac repede. Apoi fac micul dejun — beau o cafea și mănânc pâine cu unt. La ora opt, merg la universitate, pentru că sunt student. Acolo ascult cursuri și învăț pentru examene. La prânz, mănânc la cantina universității împreună cu prietenii mei. După-amiaza, citesc cărți la bibliotecă sau lucrez la proiecte. Seara, mă întorc acasă și gătesc cina. Înainte de culcare, vizionez un film sau vorbesc cu familia la telefon. Apoi mă culc la ora unsprezece.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Verb Conjugation",
+            "description": "Correct conjugation of verbs across different conjugation groups (-a, -ea, -e, -i/-î) and proper use of irregular verbs (a fi, a avea, a vrea, a merge, a ști)",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Appropriate daily routine vocabulary (rutină zilnică, dimineață, seara, mic dejun, cină, universitate, etc.)",
+            "maxPoints": 2
+          },
+          {
+            "name": "Subject-Verb Agreement",
+            "description": "Correct agreement between subject and verb form for all persons and numbers, including proper use of reflexive pronouns",
+            "maxPoints": 3
+          },
+          {
+            "name": "Fluency",
+            "description": "Natural flow of sentences, correct word order, logical sequence of daily activities, and proper use of connectors (apoi, după aceea, seara, înainte de)",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      },
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex04_012",
+      "type": "translation",
+      "prompt": "Translate the following Romanian sentences into English:\n1. Eu merg la piață în fiecare sâmbătă.\n2. Ei au un câine mare și alb.\n3. Tu înțelegi limba română foarte bine.",
+      "promptRo": "Traduce următoarele propoziții din română în engleză:\n1. Eu merg la piață în fiecare sâmbătă.\n2. Ei au un câine mare și alb.\n3. Tu înțelegi limba română foarte bine.",
+      "answer": "1. I go to the market every Saturday.\n2. They have a big white dog.\n3. You understand the Romanian language very well.",
+      "acceptableAnswers": [
+        "1. I go to the market every Saturday.\n2. They have a big white dog.\n3. You understand the Romanian language very well."
+      ],
+      "explanation": "Sentence 1 uses 'a merge' (3rd conj.): 'merg' for 'eu'. Sentence 2 uses 'a avea' (irregular): 'au' for 'ei' (3rd pl). Sentence 3 uses 'a înțelege' (3rd conj.): 'înțelegi' for 'tu' (2nd sg). All are in the present tense.",
+      "explanationRo": "Propoziția 1 folosește 'a merge' (conj. a III-a): 'merg' pentru 'eu'. Propoziția 2 folosește 'a avea' (neregulat): 'au' pentru 'ei' (3 pl). Propoziția 3 folosește 'a înțelege' (conj. a III-a): 'înțelegi' pentru 'tu' (2 sg). Toate sunt la prezent."
+    }
+  ]
+}

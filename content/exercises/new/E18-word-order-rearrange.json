@@ -1,0 +1,216 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E18-word-order-rearrange",
+  "title": "Rearanjarea Cuvintelor",
+  "titleRo": "Exerciții de Rearanjare a Cuvintelor",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Rearrange the words to form a correct Romanian sentence. Pay attention to the default SVO order and the emphasis patterns discussed in the word order lesson.",
+  "instructionsRo": "Rearanjați cuvintele pentru a forma o propoziție corectă în română. Acordați atenție ordinii de bază SVO și modelelor de accent discutate în lecția despre ordinea cuvintelor.",
+  "sourceWeek": 10,
+  "exercises": [
+    {
+      "id": "e18_001",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă:",
+      "words": [
+        "Maria",
+        "citește",
+        "cartea",
+        "în fiecare",
+        "seară"
+      ],
+      "answer": "Maria citește cartea în fiecare seară.",
+      "acceptableAnswers": [
+        "Maria citește cartea în fiecare seară.",
+        "În fiecare seară, Maria citește cartea."
+      ],
+      "explanation": "Default SVO: Subject (Maria) + Verb (citește) + Object (cartea) + Time adverbial (în fiecare seară). Moving the time to the front is also correct for topicalization.",
+      "explanationRo": "SVO implicit: Subiect (Maria) + Verb (citește) + Obiect (cartea) + Adverbial de timp (în fiecare seară). Mutarea timpului la început este de asemenea corectă pentru tematizare."
+    },
+    {
+      "id": "e18_002",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă:",
+      "words": [
+        "Un",
+        "accident",
+        "s-a întâmplat",
+        "pe",
+        "șosea",
+        "ieri"
+      ],
+      "answer": "Un accident s-a întâmplat pe șosea ieri.",
+      "acceptableAnswers": [
+        "Un accident s-a întâmplat pe șosea ieri.",
+        "Ieri s-a întâmplat un accident pe șosea.",
+        "Pe șosea s-a întâmplat un accident ieri."
+      ],
+      "explanation": "The subject 'un accident' comes after the reflexive verb 's-a întâmplat'. This VSO/inverted pattern is common in news-style reporting. Time adverbial 'ieri' goes at the end.",
+      "explanationRo": "Subiectul 'un accident' vine după verbul reflexiv 's-a întâmplat'. Acest model VSO/inversat este comun în stilul de știri. Adverbialul de timp 'ieri' merge la sfârșit."
+    },
+    {
+      "id": "e18_003",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă:",
+      "words": [
+        "Ea",
+        "vorbește",
+        "foarte",
+        "bine",
+        "românește"
+      ],
+      "answer": "Ea vorbește foarte bine românește.",
+      "acceptableAnswers": [
+        "Ea vorbește foarte bine românește."
+      ],
+      "explanation": "SVO + adverb of manner: Ea (S) + vorbește (V) + foarte bine (manner adverb) + românește (adverb modifying the verb). Manner adverbs go after the verb.",
+      "explanationRo": "SVO + adverb de mod: Ea (S) + vorbește (V) + foarte bine (adverb de mod) + românește (adverb ce modifică verbul). Adverbele de mod merg după verb."
+    },
+    {
+      "id": "e18_004",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a question:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o întrebare:",
+      "words": [
+        "Veți",
+        "veni",
+        "mâine",
+        "la",
+        "petrecere"
+      ],
+      "answer": "Veți veni mâine la petrecere?",
+      "acceptableAnswers": [
+        "Veți veni mâine la petrecere?",
+        "Mâine veți veni la petrecere?"
+      ],
+      "explanation": "Yes/no question with subject-verb inversion: Verb (Veți) + Subject (implied 'voi') + time (mâine) + place (la petrecere). In Romanian yes/no questions, the verb often comes first.",
+      "explanationRo": "Întrebare da/nu cu inversiune subiect-verb: Verb (Veți) + Subiect (subînțeles 'voi') + timp (mâine) + loc (la petrecere). În întrebările da/nu în română, verbul vine adesea primul."
+    },
+    {
+      "id": "e18_005",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence (this is topicalized):",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă (aceasta este tematizată):",
+      "words": [
+        "Această",
+        "carte",
+        "am",
+        "citit-o"
+      ],
+      "answer": "Această carte am citit-o.",
+      "acceptableAnswers": [
+        "Această carte am citit-o."
+      ],
+      "explanation": "Topicalization OSV: Object (Această carte) + Subject/Verb (am citit) + clitic (o). The object moves to the front for emphasis, and the clitic 'o' stays before the participle.",
+      "explanationRo": "Tematizare OSV: Obiect (Această carte) + Subiect/Verb (am citit) + clitic (o). Obiectul se mută la început pentru accent, iar cliticul 'o' rămâne înaintea participiului."
+    },
+    {
+      "id": "e18_006",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă:",
+      "words": [
+        "Andrei",
+        "a",
+        "cumpărat",
+        "un",
+        "calculator",
+        "nou"
+      ],
+      "answer": "Andrei a cumpărat un calculator nou.",
+      "acceptableAnswers": [
+        "Andrei a cumpărat un calculator nou.",
+        "Un calculator nou a cumpărat Andrei."
+      ],
+      "explanation": "Standard SVO: Subject (Andrei) + Verb (a cumpărat) + Object (un calculator nou). The adjective 'nou' follows the noun 'calculator'.",
+      "explanationRo": "SVO standard: Subiect (Andrei) + Verb (a cumpărat) + Obiect (un calculator nou). Adjectivul 'nou' urmează substantivul 'calculator'."
+    },
+    {
+      "id": "e18_007",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct question:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o întrebare corectă:",
+      "words": [
+        "Unde",
+        "s-a",
+        "petrecut",
+        "accidentul"
+      ],
+      "answer": "Unde s-a petrecut accidentul?",
+      "acceptableAnswers": [
+        "Unde s-a petrecut accidentul?"
+      ],
+      "explanation": "Information question: Question word (Unde) + reflexive verb (s-a petrecut) + Subject (accidentul). The question word always comes first in Romanian.",
+      "explanationRo": "Întrebare cu informație: Cuvânt interogativ (Unde) + verb reflexiv (s-a petrecut) + Subiect (accidentul). Cuvântul interogativ vine mereu primul în română."
+    },
+    {
+      "id": "e18_008",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence with correct clitic placement:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă cu plasarea corectă a pronumelor clitice:",
+      "words": [
+        "Mama",
+        "mi-a",
+        "dăruit",
+        "o",
+        "carte"
+      ],
+      "answer": "Mama mi-a dăruit o carte.",
+      "acceptableAnswers": [
+        "Mama mi-a dăruit o carte.",
+        "O carte mi-a dăruit mama."
+      ],
+      "explanation": "SVO with clitics: Subject (Mama) + Dative clitic (mi-) + auxiliary (a) + Verb (dăruit) + Direct object (o carte). Clitics go before the verb phrase.",
+      "explanationRo": "SVO cu clitice: Subiect (Mama) + Clitic dativ (mi-) + auxiliar (a) + Verb (dăruit) + Obiect direct (o carte). Cliticele merg înaintea expresiei verbale."
+    },
+    {
+      "id": "e18_009",
+      "type": "rearrange",
+      "prompt": "Rearrange to form: A plouat toată ziua.",
+      "promptRo": "Rearanjați pentru a forma: A plouat toată ziua.",
+      "words": [
+        "A",
+        "plouat",
+        "toată",
+        "ziua"
+      ],
+      "answer": "A plouat toată ziua.",
+      "acceptableAnswers": [
+        "A plouat toată ziua."
+      ],
+      "explanation": "VSO order emphasizes the action of raining: 'A plouat' (verb) + 'toată ziua' (duration). The subject is implied.",
+      "explanationRo": "Ordinea VSO pune accent pe acțiunea de a ploua: 'A plouat' (verb) + 'toată ziua' (durata). Subiectul este subînțeles."
+    },
+    {
+      "id": "e18_010",
+      "type": "rearrange",
+      "prompt": "Rearrange these words to form a correct sentence:",
+      "promptRo": "Rearanjați aceste cuvinte pentru a forma o propoziție corectă:",
+      "words": [
+        "Am",
+        "întâlnit-o",
+        "pe",
+        "Ilinca",
+        "ieri",
+        "pe",
+        "stradă"
+      ],
+      "answer": "Am întâlnit-o pe Ilinca ieri pe stradă.",
+      "acceptableAnswers": [
+        "Am întâlnit-o pe Ilinca ieri pe stradă.",
+        "Ieri am întâlnit-o pe Ilinca pe stradă.",
+        "Pe Ilinca am întâlnit-o ieri pe stradă."
+      ],
+      "explanation": "Subject is implied. Auxiliary 'am' + participle 'întâlnit' + clitic 'o' (feminine, for 'Ilinca') + stressed pronoun 'pe Ilinca' + time 'ieri' + place 'pe stradă'. Since 'Ilinca' is feminine, the clitic is 'o', not 'l-'.",
+      "explanationRo": "Subiectul este subînțeles. Auxiliar 'am' + participiu 'întâlnit' + clitic 'o' (feminin, pentru 'Ilinca') + pronume accentuat 'pe Ilinca' + timp 'ieri' + loc 'pe stradă'. Deoarece 'Ilinca' este feminin, cliticul este 'o', nu 'l-'."
+    }
+  ]
+}

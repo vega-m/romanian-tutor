@@ -1,0 +1,199 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX10-week10-practice",
+  "title": "Week 10 Practice: Word Order, Numerals and Register",
+  "titleRo": "Exerciții Săptămâna 10: Ordinea Cuvintelor, Numerale și Registru",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G18-word-order",
+    "G19-numerals",
+    "G20-register"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice Romanian word order, numerals and formal vs. informal register. These exercises include fill-in-the-blank, multiple-choice, error correction, a writing task and translation. Focus on correct word order patterns, numeral agreement, and choosing the appropriate register for different situations.",
+  "instructionsRo": "Exersează ordinea cuvintelor, numeralele și registrul formal vs. informal în limba română. Aceste exerciții includ completare de spații, alegere multiplă, corectare a greșelilor, o sarcină de scriere și traducere. Concentrează-te pe tiparele corecte de ordine a cuvintelor, acordul numeralelor și alegerea registrului potrivit pentru situații diferite.",
+  "sourceWeek": 10,
+  "exercises": [
+    {
+      "id": "ex10_001",
+      "type": "fill-blank",
+      "prompt": "Place the adverb in the correct position: I always drink coffee in the morning.",
+      "promptRo": "Plasați adverbul în poziția corectă: Întotdeauna beau cafea dimineața.",
+      "sentence": "Eu _____ beau cafea dimineața.",
+      "answer": "întotdeauna",
+      "acceptableAnswers": [
+        "întotdeauna",
+        "totdeauna"
+      ],
+      "explanation": "In Romanian, adverbs of frequency like 'întotdeauna' (always) typically go before the verb. Subject pronouns can be omitted, but when included, the adverb is placed between the subject and the verb.",
+      "explanationRo": "În limba română, adverbele de frecvență precum 'întotdeauna' se plasează de obicei înaintea verbului. Pronumele subiect pot fi omise, dar când sunt incluse, adverbul se pune între subiect și verb."
+    },
+    {
+      "id": "ex10_002",
+      "type": "fill-blank",
+      "prompt": "Write the correct cardinal numeral form for 23 girls.",
+      "promptRo": "Scrieți forma corectă a numeralului cardinal pentru 23 de fete.",
+      "sentence": "În clasă sunt _____ fete.",
+      "answer": "douăzeci și trei de",
+      "acceptableAnswers": [
+        "douăzeci și trei de",
+        "23 de",
+        "23"
+      ],
+      "explanation": "The numeral 23 in Romanian is 'douăzeci și trei'. When counting feminine nouns like 'fete', the numeral is followed by the preposition 'de'. Cardinal numerals from 20 upwards are formed with 'și' (and) between tens and units.",
+      "explanationRo": "Numeralul 23 în limba română este 'douăzeci și trei'. Când numărăm substantive feminine precum 'fete', numeralul este urmat de prepoziția 'de'. Numeralele cardinale de la 20 în sus se formează cu 'și' între zeci și unități."
+    },
+    {
+      "id": "ex10_003",
+      "type": "fill-blank",
+      "prompt": "Choose the register-appropriate pronoun for a formal letter to a university professor.",
+      "promptRo": "Alegeți pronumele potrivit registrului formal pentru o scrisoare către un profesor universitar.",
+      "sentence": "Stimate domnule profesor, _____ scriu pentru a vă solicita o întâlnire.",
+      "answer": "vă",
+      "acceptableAnswers": [
+        "vă",
+        "Vă"
+      ],
+      "explanation": "In formal register, the polite pronoun 'vă' (dative of 'dumneavoastră') is used. The informal 'îți' would be inappropriate when addressing a professor. Formal Romanian uses 'dumneavoastră' forms consistently.",
+      "explanationRo": "În registru formal, se folosește pronumele politicos 'vă' (dativ de 'dumneavoastră'). Formularul informal 'îți' nu ar fi potrivit când vă adresați unui profesor. Româna formală folosește consistent formele de 'dumneavoastră'."
+    },
+    {
+      "id": "ex10_004",
+      "type": "fill-blank",
+      "prompt": "Write the correct ordinal numeral for 'the 1st of May'.",
+      "promptRo": "Scrieți numeralul ordinal corect pentru 'primul mai'.",
+      "sentence": "Sărbătorim _____ mai Ziua Muncii.",
+      "answer": "pe",
+      "acceptableAnswers": [
+        "pe"
+      ],
+      "explanation": "When expressing dates in Romanian, the preposition 'pe' is used before the ordinal numeral. The full form is 'pe primul mai' (the 1st of May). Ordinal numerals agree in gender, number and case with the noun they modify.",
+      "explanationRo": "Când exprimăm date în limba română, se folosește prepoziția 'pe' înaintea numeralului ordinal. Forma completă este 'pe primul mai'. Numeralele ordinale acordă în gen, număr și caz cu substantivul pe care îl determină."
+    },
+    {
+      "id": "ex10_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the correct word order for emphasizing the object?",
+      "promptRo": "Care propoziție folosește ordinea corectă a cuvintelor pentru a sublinia obiectul?",
+      "answer": "Cartea aceasta o citesc eu, nu altcineva.",
+      "options": [
+        "Eu citesc cartea aceasta, nu altcineva.",
+        "Cartea aceasta o citesc eu, nu altcineva.",
+        "Eu cartea citesc aceasta, nu altcineva.",
+        "Citesc eu cartea aceasta, nu altcineva."
+      ],
+      "explanation": "In Romanian, topicalization (bringing the emphasized element to the front) is common. 'Cartea aceasta o citesc eu' places the object at the beginning for emphasis, with the clitic pronoun 'o' before the verb. This is a neutral and natural way to emphasize the object.",
+      "explanationRo": "În limba română, topicalizarea (aducerea elementului subliniat la început) este frecventă. 'Cartea aceasta o citesc eu' plasează obiectul la început pentru accent, cu pronumele clitic 'o' înaintea verbului. Aceasta este o modalitate neutră și naturală de a sublinia obiectul."
+    },
+    {
+      "id": "ex10_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct formal register sentence to request information at a government office.",
+      "promptRo": "Alegeți propoziția cu registru formal corect pentru a cere informații la un birou guvernamental.",
+      "answer": "Aș dori, vă rog, să mă informați în legătură cu programul de lucru.",
+      "options": [
+        "Aș dori, vă rog, să mă informați în legătură cu programul de lucru.",
+        "Dă-mi voie să-ți întreb ce program aveți.",
+        "Zi-mi și mie când deschideți, că vreau ceva.",
+        "Hei, ce program aveți aici?"
+      ],
+      "explanation": "The first option uses formal register with 'aș dori' (I would like), 'vă rog' (please), and the polite 'să mă informați' (to inform me). The other options use informal or rude language ('dă-mi', 'zi-mi', 'hei') which is completely inappropriate for a government office.",
+      "explanationRo": "Prima opțiune folosește registru formal cu 'aș dori', 'vă rog' și forma politicoasă 'să mă informați'. Celelalte opțiuni folosesc un limbaj informal sau nepoliticos ('dă-mi', 'zi-mi', 'hei'), care este complet nepotrivit pentru un birou guvernamental."
+    },
+    {
+      "id": "ex10_007",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct form of the ordinal numeral 'the 12th' in the phrase 'the 12th chapter'?",
+      "promptRo": "Care este forma corectă a numeralului ordinal 'al 12-lea' în expresia 'capitolul al 12-lea'?",
+      "answer": "capitolul al doisprezecelea",
+      "options": [
+        "capitolul al douăsprezecelea",
+        "capitolul al doisprezecelea",
+        "capitolul de douăsprezecelea",
+        "capitolul doisprezecelea"
+      ],
+      "explanation": "The correct ordinal form for 12 when modifying a masculine or neuter noun like 'capitolul' is 'al doisprezecelea'. 'Douăsprezecelea' would be used for feminine nouns (e.g., a douăsprezecea parte).",
+      "explanationRo": "Forma ordinală corectă pentru 12 când determină un substantiv masculin sau neutru precum 'capitolul' este 'al doisprezecelea'. 'Douăsprezecelea' s-ar folosi pentru substantive feminine (ex: a douăsprezecea parte)."
+    },
+    {
+      "id": "ex10_008",
+      "type": "error-correction",
+      "prompt": "Identify and correct the register error in this sentence written to a university rector.",
+      "promptRo": "Identificați și corectați eroarea de registru din această propoziție scrisă unui rector universitar.",
+      "sentence": "Stimate domnule rector, te rog să-mi trimiți actele cât mai repede.",
+      "answer": "Stimate domnule rector, vă rog să-mi trimiteți actele cât mai repede.",
+      "explanation": "The error is the use of informal 'te rog' and 'trimiți' (2nd person singular) instead of the formal 'vă rog' and 'trimiteți' (2nd person polite/plural). When addressing someone formally with 'Stimate domnule', the entire sentence must maintain formal register.",
+      "explanationRo": "Eroarea constă în folosirea formelor informale 'te rog' și 'trimiți' (persoana a 2-a singular) în loc de formele formale 'vă rog' și 'trimiteți' (persoana a 2-a polite/plural). Când vă adresați formal cu 'Stimate domnule', întreaga propoziție trebuie să mențină registrul formal."
+    },
+    {
+      "id": "ex10_009",
+      "type": "error-correction",
+      "prompt": "Correct the numeral agreement error in this sentence.",
+      "promptRo": "Corectați eroarea de acordare a numeralului din această propoziție.",
+      "sentence": "Am cumpărat trei cărți frumoasă de la librărie.",
+      "answer": "Am cumpărat trei cărți frumoase de la librărie.",
+      "explanation": "The error is 'frumoasă' (feminine singular) instead of 'frumoase' (feminine plural). When a numeral greater than 1 quantifies a noun, both the noun and any attributive adjectives must be in the plural form. 'Cărți' is correctly plural, but the adjective must also be plural: 'frumoase'.",
+      "explanationRo": "Eroarea este 'frumoasă' (feminin singular) în loc de 'frumoase' (feminin plural). Când un numeral mai mare decât 1 determină un substantiv, atât substantivul, cât și adjectivele atributive trebuie să fie la plural. 'Cărți' este corect la plural, dar adjectivul trebuie și el la plural: 'frumoase'."
+    },
+    {
+      "id": "ex10_010",
+      "type": "error-correction",
+      "prompt": "Correct the word order error in this Romanian sentence.",
+      "promptRo": "Corectați eroarea de ordine a cuvintelor din această propoziție română.",
+      "sentence": "Maria a dat ieri marilor ei prieteni un cadou frumos.",
+      "answer": "Maria le-a dat ieri marilor ei prieteni un cadou frumos.",
+      "explanation": "The error is the missing clitic pronoun 'le' (indirect object, 3rd person plural). In Romanian, when an indirect object is expressed, a corresponding clitic pronoun must precede the verb. The correct word order is: subject + clitic pronoun + verb: 'Maria le-a dat'. The dative clitic 'le' refers to 'marilor ei prieteni'.",
+      "explanationRo": "Eroarea este absența pronumelui clitic 'le' (complement indirect, persoana a 3-a plural). În limba română, când un complement indirect este exprimat, un pronume clitic corespunzător trebuie să precedă verbul. Ordinea corectă este: subiect + pronume clitic + verb: 'Maria le-a dat'. Cliticul dativ 'le' se referă la 'marilor ei prieteni'."
+    },
+    {
+      "id": "ex10_011",
+      "type": "writing",
+      "prompt": "Write a formal email to Professor Ionescu requesting a meeting to discuss your thesis topic. Include a polite greeting, the purpose of your email, a suggested time, and a formal closing. Use formal register throughout.",
+      "promptRo": "Scrieți un email formal profesorului Ionescu pentru a solicita o întâlnire de discutat tema de licență. Includeți un salut politicos, scopul emailului, o oră propusă și o încheiere formală. Folosiți registru formal pe tot parcursul.",
+      "answer": "Stimate domnule profesor Ionescu,\n\nVă scriu pentru a vă adresa o rugăminte respectuoasă. Aș dori să vă solicit o întâlnire pentru a discuta despre tema lucrării mele de licență, pe care intenționez să o încep în acest semestru.\n\nAș fi recunoscător dacă ați fi disponibil săptămâna viitoare, eventual marți sau miercuri, la ora care vă convine cel mai bine. Vă pot prezenta câteva idei preliminare pe care le-am documentat până în prezent.\n\nVă mulțumesc anticipat pentru timpul și atenția acordate. Aștept cu interes răspunsul dumneavoastră.\n\nCu deosebită considerație,\n[Numele tău]",
+      "explanation": "This formal email demonstrates several key features of Romanian formal register: use of 'Stimate domnule profesor' (formal greeting), 'vă scriu' and 'aș dori' (polite forms), 'ați fi disponibil' (conditional polite), 'vă mulțumesc anticipat' (formal thank you), and 'Cu deosebită considerație' (formal closing). Avoid any informal pronouns (tu/îți) or colloquial expressions.",
+      "explanationRo": "Acest email formal demonstrează mai multe caracteristici cheie ale registrului formal în limba română: folosirea lui 'Stimate domnule profesor' (salut formal), 'vă scriu' și 'aș dori' (forme polite), 'ați fi disponibil' (condițional politicos), 'vă mulțumesc anticipat' (mulțumire formală) și 'Cu deosebită considerație' (încheiere formală). Evitați pronumele informale (tu/îți) sau expresiile colocviale.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Formal Register",
+            "description": "Consistent use of formal register: polite pronouns (dumneavoastră/vă), formal greeting and closing, conditional forms for requests, no informal language.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Appropriate academic/formal vocabulary (e.g., 'a adresa o rugăminte', 'a solicita', 'cu deosebită considerație') rather than colloquial alternatives.",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct grammar including proper use of subjunctive ('să discut', 'să încep'), clitic pronouns, and correct agreement.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Content",
+            "description": "All required elements present: polite greeting, purpose of email, suggested time, and formal closing.",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "ex10_012",
+      "type": "translation",
+      "direction": "ro-to-en",
+      "prompt": "Translate these three Romanian sentences into English, paying attention to register differences and numeral forms:\n1. Ați putea, vă rog, să-mi aduceți al 15-lea dosar de pe birou?\n2. Dă-mi 50 de lei, te rog, că mi-e foame!\n3. Aproximativ 200 de studenți au participat la conferința organizată de studenții din anul al treilea.",
+      "promptRo": "Traduceți aceste trei propoziții românești în engleză, acordând atenție diferențelor de registru și formelor numeralelor:\n1. Ați putea, vă rog, să-mi aduceți al 15-lea dosar de pe birou?\n2. Dă-mi 50 de lei, te rog, că mi-e foame!\n3. Aproximativ 200 de studenți au participat la conferința organizată de studenții din anul al treilea.",
+      "answer": "1. Could you please bring me the 15th file from the desk?\n2. Give me 50 lei, please, I'm hungry!\n3. Approximately 200 students participated in the conference organized by the third-year students.",
+      "acceptableAnswers": [
+        "1. Could you please bring me the fifteenth file from the desk?\n2. Give me fifty lei, please, I'm hungry!\n3. Approximately two hundred students participated in the conference organized by the third-year students.",
+        "1. Could you please bring me the 15th file from the desk?\n2. Give me 50 lei, please, I'm hungry!\n3. About 200 students participated in the conference organized by the 3rd-year students.",
+        "1. Could you please bring me the fifteenth file from the desk?\n2. Give me fifty lei, please, I'm hungry!\n3. About two hundred students participated in the conference organized by the third-year students."
+      ],
+      "explanation": "Sentence 1 uses formal register ('Ați putea' = conditional polite) and the ordinal numeral 'al 15-lea' (the 15th). Sentence 2 uses informal register ('Dă-mi' = imperative informal) and cardinal numeral '50' (cinzeci). Sentence 3 mixes neutral register with cardinal 'aproximativ 200' and ordinal 'al treilea' (the third). Notice how register shifts affect pronoun choice and verb forms.",
+      "explanationRo": "Propoziția 1 folosește registru formal ('Ați putea' = condițional politicos) și numeralul ordinal 'al 15-lea'. Propoziția 2 folosește registru informal ('Dă-mi' = imperativ informal) și numeralul cardinal '50' (cinzeci). Propoziția 3 combină registru neutru cu cardinalul 'aproximativ 200' și ordinalul 'al treilea'. Observați cum schimbările de registru afectează alegerea pronumelor și formele verbale."
+    }
+  ]
+}

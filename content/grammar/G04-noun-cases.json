@@ -1,0 +1,271 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G04-noun-cases",
+  "title": "Cazurile Substantivelor (Genitiv și Dativ)",
+  "titleEn": "Noun Cases (Genitive and Dative)",
+  "cefrLevel": "B1",
+  "prerequisites": ["G02-articles", "G03-noun-gender"],
+  "estimatedMinutes": 45,
+  "introduction": "The Romanian case system is the backbone of its sentence structure. Nouns change their form to show their grammatical function—whether they are the subject, the possessor, or the recipient of an action. Mastering these changes is essential for achieving B1 level syntactic clarity.",
+  "introductionRo": "Sistemul cazurilor este fundamentul structurii propoziției în limba română. Substantivele își schimbă forma pentru a indica funcția lor gramaticală — fie că sunt subiectul, posesorul sau beneficiarul unei acțiuni. Stăpânirea acestor modificări este esențială pentru claritatea sintactică la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Romanian Case System",
+      "headingRo": "Sistemul Cazurilor în Limba Română",
+      "content": "Romanian officially recognizes five cases, although they often share the same forms. The cases are grouped into pairs (Nominative-Accusative and Genitive-Dative) because they usually look identical for a given noun.",
+      "contentRo": "Limba română recunoaște oficial cinci cazuri, deși acestea împart adesea aceleași forme. Cazurile sunt grupate în perechi (Nominativ-Acuzativ și Genitiv-Dativ), deoarece, de regulă, au forme identice pentru un anumit substantiv.",
+      "table": {
+        "headers": ["Case", "Question", "Role", "Example"],
+        "rows": [
+          ["Nominativ", "Cine? Ce?", "Subject", "Băiatul merge. (The boy walks.)"],
+          ["Acuzativ", "Pe cine? Ce?", "Direct Object", "Văd băiatul. (I see the boy.)"],
+          ["Genitiv", "Al cui? Ale cui?", "Possession/Origin", "Cartea băiatului. (The boy's book.)"],
+          ["Dativ", "Cui?", "Indirect Object", "Îi dau băiatului o carte. (I give the boy a book.)"],
+          ["Vocativ", "—", "Direct Address", "Băiatule, vino! (Boy, come!)"]
+        ]
+      },
+      "rules": [
+        "Nominative and Accusative share the same forms (they differ mainly by word order)",
+        "Genitive and Dative share the same forms (the most complex case system)",
+        "Vocative has special endings used for calling/addressing someone",
+        "Case is shown through articles, endings, or both"
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Genitive and Dative Forms: Definite Nouns",
+      "headingRo": "Genitiv-Dativul Substantivelor Articulate Hotărât",
+      "content": "For articulated nouns, the case is marked primarily through the definite article. The masculine/neuter singular nouns take the '-lui' suffix, while feminine singular nouns undergo a stem change and take the '-i' article.",
+      "contentRo": "În cazul substantivelor articulate, cazul este marcat în principal prin articolul hotărât. Substantivele masculine și neutre la singular primesc sufixul „-lui”, în timp ce substantivele feminine la singular suferă o modificare a rădăcinii și primesc articolul „-i”.",
+      "table": {
+        "headers": ["Gender", "Nominative/Accusative", "Genitive/Dative", "Example", "Meaning"],
+        "rows": [
+          ["Masc. sg.", "băiatul", "băiatului", "cartea băiatului", "the boy's book"],
+          ["Fem. sg.", "fata", "fetei", "cartea fetei", "the girl's book"],
+          ["Neut. sg.", "scaunul", "scaunului", "spătarul scaunului", "the chair's back"],
+          ["Masc. pl.", "băieții", "băieților", "mașinile băieților", "the boys' cars"],
+          ["Fem. pl.", "fetele", "fetelor", "cărțile fetelor", "the girls' books"],
+          ["Neut. pl.", "scaunele", "scaunelor", "picioarele scaunelor", "the chairs' legs"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Casa băiatului este mare. (The boy's house is big.)",
+          "en": "băiatul → băiatului: masculine singular, definite article changes to -lui.",
+          "notes": "The noun stem stays the same; only the article changes."
+        },
+        {
+          "ro": "Telefonul fetei este nou. (The girl's phone is new.)",
+          "en": "fata → fetei: feminine singular, the ending and article change.",
+          "notes": "For feminine nouns, the final -ă changes to -e and the article becomes -i."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Genitive and Dative Forms: Indefinite Articles",
+      "headingRo": "Formele de Genitiv și Dativ: Articolele Nehotărâte",
+      "content": "With the indefinite article, genitive/dative forms use special articles placed before the noun:",
+      "contentRo": "Cu articolul nehotărât, formele de genitiv/dativ folosesc articole speciale plasate înaintea substantivului:",
+      "table": {
+        "headers": ["Gender", "Nominative", "Gen./Dat. Article", "Genitive/Dative Form", "Meaning"],
+        "rows": [
+          ["Masc. sg.", "un băiat", "unui", "unui băiat", "of/to a boy"],
+          ["Fem. sg.", "o fată", "unei", "unei fete", "of/to a girl"],
+          ["Neut. sg.", "un copil", "unui", "unui copil", "of/to a child"],
+          ["Masc. pl.", "niște băieți", "unor", "unor băieți", "of/to (some) boys"],
+          ["Fem. pl.", "niște fete", "unor", "unor fete", "of/to (some) girls"],
+          ["Neut. pl.", "niște copii", "unor", "unor copii", "of/to (some) children"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Îi dau telefon unui prieten. (I'm giving a phone call to a friend.)",
+          "en": "unui = dative of 'un' (masculine singular).",
+          "notes": "The dative article 'unui' replaces 'un' before the noun."
+        },
+        {
+          "ro": "Casa unei femei. (A woman's house.)",
+          "en": "unei = genitive of 'o' (feminine singular).",
+          "notes": "Note: the noun also changes: fată → fete (genitive form)."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Possessive Articles: al, a, ai, ale",
+      "headingRo": "Articolele Posesive: al, a, ai, ale",
+      "content": "The possessive articles 'al, a, ai, ale' are used to express possession with names and pronouns. They agree with the possessed object, not the possessor:",
+      "contentRo": "Articolele posesive 'al, a, ai, ale' se folosesc pentru a exprima posesia cu nume și pronume. Se acordă cu obiectul posedat, nu cu posesorul:",
+      "table": {
+        "headers": ["Article", "Gender/Number", "Example", "Meaning"],
+        "rows": [
+          ["al", "masculine singular", "un frate al lui Ion", "a brother of Ion's"],
+          ["a", "feminine singular", "o carte a Mariei", "a book of Maria's"],
+          ["ai", "masculine plural", "frați ai lui Mihai", "some brothers of Mihai's"],
+          ["ale", "feminine plural", "cărți ale fetelor", "some books of the girls'"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Cartea Mariei este pe masă. (Maria's book is on the table.)",
+          "en": "When the possessed noun is definite (Cartea), the possessive article is NOT used.",
+          "notes": "Maria is in the genitive form: Maria → Mariei."
+        },
+        {
+          "ro": "Frații lui Mihai sunt mari. (Mihai's brothers are tall.)",
+          "en": "Again, with a definite noun (Frații), we use the simple genitive 'lui Mihai'.",
+          "notes": "The possessive article (al, a, ai, ale) is only used when the possessed noun is indefinite or separated."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Dative with Verbs",
+      "headingRo": "Dativul cu Verbe",
+      "content": "The dative case is required after certain verbs that take an indirect object:",
+      "contentRo": "Cazul dativ este cerut după anumite verbe care iau un complement indirect:",
+      "table": {
+        "headers": ["Verb", "Meaning", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["a da", "to give", "Îi dau cartea.", "I give him/her the book."],
+          ["a spune", "to tell", "Îi spun adevărul.", "I tell him/her the truth."],
+          ["a cere", "to ask", "Îi cer ajutor.", "I ask him/her for help."],
+          ["a promite", "to promise", "Îi promit un cadou.", "I promise him/her a gift."],
+          ["a scrie", "to write (to)", "Îi scriu o scrisoare.", "I write him/her a letter."],
+          ["a explica", "to explain", "Îi explic situația.", "I explain the situation to him/her."],
+          ["a plăcea", "to like", "Îmi place muzica.", "I like music. (lit. Music is pleasing to me.)"],
+          ["a părea", "to seem", "Îmi pare rău.", "I'm sorry. (lit. It seems bad to me.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Îmi place România. (I like Romania.)",
+          "en": "Literally: 'To me it is pleasing, Romania.' The dative pronoun 'îmi' = 'to me'.",
+          "notes": "a plăcea uses dative for the person who likes something. This is different from English."
+        },
+        {
+          "ro": "Îi pare rău. (He/she is sorry.)",
+          "en": "Literally: 'To him/her it seems bad.' The dative pronoun 'îi' = 'to him/her'.",
+          "notes": "This is the standard Romanian way to express sympathy about someone else."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Dative Pronouns",
+      "headingRo": "Pronumele în Dativ",
+      "content": "The dative pronouns (personal pronouns in the dative case) are:",
+      "contentRo": "Pronumele în dativ (pronumele personale în cazul dativ) sunt:",
+      "table": {
+        "headers": ["Person", "Unstressed", "Stressed", "Example", "Meaning"],
+        "rows": [
+          ["eu", "îmi", "mie", "Îmi dai cartea?", "Are you giving me the book?"],
+          ["tu", "îți", "ție", "Îți scriu.", "I'm writing to you."],
+          ["el", "îi", "lui", "Îi spun adevărul.", "I tell him the truth."],
+          ["ea", "îi", "ei", "Îi dau florile.", "I give her the flowers."],
+          ["noi", "ne", "nouă", "Ne promit că vin.", "They promise us they're coming."],
+          ["voi", "vă", "vouă", "Vă cer scuze.", "I apologize to you (pl.)."],
+          ["ei", "le", "lor", "Le explic totul.", "I explain everything to them."],
+          ["ele", "le", "lor", "Le trimit un email.", "I send them an email."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Cartea este a mea. (The book is mine.)",
+          "en": "'a mea' is a possessive form using the genitive 'a' + stressed dative 'mea'.",
+          "notes": "Possessives in Romanian use the genitive construction."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Vocative Case",
+      "headingRo": "Cazul Vocativ",
+      "content": "The vocative is used for direct address. It has special endings or forms for some nouns:",
+      "contentRo": "Vocativul se folosește pentru adresarea directă. Are terminații sau forme speciale pentru unele substantive:",
+      "table": {
+        "headers": ["Nominative", "Vocative", "Meaning"],
+        "rows": [
+          ["băiat", "băiatule", "boy!"],
+          ["fată", "fato!", "girl!"],
+          ["mama", "mamo!", "mom!"],
+          ["tata", "tato!", "dad!"],
+          ["domn", "domnule!", "sir!"],
+          ["doamnă", "doamnă!", "ma'am!"],
+          ["Ion", "Ioane!", "Ion!"],
+          ["Maria", "Mario!", "Maria!"]
+        ]
+      },
+      "rules": [
+        "Vocative endings: -ule (masc.), -o (fem.)",
+        "Names: remove final vowel and add -e: Ion → Ioane, Maria → Mario",
+        "Feminine names ending in -a: remove -a and add -o: Elena → Eleno",
+        "In everyday speech, many people skip the vocative and use the nominative form"
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Prepositions That Require the Genitive",
+      "content": "Some prepositions always require the noun that follows to be in the genitive case:",
+      "contentRo": "Unele prepoziții cer întotdeauna ca substantivul care urmează să fie în cazul genitiv:",
+      "rules": [
+        "în locul (instead of): În locul lui, am venit eu.",
+        "în fața (in front of): În fața casei este un copac.",
+        "în spatele (behind): În spatele școlii este un parc.",
+        "înainte de (before): Înainte de curs, am citit.",
+        "după (after): După masă, ne plimbăm.",
+        "din cauza (because of): Din cauza ploii, am întârziat.",
+        "deasupra (above): Deasupra mesei este o lampă.",
+        "în mijlocul (in the middle of): În mijlocul parcului este un lac."
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Watch out for these frequent errors when using cases:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești cazurile:",
+      "rules": [
+        "Don't forget that possessive articles agree with the possessed object, not the possessor",
+        "Don't use the nominative form where genitive/dative is required: 'cartea băiat' is WRONG",
+        "Don't forget the dative with a plăcea: 'Îmi place' (not 'Eu place')",
+        "Remember: 'al' for masc. sg., 'a' for fem. sg., 'ai' for masc. pl., 'ale' for fem. pl.",
+        "Don't confuse genitive 'lui/ei' with dative pronouns — they look similar but function differently"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Telefoanele fetelor sunt noi. (The girls' phones are new.)",
+          "en": "'ale fetelor' (genitive plural) — 'ale' agrees with 'telefoanele' (feminine plural).",
+          "notes": "The possessed object (telefoanele) determines the possessive article, not the possessor (fetele)."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Romanian has 5 cases: nominative, accusative, genitive, dative, vocative",
+    "Genitive and dative share the same forms — the most complex case system",
+    "Definite article genitive/dative: -lui (masc.), -ei (fem.), -ului (neut.), -lor (plural)",
+    "Indefinite article genitive/dative: unui (masc.), unei (fem.), unor (plural)",
+    "Possessive articles: al (masc. sg.), a (fem. sg.), ai (masc. pl.), ale (fem. pl.)",
+    "Possessive articles agree with the possessed object, NOT the possessor",
+    "Dative required with verbs like: a da, a spune, a plăcea, a părea",
+    "a plăcea uses dative for the person: Îmi place (to me it is pleasing)",
+    "Vocative has special endings: -ule (masc.), -o (fem.)",
+    "Some prepositions always require the genitive: în locul, în fața, din cauza"
+  ],
+  "summaryPointsRo": [
+    "Româna are 5 cazuri: nominativ, acuzativ, genitiv, dativ, vocativ",
+    "Genitivul și dativul împart aceleași forme — cel mai complex sistem de cazuri",
+    "Articol hotărât genitiv/dativ: -lui (masc.), -ei (fem.), -ului (neut.), -lor (plural)",
+    "Articol nehotărât genitiv/dativ: unui (masc.), unei (fem.), unor (plural)",
+    "Articole posesive: al (masc. sg.), a (fem. sg.), ai (masc. pl.), ale (fem. pl.)",
+    "Articolele posesive se acordă cu obiectul posedat, NU cu posesorul",
+    "Dativ cerut cu verbe ca: a da, a spune, a plăcea, a părea",
+    "a plăcea folosește dativ pentru persoana: Îmi place (mie îmi este plăcut)",
+    "Vocativul are terminații speciale: -ule (masc.), -o (fem.)",
+    "Unele prepoziții cer întotdeauna genitivul: în locul, în fața, din cauza"
+  ],
+  "relatedExercises": ["E12-case-preposition"]
+}

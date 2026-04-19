@@ -1,0 +1,203 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G22-relative-clauses",
+  "title": "Propozițiile Relative (Clauze Relative)",
+  "titleEn": "Relative Clauses",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G06-personal-pronouns"],
+  "estimatedMinutes": 40,
+  "introduction": "Relative clauses provide essential details about a noun without starting a new sentence. They are introduced by relative pronouns, the most common being 'care' (who/which). In Romanian, 'care' is particularly versatile because it must agree in case and sometimes in gender with the noun it describes. Mastering relative structures is a prerequisite for B1 level sentence complexity.",
+  "introductionRo": "Propozițiile relative oferă detalii esențiale despre un substantiv fără a începe o frază nouă. Ele sunt introduse prin pronume relative, cel mai frecvent fiind „care”. În limba română, „care” este deosebit de versatil, deoarece trebuie să se acorde în caz și, uneori, în gen cu substantivul determinat. Stăpânirea structurilor relative este o condiție prealabilă pentru complexitatea frazei la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Relative Pronoun 'care'",
+      "headingRo": "Pronumele Relativ „care”",
+      "content": "The pronoun 'care' is the most used relative in Romanian. While its Nominative and Accusative form is invariant, it undergoes significant changes in the Genitive and Dative cases to show possession or relationship.",
+      "contentRo": "Pronumele „care” este cel mai utilizat relativ în limba română. În timp ce la nominativ și acuzativ are o formă invariabilă, acesta suferă modificări importante la genitiv și dativ pentru a exprima posesia sau relația.",
+      "table": {
+        "headers": ["Case", "Form", "Example", "Translation"],
+        "rows": [
+          ["Subject", "care", "Bărbatul care vine e prietenul meu.", "The man who is coming is my friend."],
+          ["Direct Object (person)", "pe care", "Femeia pe care am văzut-o...", "The woman whom I saw..."],
+          ["Direct Object (thing)", "care", "Cartea care e pe masă e bună.", "The book that is on the table is good."],
+          ["Genitive", "al/a/ai/ale cărui/cărei", "Băiatul al cărui tată e doctor...", "The boy whose father is a doctor..."],
+          ["After preposition", "care + prep.", "Orașul în care locuiesc e mare.", "The city in which I live is big."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Persoana care a sunat este mama mea. (The person who called is my mother.)",
+          "en": "'care' as subject — refers to 'persoana' (the person).",
+          "notes": "'care' is invariable when used as a subject."
+        },
+        {
+          "ro": "Cartea pe care am citit-o este bună. (The book that I read is good.)",
+          "en": "'pe care' as direct object referring to a person. The resumptive pronoun '-o' is common.",
+          "notes": "In Romanian relative clauses, a resumptive pronoun often appears: pe care am citit-o."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "'pe care' for Persons as Direct Object",
+      "headingRo": "'pe care' pentru Persoane ca Obiect Direct",
+      "content": "When the relative pronoun refers to a person and is the direct object of the relative clause, 'pe care' is used:",
+      "contentRo": "Când pronumele relativ se referă la o persoană și este obiectul direct al propoziției relative, se folosește 'pe care':",
+      "table": {
+        "headers": ["Gender/Number", "Form", "Example", "Translation"],
+        "rows": [
+          ["Masc. sg.", "pe care + îl", "Băiatul pe care îl văd...", "The boy whom I see..."],
+          ["Fem. sg.", "pe care + o", "Fata pe care o cunosc...", "The girl whom I know..."],
+          ["Masc. pl.", "pe care + îi", "Băieții pe care îi văd...", "The boys whom I see..."],
+          ["Fem. pl.", "pe care + le", "Fetele pe care le cunosc...", "The girls whom I know..."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Profesorul pe care îl respect este domnul Popescu. (The professor whom I respect is Mr. Popescu.)",
+          "en": "pe care îl (whom him) — 'îl' is the resumptive pronoun agreeing with 'profesorul'.",
+          "notes": "The resumptive pronoun (îl, o, îi, le) is a distinctive feature of Romanian relative clauses."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Possessive Relative: al/a/ai/ale cărui/cărei",
+      "headingRo": "Relativul Posesiv: al/a/ai/ale cărui/cărei",
+      "content": "To say 'whose', Romanian uses 'al/a/ai/ale cărui/cărei'. The possessive article (al/a/ai/ale) agrees with the possessed object, while 'cărui/cărei' agrees with the possessor:",
+      "contentRo": "Pentru a spune 'ale cărui', româna folosește 'al/a/ai/ale cărui/cărei'. Articolul posesiv (al/a/ai/ale) se acordă cu obiectul posedat, iar 'cărui/cărei' se acordă cu posesorul:",
+      "table": {
+        "headers": ["Possessor Gender", "Form", "Example", "Translation"],
+        "rows": [
+          ["Masc. sg.", "al/a/ai/ale cărui", "Băiatul al cărui tată...", "The boy whose father..."],
+          ["Fem. sg.", "al/a/ai/ale cărei", "Fata a cărei mamă...", "The girl whose mother..."],
+          ["Masc. pl.", "al/a/ai/ale căror", "Băieții al căror profesor...", "The boys whose teacher..."],
+          ["Fem. pl.", "al/a/ai/ale căror", "Fetele a căror profesoară...", "The girls whose teacher..."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Omul al cărui câine a fugit este trist. (The man whose dog ran away is sad.)",
+          "en": "al cărui (whose) — 'al' agrees with 'câine' (masc.), 'cărui' agrees with 'omul' (masc.).",
+          "notes": "Double agreement: the possessive article with the possessed object, 'cărui' with the possessor."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Relative Pronouns 'cine' and 'ce'",
+      "headingRo": "Pronumele Relative 'cine' și 'ce'",
+      "content": "'cine' (who) and 'ce' (what) are also used in relative clauses, but with different functions:",
+      "contentRo": "'cine' (cine) și 'ce' (ce) se folosesc și ele în propoziții relative, dar cu funcții diferite:",
+      "table": {
+        "headers": ["Pronoun", "Meaning", "Example", "Translation"],
+        "rows": [
+          ["cine", "who (free relative)", "Nu știu cine a venit.", "I don't know who came."],
+          ["ce", "what (free relative)", "Nu știu ce vrei.", "I don't know what you want."],
+          ["cel ce / care", "he who / the one who", "Cel ce a venit e prietenul meu.", "The one who came is my friend."],
+          ["tot ce", "everything that", "Tot ce am spus e adevărat.", "Everything I said is true."],
+          ["ceea ce", "that which", "Ceea ce vezi e real.", "What you see is real."],
+          ["cineva care", "someone who", "Cineva care mă cunoaște.", "Someone who knows me."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Tot ce vreau este să fiu fericit. (All I want is to be happy.)",
+          "en": "'tot ce' = 'everything that' — a very common construction.",
+          "notes": "'ce' here refers to the entire idea, not a specific noun."
+        },
+        {
+          "ro": "Ceea ce ai spus este important. (What you said is important.)",
+          "en": "'ceea ce' is used when referring to a statement, idea, or action.",
+          "notes": "'ceea ce' = 'that which' — formal but common in writing."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Relative Clauses with Prepositions",
+      "headingRo": "Propoziții Relative cu Prepoziții",
+      "content": "When a preposition is needed in the relative clause, it comes before 'care':",
+      "contentRo": "Când este nevoie de o prepoziție în propoziția relativă, aceasta vine înainte de 'care':",
+      "table": {
+        "headers": ["Preposition + care", "Example", "Translation"],
+        "rows": [
+          ["în care", "Casa în care locuiesc.", "The house in which I live."],
+          ["cu care", "Persoana cu care vorbesc.", "The person with whom I'm speaking."],
+          ["de care", "Lucrul de care am nevoie.", "The thing I need (that I have need of)."],
+          ["pentru care", "Motivul pentru care vin.", "The reason for which I'm coming."],
+          ["la care", "Restaurantul la care mergem.", "The restaurant where we're going."],
+          ["fără care", "Lumea fără care nu pot trăi.", "The people without whom I can't live."],
+          ["din care", "Cutia din care am luat.", "The box from which I took."],
+          ["prin care", "Orașul prin care trecem.", "The city through which we pass."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Orașul în care m-am născut este mic. (The city in which I was born is small.)",
+          "en": "în care = in which. 'în' comes before 'care'.",
+          "notes": "In casual speech, you might hear: Orașul unde m-am născut... (using 'unde' instead)."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "'unde' vs. 'în care' (where)",
+      "content": "In everyday speech, 'unde' (where) often replaces 'în care' or other preposition + care combinations. This is common and natural:",
+      "contentRo": "În vorbirea de zi cu zi, 'unde' (unde) înlocuiește adesea 'în care' sau alte combinații prepoziție + care. Acest lucru este comun și natural:",
+      "rules": [
+        "Formal: Casa în care locuiesc. / Informal: Casa unde locuiesc. (The house where I live.)",
+        "Formal: Orașul la care merg. / Informal: Orașul unde merg. (The city where I'm going.)",
+        "Formal: Ziua când am ajuns. / Informal: Ziua când am ajuns. (The day when I arrived.)",
+        "'când' can also introduce relative clauses about time"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using relative clauses:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești propozițiile relative:",
+      "rules": [
+        "Don't forget the resumptive pronoun after 'pe care': pe care îl/o/îi/le (required in many cases)",
+        "Don't use 'care' alone for persons as direct objects — use 'pe care'",
+        "Don't confuse 'al cărui' (whose — masc. possessor) with 'a cărei' (whose — fem. possessor)",
+        "Don't forget that 'cărui/cărei/căror' agrees with the possessor, not the possessed object",
+        "Remember: 'ceea ce' (that which) is formal — in speech, 'ce' or 'tot ce' is more natural"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Băiatul pe care îl văd este fratele meu. (The boy whom I see is my brother.)",
+          "en": "pe care îl — the resumptive pronoun 'îl' is required.",
+          "notes": "Without 'îl', the sentence would sound incomplete to a native speaker."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "care = who/which/that (most common relative pronoun)",
+    "pe care = whom (for persons as direct object), with resumptive pronoun (îl, o, îi, le)",
+    "al/a/ai/ale cărui/cărei = whose (possessive relative)",
+    "cine = who (free relative); ce = what (free relative)",
+    "tot ce = everything that; ceea ce = that which (formal)",
+    "Preposition + care: în care, cu care, de care, pentru care, la care",
+    "unde can replace în care/la care in everyday speech",
+    "când can introduce relative clauses about time",
+    "Resumptive pronouns (îl, o, îi, le) are common after pe care in Romanian",
+    "Double agreement in 'whose': al/a/ai/ale (possessed) + cărui/cărei/căror (possessor)"
+  ],
+  "summaryPointsRo": [
+    "care = care/care/care (cel mai comun pronume relativ)",
+    "pe care = pe care (pentru persoane ca obiect direct), cu pronume resumptiv (îl, o, îi, le)",
+    "al/a/ai/ale cărui/cărei = al/a/ai/ale (posesiv relativ)",
+    "cine = cine (relativ liber); ce = ce (relativ liber)",
+    "tot ce = tot ce; ceea ce = ceea ce (formal)",
+    "Prepoziție + care: în care, cu care, de care, pentru care, la care",
+    "unde poate înlocui în care/la care în vorbirea de zi cu zi",
+    "când poate introduce propoziții relative despre timp",
+    "Pronumele resumptive (îl, o, îi, le) sunt comune după pe care în română",
+    "Dublu acord la 'al/a/ai/ale cărui': al/a/ai/ale (posedat) + cărui/cărei/căror (posesor)"
+  ],
+  "relatedExercises": ["E15-connectors-drill"]
+}

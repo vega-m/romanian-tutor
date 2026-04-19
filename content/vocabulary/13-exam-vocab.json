@@ -1,0 +1,1134 @@
+{
+  "$schema": "vocabulary",
+  "version": "1.0",
+  "theme": "exam-vocab",
+  "themeRo": "Vocabular pentru Examen B1",
+  "themeEn": "B1 Exam High-Frequency Vocabulary",
+  "cefrLevel": "B1",
+  "words": [
+    {
+      "id": "v13_001",
+      "word": "a compara",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to compare",
+      "translationRo": "a compara",
+      "exampleSentence": "Comparați cele două texte și identificați diferențele.",
+      "exampleTranslation": "Compare the two texts and identify the differences.",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/a kom.pa.'ra/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a asemăna",
+        "a deosebi"
+      ]
+    },
+    {
+      "id": "v13_002",
+      "word": "a completa",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to complete / to fill in",
+      "translationRo": "a completa",
+      "exampleSentence": "Completați spațiile libere cu cuvântul potrivit.",
+      "exampleTranslation": "Fill in the blanks with the appropriate word.",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/a kom.ple.'ta/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a umple",
+        "a termina"
+      ]
+    },
+    {
+      "id": "v13_003",
+      "word": "a alege",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to choose / to select",
+      "translationRo": "a alege",
+      "exampleSentence": "Alegeți varianta corectă: a, b sau c.",
+      "exampleTranslation": "Choose the correct option: a, b, or c.",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/a a.'le.ʒe/",
+      "tags": [
+        "exam",
+        "essential",
+        "verb"
+      ],
+      "relatedWords": [
+        "a selecta",
+        "a prefera"
+      ]
+    },
+    {
+      "id": "v13_004",
+      "word": "a identifica",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to identify",
+      "translationRo": "a identifica",
+      "exampleSentence": "Identificați subiectul principal al textului.",
+      "exampleTranslation": "Identify the main subject of the text.",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/a i.den.ti.'fi.ka/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a recunoaște",
+        "a găsi"
+      ]
+    },
+    {
+      "id": "v13_005",
+      "word": "a exprima",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to express",
+      "translationRo": "a exprima",
+      "exampleSentence": "Exprimați-vă opinia în 50-80 de cuvinte.",
+      "exampleTranslation": "Express your opinion in 50-80 words.",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/a eks.'pri.ma/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a formula",
+        "a spune"
+      ]
+    },
+    {
+      "id": "v13_006",
+      "word": "a prezenta",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to present / to introduce",
+      "translationRo": "a prezenta",
+      "exampleSentence": "Prezentați argumentele pro și contra.",
+      "exampleTranslation": "Present the arguments for and against.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a pre.ze.'nta/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a expune",
+        "a arăta"
+      ]
+    },
+    {
+      "id": "v13_007",
+      "word": "a argumenta",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to argue / to provide arguments",
+      "translationRo": "a argumenta",
+      "exampleSentence": "Argumentați-vă răspunsul cu exemple din text.",
+      "exampleTranslation": "Support your answer with examples from the text.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a ar.ɡu.men.'ta/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a demonstra",
+        "a motiva"
+      ]
+    },
+    {
+      "id": "v13_008",
+      "word": "a rezuma",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to summarize",
+      "translationRo": "a rezuma",
+      "exampleSentence": "Rezumați textul în câteva propoziții.",
+      "exampleTranslation": "Summarize the text in a few sentences.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a re.'zu.ma/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a sintetiza",
+        "a spune pe scurt"
+      ]
+    },
+    {
+      "id": "v13_009",
+      "word": "a demonstra",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to demonstrate / to prove",
+      "translationRo": "a demonstra",
+      "exampleSentence": "Demonstrați că ați înțeles textul.",
+      "exampleTranslation": "Demonstrate that you understood the text.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a de.mon.'stra/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a argumenta",
+        "a dovedi"
+      ]
+    },
+    {
+      "id": "v13_010",
+      "word": "a redacta",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to draft / to write (formal)",
+      "translationRo": "a redacta",
+      "exampleSentence": "Redactați o scrisoare oficială de 80-100 de cuvinte.",
+      "exampleTranslation": "Draft an official letter of 80-100 words.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a re.dak.'ta/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a scrie",
+        "a compune"
+      ]
+    },
+    {
+      "id": "v13_011",
+      "word": "varianta",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "option / variant / alternative",
+      "translationRo": "varianta (f.)",
+      "exampleSentence": "Alegeți varianta corectă din cele patru propuse.",
+      "exampleTranslation": "Choose the correct option from the four proposed.",
+      "frequency": 4,
+      "importance": 5,
+      "pronunciation": "/va.'ri.an.ta/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "alternativă",
+        "posibilitate"
+      ]
+    },
+    {
+      "id": "v13_012",
+      "word": "spațiu liber",
+      "partOfSpeech": "noun phrase",
+      "gender": "neuter",
+      "translationEn": "blank space / gap",
+      "translationRo": "spațiu liber (n.)",
+      "exampleSentence": "Completați spațiile libere din text.",
+      "exampleTranslation": "Fill in the blanks in the text.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/'spa.tsju 'li.ber/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "a completa",
+        "gol"
+      ]
+    },
+    {
+      "id": "v13_013",
+      "word": "răspuns",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "answer / response",
+      "translationRo": "răspuns (n.)",
+      "exampleSentence": "Formulați un răspuns scurt la întrebare.",
+      "exampleTranslation": "Formulate a short answer to the question.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'răs.puns/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "a răspunde",
+        "întrebare"
+      ]
+    },
+    {
+      "id": "v13_014",
+      "word": "întrebare",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "question",
+      "translationRo": "întrebare (f.)",
+      "exampleSentence": "Citiți întrebarea cu atenție înainte de a răspunde.",
+      "exampleTranslation": "Read the question carefully before answering.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/ɨn.tre.'ba.re/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "răspuns",
+        "a întreba"
+      ]
+    },
+    {
+      "id": "v13_015",
+      "word": "cerință",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "requirement / task instruction",
+      "translationRo": "cerință (f.)",
+      "exampleSentence": "Citiți cu atenție cerința fiecărui exercițiu.",
+      "exampleTranslation": "Read the instruction for each exercise carefully.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/tʃe.rin.'tsə/",
+      "tags": [
+        "exam",
+        "formal"
+      ],
+      "relatedWords": [
+        "sarcină",
+        "instrucțiune"
+      ]
+    },
+    {
+      "id": "v13_016",
+      "word": "text",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "text / passage",
+      "translationRo": "text (n.)",
+      "exampleSentence": "Citiți următorul text și răspundeți la întrebări.",
+      "exampleTranslation": "Read the following text and answer the questions.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/tekst/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "pasaj",
+        "fragment"
+      ]
+    },
+    {
+      "id": "v13_017",
+      "word": "pasaj",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "passage (reading)",
+      "translationRo": "pasaj (n.)",
+      "exampleSentence": "Pasajul de mai jos este extras dintr-un articol de ziar.",
+      "exampleTranslation": "The passage below is excerpted from a newspaper article.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/pa.'saʒ/",
+      "tags": [
+        "exam",
+        "formal"
+      ],
+      "relatedWords": [
+        "text",
+        "fragment"
+      ]
+    },
+    {
+      "id": "v13_018",
+      "word": "argument",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "argument / reasoning",
+      "translationRo": "argument (n.)",
+      "exampleSentence": "Prezentați cel puțin două argumente în favoarea opiniei.",
+      "exampleTranslation": "Present at least two arguments in favor of the opinion.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/ar.ɡu.'ment/",
+      "tags": [
+        "exam",
+        "formal"
+      ],
+      "relatedWords": [
+        "a argumenta",
+        "motiv"
+      ]
+    },
+    {
+      "id": "v13_019",
+      "word": "opinie",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "opinion",
+      "translationRo": "opinie (f.)",
+      "exampleSentence": "Exprimați-vă opinia despre subiectul dat.",
+      "exampleTranslation": "Express your opinion about the given topic.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/o.pi.'ni.e/",
+      "tags": [
+        "exam",
+        "formal"
+      ],
+      "relatedWords": [
+        "părere",
+        "a crede"
+      ]
+    },
+    {
+      "id": "v13_020",
+      "word": "subiect",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "topic / subject",
+      "translationRo": "subiect (n.)",
+      "exampleSentence": "Subiectul eseului este despre mediul înconjurător.",
+      "exampleTranslation": "The essay topic is about the environment.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/sub.'ʒekt/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "temă",
+        "tematică"
+      ]
+    },
+    {
+      "id": "v13_021",
+      "word": "prin urmare",
+      "partOfSpeech": "conjunction/adverb",
+      "gender": null,
+      "translationEn": "therefore / consequently",
+      "translationRo": "prin urmare",
+      "exampleSentence": "Studiile arată un risc ridicat; prin urmare, trebuie să acționăm.",
+      "exampleTranslation": "Studies show a high risk; therefore, we must act.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/prin ur.'ma.re/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "deci",
+        "astfel"
+      ]
+    },
+    {
+      "id": "v13_022",
+      "word": "în concluzie",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "in conclusion",
+      "translationRo": "în concluzie",
+      "exampleSentence": "În concluzie, consider că această măsură este necesară.",
+      "exampleTranslation": "In conclusion, I consider this measure necessary.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/ɨn kon.klu.'zi.e/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "în sfârșit",
+        "pe scurt"
+      ]
+    },
+    {
+      "id": "v13_023",
+      "word": "de exemplu",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "for example / for instance",
+      "translationRo": "de exemplu",
+      "exampleSentence": "Mulți tineri pleacă în străinătate, de exemplu, în Germania sau în Franța.",
+      "exampleTranslation": "Many young people go abroad, for example, to Germany or France.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/de ek.'zem.plu/",
+      "tags": [
+        "exam",
+        "connector"
+      ],
+      "relatedWords": [
+        "de pildă",
+        "ca exemplu"
+      ]
+    },
+    {
+      "id": "v13_024",
+      "word": "în primul rând",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "firstly / in the first place",
+      "translationRo": "în primul rând",
+      "exampleSentence": "În primul rând, trebuie să analizăm cauzele problemei.",
+      "exampleTranslation": "Firstly, we need to analyze the causes of the problem.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/ɨn 'pri.mul rɨnd/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "în al doilea rând",
+        "mai presus de toate"
+      ]
+    },
+    {
+      "id": "v13_025",
+      "word": "în al doilea rând",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "secondly",
+      "translationRo": "în al doilea rând",
+      "exampleSentence": "În al doilea rând, trebuie să găsim soluții practice.",
+      "exampleTranslation": "Secondly, we need to find practical solutions.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ɨn al 'doj.le rɨnd/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "în primul rând",
+        "în al treilea rând"
+      ]
+    },
+    {
+      "id": "v13_026",
+      "word": "de asemenea",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "also / as well / likewise",
+      "translationRo": "de asemenea",
+      "exampleSentence": "Problema afectează adulții; de asemenea, copiii sunt afectați.",
+      "exampleTranslation": "The problem affects adults; children are also affected.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/de a.'se.me.ne.a/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "și"
+      ]
+    },
+    {
+      "id": "v13_027",
+      "word": "totuși",
+      "partOfSpeech": "adverb",
+      "gender": null,
+      "translationEn": "however / nevertheless / yet",
+      "translationRo": "totuși",
+      "exampleSentence": "Ploua mult; totuși, am ieșit la plimbare.",
+      "exampleTranslation": "It was raining a lot; however, I went for a walk.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/to.'tu.ʃi/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "însă",
+        "cu toate acestea"
+      ]
+    },
+    {
+      "id": "v13_028",
+      "word": "cu toate acestea",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "nevertheless / in spite of this",
+      "translationRo": "cu toate acestea",
+      "exampleSentence": "Situația este dificilă; cu toate acestea, nu pierdem speranța.",
+      "exampleTranslation": "The situation is difficult; nevertheless, we don't lose hope.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ku 'toa.te 'a.ste.a/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "totuși",
+        "în ciuda acestui fapt"
+      ]
+    },
+    {
+      "id": "v13_029",
+      "word": "din cauza",
+      "partOfSpeech": "preposition",
+      "gender": null,
+      "translationEn": "because of / due to",
+      "translationRo": "din cauza",
+      "exampleSentence": "Examenul a fost amânat din cauza vremii rele.",
+      "exampleTranslation": "The exam was postponed due to bad weather.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/din 'kaw.za/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "datorită",
+        "din pricina"
+      ]
+    },
+    {
+      "id": "v13_030",
+      "word": "datorită",
+      "partOfSpeech": "preposition",
+      "gender": null,
+      "translationEn": "thanks to / due to",
+      "translationRo": "datorită",
+      "exampleSentence": "Datorită eforturilor sale, a obținut rezultate bune.",
+      "exampleTranslation": "Thanks to her efforts, she achieved good results.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/da.to.'ri.tse/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "din cauza",
+        "mulțumită"
+      ]
+    },
+    {
+      "id": "v13_031",
+      "word": "în schimb",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "on the other hand / instead",
+      "translationRo": "în schimb",
+      "exampleSentence": "Nu am timp liber; în schimb, citesc în autobuz.",
+      "exampleTranslation": "I don't have free time; instead, I read on the bus.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/ɨn 'skemb/",
+      "tags": [
+        "exam",
+        "connector"
+      ],
+      "relatedWords": [
+        "totuși",
+        "dimpotrivă"
+      ]
+    },
+    {
+      "id": "v13_032",
+      "word": "pe de o parte... pe de altă parte",
+      "partOfSpeech": "conjunction",
+      "gender": null,
+      "translationEn": "on the one hand... on the other hand",
+      "translationRo": "pe de o parte... pe de altă parte",
+      "exampleSentence": "Pe de o parte, tehnologia ne ajută; pe de altă parte, ne izolează.",
+      "exampleTranslation": "On the one hand, technology helps us; on the other hand, it isolates us.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/pe de o 'par.tə... pe de al.tə 'par.tə/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "dintr-o perspectivă",
+        "dimpotrivă"
+      ]
+    },
+    {
+      "id": "v13_033",
+      "word": "de fapt",
+      "partOfSpeech": "adverbial phrase",
+      "gender": null,
+      "translationEn": "in fact / actually",
+      "translationRo": "de fapt",
+      "exampleSentence": "De fapt, situația este mai complexă decât pare.",
+      "exampleTranslation": "In fact, the situation is more complex than it seems.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/de fapt/",
+      "tags": [
+        "exam",
+        "connector"
+      ],
+      "relatedWords": [
+        "în realitate",
+        "deci"
+      ]
+    },
+    {
+      "id": "v13_034",
+      "word": "astfel",
+      "partOfSpeech": "adverb",
+      "gender": null,
+      "translationEn": "thus / in this way / so",
+      "translationRo": "astfel",
+      "exampleSentence": "Astfel, putem concluziona că...",
+      "exampleTranslation": "Thus, we can conclude that...",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/as.'telf/",
+      "tags": [
+        "exam",
+        "connector",
+        "formal"
+      ],
+      "relatedWords": [
+        "prin urmare",
+        "deci"
+      ]
+    },
+    {
+      "id": "v13_035",
+      "word": "a scoate în evidență",
+      "partOfSpeech": "verb phrase",
+      "gender": null,
+      "translationEn": "to highlight / to emphasize",
+      "translationRo": "a scoate în evidență",
+      "exampleSentence": "Textul scoate în evidență importanța educației.",
+      "exampleTranslation": "The text highlights the importance of education.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a 'sko.a.te ɨn e.vi.'den.tsə/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a sublinia",
+        "a accentua"
+      ]
+    },
+    {
+      "id": "v13_036",
+      "word": "a sublinia",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to underline / to emphasize",
+      "translationRo": "a sublinia",
+      "exampleSentence": "Autorul subliniază necesitatea protejării mediului.",
+      "exampleTranslation": "The author emphasizes the need to protect the environment.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/a sub.li.'ni.a/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a scoate în evidență",
+        "a accentua"
+      ]
+    },
+    {
+      "id": "v13_037",
+      "word": "a menționa",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to mention",
+      "translationRo": "a menționa",
+      "exampleSentence": "Textul menționează câteva probleme importante.",
+      "exampleTranslation": "The text mentions several important problems.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/a men.tʃi.'o.na/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a spune",
+        "a nota"
+      ]
+    },
+    {
+      "id": "v13_038",
+      "word": "scrisoare oficială",
+      "partOfSpeech": "noun phrase",
+      "gender": "feminine",
+      "translationEn": "formal letter",
+      "translationRo": "scrisoare oficială (f.)",
+      "exampleSentence": "Redactați o scrisoare oficială către direcțiune.",
+      "exampleTranslation": "Draft a formal letter to the administration.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/skri.so.'a.re o.fi.'tʃja.lə/",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "relatedWords": [
+        "a redacta",
+        "cerere"
+      ]
+    },
+    {
+      "id": "v13_039",
+      "word": "eseu",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "essay",
+      "translationRo": "eseu (n.)",
+      "exampleSentence": "Scrieți un eseu de 120-150 de cuvinte.",
+      "exampleTranslation": "Write an essay of 120-150 words.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/e.'sew/",
+      "tags": [
+        "exam",
+        "writing"
+      ],
+      "relatedWords": [
+        "a redacta",
+        "compunere"
+      ]
+    },
+    {
+      "id": "v13_040",
+      "word": "a descrie",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to describe",
+      "translationRo": "a descrie",
+      "exampleSentence": "Descrieți imaginea în câteva propoziții.",
+      "exampleTranslation": "Describe the picture in a few sentences.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a des.kri.'e/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a prezenta",
+        "descriere"
+      ]
+    },
+    {
+      "id": "v13_041",
+      "word": "a nota",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to note / to write down",
+      "translationRo": "a nota",
+      "exampleSentence": "Notați ideile principale pe foaia de examen.",
+      "exampleTranslation": "Write down the main ideas on the exam paper.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/a 'no.ta/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a scrie",
+        "a însemna"
+      ]
+    },
+    {
+      "id": "v13_042",
+      "word": "atenție",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "attention",
+      "translationRo": "atenție (f.)",
+      "exampleSentence": "Acordați atenție detaliilor din text.",
+      "exampleTranslation": "Pay attention to the details in the text.",
+      "frequency": 5,
+      "importance": 4,
+      "pronunciation": "/a.ten.'tʃi.e/",
+      "tags": [
+        "exam",
+        "essential"
+      ],
+      "relatedWords": [
+        "a fi atent",
+        "a observa"
+      ]
+    },
+    {
+      "id": "v13_043",
+      "word": "esență",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "essence / main point",
+      "translationRo": "esență (f.)",
+      "exampleSentence": "În esență, textul vorbește despre importanța lecturii.",
+      "exampleTranslation": "In essence, the text is about the importance of reading.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/e.se.'n.tsə/",
+      "tags": [
+        "exam",
+        "formal"
+      ],
+      "relatedWords": [
+        "în esență",
+        "ideea principală"
+      ]
+    },
+    {
+      "id": "v13_044",
+      "word": "a rezolva",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to solve / to resolve",
+      "translationRo": "a rezolva",
+      "exampleSentence": "Rezolvați exercițiile următoare.",
+      "exampleTranslation": "Solve the following exercises.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a re.'zo.lva/",
+      "tags": [
+        "exam",
+        "essential",
+        "verb"
+      ],
+      "relatedWords": [
+        "a completa",
+        "a face"
+      ]
+    },
+    {
+      "id": "v13_045",
+      "word": "a interpreta",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to interpret",
+      "translationRo": "a interpreta",
+      "exampleSentence": "Interpretați sensul ultimei propoziții din text.",
+      "exampleTranslation": "Interpret the meaning of the last sentence in the text.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/a in.ter.'pre.ta/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a înțelege",
+        "a explica"
+      ]
+    },
+    {
+      "id": "v13_046",
+      "word": "a analiza",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to analyze",
+      "translationRo": "a analiza",
+      "exampleSentence": "Analizați datele din tabel și trageți o concluzie.",
+      "exampleTranslation": "Analyze the data in the table and draw a conclusion.",
+      "frequency": 3,
+      "importance": 4,
+      "pronunciation": "/a a.na.'li.za/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a examina",
+        "a studia"
+      ]
+    },
+    {
+      "id": "v13_047",
+      "word": "a enumera",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to enumerate / to list",
+      "translationRo": "a enumera",
+      "exampleSentence": "Enumerați avantajele și dezavantajele propuse.",
+      "exampleTranslation": "List the proposed advantages and disadvantages.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/a e.nu.'me.ra/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a lista",
+        "a menționa"
+      ]
+    },
+    {
+      "id": "v13_048",
+      "word": "a trage concluzia",
+      "partOfSpeech": "verb phrase",
+      "gender": null,
+      "translationEn": "to draw a conclusion",
+      "translationRo": "a trage concluzia",
+      "exampleSentence": "Din text, trasem concluzia că autorul susține ecologia.",
+      "exampleTranslation": "From the text, we drew the conclusion that the author supports ecology.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/a 'tra.ʒe kon.klu.'zi.a/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a concluziona",
+        "în concluzie"
+      ]
+    },
+    {
+      "id": "v13_049",
+      "word": "a se referi la",
+      "partOfSpeech": "verb phrase",
+      "gender": null,
+      "translationEn": "to refer to",
+      "translationRo": "a se referi la",
+      "exampleSentence": "Textul se referă la problema poluării în orașe.",
+      "exampleTranslation": "The text refers to the problem of pollution in cities.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/a se re.'feri la/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "a trata",
+        "a discuta"
+      ]
+    },
+    {
+      "id": "v13_050",
+      "word": "a puncta",
+      "partOfSpeech": "verb",
+      "gender": null,
+      "translationEn": "to score / to grade",
+      "translationRo": "a puncta",
+      "exampleSentence": "Fiecare exercițiu se punctează cu maximum 10 puncte.",
+      "exampleTranslation": "Each exercise is scored with a maximum of 10 points.",
+      "frequency": 2,
+      "importance": 3,
+      "pronunciation": "/a 'punk.te.a/",
+      "tags": [
+        "exam",
+        "formal",
+        "verb"
+      ],
+      "relatedWords": [
+        "notă",
+        "calificativ"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "p13_001",
+      "phrase": "Comparați și contrastați",
+      "translationEn": "Compare and contrast",
+      "context": "Exam instruction asking to find similarities and differences",
+      "formality": "formal",
+      "exampleResponse": "Comparați și contrastați cele două imagini prezentate."
+    },
+    {
+      "id": "p13_002",
+      "phrase": "alegeți varianta corectă",
+      "translationEn": "choose the correct option",
+      "context": "Multiple-choice exam instruction",
+      "formality": "formal",
+      "exampleResponse": "Alegeți varianta corectă: a, b, c sau d."
+    },
+    {
+      "id": "p13_003",
+      "phrase": "în cel mult 80 de cuvinte",
+      "translationEn": "in at most 80 words",
+      "context": "Word limit instruction for writing tasks",
+      "formality": "formal",
+      "exampleResponse": "Exprimați-vă opinia în cel mult 80 de cuvinte."
+    },
+    {
+      "id": "p13_004",
+      "phrase": "pe baza textului de mai sus",
+      "translationEn": "based on the text above",
+      "context": "Exam instruction referring to a reading passage",
+      "formality": "formal",
+      "exampleResponse": "Răspundeți la întrebări pe baza textului de mai sus."
+    },
+    {
+      "id": "p13_005",
+      "phrase": "conform informațiilor din text",
+      "translationEn": "according to the information in the text",
+      "context": "Exam instruction directing students to use only text evidence",
+      "formality": "formal",
+      "exampleResponse": "Adevărat sau fals, conform informațiilor din text?"
+    }
+  ]
+}

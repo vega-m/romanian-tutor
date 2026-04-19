@@ -1,0 +1,130 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R07-workplace-texts",
+  "title": "Texte despre Muncă",
+  "titleEn": "Workplace Texts",
+  "cefrLevel": "B1",
+  "texts": [
+    {
+      "id": "r07_001",
+      "title": "O Zi la Birou",
+      "titleEn": "A Day at the Office",
+      "text": "Alexandru este inginer software la o companie din București. În fiecare zi, se trezește la șapte și jumătate și merge la birou cu metroul. Programul lui este de la nouă la cinci, dar adesea rămâne mai târziu pentru că are multe responsabilități. Echipa lui lucrează la un proiect important — o aplicație mobilă pentru o bancă. Colegii săi sunt amabili și profesioniști, iar șeful său îl ajută să se dezvolte profesional. Alexandru a fost angajat acum doi ani și de atunci a primit o promovare. Salariul lui este bun, dar spune că cel mai important este să facă ceea ce îi place. În timpul liber, participă la cursuri de pregătire pentru a-și îmbunătăți competențele. Speră ca în viitor să devină șeful departamentului.",
+      "translation": "Alexandru is a software engineer at a company in Bucharest. Every day, he wakes up at seven thirty and goes to the office by metro. His schedule is from nine to five, but he often stays later because he has many responsibilities. His team is working on an important project — a mobile application for a bank. His colleagues are kind and professional, and his boss helps him develop professionally. Alexandru was hired two years ago and has since received a promotion. His salary is good, but he says the most important thing is to do what he likes. In his free time, he attends training courses to improve his skills. He hopes to become the department head in the future.",
+      "vocabularyNotes": [
+        {"word": "inginer software", "meaning": "software engineer", "notes": "masculine profession noun phrase"},
+        {"word": "responsabilități", "meaning": "responsibilities (plural)", "notes": "feminine noun, plural form"},
+        {"word": "aplicație mobilă", "meaning": "mobile application / app", "notes": "feminine noun phrase"},
+        {"word": "promovare", "meaning": "promotion (at work)", "notes": "feminine noun, from 'a promova'"},
+        {"word": "a se dezvolta profesional", "meaning": "to develop professionally", "notes": "reflexive verb phrase"},
+        {"word": "competențe", "meaning": "skills / competences", "notes": "feminine noun, plural form"}
+      ],
+      "questions": [
+        {
+          "id": "r07_q1",
+          "type": "comprehension",
+          "question": "Cum merge Alexandru la birou?",
+          "questionEn": "How does Alexandru get to the office?",
+          "answer": "Cu metroul",
+          "acceptableAnswers": ["cu metroul", "cu metrou", "merge cu metroul"],
+          "options": null
+        },
+        {
+          "id": "r07_q2",
+          "type": "multiple-choice",
+          "question": "La ce proiect lucrează echipa lui Alexandru?",
+          "questionEn": "What project is Alexandru's team working on?",
+          "options": ["Un site web pentru o școală", "O aplicație mobilă pentru o bancă", "Un joc video", "Un program de contabilitate"],
+          "answer": "O aplicație mobilă pentru o bancă"
+        },
+        {
+          "id": "r07_q3",
+          "type": "comprehension",
+          "question": "De cât timp este angajat Alexandru?",
+          "questionEn": "How long has Alexandru been employed?",
+          "answer": "De doi ani",
+          "acceptableAnswers": ["de doi ani", "doi ani", "2 ani"],
+          "options": null
+        },
+        {
+          "id": "r07_q4",
+          "type": "multiple-choice",
+          "question": "Ce spune Alexandru că este cel mai important?",
+          "questionEn": "What does Alexandru say is the most important thing?",
+          "options": ["Salariul mare", "Programul flexibil", "Să facă ceea ce îi place", "Să aibă o promovare"],
+          "answer": "Să facă ceea ce îi place"
+        },
+        {
+          "id": "r07_q5",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'competențe' în acest text?",
+          "questionEn": "What does 'competențe' mean in this text?",
+          "answer": "skills / abilities",
+          "acceptableAnswers": ["skills", "abilities", "competențe", "abilități", "skills / abilities"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r07_002",
+      "title": "Interviul de Angajare",
+      "titleEn": "The Job Interview",
+      "text": "Maria a absolvit facultatea de economie anul trecut și acum caută un loc de muncă. A trimis zeci de CV-uri și în sfârșit a primit o invitație la interviu. Compania este mare și are birouri în mai multe orașe. Interviul este mâine la ora zece. Maria este emoționată, dar și încrezătoare. Și-a pregătit răspunsurile la întrebările frecvente și a citit despre companie pe internet. Știe că experiența ei nu este foarte mare, dar a făcut practică la o firmă de contabilitate timp de trei luni. De asemenea, vorbește bine engleza și franceza, ceea ce este un avantaj. Mama ei i-a spus: „Fii naturală și arată că ești motivată!\" Maria speră că va reuși să obțină postul de contabil junior. Dacă nu, va continua să caute până va găsi ceva potrivit.",
+      "translation": "Maria graduated from the economics faculty last year and is now looking for a job. She sent dozens of CVs and finally received an interview invitation. The company is large and has offices in several cities. The interview is tomorrow at ten o'clock. Maria is nervous but also confident. She prepared answers to common questions and read about the company on the internet. She knows her experience is not very extensive, but she did an internship at an accounting firm for three months. She also speaks English and French well, which is an advantage. Her mother told her: 'Be natural and show that you are motivated!' Maria hopes she will manage to get the junior accountant position. If not, she will continue searching until she finds something suitable.",
+      "vocabularyNotes": [
+        {"word": "a absolvi", "meaning": "to graduate", "notes": "verb, 4th conjugation"},
+        {"word": "CV", "meaning": "curriculum vitae / resume", "notes": "neuter noun, borrowed abbreviation"},
+        {"word": "emoționată", "meaning": "emotional / nervous (feminine)", "notes": "adjective, feminine form of 'emoționat'"},
+        {"word": "încrezătoare", "meaning": "confident (feminine)", "notes": "adjective, feminine form of 'încrezător'"},
+        {"word": "practică", "meaning": "internship / practice", "notes": "feminine noun"},
+        {"word": "avantaj", "meaning": "advantage", "notes": "neuter noun"}
+      ],
+      "questions": [
+        {
+          "id": "r07_q6",
+          "type": "multiple-choice",
+          "question": "Ce facultate a absolvit Maria?",
+          "questionEn": "What faculty did Maria graduate from?",
+          "options": ["Drept", "Medicină", "Economie", "Informatică"],
+          "answer": "Economie"
+        },
+        {
+          "id": "r07_q7",
+          "type": "comprehension",
+          "question": "Ce experiență de muncă are Maria?",
+          "questionEn": "What work experience does Maria have?",
+          "answer": "Practică de trei luni la o firmă de contabilitate",
+          "acceptableAnswers": ["practică de trei luni la o firmă de contabilitate", "trei luni practică", "practică la o firmă de contabilitate"],
+          "options": null
+        },
+        {
+          "id": "r07_q8",
+          "type": "multiple-choice",
+          "question": "Ce limbă străină vorbește Maria pe lângă engleză?",
+          "questionEn": "What foreign language does Maria speak besides English?",
+          "options": ["Germana", "Spaniola", "Italiana", "Franceza"],
+          "answer": "Franceza"
+        },
+        {
+          "id": "r07_q9",
+          "type": "comprehension",
+          "question": "Ce post vrea să obțină Maria?",
+          "questionEn": "What position does Maria want to get?",
+          "answer": "Contabil junior",
+          "acceptableAnswers": ["contabil junior", "postul de contabil junior", "contabil"],
+          "options": null
+        },
+        {
+          "id": "r07_q10",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'avantaj' în acest context?",
+          "questionEn": "What does 'avantaj' mean in this context?",
+          "answer": "advantage / benefit",
+          "acceptableAnswers": ["advantage", "benefit", "avantaj", "advantage / benefit"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

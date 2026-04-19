@@ -1,0 +1,160 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E12-case-preposition",
+  "title": "Case and Preposition Drill",
+  "titleRo": "Exerciții de Cazuri și Prepoziții",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G04-noun-cases",
+    "G17-prepositions"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Practice Romanian case usage with prepositions. Choose the correct case or preposition for each sentence.",
+  "instructionsRo": "Exersează folosirea cazurilor cu prepoziții în română. Alege cazul sau prepoziția corectă pentru fiecare propoziție.",
+  "sourceWeek": 7,
+  "exercises": [
+    {
+      "id": "e12_001",
+      "type": "multiple-choice",
+      "prompt": "Which preposition requires the accusative case when expressing direction toward a place?",
+      "promptRo": "Care prepoziție cere cazul acuzativ când exprimă direcția spre un loc?",
+      "answer": "spre",
+      "options": [
+        "asupra (genitive)",
+        "spre (accusative)",
+        "conform (dative)",
+        "contra (genitive)"
+      ],
+      "explanation": "Prepositions like 'spre', 'la', 'în', and 'pe' govern the accusative case. 'Asupra' and 'contra' require the genitive, while 'conform' requires the dative.",
+      "explanationRo": "Prepozițiile precum 'spre', 'la', 'în' și 'pe' cer acuzativul. 'Asupra' și 'contra' cer genitivul, în timp ce 'conform' cere dativul."
+    },
+    {
+      "id": "e12_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct form of 'carte' (book) after the preposition 'despre' (about): Vorbim ___.",
+      "promptRo": "Completează cu forma corectă a cuvântului 'carte' după prepoziția 'despre' (despre): Vorbim ___.",
+      "sentence": "Vorbim despre ___ în ședință.",
+      "answer": "carte",
+      "acceptableAnswers": [
+        "carte"
+      ],
+      "explanation": "After 'despre' (about), Romanian uses the accusative case with the article: despre carte. Since 'carte' is used in a general sense, it takes the indefinite form.",
+      "explanationRo": "După 'despre' (despre), româna folosește cazul acuzativ cu articolul: despre carte. Deoarece 'carte' este folosit într-un sens general, ia forma nearticulată."
+    },
+    {
+      "id": "e12_003",
+      "type": "multiple-choice",
+      "prompt": "Which case does 'fără' (without) require?",
+      "promptRo": "Care caz cere 'fără' (fără)?",
+      "answer": "Accusative",
+      "options": [
+        "Nominative",
+        "Genitive",
+        "Accusative",
+        "Dative"
+      ],
+      "explanation": "'Fără' (without) requires the accusative case: fără bani (without money), fără ajutor (without help).",
+      "explanationRo": "'Fără' (fără) cere cazul acuzativ: fără bani (fără bani), fără ajutor (fără ajutor)."
+    },
+    {
+      "id": "e12_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: El a venit ___ (with) profesorul.",
+      "promptRo": "Alege forma corectă: El a venit ___ (cu) profesorul.",
+      "answer": "cu profesorul",
+      "options": [
+        "de profesorul",
+        "cu profesorul",
+        "la profesorul",
+        "pentru profesorul"
+      ],
+      "explanation": "'Cu' (with) takes the accusative case. 'Profesorul' is already in the accusative form (same as nominative for definite articles in this case).",
+      "explanationRo": "'Cu' (cu) cere cazul acuzativ. 'Profesorul' este deja în forma acuzativ (aceeași cu nominativul pentru articolele hotărâte în acest caz)."
+    },
+    {
+      "id": "e12_005",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct preposition: Cartea este ___ (on) masă.",
+      "promptRo": "Completează cu prepoziția corectă: Cartea este ___ masă.",
+      "sentence": "Cartea este ___ masă.",
+      "answer": "pe",
+      "acceptableAnswers": [
+        "pe"
+      ],
+      "explanation": "'Pe' is the preposition for 'on' in Romanian. The accusative is used here for location: pe masă.",
+      "explanationRo": "'Pe' este prepoziția pentru 'pe' în română. Se folosește acuzativul pentru locație: pe masă."
+    },
+    {
+      "id": "e12_006",
+      "type": "multiple-choice",
+      "prompt": "'De la' (from/at the) uses which case?",
+      "promptRo": "'De la' (de la) folosește care caz?",
+      "answer": "Accusative",
+      "options": [
+        "Nominative",
+        "Genitive",
+        "Dative",
+        "Accusative"
+      ],
+      "explanation": "'De la' combines 'de' (which takes accusative) + 'la' (accusative). When expressing origin or source, 'de la' takes the accusative: de la magazin, de la București.",
+      "explanationRo": "'De la' combină 'de' (care cere acuzativul) + 'la' (acuzativ). Când exprimă originea sau sursa, 'de la' ia acuzativul: de la magazin, de la București."
+    },
+    {
+      "id": "e12_007",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct form: Acest cadou este ___ (for) mama mea.",
+      "promptRo": "Completează cu forma corectă: Acest cadou este ___ mama mea.",
+      "sentence": "Acest cadou este ___ mama mea.",
+      "answer": "pentru",
+      "acceptableAnswers": [
+        "pentru"
+      ],
+      "explanation": "'Pentru' (for) takes the accusative case: pentru mama mea (for my mother). 'Mama mea' is in the accusative form.",
+      "explanationRo": "'Pentru' (pentru) cere cazul acuzativ: pentru mama mea (pentru mama mea). 'Mama mea' este în forma acuzativ."
+    },
+    {
+      "id": "e12_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the genitive case with 'a' (belonging to)?",
+      "promptRo": "Care propoziție folosește corect cazul genitiv cu 'a' (al/a/ai/ale)?",
+      "answer": "Cartea elevului este pe birou.",
+      "options": [
+        "Cartea de elev este pe birou.",
+        "Cartea elevului este pe birou.",
+        "Cartea la elev este pe birou.",
+        "Cartea cu elev este pe birou."
+      ],
+      "explanation": "The genitive is expressed with the possessive article 'a' (al/a/ai/ale) + noun in genitive: cartea elevului (the student's book). The -lui ending marks the genitive/dative for masculine nouns.",
+      "explanationRo": "Genitivul se exprimă cu articolul posesiv 'a' (al/a/ai/ale) + substantiv în genitiv: cartea elevului (cartea elevului). Terminația -lui marchează genitivul/dativul pentru substantivele masculine."
+    },
+    {
+      "id": "e12_009",
+      "type": "multiple-choice",
+      "prompt": "Which preposition takes the dative case?",
+      "promptRo": "Care prepoziție cere cazul dativ?",
+      "answer": "datorită (due to / thanks to)",
+      "options": [
+        "în (in)",
+        "pe (on)",
+        "datorită (due to / thanks to)",
+        "fără (without)"
+      ],
+      "explanation": "'Datorită' requires the dative case (datorită succesului). In contrast, 'împotriva' (against) requires the genitive case (împotriva curentului).",
+      "explanationRo": "'Datorită' cere cazul dativ (datorită succesului). În schimb, 'împotriva' (împotriva) cere cazul genitiv (împotriva curentului)."
+    },
+    {
+      "id": "e12_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct form of 'oraș' after 'din' (from/out of): Vin ___ .",
+      "promptRo": "Completează cu forma corectă a lui 'oraș' după 'din' (din): Vin ___ .",
+      "sentence": "Vin din ___ .",
+      "answer": "oraș",
+      "acceptableAnswers": [
+        "oraș"
+      ],
+      "explanation": "'Din' (from/out of) takes the accusative case. The indefinite form 'din oraș' is correct because the speaker is referring to a city in general, not a specific one.",
+      "explanationRo": "'Din' (din) cere cazul acuzativ. Forma nearticulată 'din oraș' este corectă deoarece vorbitorul se referă la un oraș în general, nu la unul specific."
+    }
+  ]
+}

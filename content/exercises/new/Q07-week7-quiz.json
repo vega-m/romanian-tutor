@@ -1,0 +1,229 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q07-week7-quiz",
+  "title": "Week 7 Quiz: Cases and Prepositions",
+  "titleRo": "Test Săptămâna 7: Cazuri și Prepoziții",
+  "cefrLevel": "A2-B1",
+  "prerequisites": [
+    "G04-noun-cases",
+    "G17-prepositions",
+    "G07-demonstrative-pronouns"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Test your knowledge of Romanian cases and prepositions.",
+  "instructionsRo": "Testează-ți cunoștințele despre cazurile și prepozițiile în limba română.",
+  "sourceWeek": 7,
+  "exercises": [
+    {
+      "id": "q07_001",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct genitive form of 'cartea' (the book) in the sentence: 'Coperta ___ este ruptă.' (The cover of the book is torn.)",
+      "promptRo": "Care este forma corectă de genitiv pentru 'cartea' în propoziția: 'Coperta ___ este ruptă.'",
+      "answer": "cărții",
+      "options": [
+        "cartea",
+        "cărții",
+        "cartei",
+        "cărțile"
+      ],
+      "explanation": "'Cartea' is a feminine noun. In the genitive-dative singular, the definite article '-a' changes to '-i' and the stem vowel shifts: 'carte' → 'cărte', so 'cartea' → 'cărții'. The sentence 'Coperta cărții este ruptă' means 'The cover of the book is torn'.",
+      "explanationRo": "'Cartea' este un substantiv feminin. La genitiv-dativ singular, articolul hotărât '-a' devine '-i', iar vocala din radical se schimbă: 'carte' → 'cărte', deci 'cartea' → 'cărții'. Propoziția 'Coperta cărții este ruptă' înseamnă 'Coperta cărții este ruptă'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q07_002",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct dative form for 'băiatul' (the boy) in the sentence: 'Îi dau ___ un cadou.' (I give the boy a gift.)",
+      "promptRo": "Care este forma corectă de dativ pentru 'băiatul' în propoziția: 'Îi dau ___ un cadou.'",
+      "answer": "băiatului",
+      "options": [
+        "băiatului",
+        "băiatul",
+        "băiat",
+        "băiată"
+      ],
+      "explanation": "For masculine nouns ending in a consonant + '-ul' (like 'băiatul'), the dative singular form is '-ului': 'băiatului'. The sentence 'Îi dau băiatului un cadou' means 'I give the boy a gift', where 'băiatului' is in the dative case (indirect object).",
+      "explanationRo": "Pentru substantivele masculine terminate într-o consoană + '-ul' (ca 'băiatul'), forma de dativ singular este '-ului': 'băiatului'. Propoziția 'Îi dau băiatului un cadou' înseamnă 'Îi dau băiatului un cadou', unde 'băiatului' este în cazul dativ (complement indirect).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q07_003",
+      "type": "multiple-choice",
+      "prompt": "Which preposition correctly requires the accusative case? Choose the sentence with the correct preposition for a direct object person.",
+      "promptRo": "Care prepoziție cere corect cazul acuzativ? Alege propoziția cu prepoziția corectă pentru complementul direct persoană.",
+      "answer": "Văd pe Maria la magazin.",
+      "options": [
+        "Văd pe Maria la magazin.",
+        "Văd de Maria la magazin.",
+        "Văd cu Maria la magazin.",
+        "Văd la Maria la magazin."
+      ],
+      "explanation": "The preposition 'pe' is used with the accusative case to indicate the direct object of a person. 'Văd pe Maria' means 'I see Maria'. The preposition 'pe' requires the accusative: 'pe Maria' (feminine proper name, accusative = nominative). 'De' would indicate origin, 'cu' means 'with', and 'la' means 'at'.",
+      "explanationRo": "Prepoziția 'pe' se folosește cu cazul acuzativ pentru a indica complementul direct al unei persoane. 'Văd pe Maria' înseamnă 'Văd pe Maria'. Prepoziția 'pe' cere acuzativul: 'pe Maria' (nume propriu feminin, acuzativ = nominativ). 'De' ar indica proveniența, 'cu' înseamnă 'cu', iar 'la' înseamnă 'la'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q07_004",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct demonstrative pronoun form for this sentence: '___ este profesorul meu.' (This is my teacher.)",
+      "promptRo": "Care este forma corectă a pronumelui demonstrativ pentru această propoziție: '___ este profesorul meu.'",
+      "answer": "Acesta",
+      "options": [
+        "Acesta",
+        "Aceasta",
+        "Acel",
+        "Aceia"
+      ],
+      "explanation": "'Acesta' is the masculine singular demonstrative pronoun meaning 'this (one)'. Since 'profesorul meu' is masculine singular, we use 'acesta'. 'Aceasta' is feminine, 'acel' is a demonstrative adjective (not a pronoun by itself), and 'aceia' is masculine plural.",
+      "explanationRo": "'Acesta' este pronumele demonstrativ masculin singular care înseamnă 'acesta'. Deoarece 'profesorul meu' este masculin singular, folosim 'acesta'. 'Aceasta' este feminin, 'acel' este adjectiv demonstrativ (nu pronume de unul singur), iar 'aceia' este masculin plural."
+    },
+    {
+      "id": "q07_005",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct genitive form of 'fata' (the girl) in the sentence: 'Părinții ___ sunt din Cluj.' (The girl's parents are from Cluj.)",
+      "promptRo": "Care este forma corectă de genitiv pentru 'fata' în propoziția: 'Părinții ___ sunt din Cluj.'",
+      "answer": "fetei",
+      "options": [
+        "fetei",
+        "fata",
+        "fetele",
+        "fete"
+      ],
+      "explanation": "For feminine nouns ending in '-a' (like 'fata'), the genitive-dative singular form replaces '-a' with '-ei': 'fata' → 'fetei'. The sentence 'Părinții fetei sunt din Cluj' means 'The girl's parents are from Cluj', where 'fetei' is in the genitive case (showing possession).",
+      "explanationRo": "Pentru substantivele feminine terminate în '-a' (ca 'fata'), forma de genitiv-dativ singular înlocuiește '-a' cu '-ei': 'fata' → 'fetei'. Propoziția 'Părinții fetei sunt din Cluj' înseamnă 'Părinții fetei sunt din Cluj', unde 'fetei' este în cazul genitiv (arată posesia)."
+    },
+    {
+      "id": "q07_006",
+      "type": "multiple-choice",
+      "prompt": "The preposition 'de' can be followed by which case(s)?",
+      "promptRo": "Prepoziția 'de' poate fi urmată de care caz(uri)?",
+      "answer": "Genitive and Accusative",
+      "options": [
+        "Genitive and Accusative",
+        "Dative only",
+        "Nominative only",
+        "Genitive only"
+      ],
+      "explanation": "The preposition 'de' can be followed by either the genitive or the accusative case. With the accusative, 'de' indicates origin or material: 'venit de la București' (come from Bucharest), 'masă de lemn' (wooden table). With the genitive, it indicates quantity or partitive: 'o mulțime de oameni' (a lot of people).",
+      "explanationRo": "Prepoziția 'de' poate fi urmată de cazul genitiv sau acuzativ. Cu acuzativul, 'de' indică proveniența sau materialul: 'venit de la București', 'masă de lemn'. Cu genitivul, indică cantitatea: 'o mulțime de oameni'."
+    },
+    {
+      "id": "q07_007",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct form of the demonstrative pronoun meaning 'that' (feminine singular) used as a standalone pronoun?",
+      "promptRo": "Care este forma corectă a pronumelui demonstrativ care înseamnă 'acea' (feminin singular) folosit ca pronume de sine stătător?",
+      "answer": "Aceea",
+      "options": [
+        "Aceea",
+        "Acea",
+        "Aceasta",
+        "Aceia"
+      ],
+      "explanation": "'Aceea' is the feminine singular demonstrative pronoun meaning 'that (one)'. It is used as a standalone pronoun. 'Acea' is the demonstrative adjective form (used before a noun: 'acea casă'). 'Aceasta' means 'this (one)', not 'that'. 'Aceia' is masculine plural.",
+      "explanationRo": "'Aceea' este pronumele demonstrativ feminin singular care înseamnă 'acea(cea)'. Se folosește ca pronume de sine stătător. 'Acea' este forma de adjectiv demonstrativ (folosită înaintea unui substantiv: 'acea casă'). 'Aceasta' înseamnă 'aceasta', nu 'acea'. 'Aceia' este masculin plural."
+    },
+    {
+      "id": "q07_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the preposition 'către' with the accusative case?",
+      "promptRo": "Care propoziție folosește corect prepoziția 'către' cu cazul acuzativ?",
+      "answer": "Am trimis un pachet către mama mea.",
+      "options": [
+        "Am trimis un pachet către mama mea.",
+        "Am trimis un pachet de mama mea.",
+        "Am trimis un pachet cu mama mea.",
+        "Am trimis un pachet la mama mea."
+      ],
+      "explanation": "The preposition 'către' requires the accusative case and indicates direction toward a person. 'Am trimis un pachet către mama mea' means 'I sent a package to my mother'. 'Către' + accusative is used similarly to 'la' but is more formal and emphasizes the recipient. 'De' indicates origin, 'cu' means 'with', and 'la' means 'at/to' but is less specific about the recipient.",
+      "explanationRo": "Prepoziția 'către' cere cazul acuzativ și indică direcția către o persoană. 'Am trimis un pachet către mama mea' înseamnă 'Am trimis un pachet către mama mea'. 'Către' + acuzativ se folosește similar cu 'la', dar este mai formal și subliniază destinatarul. 'De' indică proveniența, 'cu' înseamnă 'cu', iar 'la' înseamnă 'la', dar este mai puțin specific despre destinatar.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q07_009",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct dative plural form of 'studentul' (the student) in the sentence: 'Le dau ___ cărțile.' (I give the students the books.)",
+      "promptRo": "Care este forma corectă de dativ plural pentru 'studentul' în propoziția: 'Le dau ___ cărțile.'",
+      "answer": "studenților",
+      "options": [
+        "studenților",
+        "studenții",
+        "studentelor",
+        "studenți"
+      ],
+      "explanation": "For masculine nouns ending in a consonant, the dative plural form is '-lor': 'studenți' → 'studenților'. The sentence 'Le dau studenților cărțile' means 'I give the students the books'. 'Le' is the dative clitic pronoun (to them), and 'studenților' reinforces the indirect object.",
+      "explanationRo": "Pentru substantivele masculine terminate într-o consoană, forma de dativ plural este '-lor': 'studenți' → 'studenților'. Propoziția 'Le dau studenților cărțile' înseamnă 'Le dau studenților cărțile'. 'Le' este pronumele clitice dativ (lor), iar 'studenților' întărește complementul indirect.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q07_010",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct genitive form: 'Ușa ___ este deschisă.' (The door of the classroom is open.) — Use 'sala de clasă' (the classroom).",
+      "promptRo": "Completează spațiul liber cu forma corectă de genitiv: 'Ușa ___ este deschisă.' — Folosește 'sala de clasă'.",
+      "sentence": "Ușa ___ este deschisă.",
+      "answer": "sălii de clasă",
+      "acceptableAnswers": [
+        "sălii de clasă"
+      ],
+      "explanation": "'Sala' is a feminine noun. In the genitive-dative singular, the article '-a' becomes '-i' and the stem vowel shifts: 'sala' → 'sălii'. The full genitive form is 'sălii de clasă'. The sentence means 'The door of the classroom is open.'",
+      "explanationRo": "'Sala' este un substantiv feminin. La genitiv-dativ singular, articolul '-a' devine '-i', iar vocala din radical se schimbă: 'sala' → 'sălii'. Forma completă de genitiv este 'sălii de clasă'. Propoziția înseamnă 'Ușa sălii de clasă este deschisă'."
+    },
+    {
+      "id": "q07_011",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct preposition: 'Cartea este ___ masă.' (The book is on the table.)",
+      "promptRo": "Completează spațiul liber cu prepoziția corectă: 'Cartea este ___ masă.'",
+      "sentence": "Cartea este ___ masă.",
+      "answer": "pe",
+      "acceptableAnswers": [
+        "pe"
+      ],
+      "explanation": "The preposition 'pe' + accusative indicates position on a surface. 'Pe masă' means 'on the table'. 'Masa' is in the accusative case (for feminine nouns without the definite article, accusative = nominative). With the definite article it would be 'pe masa'.",
+      "explanationRo": "Prepoziția 'pe' + acuzativ indică poziția pe o suprafață. 'Pe masă' înseamnă 'pe masă'. 'Masa' este la cazul acuzativ (pentru substantivele feminine fără articol hotărât, acuzativul = nominativul). Cu articolul hotărât ar fi 'pe masa'."
+    },
+    {
+      "id": "q07_012",
+      "type": "fill-blank",
+      "prompt": "Fill in the blank with the correct dative form of 'mama' (mother): 'Îi dau ___ un cadou de ziua ei.' (I give my mother a gift for her birthday.)",
+      "promptRo": "Completează spațiul liber cu forma corectă de dativ a lui 'mama': 'Îi dau ___ un cadou de ziua ei.'",
+      "sentence": "Îi dau ___ un cadou de ziua ei.",
+      "answer": "mamei",
+      "acceptableAnswers": [
+        "mamei"
+      ],
+      "explanation": "'Mama' is a feminine noun ending in '-a'. In the dative singular, '-a' changes to '-ei': 'mama' → 'mamei'. The sentence 'Îi dau mamei un cadou de ziua ei' means 'I give my mother a gift for her birthday'. The dative clitic 'Îi' can be reinforced by the noun phrase 'mamei'.",
+      "explanationRo": "'Mama' este un substantiv feminin terminat în '-a'. La dativ singular, '-a' devine '-ei': 'mama' → 'mamei'. Propoziția 'Îi dau mamei un cadou de ziua ei' înseamnă 'Îi dau mamei un cadou de ziua ei'. Clitica dativ 'Îi' poate fi întărită de sintagma 'mamei'."
+    },
+    {
+      "id": "q07_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the case error in this sentence:",
+      "promptRo": "Găsește și corectează eroarea de caz din această propoziție:",
+      "sentence": "Cartea de profesor este pe birou.",
+      "answer": "Cartea profesorului este pe birou.",
+      "explanation": "The error is 'de profesor'. To express possession ('the teacher's book'), Romanian uses the genitive case without a preposition. The correct genitive form of 'profesorul' is 'profesorului'. Correct: Cartea profesorului este pe birou.",
+      "explanationRo": "Greșeala este 'de profesor'. Pentru a exprima posesia ('cartea profesorului'), limba română folosește cazul genitiv fără prepoziție. Forma corectă de genitiv a lui 'profesorul' este 'profesorului'. Corect: Cartea profesorului este pe birou."
+    },
+    {
+      "id": "q07_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the preposition error in this sentence:",
+      "promptRo": "Găsește și corectează eroarea de prepoziție din această propoziție:",
+      "sentence": "Pun cartea de pe birou.",
+      "answer": "Pun cartea pe birou.",
+      "explanation": "The error is 'de pe' — the sentence means 'I put the book on the table' (placing something on a surface), not 'I take the book from on the table'. The correct preposition for placement is 'pe' + accusative: 'Pun cartea pe birou.' The phrase 'de pe' means 'from on', which would be used for removing: 'Iau cartea de pe birou' (I take the book from the desk).",
+      "explanationRo": "Greșeala este 'de pe' — propoziția înseamnă 'Pun cartea pe birou' (a pune ceva pe o suprafață), nu 'Iau cartea de pe birou'. Prepoziția corectă pentru plasare este 'pe' + acuzativ: 'Pun cartea pe birou.' Expresia 'de pe' înseamnă 'de pe', care s-ar folosi pentru a lua: 'Iau cartea de pe birou' (Iau cartea de pe birou)."
+    },
+    {
+      "id": "q07_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the demonstrative pronoun error in this sentence:",
+      "promptRo": "Găsește și corectează eroarea de pronume demonstrativ din această propoziție:",
+      "sentence": "Acest fete sunt foarte deștepte.",
+      "answer": "Aceste fete sunt foarte deștepte.",
+      "explanation": "The error is 'Acest' — since 'fete' is feminine plural, the demonstrative adjective must agree in gender and number. The correct form is 'Aceste' (feminine plural). 'Acest' is masculine singular. Correct: Aceste fete sunt foarte deștepte. (These girls are very smart.)",
+      "explanationRo": "Greșeala este 'Acest' — deoarece 'fete' este feminin plural, adjectivul demonstrativ trebuie să se acorde în gen și număr. Forma corectă este 'Aceste' (feminin plural). 'Acest' este masculin singular. Corect: Aceste fete sunt foarte deștepte.",
+      "acceptableAnswers": []
+    }
+  ]
+}

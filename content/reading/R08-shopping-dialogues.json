@@ -1,0 +1,140 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R08-shopping-dialogues",
+  "title": "Dialoguri de Cumpărături",
+  "titleEn": "Shopping Dialogues",
+  "cefrLevel": "B1",
+  "texts": [
+    {
+      "id": "r08_001",
+      "title": "La Magazinul de Haine",
+      "titleEn": "At the Clothing Store",
+      "text": "— Bună ziua! Vă pot ajuta cu ceva? întreabă vânzătoarea cu un zâmbet. — Bună ziua! Da, aș vrea să văd rochii de vară, spune Elena. — Sigur, urmați-mă, vă rog. Avem o colecție nouă. Aceste rochii au sosit acum o săptămână. — Ce frumoasă! Cât costă rochia albastră? — Aceasta costă 350 de lei, dar azi avem o reducere de douăzeci la sută. — Deci este 280 de lei? Da, sunt interesată. Aș vrea să o probez. Unde este cabina de probă? — Este acolo, la capătul culoarului. — ... Mi se pare că mărimea este bună, dar culoarea nu mă atrage prea mult. Aveți și pe roșu? — Da, cred că da. Lăsați-mă să verific. Da, avem mărimea M pe roșu. Iată-o. — Perfect! O iau. Pot să plătesc cu cardul? — Desigur. Vă rog cardul... Mulțumesc. Și iată chitanța. Dacă nu sunteți mulțumită, puteți să returnați rochia în termen de paisprezece zile. — Mulțumesc mult pentru ajutor!",
+      "translation": "'Good day! Can I help you with something?' the shop assistant asks with a smile. 'Good day! Yes, I would like to see summer dresses,' says Elena. 'Of course, follow me, please. We have a new collection. These dresses arrived just a week ago.' 'How beautiful! How much does the blue dress cost?' 'This one costs 350 lei, but today we have a twenty percent discount.' 'So it's 280 lei? Yes, I'm interested. I would like to try it on. Where is the fitting room?' 'It's over there, at the end of the aisle.' '... I think the size is good, but the color doesn't appeal to me very much. Do you also have it in red?' 'Yes, I think so. Let me check. Yes, we have size M in red. Here it is.' 'Perfect! I'll take it. Can I pay by card?' 'Of course. Your card please... Thank you. And here is the receipt. If you're not satisfied, you can return the dress within fourteen days.' 'Thank you very much for the help!'",
+      "vocabularyNotes": [
+        {"word": "vânzătoare", "meaning": "shop assistant (female)", "notes": "feminine noun (f.)"},
+        {"word": "reducere", "meaning": "discount / reduction", "notes": "feminine noun (f.)"},
+        {"word": "cabină de probă", "meaning": "fitting room", "notes": "feminine noun phrase"},
+        {"word": "a proba", "meaning": "to try on (clothing)", "notes": "verb, 1st conjugation"},
+        {"word": "a returna", "meaning": "to return (a product)", "notes": "verb, 1st conjugation"},
+        {"word": "chitanță", "meaning": "receipt", "notes": "feminine noun (f.)"}
+      ],
+      "questions": [
+        {
+          "id": "r08_q1",
+          "type": "comprehension",
+          "question": "Ce vrea să cumpere Elena?",
+          "questionEn": "What does Elena want to buy?",
+          "answer": "O rochie de vară",
+          "acceptableAnswers": ["o rochie de vară", "rochie de vară", "rochie"],
+          "options": null
+        },
+        {
+          "id": "r08_q2",
+          "type": "multiple-choice",
+          "question": "Cât costă rochia albastră înainte de reducere?",
+          "questionEn": "How much does the blue dress cost before the discount?",
+          "options": ["280 de lei", "300 de lei", "350 de lei", "400 de lei"],
+          "answer": "350 de lei"
+        },
+        {
+          "id": "r08_q3",
+          "type": "multiple-choice",
+          "question": "Ce culoare preferă Elena la final?",
+          "questionEn": "What color does Elena prefer in the end?",
+          "options": ["Albastră", "Verde", "Galbenă", "Roșie"],
+          "answer": "Roșie"
+        },
+        {
+          "id": "r08_q4",
+          "type": "comprehension",
+          "question": "Cum plătește Elena?",
+          "questionEn": "How does Elena pay?",
+          "answer": "Cu cardul",
+          "acceptableAnswers": ["cu cardul", "cu card"],
+          "options": null
+        },
+        {
+          "id": "r08_q5",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'reducere' în acest text?",
+          "questionEn": "What does 'reducere' mean in this text?",
+          "answer": "discount / price reduction",
+          "acceptableAnswers": ["discount", "price reduction", "reducere", "discount / price reduction"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r08_002",
+      "title": "Cumpărături Online",
+      "titleEn": "Online Shopping",
+      "text": "Andrei este un fan al cumpărăturilor online. Cumpără aproape orice de pe internet: cărți, electronice, haine și chiar mâncare. Spune că este mai convenabil și adesea mai ieftin decât magazinele obișnuite. Dar nu totul este perfect. Luna trecută, a comandat o pereche de pantofi sport. Pe site arătau foarte bine și costau doar 200 de lei. Când a venit coletul, a constatat că mărimea este greșită — a primit numărul 42 în loc de 43. A trebuit să returneze produsul și să aștepte alte zece zile pentru mărimea corectă. De asemenea, odată a cumpărat un televizor care a sosit cu ecranul spart. Vânzătorul i-a returnat banii, dar a fost o experiență neplăcută. Acum, Andrei verifică întotdeauna recenziile produselor înainte de a comanda și citește cu atenție condițiile de returnare. Economisește bani folosind coduri de reducere pe care le găsește pe site-uri speciale. Sfatul lui pentru toți: cumpărați online, dar fiți atenți!",
+      "translation": "Andrei is a fan of online shopping. He buys almost everything from the internet: books, electronics, clothes, and even food. He says it's more convenient and often cheaper than regular stores. But not everything is perfect. Last month, he ordered a pair of sports shoes. They looked very good on the website and cost only 200 lei. When the package arrived, he found that the size was wrong — he received size 42 instead of 43. He had to return the product and wait another ten days for the correct size. Also, once he bought a TV that arrived with a cracked screen. The seller refunded his money, but it was an unpleasant experience. Now, Andrei always checks product reviews before ordering and carefully reads the return conditions. He saves money using discount codes he finds on special websites. His advice for everyone: shop online, but be careful!",
+      "vocabularyNotes": [
+        {"word": "convenabil", "meaning": "convenient", "notes": "adjective, masculine form"},
+        {"word": "colet", "meaning": "package / parcel", "notes": "neuter noun (n.)"},
+        {"word": "a returna", "meaning": "to return (a product)", "notes": "verb, 1st conjugation"},
+        {"word": "a returna banii", "meaning": "to refund money", "notes": "verb phrase"},
+        {"word": "recenzie", "meaning": "review / evaluation", "notes": "feminine noun (f.)"},
+        {"word": "cod de reducere", "meaning": "discount code / promo code", "notes": "neuter noun phrase"}
+      ],
+      "questions": [
+        {
+          "id": "r08_q6",
+          "type": "multiple-choice",
+          "question": "Ce problemă a avut Andrei cu pantofii sport?",
+          "questionEn": "What problem did Andrei have with the sports shoes?",
+          "options": [
+            "Culoarea era greșită",
+            "Mărimea era greșită",
+            "Pantofii erau prea scumpi",
+            "Nu au sosit niciodată"
+          ],
+          "answer": "Mărimea era greșită"
+        },
+        {
+          "id": "r08_q7",
+          "type": "comprehension",
+          "question": "Ce a sosit cu ecranul spart?",
+          "questionEn": "What arrived with a cracked screen?",
+          "answer": "Un televizor",
+          "acceptableAnswers": ["un televizor", "televizor", "TV-ul", "tv"],
+          "options": null
+        },
+        {
+          "id": "r08_q8",
+          "type": "multiple-choice",
+          "question": "Ce face Andrei acum înainte de a comanda ceva?",
+          "questionEn": "What does Andrei do now before ordering something?",
+          "options": [
+            "Sună la vânzător",
+            "Verifică recenziile și citește condițiile de returnare",
+            "Cere sfatul unui prieten",
+            "Cumpără întotdeauna de la același magazin"
+          ],
+          "answer": "Verifică recenziile și citește condițiile de returnare"
+        },
+        {
+          "id": "r08_q9",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'recenzie' în acest context?",
+          "questionEn": "What does 'recenzie' mean in this context?",
+          "answer": "review / opinion about a product",
+          "acceptableAnswers": ["review", "opinion about a product", "recenzie", "review / opinion about a product"],
+          "options": null
+        },
+        {
+          "id": "r08_q10",
+          "type": "comprehension",
+          "question": "Cum economisește Andrei bani la cumpărăturile online?",
+          "questionEn": "How does Andrei save money on online shopping?",
+          "answer": "Folosind coduri de reducere de pe site-uri speciale",
+          "acceptableAnswers": ["folosind coduri de reducere", "cu coduri de reducere", "folosind coduri de reducere de pe site-uri speciale"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

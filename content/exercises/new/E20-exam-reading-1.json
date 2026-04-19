@@ -1,0 +1,198 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E20-exam-reading-1",
+  "title": "Exerciții de Citire - Examen B1",
+  "titleRo": "Exerciții de Citire în Format de Examen B1",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G25-word-order",
+    "G19-numerals"
+  ],
+  "estimatedMinutes": 25,
+  "instructions": "Read each short text carefully and answer the questions that follow. These exercises simulate the reading comprehension section of the B1 Romanian exam. Use only the information in the text to answer.",
+  "instructionsRo": "Citiți cu atenție fiecare text scurt și răspundeți la întrebările care urmează. Aceste exerciții simulează secțiunea de citire a examenului B1 de română. Folosiți doar informațiile din text pentru a răspunde.",
+  "sourceWeek": 11,
+  "exercises": [
+    {
+      "id": "e20_001",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'Conform unui studiu recent, aproximativ 65% dintre tinerii români cu vârsta între 18 și 30 de ani folosesc rețelele de socializare în fiecare zi. Dintre aceștia, 40% petrec mai mult de două ore pe zi online. Studiul, realizat pe un eșantion de 1.500 de persoane, arată că principalul motiv este comunicarea cu prietenii și familia.'\n\nCâți tineri din eșantion petrec mai mult de două ore pe zi online?",
+      "promptRo": "Citiți textul și răspundeți:\n\n'Conform unui studiu recent, aproximativ 65% dintre tinerii români cu vârsta între 18 și 30 de ani folosesc rețelele de socializare în fiecare zi. Dintre aceștia, 40% petrec mai mult de două ore pe zi online. Studiul, realizat pe un eșantion de 1.500 de persoane, arată că principalul motiv este comunicarea cu prietenii și familia.'\n\nCâți tineri din eșantion petrec mai mult de două ore pe zi online?",
+      "answer": "Aproximativ 390",
+      "options": [
+        "Aproximativ 390",
+        "Aproximativ 600",
+        "Aproximativ 975",
+        "Aproximativ 1.500"
+      ],
+      "explanation": "65% of 1,500 = 975 use social media daily. Of those, 40% spend more than 2 hours: 975 x 0.40 = 390.",
+      "explanationRo": "65% din 1.500 = 975 folosesc rețelele de socializare zilnic. Dintre aceștia, 40% petrec mai mult de 2 ore: 975 x 0,40 = 390."
+    },
+    {
+      "id": "e20_002",
+      "type": "multiple-choice",
+      "prompt": "Based on the same text, what is the main reason young Romanians use social media daily?",
+      "promptRo": "Pe baza aceluiași text, care este motivul principal pentru care tinerii români folosesc rețelele de socializare zilnic?",
+      "answer": "Comunicarea cu prietenii și familia",
+      "options": [
+        "Jocurile online",
+        "Comunicarea cu prietenii și familia",
+        "Știrile și informațiile",
+        "Divertismentul"
+      ],
+      "explanation": "The text explicitly states: 'principalul motiv este comunicarea cu prietenii și familia.'",
+      "explanationRo": "Textul menționează explicit: 'principalul motiv este comunicarea cu prietenii și familia.'"
+    },
+    {
+      "id": "e20_003",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'Festivalul „Tradiții și Creație” are loc în fiecare an în luna august, în satul Maramureșean de la poalele Munților Gutin. Evenimentul reunește peste 200 de meșteri populari din toate regiunile țării. Vizitatorii pot admira și cumpăra produse hand-made: icoane pe lemn, ceramică, textile tradiționale, obiecte din lemn sculptat și multe altele. Intrarea costă 25 de lei pentru adulți și 10 lei pentru copii.'\n\nCare dintre următoarele afirmații este ADEVĂRATĂ conform textului?",
+      "promptRo": "Citiți textul și răspundeți:\n\n'Festivalul „Tradiții și Creație” are loc în fiecare an în luna august, în satul Maramureșean de la poalele Munților Gutin. Evenimentul reunește peste 200 de meșteri populari din toate regiunile țării. Vizitatorii pot admira și cumpăra produse hand-made: icoane pe lemn, ceramică, textile tradiționale, obiecte din lemn sculptat și multe altele. Intrarea costă 25 de lei pentru adulți și 10 lei pentru copii.'\n\nCare dintre următoarele afirmații este ADEVĂRATĂ conform textului?",
+      "answer": "Festivalul se organizează în Maramureș.",
+      "options": [
+        "Festivalul se organizează în Transilvania.",
+        "Festivalul se organizează în Maramureș.",
+        "Festivalul are loc în fiecare vară în Bucovina.",
+        "Meșterii populari vin doar din Maramureș."
+      ],
+      "explanation": "The text says 'în satul Maramureșean de la poalele Munților Gutin', which is in Maramureș. The other options are incorrect: it's not just Transilvania, not Bucovina, and craftsmen come from 'toate regiunile țării' (all regions).",
+      "explanationRo": "Textul spune 'în satul Maramureșean de la poalele Munților Gutin', care este în Maramureș. Celelalte opțiuni sunt incorecte."
+    },
+    {
+      "id": "e20_004",
+      "type": "fill-blank",
+      "prompt": "Based on the festival text above, fill in the blank:\n\nA family with 2 adults and 3 children would pay ___ lei for entrance.",
+      "promptRo": "Pe baza textului despre festival, completați spațiul liber:\n\nO familie cu 2 adulți și 3 copii ar plăti ___ lei pentru intrare.",
+      "sentence": "Totalul este: ___ lei.",
+      "answer": "80",
+      "acceptableAnswers": [
+        "80",
+        "80 de lei",
+        "optzeci"
+      ],
+      "explanation": "2 adults x 25 lei + 3 children x 10 lei = 50 + 30 = 80 lei.",
+      "explanationRo": "2 adulți x 25 lei + 3 copii x 10 lei = 50 + 30 = 80 lei."
+    },
+    {
+      "id": "e20_005",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'Tehnologia a transformat modul în care comunicăm. În prezent, există numeroase aplicații care ne permit să sunăm, să trimitem mesaje și să facem videoconferințe gratuit. Cu toate acestea, specialiștii avertizează că dependența de telefon poate avea efecte negative asupra sănătății mentale, în special la tineri. Un studiu realizat în 2023 a arătat că adolescenții care petrec mai mult de trei ore pe zi pe telefon au un risc de 30% mai mare de a dezvolta simptome de anxietate.'\n\nCe cuvânt din text înseamnă 'people who are experts in a field'?",
+      "promptRo": "Care este forma corectă pentru 'Tehnologia a transformat modul în care comunicăm. În prezent, există numeroase aplicații care ne permit să sunăm, să trimitem mesaje și să facem videoconferințe gratuit. Cu toate acestea, specialiștii avertizează că dependența de telefon poate avea efecte negative asupra sănătății mentale, în special la tineri. Un studiu realizat în 2023 a arătat că adolescenții care petrec mai mult de trei ore pe zi pe telefon au un risc de 30% mai mare de a dezvolta simptome de anxietate.'?",
+      "answer": "specialiștii",
+      "options": [
+        "adolescenții",
+        "specialiștii",
+        "aplicațiile",
+        "tinerii"
+      ],
+      "explanation": "'Specialiștii' means 'the specialists/experts' — they are the ones warning about phone addiction.",
+      "explanationRo": "'Specialiștii' înseamnă 'specialiștii/experții' — ei sunt cei care avertizează despre dependența de telefon."
+    },
+    {
+      "id": "e20_006",
+      "type": "multiple-choice",
+      "prompt": "Based on the technology text, what is the main idea of the second paragraph?",
+      "promptRo": "Pe baza textului despre tehnologie, care este ideea principală a celui de-al doilea paragraf?",
+      "answer": "Phone addiction can negatively affect mental health, especially in teenagers.",
+      "options": [
+        "Technology has made communication free and easy.",
+        "There are many useful apps available today.",
+        "Phone addiction can negatively affect mental health, especially in teenagers.",
+        "Anxiety is the most common health problem."
+      ],
+      "explanation": "The second part of the text introduces the negative effects: 'dependența de telefon poate avea efecte negative asupra sănătății mentale, în special la tineri.' The study about anxiety supports this main idea.",
+      "explanationRo": "Partea a doua a textului introduce efectele negative: 'dependența de telefon poate avea efecte negative asupra sănătății mentale, în special la tineri.' Studiul despre anxietate susține această idee principală."
+    },
+    {
+      "id": "e20_007",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'Scrisoarea oficială\n\nStimate domnule director,\n\nSubsemnatul, Marinescu Andrei, elev în clasa a X-a, vă adresez respectuoasa cerere de a fi admis în programul de schimb cultural organizat de liceul nostru cu un liceu din Italia.\n\nConsider că participarea la acest program mi-ar oferi oportunitatea de a-mi îmbunătăți cunoștințele de limba italiană și de a descoperi o cultură nouă. De asemenea, aș putea promova valorile culturii românești în străinătate.\n\nCu deosebită considerație,\nMarinescu Andrei'\n\nWhat is the purpose of this letter?",
+      "promptRo": "Citiți textul și răspundeți:\n\n'Scrisoarea oficială\n\nStimate domnule director,\n\nSubsemnatul, Marinescu Andrei, elev în clasa a X-a, vă adresez respectuoasa cerere de a fi admis în programul de schimb cultural organizat de liceul nostru cu un liceu din Italia.\n\nConsider că participarea la acest program mi-ar oferi oportunitatea de a-mi îmbunătăți cunoștințele de limba italiană și de a descoperi o cultură nouă. De asemenea, aș putea promova valorile culturii românești în străinătate.\n\nCu deosebită considerație,\nMarinescu Andrei'\n\nCare este scopul acestei scrisori?",
+      "answer": "To request admission to a cultural exchange program in Italy.",
+      "options": [
+        "To complain about school facilities.",
+        "To request admission to a cultural exchange program in Italy.",
+        "To apply for a job at an Italian company.",
+        "To invite the principal to visit Italy."
+      ],
+      "explanation": "The letter states: 'vă adresez respectuoasa cerere de a fi admis în programul de schimb cultural... cu un liceu din Italia.' The purpose is to request admission to the exchange program.",
+      "explanationRo": "Scrisoarea menționează: 'vă adresez respectuoasa cerere de a fi admis în programul de schimb cultural... cu un liceu din Italia.' Scopul este solicitarea admiterii în programul de schimb."
+    },
+    {
+      "id": "e20_008",
+      "type": "multiple-choice",
+      "prompt": "Based on the letter, what TWO reasons does the student give for wanting to participate?",
+      "promptRo": "Pe baza scrisorii, ce DOUĂ motive dă elevul pentru a participa?",
+      "answer": "To improve Italian language skills and to discover a new culture.",
+      "options": [
+        "To improve Italian language skills and to discover a new culture.",
+        "To visit tourist attractions and to eat Italian food.",
+        "To make new friends and to play sports.",
+        "To learn cooking and to find a job."
+      ],
+      "explanation": "The letter mentions: 'a-mi îmbunătăți cunoștințele de limba italiană și de a descoperi o cultură nouă.' (to improve Italian knowledge and discover a new culture).",
+      "explanationRo": "Scrisoarea menționează: 'a-mi îmbunătăți cunoștințele de limba italiană și de a descoperi o cultură nouă.'"
+    },
+    {
+      "id": "e20_009",
+      "type": "multiple-choice",
+      "prompt": "What register (style) is the letter written in?",
+      "promptRo": "În ce registru (stil) este scrisă scrisoarea?",
+      "answer": "Formal",
+      "options": [
+        "Informal",
+        "Formal",
+        "Neutral",
+        "Literary"
+      ],
+      "explanation": "The letter uses formal language: 'Stimate domnule director', 'Subsemnatul', 'vă adresez respectuoasa cerere', 'Cu deosebită considerație'. These are all hallmarks of formal Romanian correspondence.",
+      "explanationRo": "Scrisoarea folosește limbaj formal: 'Stimate domnule director', 'Subsemnatul', 'vă adresez respectuoasa cerere', 'Cu deosebită considerație'. Acestea sunt toate semne distinctive ale corespondenței formale românești."
+    },
+    {
+      "id": "e20_010",
+      "type": "fill-blank",
+      "prompt": "Read the text and fill in the blank:\n\n'În România, prima școală în limba română a fost fondată în anul 1818, la ___ , de Gheorghe Asachi. Aceasta a marcat un moment important pentru dezvoltarea educației în limba națională.'",
+      "promptRo": "Citiți textul și completați spațiul liber:\n\n'În România, prima școală în limba română a fost fondată în anul 1818, la ___ , de Gheorghe Asachi. Aceasta a marcat un moment important pentru dezvoltarea educației în limba națională.'",
+      "sentence": "Prima școală în limba română a fost fondată la ___ .",
+      "answer": "Iași",
+      "acceptableAnswers": [
+        "Iași",
+        "IașI",
+        "iași"
+      ],
+      "explanation": "Gheorghe Asachi founded the first Romanian-language school in Iași in 1818. This is a well-known historical fact about Romanian education.",
+      "explanationRo": "Gheorghe Asachi a fondat prima școală în limba română la Iași în 1818. Acesta este un fapt istoric bine cunoscut despre educația românească."
+    },
+    {
+      "id": "e20_011",
+      "type": "multiple-choice",
+      "prompt": "Read the text and answer:\n\n'Spre deosebire de alte țări europene, România are o populație care îmbătrânește rapid. Conform statisticilor, în anul 2030, aproximativ 25% din populație va avea peste 65 de ani. Această tendință creează provocări pentru sistemul de sănătate și pentru pensii. Totuși, există și aspecte pozitive: tinerii din România sunt printre cei mai bine pregătiți din Europa în domeniul IT.'\n\nWhat is the author's attitude toward Romania's aging population?",
+      "promptRo": "Citiți textul și răspundeți:\n\n'Spre deosebire de alte țări europene, România are o populație care îmbătrânește rapid. Conform statisticilor, în anul 2030, aproximativ 25% din populație va avea peste 65 de ani. Această tendință creează provocări pentru sistemul de sănătate și pentru pensii. Totuși, există și aspecte pozitive: tinerii din România sunt printre cei mai bine pregătiți din Europa în domeniul IT.'\n\nCare este atitudinea autorului față de îmbătrânirea populației din România?",
+      "answer": "Balanced — mentions both challenges and positive aspects.",
+      "options": [
+        "Completely negative — only problems mentioned.",
+        "Completely positive — no concerns.",
+        "Balanced — mentions both challenges and positive aspects.",
+        "Neutral — no opinion expressed."
+      ],
+      "explanation": "The author mentions challenges ('provocări pentru sistemul de sănătate și pentru pensii') but also positive aspects ('Totuși, există și aspecte pozitive'). The attitude is balanced.",
+      "explanationRo": "Autorul menționează provocări ('provocări pentru sistemul de sănătate și pentru pensii') dar și aspecte pozitive ('Totuși, există și aspecte pozitive'). Atitudinea este echilibrată."
+    },
+    {
+      "id": "e20_012",
+      "type": "multiple-choice",
+      "prompt": "Based on the population text, the word 'tendință' most closely means:",
+      "promptRo": "Pe baza textului despre populație, cuvântul 'tendință' înseamnă cel mai aproape:",
+      "answer": "trend / tendency",
+      "options": [
+        "problem",
+        "trend / tendency",
+        "solution",
+        "opinion"
+      ],
+      "explanation": "'Tendință' means 'trend' or 'tendency' — the aging of the population is described as a trend ('îmbătrânește rapid'). Context clues: statistics, future projections (2030) all point to a demographic trend.",
+      "explanationRo": "'Tendință' înseamnă 'tendință' — îmbătrânirea populației este descrisă ca o tendință ('îmbătrânește rapid'). Indicii de context: statistici, proiecții viitoare (2030) indică o tendință demografică."
+    }
+  ]
+}

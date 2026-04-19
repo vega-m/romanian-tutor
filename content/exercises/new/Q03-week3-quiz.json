@@ -1,0 +1,228 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q03-week3-quiz",
+  "title": "Week 3 Quiz: Pronouns and Adjective Agreement",
+  "titleRo": "Test Săptămâna 3: Pronume și Acordul Adjectivelor",
+  "cefrLevel": "A1-A2",
+  "prerequisites": [
+    "G06-personal-pronouns",
+    "G08-possessive-pronouns",
+    "G05-adjective-agreement"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "This quiz tests your knowledge of personal pronouns, possessive pronouns, and adjective agreement. Answer all 15 questions. Each question has only one correct answer.",
+  "instructionsRo": "Acest test verifică cunoștințele tale despre pronumele personale, pronumele posesive și acordul adjectivelor. Răspunde la toate cele 15 întrebări. Fiecare întrebare are un singur răspuns corect.",
+  "sourceWeek": 3,
+  "exercises": [
+    {
+      "id": "q03_001",
+      "type": "multiple-choice",
+      "prompt": "Which personal pronoun is used for a mixed group of men and women?",
+      "promptRo": "Ce pronume personal se folosește pentru un grup mixt de bărbați și femei?",
+      "answer": "ei",
+      "options": [
+        "ei",
+        "ele",
+        "noi",
+        "voi"
+      ],
+      "explanation": "In Romanian, a mixed group always takes the masculine plural pronoun 'ei'. Only an all-female group uses 'ele'.",
+      "explanationRo": "În limba română, un grup mixt ia întotdeauna pronumele masculin plural 'ei'. Doar un grup exclusiv feminin folosește 'ele'."
+    },
+    {
+      "id": "q03_002",
+      "type": "multiple-choice",
+      "prompt": "What is the feminine singular personal pronoun?",
+      "promptRo": "Care este pronumele personal feminin singular?",
+      "answer": "ea",
+      "options": [
+        "ea",
+        "ei",
+        "eu",
+        "ele"
+      ],
+      "explanation": "'Ea' is the 3rd person feminine singular subject pronoun (she). 'Eu' is 'I', 'ei' is 'they' (masculine), 'ele' is 'they' (feminine plural).",
+      "explanationRo": "'Ea' este pronumele personal de persoana a III-a feminin singular (ea). 'Eu' este 'eu', 'ei' este 'ei' (masculin), 'ele' este 'ele' (feminin plural)."
+    },
+    {
+      "id": "q03_003",
+      "type": "multiple-choice",
+      "prompt": "Which possessive pronoun means 'my' for a masculine singular noun?",
+      "promptRo": "Care pronume posesiv înseamnă 'al meu' pentru un substantiv masculin singular?",
+      "answer": "meu",
+      "options": [
+        "meu",
+        "mea",
+        "mie",
+        "mi"
+      ],
+      "explanation": "'Meu' is the possessive pronoun for 'eu' (I) agreeing with a masculine singular noun: 'fratele meu' (my brother). 'Mea' is the feminine form: 'sora mea'.",
+      "explanationRo": "'Meu' este pronumele posesiv pentru 'eu' de acord cu un substantiv masculin singular: 'fratele meu' (fratele meu). 'Mea' este forma feminină: 'sora mea'."
+    },
+    {
+      "id": "q03_004",
+      "type": "multiple-choice",
+      "prompt": "Which possessive pronoun means 'your' (informal, singular) for a feminine singular noun?",
+      "promptRo": "Care pronume posesiv înseamnă 'al tău' (informal, singular) pentru un substantiv feminin singular?",
+      "answer": "ta",
+      "options": [
+        "ta",
+        "tău",
+        "vostru",
+        "lui"
+      ],
+      "explanation": "'Ta' is the possessive pronoun for 'tu' agreeing with a feminine singular noun: 'cartea ta' (your book). 'Tău' is the masculine form: 'fratele tău'. 'Vostru' is for 'voi' (you, plural), and 'lui' is for 'el' (he).",
+      "explanationRo": "'Ta' este pronumele posesiv pentru 'tu' de acord cu un substantiv feminin singular: 'cartea ta' (cartea ta). 'Tău' este forma masculină: 'fratele tău'. 'Vostru' este pentru 'voi' (voi, plural), iar 'lui' este pentru 'el' (el)."
+    },
+    {
+      "id": "q03_005",
+      "type": "multiple-choice",
+      "prompt": "What is the correct possessive pronoun for 'their' (3rd person plural)?",
+      "promptRo": "Care este pronumele posesiv corect pentru 'al lor' (persoana a III-a plural)?",
+      "answer": "lor",
+      "options": [
+        "lor",
+        "lui",
+        "nostru",
+        "le"
+      ],
+      "explanation": "'Lor' is the possessive pronoun for the 3rd person plural (ei/ele). It is invariable and does not change for gender or number: 'cărțile lor' (their books), 'mașina lor' (their car).",
+      "explanationRo": "'Lor' este pronumele posesiv pentru persoana a III-a plural (ei/ele). Este invariabil și nu se schimbă pentru gen sau număr: 'cărțile lor' (cărțile lor), 'mașina lor' (mașina lor)."
+    },
+    {
+      "id": "q03_006",
+      "type": "multiple-choice",
+      "prompt": "Which adjective form agrees with 'o fată' (a girl)?",
+      "promptRo": "Ce formă a adjectivului se acordă cu 'o fată' (o fată)?",
+      "answer": "mică",
+      "options": [
+        "mic",
+        "mică",
+        "mici",
+        "micul"
+      ],
+      "explanation": "'Fată' is a feminine singular noun. The adjective 'mic' must agree in gender and number: feminine singular 'mică' → 'o fată mică' (a small girl).",
+      "explanationRo": "'Fată' este un substantiv feminin singular. Adjectivul 'mic' trebuie să fie de acord în gen și număr: feminin singular 'mică' → 'o fată mică'.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q03_007",
+      "type": "multiple-choice",
+      "prompt": "What is the masculine plural form of the adjective 'bun' (good)?",
+      "promptRo": "Care este forma masculin plural a adjectivului 'bun' (bun)?",
+      "answer": "buni",
+      "options": [
+        "bun",
+        "buni",
+        "bune",
+        "buna"
+      ],
+      "explanation": "The masculine plural of 'bun' is 'buni'. Feminine plural would be 'bune': 'băieții buni' (the good boys), 'fetele bune' (the good girls).",
+      "explanationRo": "Masculinul plural al lui 'bun' este 'buni'. Femininul plural ar fi 'bune': 'băieții buni' (băieții buni), 'fetele bune' (fetele bune)."
+    },
+    {
+      "id": "q03_008",
+      "type": "multiple-choice",
+      "prompt": "A neuter noun like 'scaun' (chair) takes which adjective form in the plural?",
+      "promptRo": "Un substantiv neutru ca 'scaun' (scaun) primește ce formă a adjectivului la plural?",
+      "answer": "Feminine plural form (scaune bune)",
+      "options": [
+        "Masculine singular form (scaun bun)",
+        "Feminine plural form (scaune bune)",
+        "Masculine plural form (scaune buni)",
+        "Neuter has its own special form"
+      ],
+      "explanation": "Neuter nouns take masculine adjective forms in the singular and feminine plural forms in the plural: 'un scaun bun' (sg.) → 'scaune bune' (pl.).",
+      "explanationRo": "Substantivele neutre iau adjective la masculin singular și la feminin plural: 'un scaun bun' (sg.) → 'scaune bune' (pl.)."
+    },
+    {
+      "id": "q03_009",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the correct pronoun for 'we' as the subject?",
+      "promptRo": "Ce propoziție folosește corect pronumele pentru 'noi' ca subiect?",
+      "answer": "Noi mergem la cinema diseară.",
+      "options": [
+        "Noi mergem la cinema diseară.",
+        "Ne mergem la cinema diseară.",
+        "Nouă mergem la cinema diseară.",
+        "Noi merge la cinema diseară."
+      ],
+      "explanation": "'Noi' is the subject pronoun for 'we'. It takes the 1st person plural verb form: 'mergem'. 'Ne' is the clitic form (not used as subject). 'Nouă' is the stressed form (used after prepositions).",
+      "explanationRo": "'Noi' este pronumele subiect pentru 'noi'. Primește verbul la persoana I plural: 'mergem'. 'Ne' este forma clitică. 'Nouă' este forma accentuată (folosită după prepoziții).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q03_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct possessive pronoun: 'Acesta este ___ (my) câine.'",
+      "promptRo": "Completează cu pronumele posesiv corect: 'Acesta este ___ câine.'",
+      "sentence": "Acesta este ___ câine.",
+      "answer": "meu",
+      "acceptableAnswers": [
+        "meu"
+      ],
+      "explanation": "'Câine' is a masculine singular noun. The possessive pronoun for 'eu' must agree: 'meu' (masculine singular). 'Acesta este câinele meu' or 'Acesta este câine meu'.",
+      "explanationRo": "'Câine' este un substantiv masculin singular. Pronumele posesiv pentru 'eu' trebuie să fie de acord: 'meu' (masculin singular). 'Acesta este câinele meu' sau 'Acesta este câine meu'."
+    },
+    {
+      "id": "q03_011",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct possessive pronoun: 'Aceste sunt ___ (our) cărți.'",
+      "promptRo": "Completează cu pronumele posesiv corect: 'Aceste sunt ___ cărți.'",
+      "sentence": "Aceste sunt ___ cărți.",
+      "answer": "noastre",
+      "acceptableAnswers": [
+        "noastre"
+      ],
+      "explanation": "'Cărți' is feminine plural. The possessive pronoun for 'noi' (we) must agree: 'noastre' (feminine plural). Masculine plural would be 'noștri': 'frații noștri'.",
+      "explanationRo": "'Cărți' este feminin plural. Pronumele posesiv pentru 'noi' trebuie să fie de acord: 'noastre' (feminin plural). Masculinul plural ar fi 'noștri': 'frații noștri'."
+    },
+    {
+      "id": "q03_012",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct adjective form: 'Profesorii sunt foarte ___ (strict, masculine plural).'",
+      "promptRo": "Completează cu forma corectă a adjectivului: 'Profesorii sunt foarte ___ (strict, masculin plural).'",
+      "sentence": "Profesorii sunt foarte ___ .",
+      "answer": "stricți",
+      "acceptableAnswers": [
+        "stricți"
+      ],
+      "explanation": "'Profesorii' is masculine plural. The adjective 'strict' in masculine plural is 'stricți': 'profesorii sunt foarte stricți'. Feminine plural would be 'stricte'.",
+      "explanationRo": "'Profesorii' este masculin plural. Adjectivul 'strict' la masculin plural este 'stricți': 'profesorii sunt foarte stricți'. Femininul plural ar fi 'stricte'."
+    },
+    {
+      "id": "q03_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence: 'Ea este un student bun.'",
+      "promptRo": "Găsiți și corectați eroarea din această propoziție: 'Ea este un student bun.'",
+      "sentence": "Ea este un student bun.",
+      "answer": "Ea este o studentă bună.",
+      "explanation": "The error is in both the article and adjective agreement. 'Ea' is feminine, so 'student' must become 'studentă' (feminine), the article 'un' must become 'o' (feminine), and 'bun' must become 'bună' (feminine): 'Ea este o studentă bună.'",
+      "explanationRo": "Eroarea este atât în articol, cât și în acordul adjectivului. 'Ea' este feminin, deci 'student' trebuie să devină 'studentă' (feminin), articolul 'un' trebuie să devină 'o' (feminin), iar 'bun' trebuie să devină 'bună' (feminin): 'Ea este o studentă bună.'",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q03_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence: 'Cartea lui sunt pe masă.'",
+      "promptRo": "Găsiți și corectați eroarea din această propoziție: 'Cartea lui sunt pe masă.'",
+      "sentence": "Cartea lui sunt pe masă.",
+      "answer": "Cartea lui este pe masă.",
+      "explanation": "The error is in the verb form. 'Cartea' is feminine singular, so the verb 'a fi' must be singular: 'este' (not 'sunt'). The possessive 'lui' is correct because 'cartea lui' refers to his book.",
+      "explanationRo": "Eroarea este la forma verbului. 'Cartea' este feminin singular, deci verbul 'a fi' trebuie să fie la singular: 'este' (nu 'sunt'). Posesivul 'lui' este corect deoarece 'cartea lui' se referă la cartea lui.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q03_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence: 'Băieții sunt înalți, dar fetele sunt și ele înalți.'",
+      "promptRo": "Găsiți și corectați eroarea din această propoziție: 'Băieții sunt înalți, dar fetele sunt și ele înalți.'",
+      "sentence": "Băieții sunt înalți, dar fetele sunt și ele înalți.",
+      "answer": "Băieții sunt înalți, dar fetele sunt și ele înalte.",
+      "explanation": "The adjective 'inalți' at the end of the sentence is incorrect. 'Fetele' is feminine plural, so the adjective must be 'inalte' (feminine plural), not 'inalți' (masculine plural). The first 'inalți' is correct because 'băieții' is masculine plural.",
+      "explanationRo": "Adjectivul 'inalți' de la sfârșitul propoziției este incorect. 'Fetele' este feminin plural, deci adjectivul trebuie să fie 'inalte' (feminin plural), nu 'inalți' (masculin plural). Primul 'inalți' este corect deoarece 'băieții' este masculin plural.",
+      "acceptableAnswers": []
+    }
+  ]
+}

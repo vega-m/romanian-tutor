@@ -1,0 +1,172 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G23-passive-voice",
+  "title": "Vocea Pasivă (Pasivul în Română)",
+  "titleEn": "The Passive Voice",
+  "cefrLevel": "B1",
+  "prerequisites": ["G09-present-tense", "G10-past-compound", "G03-noun-gender"],
+  "estimatedMinutes": 35,
+  "introduction": "The passive voice (diateza pasivă) is used when the focus of the sentence is on the action being performed rather than the person performing it. In Romanian, it is formed using the auxiliary 'a fi' and the past participle. Understanding the passive is crucial for formal writing, news reports, and academic contexts at a B1 level.",
+  "introductionRo": "Diateza pasivă se folosește atunci când accentul cade pe acțiunea suferită, mai degrabă decât pe autorul acesteia. În limba română, aceasta se formează cu ajutorul auxiliarului „a fi” și al participiului trecut. Înțelegerea pasivului este esențială pentru scrierea formală, știri și contexte academice la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Passive Voice",
+      "headingRo": "Formarea Diatezei Pasive",
+      "content": "The passive is an analytical construction: auxiliary 'a fi' (conjugated in the desired tense) + the past participle. Crucially, the past participle MUST agree in gender and number with the subject of the sentence.",
+      "contentRo": "Pasivul este o construcție analitică: auxiliarul „a fi” (conjugat la timpul dorit) + participiul trecut. Un aspect esențial este că participiul trecut TREBUIE să se acorde în gen și număr cu subiectul propoziției.",
+      "table": {
+        "headers": ["Tense", "Active", "Passive", "Translation"],
+        "rows": [
+          ["Present", "Ei construiesc casa.", "Casa este construită de ei.", "The house is built by them."],
+          ["Compound Past", "Ei au construit casa.", "Casa a fost construită de ei.", "The house was built by them."],
+          ["Imperfect", "Ei construiau casa.", "Casa era construită de ei.", "The house was being built by them."],
+          ["Future", "Ei vor construi casa.", "Casa va fi construită de ei.", "The house will be built by them."],
+          ["Conditional", "Ei ar construi casa.", "Casa ar fi construită de ei.", "The house would be built by them."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Cartea a fost scrisă de un autor român. (The book was written by a Romanian author.)",
+          "en": "a fost (was) + scrisă (written, fem. sg.) — the participle agrees with 'cartea'.",
+          "notes": "The agent is introduced by 'de' (by) in Romanian."
+        },
+        {
+          "ro": "Mesele sunt puse în salon. (The tables are placed in the living room.)",
+          "en": "sunt (are) + puse (placed, fem. pl.) — the participle agrees with 'mesele'.",
+          "notes": "When the agent is not important or unknown, it is simply omitted."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Agent: 'de' (by)",
+      "headingRo": "Agentul: 'de' (de)",
+      "content": "The agent (who performs the action) is introduced by 'de' in the passive:",
+      "contentRo": "Agentul (cine efectuează acțiunea) este introdus de 'de' în pasiv:",
+      "table": {
+        "headers": ["Passive", "Agent", "Translation"],
+        "rows": [
+          ["Cartea a fost scrisă", "de Mihai Eminescu.", "The book was written by Mihai Eminescu."],
+          ["Problema a fost rezolvată", "de echipă.", "The problem was solved by the team."],
+          ["Cântecul este iubit", "de toată lumea.", "The song is loved by everyone."],
+          ["Examenul a fost susținut", "de studenți.", "The exam was taken by students."]
+        ]
+      },
+      "rules": [
+        "de + noun (de către is also used in formal contexts for emphasis: de către guvern)",
+        "When the agent is unknown or unimportant, it is omitted",
+        "de + pronoun: de mine (by me), de tine (by you), de el (by him)"
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Reflexive/Impersonal Passive with 'se'",
+      "headingRo": "Pasiv Reflexiv/Impersonal cu 'se'",
+      "content": "A very common way to express the passive in Romanian uses the reflexive pronoun 'se' + the verb in the 3rd person. This is the most natural passive form in everyday Romanian:",
+      "contentRo": "Un mod foarte comun de a exprima pasivul în română folosește pronumele reflexiv 'se' + verbul la persoana a III-a. Aceasta este cea mai naturală formă pasivă în româna de zi cu zi:",
+      "table": {
+        "headers": ["Active", "Passive with 'se'", "Translation"],
+        "rows": [
+          ["Oamenii vorbesc românește.", "Se vorbește românește aici.", "Romanian is spoken here."],
+          ["Cineva construiește o casă.", "Se construiește o casă.", "A house is being built."],
+          ["Ei vând această carte.", "Se vinde această carte.", "This book is sold."],
+          ["Cineva a spart geamul.", "S-a spart geamul.", "The window was broken."],
+          ["Noi servim masa la 7.", "Se servește masa la 7.", "Dinner is served at 7."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aici se vorbește românește. (Romanian is spoken here.)",
+          "en": "'se vorbește' = 'it is spoken' — impersonal passive with 'se'.",
+          "notes": "This is the most common passive form in everyday Romanian. It's equivalent to 'on parle' in French."
+        },
+        {
+          "ro": "S-a decis să plecăm. (It was decided that we leave.)",
+          "en": "'s-a decis' = it was decided — the reflexive passive in the compound past.",
+          "notes": "Very common in news, meetings, and formal announcements."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Choosing Between Active, Passive with 'se', and 'a fi' Passive",
+      "headingRo": "Alegerea Între Activ, Pasiv cu 'se' și Pasiv cu 'a fi'",
+      "content": "Romanian speakers prefer different passive constructions depending on the context:",
+      "contentRo": "Vorbitorii de română preferă diferite construcții passive în funcție de context:",
+      "table": {
+        "headers": ["Construction", "Register", "Example", "When to Use"],
+        "rows": [
+          ["Active voice", "All", "Ei construiesc casa.", "Default in speech — focus on doer"],
+          ["'se' passive", "Informal/Standard", "Se construiește casa.", "Focus on action, no agent mentioned"],
+          ["'a fi' passive", "Formal/Written", "Casa este construită.", "Formal writing, news, academic"],
+          ["Reflexive passive", "Everyday", "S-a întâmplat un accident.", "Events that happened, impersonal"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Everyday: Se mănâncă bine la acest restaurant. (They eat well at this restaurant. / Food is good here.)",
+          "en": "The 'se' passive is the most natural way to say this in everyday speech.",
+          "notes": "Literal: 'One eats well at this restaurant.' The English equivalent would be 'The food is good here.'"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "When to Use the Passive",
+      "content": "In Romanian, the passive is used less frequently than in English. Use it when:",
+      "contentRo": "În română, pasivul se folosește mai rar decât în engleză. Folosește-l când:",
+      "rules": [
+        "The agent is unknown: S-a furat mașina. (The car was stolen.)",
+        "The agent is obvious: Se servește micul dejun. (Breakfast is served.)",
+        "The focus is on the action/result: Cartea a fost publicată. (The book was published.)",
+        "In formal writing: Legea a fost adoptată de parlament. (The law was adopted by parliament.)",
+        "In news: S-a raportat un accident. (An accident was reported.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using the passive:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești pasivul:",
+      "rules": [
+        "Don't forget that the participle must agree in gender and number with the subject",
+        "Don't overuse the passive — Romanian prefers the active voice",
+        "Don't use 'de către' in casual speech — 'de' is sufficient",
+        "Remember: 'se' passive uses 3rd person verb forms only",
+        "Don't confuse the 'se' passive with reflexive verbs: Se spală (He washes / It is washed — context matters)"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Scrisorile au fost scrise de ea. (The letters were written by her.)",
+          "en": "'scrise' agrees with 'scrisorile' (feminine plural).",
+          "notes": "Common mistake: saying 'au fost scris' — the participle doesn't agree with the subject."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Passive with 'a fi' + past participle: Cartea este citită. (The book is read.)",
+    "The past participle must agree in gender and number with the subject",
+    "Agent introduced by 'de' (by): scrisă de Mihai (written by Mihai)",
+    "Reflexive/impersonal passive with 'se': Se vorbește românește. (Romanian is spoken.)",
+    "The 'se' passive is the most common passive in everyday Romanian",
+    "Compound past passive: s-a + participle: S-a decis. (It was decided.)",
+    "Romanian prefers active voice — use passive only when necessary",
+    "'de' is sufficient for 'by' — 'de către' is more formal",
+    "Formal passive: 'a fi' + participle; Informal passive: 'se' + verb"
+  ],
+  "summaryPointsRo": [
+    "Pasiv cu 'a fi' + participiu trecut: Cartea este citită. (Cartea este citită.)",
+    "Participiul trecut trebuie să se acorde în gen și număr cu subiectul",
+    "Agent introdus de 'de' (de): scrisă de Mihai (scrisă de Mihai)",
+    "Pasiv reflexiv/impersonal cu 'se': Se vorbește românește. (Se vorbește românește.)",
+    "Pasivul cu 'se' este cel mai comun pasiv în româna de zi cu zi",
+    "Pasiv trecut compus: s-a + participiu: S-a decis. (S-a decis.)",
+    "Româna preferă vocea activă — folosește pasivul doar când este necesar",
+    "'de' este suficient pentru 'de' — 'de către' este mai formal",
+    "Pasiv formal: 'a fi' + participiu; Pasiv informal: 'se' + verb"
+  ],
+  "relatedExercises": ["E17-passive-transform"]
+}

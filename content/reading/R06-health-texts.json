@@ -1,0 +1,120 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R06-health-texts",
+  "title": "Texte despre Sănătate",
+  "titleEn": "Health Texts",
+  "cefrLevel": "A2-B1",
+  "texts": [
+    {
+      "id": "r06_001",
+      "title": "O Vizită la Doctor",
+      "titleEn": "A Visit to the Doctor",
+      "text": "Săptămâna trecută, m-am simțit foarte rău. Aveam febră mare, tuse și durere de cap. Mama mea l-a sunat pe doctorul de familie și a făcut o programare. A doua zi, am mers la cabinetul doctorului. El m-a examinat cu atenție, mi-a verificat temperatura și mi-a ascultat plămânii. Doctorul mi-a spus că am o infecție a căilor respiratorii și mi-a dat o rețetă pentru antibiotice și sirop de tuse. Mi-a recomandat să beau multe lichide, să stau la pat două zile și să revin dacă nu mă simt mai bine. Am mers la farmacie și am cumpărat medicamentele. După trei zile de tratament, febra a scăzut și m-am simțit mult mai bine. Am înțeles din nou cât de importantă este sănătatea.",
+      "translation": "Last week, I felt very unwell. I had a high fever, a cough, and a headache. My mother called our family doctor and made an appointment. The next day, I went to the doctor's office. He examined me carefully, checked my temperature, and listened to my lungs. The doctor told me I had a respiratory tract infection and gave me a prescription for antibiotics and cough syrup. He recommended that I drink plenty of fluids, stay in bed for two days, and come back if I don't feel better. I went to the pharmacy and bought the medicines. After three days of treatment, the fever went down and I felt much better. I understood once again how important health is.",
+      "vocabularyNotes": [
+        {"word": "doctor de familie", "meaning": "family doctor / general practitioner", "notes": "masculine noun phrase"},
+        {"word": "programare", "meaning": "appointment", "notes": "feminine noun (f.)"},
+        {"word": "cabinet", "meaning": "doctor's office / consulting room", "notes": "neuter noun (n.)"},
+        {"word": "rețetă", "meaning": "prescription", "notes": "feminine noun (f.)"},
+        {"word": "lichide", "meaning": "liquids / fluids", "notes": "feminine plural noun"}
+      ],
+      "questions": [
+        {
+          "id": "r06_q1",
+          "type": "multiple-choice",
+          "question": "Ce simptome avea naratorul?",
+          "questionEn": "What symptoms did the narrator have?",
+          "options": [
+            "Durere de stomac și greață",
+            "Febră, tuse și durere de cap",
+            "Alergie și mâncărime",
+            "Durere de spate și oboseală"
+          ],
+          "answer": "Febră, tuse și durere de cap"
+        },
+        {
+          "id": "r06_q2",
+          "type": "comprehension",
+          "question": "Ce diagnostic a pus doctorul?",
+          "questionEn": "What diagnosis did the doctor give?",
+          "answer": "O infecție a căilor respiratorii",
+          "acceptableAnswers": ["o infecție a căilor respiratorii", "infecție respiratorie", "infecție a căilor respiratorii"],
+          "options": null
+        },
+        {
+          "id": "r06_q3",
+          "type": "multiple-choice",
+          "question": "Ce medicamente a primit?",
+          "questionEn": "What medicines did the narrator receive?",
+          "options": ["Vitamine și calmante", "Antibiotice și sirop de tuse", "Picături pentru ochi", "Pastile pentru durere"],
+          "answer": "Antibiotice și sirop de tuse"
+        },
+        {
+          "id": "r06_q4",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'programare' în acest context?",
+          "questionEn": "What does 'programare' mean in this context?",
+          "answer": "appointment (medical)",
+          "acceptableAnswers": ["appointment", "medical appointment", "programare"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r06_002",
+      "title": "Sănătatea prin Sport",
+      "titleEn": "Health through Sports",
+      "text": "Am citit recent un articol interesant despre importanța sportului pentru sănătate. Articolul spunea că adulții ar trebui să facă cel puțin treizeci de minute de exerciții fizice pe zi. Din păcate, mulți oameni stau prea mult pe scaun, la birou sau în fața televizorului. Aceasta poate provoca probleme de sănătate, cum ar fi obezitatea, bolile de inimă și diabetul. Eu personal încerc să fac sport de trei ori pe săptămână. Alerg în parc sau merg la sală. Când fac sport, mă simt plin de energie, dorm mai bine și sunt mai productiv la muncă. De asemenea, sportul ajută la reducerea stresului. Medicii recomandă și o alimentație sănătoasă — mai multe legume și fructe, mai puțin zahăr și mai puțină carne procesată. Sănătatea este cea mai mare avere pe care o avem, așa că trebuie să avem grijă de ea.",
+      "translation": "I recently read an interesting article about the importance of sports for health. The article said that adults should do at least thirty minutes of physical exercise per day. Unfortunately, many people sit too much in a chair, at the office or in front of the television. This can cause health problems such as obesity, heart disease, and diabetes. Personally, I try to exercise three times a week. I run in the park or go to the gym. When I exercise, I feel full of energy, sleep better, and am more productive at work. Sports also help reduce stress. Doctors also recommend a healthy diet — more vegetables and fruits, less sugar and less processed meat. Health is the greatest wealth we have, so we must take care of it.",
+      "vocabularyNotes": [
+        {"word": "exerciții fizice", "meaning": "physical exercises", "notes": "neuter plural noun phrase"},
+        {"word": "obezitate", "meaning": "obesity", "notes": "feminine noun (f.)"},
+        {"word": "diabet", "meaning": "diabetes", "notes": "neuter noun (n.)"},
+        {"word": "alimentație sănătoasă", "meaning": "healthy diet", "notes": "feminine noun phrase"},
+        {"word": "a avea grijă", "meaning": "to take care", "notes": "verb phrase"}
+      ],
+      "questions": [
+        {
+          "id": "r06_q5",
+          "type": "multiple-choice",
+          "question": "Câte minute de exerciții pe zi recomandă articolul?",
+          "questionEn": "How many minutes of exercise per day does the article recommend?",
+          "options": ["Zece minute", "Douăzeci de minute", "Treizeci de minute", "O oră"],
+          "answer": "Treizeci de minute"
+        },
+        {
+          "id": "r06_q6",
+          "type": "comprehension",
+          "question": "Ce probleme de sănătate poate provoca statul prea mult pe scaun?",
+          "questionEn": "What health problems can sitting too much cause?",
+          "answer": "Obezitatea, bolile de inimă și diabetul",
+          "acceptableAnswers": ["obezitatea, bolile de inimă și diabetul", "obezitatea bolile de inimă și diabetul", "obezitate boli de inimă diabet"],
+          "options": null
+        },
+        {
+          "id": "r06_q7",
+          "type": "multiple-choice",
+          "question": "Ce face naratorul pentru sănătate?",
+          "questionEn": "What does the narrator do for health?",
+          "options": [
+            "Face sport de trei ori pe săptămână",
+            "Face sport în fiecare zi",
+            "Mănâncă doar salate",
+            "Doarme zece ore pe noapte"
+          ],
+          "answer": "Face sport de trei ori pe săptămână"
+        },
+        {
+          "id": "r06_q8",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'alimentație sănătoasă'?",
+          "questionEn": "What does 'alimentație sănătoasă' mean?",
+          "answer": "healthy diet / healthy eating",
+          "acceptableAnswers": ["healthy diet", "healthy eating", "alimentație sănătoasă"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

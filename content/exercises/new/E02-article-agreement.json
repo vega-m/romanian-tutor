@@ -1,0 +1,156 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E02-article-agreement",
+  "title": "Article Agreement",
+  "titleRo": "Acordul Articolului",
+  "cefrLevel": "A1",
+  "prerequisites": ["G01-alphabet-reading"],
+  "estimatedMinutes": 20,
+  "instructions": "Practice choosing the correct definite article based on noun gender and number.",
+  "instructionsRo": "Exersează alegerea articolului hotărât corect în funcție de genul și numărul substantivului.",
+  "sourceWeek": 2,
+  "exercises": [
+    {
+      "id": "e02_001",
+      "type": "multiple-choice",
+      "prompt": "What is the correct definite article form for the feminine noun 'casă'?",
+      "promptRo": "Care este forma corectă a articolului hotărât pentru substantivul feminin 'casă'?",
+      "answer": "casa",
+      "options": ["casul", "casa", "casă", "casulă"],
+      "explanation": "Feminine nouns ending in -ă form their definite article by replacing -ă with -a: casă → casa.",
+      "explanationRo": "Substantivele feminine care se termină în -ă își formează articolul hotărât înlocuind -ă cu -a: casă → casa.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_002",
+      "type": "multiple-choice",
+      "prompt": "What is the correct definite article form for the masculine noun 'băiat'?",
+      "promptRo": "Care este forma corectă a articolului hotărât pentru substantivul masculin 'băiat'?",
+      "answer": "băiatul",
+      "options": ["băiat", "băiatul", "băiate", "băiatu"],
+      "explanation": "Masculine nouns take the suffix -ul for the definite article: băiat → băiatul.",
+      "explanationRo": "Substantivele masculine primesc sufixul -ul pentru articolul hotărât: băiat → băiatul.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_003",
+      "type": "multiple-choice",
+      "prompt": "What is the definite article form for the neuter noun 'copac'?",
+      "promptRo": "Care este forma cu articol hotărât a substantivului neutru 'copac'?",
+      "answer": "copacul",
+      "options": ["copacul", "copaca", "copacle", "copacu"],
+      "explanation": "Neuter nouns behave like masculine in the singular: they take -ul. Copac → copacul.",
+      "explanationRo": "Substantivele neutre se comportă ca cele masculine la singular: primesc -ul. Copac → copacul.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_004",
+      "type": "fill-blank",
+      "prompt": "Add the correct definite article to the noun 'frate' (brother).",
+      "promptRo": "Adaugă articolul hotărât corect substantivului 'frate' (frate).",
+      "sentence": "___ meu are doi copii.",
+      "answer": "Fratele",
+      "acceptableAnswers": ["Fratele", "fratele"],
+      "explanation": "'Frate' is masculine, so it takes -ul: frate → fratele.",
+      "explanationRo": "'Frate' este masculin, deci primește -ul: frate → fratele.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_005",
+      "type": "fill-blank",
+      "prompt": "Add the correct definite article to the noun 'apă' (water).",
+      "promptRo": "Adaugă articolul hotărât corect substantivului 'apă' (apă).",
+      "sentence": "___ este foarte rece azi.",
+      "answer": "Apa",
+      "acceptableAnswers": ["Apa", "apa"],
+      "explanation": "'Apă' is feminine, ending in -ă. Replace -ă with -a: apă → apa.",
+      "explanationRo": "'Apă' este feminin, se termină în -ă. Înlocuiește -ă cu -a: apă → apa.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_006",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct definite article form for 'măr' (apple)?",
+      "promptRo": "Care este forma corectă cu articol hotărât pentru 'măr' (măr)?",
+      "answer": "mărul",
+      "options": ["măru", "măra", "mărul", "măr"],
+      "explanation": "'Măr' is a neuter noun. Neuter nouns use -ul in the singular: măr → mărul.",
+      "explanationRo": "'Măr' este un substantiv neutru. Substantivele neutre folosesc -ul la singular: măr → mărul.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_007",
+      "type": "translation",
+      "prompt": "Translate to Romanian: 'The book is on the table.'",
+      "promptRo": "Traduce în română: 'The book is on the table.'",
+      "answer": "Cartea este pe masă.",
+      "acceptableAnswers": ["Cartea este pe masă.", "Cartea e pe masă."],
+      "explanation": "'Carte' (f.) → 'cartea'. 'Masă' (f.) → 'masa'. After the preposition 'pe', we use the unarticulated form for locations (pe masă), or the articulated form for specific objects (pe masa). Both 'pe masă' and 'pe masa' are grammatically possible, but 'pe masă' is the common general expression.",
+      "explanationRo": "'Carte' (f.) → 'cartea'. 'Masă' (f.) → 'masa'. După prepoziția 'pe', folosim forma nearticulată pentru locații (pe masă), sau forma articulată pentru obiecte specifice (pe masa).",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_008",
+      "type": "multiple-choice",
+      "prompt": "What happens to feminine nouns ending in -e or -ea when forming the definite article?",
+      "promptRo": "Ce se întâmplă cu substantivele feminine terminate în -e sau -ea la formarea articolului hotărât?",
+      "answer": "They add -a as a suffix",
+      "options": [
+        "They replace the ending with -a",
+        "They add -ul",
+        "They add -a as a suffix",
+        "They stay the same"
+      ],
+      "explanation": "Feminine nouns ending in -e/-ea do not lose their ending. Instead, -ua or -a is added: cafea → cafeaua, carte → cartea (which also loses -e, gaining -ea → -a).",
+      "explanationRo": "Substantivele feminine terminate în -e/-ea nu își pierd terminația. Se adaugă -ua sau -a: cafea → cafeaua, carte → cartea.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_009",
+      "type": "fill-blank",
+      "prompt": "Choose the correct definite article form for 'soție' (wife).",
+      "promptRo": "Alege forma corectă cu articol hotărât pentru 'soție' (soție).",
+      "sentence": "___ lui lucrează la școală.",
+      "answer": "Soția",
+      "acceptableAnswers": ["Soția", "soția"],
+      "explanation": "'Soție' is feminine. The -e ending is replaced by -ea for the definite article: soție → soția.",
+      "explanationRo": "'Soție' este feminin. Terminația -e este înlocuită cu -ea pentru articolul hotărât: soție → soția.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_010",
+      "type": "multiple-choice",
+      "prompt": "What is the plural definite article for masculine nouns like 'băieți' (boys)?",
+      "promptRo": "Care este articolul hotărât plural pentru substantivele masculine ca 'băieți' (băieți)?",
+      "answer": "băieții",
+      "options": ["băieții", "băiețiii", "băiețele", "băiețiș"],
+      "explanation": "Masculine plural nouns take -ii (or -i for nouns ending in -e): băieți → băieții.",
+      "explanationRo": "Substantivele masculine la plural primesc -ii (sau -i pentru cele terminate în -e): băieți → băieții.",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_011",
+      "type": "fill-blank",
+      "prompt": "Add the correct plural definite article: 'fetele' means 'the girls'. What is the singular form without the article?",
+      "promptRo": "Adaugă articolul hotărât plural corect: 'fetele' înseamnă 'the girls'. Care este forma singular fără articol?",
+      "sentence": "Singular: ___ → Definite article: fetele",
+      "answer": "fată",
+      "acceptableAnswers": ["fată"],
+      "explanation": "The feminine noun 'fată' becomes 'fete' in the plural, and 'fetele' with the definite article (feminine plural takes -le).",
+      "explanationRo": "Substantivul feminin 'fată' devine 'fete' la plural, și 'fetele' cu articolul hotărât (feminin plural primește -le).",
+      "sourceGrammarId": "G02-articles"
+    },
+    {
+      "id": "e02_012",
+      "type": "multiple-choice",
+      "prompt": "Which of the following is the correct definite article form for the neuter noun 'teatru' (theater)?",
+      "promptRo": "Care dintre următoarele este forma corectă cu articol hotărât pentru substantivul neutru 'teatru' (teatru)?",
+      "answer": "teatrul",
+      "options": ["teatrul", "teatra", "teatrele", "teatru"],
+      "explanation": "'Teatru' is neuter. Neuter nouns take -ul in the singular: teatru → teatrul. Note the vowel change u → ul.",
+      "explanationRo": "'Teatru' este neutru. Substantivele neutre iau -ul la singular: teatru → teatrul. Observă schimbarea vocalei u → ul.",
+      "sourceGrammarId": "G02-articles"
+    }
+  ]
+}

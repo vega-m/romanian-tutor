@@ -1,0 +1,223 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q04-week4-quiz",
+  "title": "Present Tense Quiz — All 4 Conjugations",
+  "titleRo": "Test de Prezent — Toate cele 4 Conjugări",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G09-present-tense"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Test your knowledge of Romanian present tense conjugations across all four conjugation groups. Identify conjugation patterns, conjugate regular and irregular verbs, recognize vowel shifts, and correct common mistakes.",
+  "instructionsRo": "Testează-ți cunoștințele despre conjugarea la prezent în limba română pentru toate cele patru conjugări. Identifică tiparele de conjugare, conjugă verbe regulate și neregulate, recunoaște schimbările de vocale și corectează greșelile comune.",
+  "sourceWeek": 4,
+  "exercises": [
+    {
+      "id": "q04_001",
+      "type": "multiple-choice",
+      "prompt": "Which conjugation group does the verb 'a cânta' (to sing) belong to?",
+      "promptRo": "La ce grup de conjugări aparține verbul 'a cânta'?",
+      "answer": "1st conjugation (-a)",
+      "options": [
+        "1st conjugation (-a)",
+        "2nd conjugation (-ea)",
+        "3rd conjugation (-e)",
+        "4th conjugation (-i/-î)"
+      ],
+      "explanation": "'A cânta' ends in '-a', which means it belongs to the 1st conjugation. Most verbs ending in '-a' follow this group: eu cânt, tu cânți, el/ea cântă, noi cântăm, voi cântați, ei/ele cântă.",
+      "explanationRo": "'A cânta' se termină în '-a', ceea ce înseamnă că aparține conjugării I. Majoritatea verbelor terminate în '-a' urmează acest grup: eu cânt, tu cânți, el/ea cântă, noi cântăm, voi cântați, ei/ele cântă."
+    },
+    {
+      "id": "q04_002",
+      "type": "multiple-choice",
+      "prompt": "Which conjugation group does the verb 'a tăcea' (to be silent) belong to?",
+      "promptRo": "La ce grup de conjugări aparține verbul 'a tăcea'?",
+      "answer": "2nd conjugation (-ea)",
+      "options": [
+        "1st conjugation (-a)",
+        "2nd conjugation (-ea)",
+        "3rd conjugation (-e)",
+        "4th conjugation (-i/-î)"
+      ],
+      "explanation": "'A tăcea' ends in '-ea', which places it in the 2nd conjugation. Verbs in this group have a characteristic '-ea' infinitive ending and often show a stem vowel change: eu tac, tu taci, el/ea tace, noi tăcem, voi tăceți, ei/ele tac.",
+      "explanationRo": "'A tăcea' se termină în '-ea', ceea ce îl plasează la conjugarea a II-a. Verbele din acest grup au terminația caracteristică '-ea' la infinitiv și adesea prezintă o schimbare de vocală în radical: eu tac, tu taci, el/ea tace, noi tăcem, voi tăceți, ei/ele tac."
+    },
+    {
+      "id": "q04_003",
+      "type": "multiple-choice",
+      "prompt": "Which conjugation group does the verb 'a merge' (to go) belong to?",
+      "promptRo": "La ce grup de conjugări aparține verbul 'a merge'?",
+      "answer": "3rd conjugation (-e)",
+      "options": [
+        "1st conjugation (-a)",
+        "2nd conjugation (-ea)",
+        "3rd conjugation (-e)",
+        "4th conjugation (-i/-î)"
+      ],
+      "explanation": "'A merge' is a 3rd conjugation verb (-e). Present: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg. Note the irregular stem 'merg-' instead of 'marg-' from the infinitive.",
+      "explanationRo": "'A merge' este un verb de conjugarea a III-a (-e). Prezent: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg. Observă radicalul neregulat 'merg-' în loc de 'marg-' de la infinitiv."
+    },
+    {
+      "id": "q04_004",
+      "type": "multiple-choice",
+      "prompt": "Which conjugation group does the verb 'a dormi' (to sleep) belong to?",
+      "promptRo": "La ce grup de conjugări aparține verbul 'a dormi'?",
+      "answer": "4th conjugation (-i)",
+      "options": [
+        "1st conjugation (-a)",
+        "2nd conjugation (-ea)",
+        "3rd conjugation (-e)",
+        "4th conjugation (-i)"
+      ],
+      "explanation": "'A dormi' is a 4th conjugation verb (-i). Present: eu dorm, tu dormi, el/ea doarme, noi dormim, voi dormiți, ei/ele dorm. Note the vowel change in 3rd person singular: 'dorm' → 'doarme'.",
+      "explanationRo": "'A dormi' este un verb de conjugarea a IV-a (-i). Prezent: eu dorm, tu dormi, el/ea doarme, noi dormim, voi dormiți, ei/ele dorm. Observă schimbarea de vocală la persoana a III-a singular: 'dorm' → 'doarme'."
+    },
+    {
+      "id": "q04_005",
+      "type": "fill-blank",
+      "prompt": "Conjugate the regular 1st conjugation verb 'a ajuta' (to help) for 'noi': Noi ___ colegii la proiect.",
+      "promptRo": "Conjugă verbul regulat de conjugarea I 'a ajuta' pentru 'noi': Noi ___ colegii la proiect.",
+      "sentence": "Noi ___ colegii la proiect.",
+      "answer": "ajutăm",
+      "acceptableAnswers": [
+        "ajutăm"
+      ],
+      "explanation": "'A ajuta' is a 1st conjugation verb (-a). For 'noi' (1st person plural), the ending is '-ăm': ajutăm. Full conjugation: eu ajut, tu ajuți, el/ea ajută, noi ajutăm, voi ajutați, ei/ele ajută.",
+      "explanationRo": "'A ajuta' este un verb de conjugarea I (-a). Pentru 'noi' (persoana I plural), terminația este '-ăm': ajutăm. Conjugarea completă: eu ajut, tu ajuți, el/ea ajută, noi ajutăm, voi ajutați, ei/ele ajută."
+    },
+    {
+      "id": "q04_006",
+      "type": "fill-blank",
+      "prompt": "Conjugate the 3rd conjugation verb 'a înțelege' (to understand) for 'tu': Tu ___ limba română bine.",
+      "promptRo": "Conjugă verbul de conjugarea a III-a 'a înțelege' pentru 'tu': Tu ___ limba română bine.",
+      "sentence": "Tu ___ limba română bine.",
+      "answer": "înțelegi",
+      "acceptableAnswers": [
+        "înțelegi"
+      ],
+      "explanation": "'A înțelege' is a 3rd conjugation verb (-e). For 'tu' (2nd person singular), the ending is '-i': înțelegi. Full conjugation: eu înțeleg, tu înțelegi, el/ea înțelege, noi înțelegem, voi înțelegeți, ei/ele înțeleg.",
+      "explanationRo": "'A înțelege' este un verb de conjugarea a III-a (-e). Pentru 'tu' (persoana a II-a singular), terminația este '-i': înțelegi. Conjugarea completă: eu înțeleg, tu înțelegi, el/ea înțelege, noi înțelegem, voi înțelegeți, ei/ele înțeleg."
+    },
+    {
+      "id": "q04_007",
+      "type": "fill-blank",
+      "prompt": "Conjugate the irregular verb 'a vrea' (to want) for 'el': El ___ o cafea.",
+      "promptRo": "Conjugă verbul neregulat 'a vrea' pentru 'el': El ___ o cafea.",
+      "sentence": "El ___ o cafea dimineața.",
+      "answer": "vrea",
+      "acceptableAnswers": [
+        "vrea"
+      ],
+      "explanation": "'A vrea' is irregular. Its present forms: eu vreau, tu vrei, el/ea vrea, noi vrem, voi vreți, ei/ele vor. For 'el' (3rd person singular), the correct form is 'vrea'. Be careful not to confuse it with 'vreau' (1st person singular).",
+      "explanationRo": "'A vrea' este neregulat. Formele sale de prezent: eu vreau, tu vrei, el/ea vrea, noi vrem, voi vreți, ei/ele vor. Pentru 'el' (persoana a III-a singular), forma corectă este 'vrea'. Atenție să nu o confunzi cu 'vreau' (persoana I singular)."
+    },
+    {
+      "id": "q04_008",
+      "type": "fill-blank",
+      "prompt": "Conjugate the irregular verb 'a ști' (to know) for 'ei': Ei ___ răspunsul.",
+      "promptRo": "Conjugă verbul neregulat 'a ști' pentru 'ei': Ei ___ răspunsul.",
+      "sentence": "Ei ___ răspunsul la întrebare.",
+      "answer": "știu",
+      "acceptableAnswers": [
+        "știu"
+      ],
+      "explanation": "'A ști' is an irregular verb. Present: eu știu, tu știi, el/ea știe, noi știm, voi știți, ei/ele știu. Note: 1st and 3rd person plural are identical ('știu').",
+      "explanationRo": "'A ști' este un verb neregulat. Prezent: eu știu, tu știi, el/ea știe, noi știm, voi știți, ei/ele știu. Observă: persoana I și a III-a plural sunt identice ('știu')."
+    },
+    {
+      "id": "q04_009",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct present tense form of 'a fi' (to be) for 'noi'?",
+      "promptRo": "Care este forma corectă de prezent a verbului 'a fi' pentru 'noi'?",
+      "answer": "suntem",
+      "options": [
+        "sunt",
+        "ești",
+        "suntem",
+        "sunteți"
+      ],
+      "explanation": "'A fi' is highly irregular. Present: eu sunt, tu ești, el/ea este, noi suntem, voi sunteți, ei/ele sunt. For 'noi' (1st person plural), the correct form is 'suntem'.",
+      "explanationRo": "'A fi' este foarte neregulat. Prezent: eu sunt, tu ești, el/ea este, noi suntem, voi sunteți, ei/ele sunt. Pentru 'noi' (persoana I plural), forma corectă este 'suntem'."
+    },
+    {
+      "id": "q04_010",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct present tense form of 'a avea' (to have) for 'ea'?",
+      "promptRo": "Care este forma corectă de prezent a verbului 'a avea' pentru 'ea'?",
+      "answer": "are",
+      "options": [
+        "am",
+        "ai",
+        "are",
+        "au"
+      ],
+      "explanation": "'A avea' is irregular. Present: eu am, tu ai, el/ea are, noi avem, voi aveți, ei/ele au. For 'ea' (3rd person singular feminine), the correct form is 'are'.",
+      "explanationRo": "'A avea' este neregulat. Prezent: eu am, tu ai, el/ea are, noi avem, voi aveți, ei/ele au. Pentru 'ea' (persoana a III-a singular feminin), forma corectă este 'are'."
+    },
+    {
+      "id": "q04_011",
+      "type": "multiple-choice",
+      "prompt": "In the verb 'a mânca' (to eat), what vowel shift occurs in the 1st, 2nd, and 3rd person forms?",
+      "promptRo": "La verbul 'a mânca', ce schimbare de vocală apare la formele persoanelor I, a II-a și a III-a?",
+      "answer": "a changes to ă (mănânc, mănânci, mănâncă)",
+      "options": [
+        "a changes to ă (mănânc, mănânci, mănâncă)",
+        "ă changes to a (mânc, mânci, mâncă)",
+        "a changes to e (menânc, menânci, menâncă)",
+        "No vowel shift occurs"
+      ],
+      "explanation": "In 'a mânca', the vowel 'a' in the stem shifts to 'ă' in the 1st, 2nd, and 3rd person singular and 3rd person plural: eu mănânc, tu mănânci, el/ea mănâncă, noi mâncăm, voi mâncați, ei/ele mănâncă. The 1st and 2nd person plural keep the 'â' from the infinitive.",
+      "explanationRo": "La 'a mânca', vocala 'a' din radical se schimbă în 'ă' la persoana I, a II-a și a III-a singular și persoana a III-a plural: eu mănânc, tu mănânci, el/ea mănâncă, noi mâncăm, voi mâncați, ei/ele mănâncă. Persoana I și a II-a plural păstrează 'â' de la infinitiv.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q04_012",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct present tense form: 'Sora mea ___ muzică la conservator.' (a studia — to study)",
+      "promptRo": "Alege forma corectă de prezent: 'Sora mea ___ muzică la conservator.' (a studia)",
+      "answer": "studiază",
+      "options": [
+        "studiază",
+        "studie",
+        "studează",
+        "studiaz"
+      ],
+      "explanation": "'A studia' is a 1st conjugation verb (-a). For 'sora mea' (3rd person singular feminine), the correct form is 'studiază'. The ending is '-ă' for the 3rd person singular in the 1st conjugation.",
+      "explanationRo": "'A studia' este un verb de conjugarea I (-a). Pentru 'sora mea' (persoana a III-a singular feminin), forma corectă este 'studiază'. Terminația este '-ă' pentru persoana a III-a singular la conjugarea I.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q04_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the conjugation error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de conjugare din această propoziție:",
+      "sentence": "Noi merge la școală în fiecare dimineață.",
+      "answer": "Noi mergem la școală în fiecare dimineață.",
+      "explanation": "The error is 'merge' — for 'noi' (1st person plural), the verb 'a merge' must end in '-em': 'mergem'. The form 'merge' is 3rd person singular. Correct: Noi mergem.",
+      "explanationRo": "Greșeala este 'merge' — pentru 'noi' (persoana I plural), verbul 'a merge' trebuie să se termine în '-em': 'mergem'. Forma 'merge' este persoana a III-a singular. Corect: Noi mergem.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q04_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the irregular verb form in this sentence:",
+      "promptRo": "Găsește și corectează forma neregulată a verbului din această propoziție:",
+      "sentence": "Eu este student la universitate.",
+      "answer": "Eu sunt student la universitate.",
+      "explanation": "The error is 'este' — for 'eu' (1st person singular), the irregular verb 'a fi' has the form 'sunt', not 'este'. 'Este' is the 3rd person singular form. Correct: Eu sunt.",
+      "explanationRo": "Greșeala este 'este' — pentru 'eu' (persoana I singular), verbul neregulat 'a fi' are forma 'sunt', nu 'este'. 'Este' este forma persoanei a III-a singular. Corect: Eu sunt."
+    },
+    {
+      "id": "q04_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the conjugation error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala de conjugare din această propoziție:",
+      "sentence": "El au un apartament mare în centrul orașului.",
+      "answer": "El are un apartament mare în centrul orașului.",
+      "explanation": "The error is 'au' — for 'el' (3rd person singular), the irregular verb 'a avea' has the form 'are', not 'au'. 'Au' is the 3rd person plural form. Correct: El are.",
+      "explanationRo": "Greșeala este 'au' — pentru 'el' (persoana a III-a singular), verbul neregulat 'a avea' are forma 'are', nu 'au'. 'Au' este forma persoanei a III-a plural. Corect: El are.",
+      "acceptableAnswers": []
+    }
+  ]
+}

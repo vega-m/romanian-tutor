@@ -1,0 +1,129 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E06-present-conjugation",
+  "title": "Present Tense Conjugation Drill",
+  "titleRo": "Exerciții de Conjugare la Prezent",
+  "cefrLevel": "A2",
+  "prerequisites": [
+    "G09-present-tense"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Conjugate Romanian verbs in the present tense. Pay attention to verb groups (I: -a, II: -ea, III: -e, IV: -i/-î) and reflexive pronouns.",
+  "instructionsRo": "Conjugă verbele românești la prezent. Acordă atenție grupelor de verbe (I: -a, II: -ea, III: -e, IV: -i/-î) și pronumelor reflexive.",
+  "sourceWeek": 4,
+  "exercises": [
+    {
+      "id": "e06_001",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a lucra' (to work) for 'eu': Eu ___ la birou.",
+      "promptRo": "Conjugă 'a lucra' pentru 'eu': Eu ___ la birou.",
+      "sentence": "Eu ___ la birou în fiecare zi.",
+      "answer": "lucrez",
+      "acceptableAnswers": [
+        "lucrez"
+      ],
+      "explanation": "'A lucra' is a 1st conjugation verb (-a). Present: eu lucrez, tu lucrezi, el/ea lucrează, noi lucrăm, voi lucrați, ei/ele lucrează.",
+      "explanationRo": "'A lucra' este un verb de conjugarea I (-a). Prezent: eu lucrez, tu lucrezi, el/ea lucrează, noi lucrăm, voi lucrați, ei/ele lucrează.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_002",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a mânca' (to eat) for 'el': El ___ la restaurant.",
+      "promptRo": "Conjugă 'a mânca' pentru 'el': El ___ la restaurant.",
+      "sentence": "El ___ la restaurant în fiecare seară.",
+      "answer": "mănâncă",
+      "acceptableAnswers": [
+        "mănâncă"
+      ],
+      "explanation": "'A mânca' is a 1st conjugation verb (-a) with a vowel change in the stem. Present: eu mănânc, tu mănânci, el/ea mănâncă, noi mâncăm, voi mâncați, ei/ele mănâncă.",
+      "explanationRo": "'A mânca' este un verb de conjugarea I (-a) cu schimbare de vocală în radical. Prezent: eu mănânc, tu mănânci, el/ea mănâncă, noi mâncăm, voi mâncați, ei/ele mănâncă.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_003",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a merge' (to go) for 'noi': Noi ___ la piață.",
+      "promptRo": "Conjugă 'a merge' pentru 'noi': Noi ___ la piață.",
+      "sentence": "Noi ___ la piață în fiecare sâmbătă.",
+      "answer": "mergem",
+      "acceptableAnswers": [
+        "mergem"
+      ],
+      "explanation": "'A merge' is a 3rd conjugation verb (-e). Present: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg.",
+      "explanationRo": "'A merge' este un verb de conjugarea a III-a (-e). Prezent: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_004",
+      "type": "fill-blank",
+      "prompt": "Conjugate the reflexive 'a se trezi' (to wake up) for 'ea': Ea ___ devreme.",
+      "promptRo": "Conjugă 'a se trezi' pentru 'ea': Ea ___ devreme.",
+      "sentence": "Ea ___ devreme în fiecare dimineață.",
+      "answer": "se trezește",
+      "acceptableAnswers": [
+        "se trezește"
+      ],
+      "explanation": "'A se trezi' is a reflexive verb (4th conj., -i). Reflexive pronoun + verb: eu mă trezesc, tu te trezești, el/ea se trezește, noi ne trezim, voi vă treziți, ei/ele se trezesc.",
+      "explanationRo": "'A se trezi' este un verb reflexiv (conj. a IV-a, -i). Pronume reflexiv + verb: eu mă trezesc, tu te trezești, el/ea se trezește, noi ne trezim, voi vă treziți, ei/ele se trezesc.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_005",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a dormi' (to sleep) for 'tu': Tu ___ opt ore.",
+      "promptRo": "Conjugă 'a dormi' pentru 'tu': Tu ___ opt ore.",
+      "sentence": "Tu ___ opt ore pe noapte, nu-i așa?",
+      "answer": "dormi",
+      "acceptableAnswers": [
+        "dormi"
+      ],
+      "explanation": "'A dormi' is a 4th conjugation verb (-i). Present: eu dorm, tu dormi, el/ea doarme, noi dormim, voi dormiți, ei/ele dorm. Note: 3rd person singular ends in -e.",
+      "explanationRo": "'A dormi' este un verb de conjugarea a IV-a (-i). Prezent: eu dorm, tu dormi, el/ea doarme, noi dormim, voi dormiți, ei/ele dorm. Notă: persoana a III-a singular se termină în -e.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_006",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a veni' (to come) for 'voi': Voi ___ la petrecere.",
+      "promptRo": "Conjugă 'a veni' pentru 'voi': Voi ___ la petrecere.",
+      "sentence": "Voi ___ la petrecere diseară, nu-i așa?",
+      "answer": "veniți",
+      "acceptableAnswers": [
+        "veniți"
+      ],
+      "explanation": "'A veni' is a 4th conjugation verb (-i/-î pattern). Present: eu vin, tu vii, el/ea vine, noi venim, voi veniți, ei/ele vin. Note: 1st person singular and 3rd person plural are identical (vin).",
+      "explanationRo": "'A veni' este un verb de conjugarea a IV-a (tipar -i/-î). Prezent: eu vin, tu vii, el/ea vine, noi venim, voi veniți, ei/ele vin. Notă: persoana I singular și a III-a plural sunt identice (vin).",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_007",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a scrie' (to write) for 'ei': Ei ___ scrisori des.",
+      "promptRo": "Conjugă 'a scrie' pentru 'ei': Ei ___ scrisori des.",
+      "sentence": "Ei ___ scrisori des către familie.",
+      "answer": "scriu",
+      "acceptableAnswers": [
+        "scriu"
+      ],
+      "explanation": "'A scrie' is a 3rd conjugation verb (-e). Present: eu scriu, tu scrii, el/ea scrie, noi scriem, voi scrieți, ei/ele scriu. The -u ending in 1st and 6th person is typical for this group.",
+      "explanationRo": "'A scrie' este un verb de conjugarea a III-a (-e). Prezent: eu scriu, tu scrii, el/ea scrie, noi scriem, voi scrieți, ei/ele scriu. Terminația -u la persoana I și a VI-a este tipică pentru acest grup.",
+      "sourceGrammarId": "G09-present-tense"
+    },
+    {
+      "id": "e06_008",
+      "type": "fill-blank",
+      "prompt": "Conjugate 'a citi' (to read) for 'noi': Noi ___ un roman bun.",
+      "promptRo": "Conjugă 'a citi' pentru 'noi': Noi ___ un roman bun.",
+      "sentence": "Noi ___ un roman bun în clubul de lectură.",
+      "answer": "citim",
+      "acceptableAnswers": [
+        "citim"
+      ],
+      "explanation": "'A citi' is a 4th conjugation verb (-i). Present: eu citesc, tu citești, el/ea citește, noi citim, voi citiți, ei/ele citesc. The -esc ending in 1st and 6th person is a common pattern.",
+      "explanationRo": "'A citi' este un verb de conjugarea a IV-a (-i). Prezent: eu citesc, tu citești, el/ea citește, noi citim, voi citiți, ei/ele citesc. Terminația -esc la persoana I și a VI-a este un tipar comun.",
+      "sourceGrammarId": "G09-present-tense"
+    }
+  ]
+}

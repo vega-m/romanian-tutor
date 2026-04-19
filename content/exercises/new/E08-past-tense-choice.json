@@ -1,0 +1,103 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E08-past-tense-choice",
+  "title": "Past Tense Multiple Choice",
+  "titleRo": "Exerciții de Alegere la Trecut",
+  "cefrLevel": "A2",
+  "prerequisites": ["G10-past-compound"],
+  "estimatedMinutes": 20,
+  "instructions": "Choose the correct past tense form (perfect compus) for each sentence. Remember: auxiliary 'a avea' + past participle.",
+  "instructionsRo": "Alege forma corectă de trecut (perfect compus) pentru fiecare propoziție. Amintește-ți: auxiliarul 'a avea' + participiul trecut.",
+  "sourceWeek": 5,
+  "exercises": [
+    {
+      "id": "e08_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Ieri ___ la bibliotecă.",
+      "promptRo": "Alege forma corectă de trecut: Ieri ___ la bibliotecă.",
+      "answer": "am mers",
+      "options": ["am mers", "mergeam", "voi merge", "merg"],
+      "explanation": "'Am mers' = I went (perfect compus). Structure: am (auxiliary) + mers (past participle of 'a merge'). Used for completed actions in the past.",
+      "explanationRo": "'Am mers' = Am mers (perfect compus). Structura: am (auxiliar) + mers (participiul trecut al lui 'a merge'). Folosit pentru acțiuni terminate în trecut.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_002",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Ea ___ o scrisoare lungă.",
+      "promptRo": "Alege forma corectă de trecut: Ea ___ o scrisoare lungă.",
+      "answer": "a scris",
+      "options": ["a scris", "a scrisese", "scria", "scrie"],
+      "explanation": "'A scris' = she wrote (perfect compus). Structure: a (auxiliary for 3rd person) + scris (past participle of 'a scrie'). The past participle of 'a scrie' is 'scris' (irregular).",
+      "explanationRo": "'A scris' = ea a scris (perfect compus). Structura: a (auxiliar pentru persoana a III-a) + scris (participiul trecut al lui 'a scrie'). Participiul trecut al lui 'a scrie' este 'scris' (neregulat).",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_003",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Noi ___ în România vara trecută.",
+      "promptRo": "Alege forma corectă de trecut: Noi ___ în România vara trecută.",
+      "answer": "am fost",
+      "options": ["am fost", "eram", "vom fi", "suntem"],
+      "explanation": "'Am fost' = we were / we went (perfect compus). 'A fi' is irregular: eu am fost, tu ai fost, el/ea a fost, noi am fost, voi ați fost, ei/ele au fost.",
+      "explanationRo": "'Am fost' = noi am fost (perfect compus). 'A fi' este neregulat: eu am fost, tu ai fost, el/ea a fost, noi am fost, voi ați fost, ei/ele au fost.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_004",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Tu ___ româna la școală?",
+      "promptRo": "Alege forma corectă de trecut: Tu ___ româna la școală?",
+      "answer": "ai învățat",
+      "options": ["ai învățat", "învățai", "vei învăța"],
+      "explanation": "'Ai învățat' = you learned (perfect compus, 2nd person singular). Structure: ai (auxiliary for 'tu') + învățat (past participle of 'a învăța').",
+      "explanationRo": "'Ai învățat' = tu ai învățat (perfect compus, persoana a II-a singular). Structura: ai (auxiliar pentru 'tu') + învățat (participiul trecut al lui 'a învăța').",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Copiii ___ tot tortul.",
+      "promptRo": "Alege forma corectă de trecut: Copiii ___ tot tortul.",
+      "answer": "au mâncat",
+      "options": ["au mâncat", "mâncau", "vor mânca", "mănâncă"],
+      "explanation": "'Au mâncat' = they ate (perfect compus, 3rd person plural). Structure: au (auxiliary for 'ei/ele') + mâncat (past participle of 'a mânca').",
+      "explanationRo": "'Au mâncat' = ei/ele au mâncat (perfect compus, persoana a III-a plural). Structura: au (auxiliar pentru 'ei/ele') + mâncat (participiul trecut al lui 'a mânca').",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Voi ___ poze multe la nuntă.",
+      "promptRo": "Alege forma corectă de trecut: Voi ___ poze multe la nuntă.",
+      "answer": "ați făcut",
+      "options": ["ați făcut", "ați facut", "făceați", "veți face"],
+      "explanation": "'Ați făcut' = you (plural) took/made (perfect compus, 2nd person plural). 'A face' has an irregular past participle: 'făcut'. Structure: ați + făcut.",
+      "explanationRo": "'Ați făcut' = voi ați făcut (perfect compus, persoana a II-a plural). 'A face' are participiu trecut neregulat: 'făcut'. Structura: ați + făcut.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Maria ___ un concert minunat aseară.",
+      "promptRo": "Alege forma corectă de trecut: Maria ___ un concert minunat aseară.",
+      "answer": "a văzut",
+      "options": ["a văzut", "vedea", "va vedea"],
+      "explanation": "'A văzut' = she saw (perfect compus, 3rd person singular). 'A vedea' has an irregular past participle: 'văzut'. Structure: a + văzut.",
+      "explanationRo": "'A văzut' = ea a văzut (perfect compus, persoana a III-a singular). 'A vedea' are participiu trecut neregulat: 'văzut'. Structura: a + văzut.",
+      "sourceGrammarId": "G10-past-compound"
+    },
+    {
+      "id": "e08_008",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past tense: Eu ___ un curs de romană anul trecut.",
+      "promptRo": "Alege forma corectă de trecut: Eu ___ un curs de romană anul trecut.",
+      "answer": "am luat",
+      "options": ["am luat", "luam", "voi lua", "iau"],
+      "explanation": "'Am luat' = I took (perfect compus, 1st person singular). 'A lua' has the past participle 'luat'. Structure: am + luat. Context: 'am luat un curs' = I took/attended a course.",
+      "explanationRo": "'Am luat' = eu am luat (perfect compus, persoana I singular). 'A lua' are participiul trecut 'luat'. Structura: am + luat. Context: 'am luat un curs' = am luat un curs.",
+      "sourceGrammarId": "G10-past-compound"
+    }
+  ]
+}

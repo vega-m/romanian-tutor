@@ -1,0 +1,231 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G21-comparatives",
+  "title": "Comparative și Superlativ (Gradele de Comparare)",
+  "titleEn": "Comparative and Superlative (Degrees of Comparison)",
+  "cefrLevel": "B1",
+  "prerequisites": ["G05-adjective-agreement", "G09-present-tense"],
+  "estimatedMinutes": 40,
+  "introduction": "Comparison in Romanian is achieved through specific adverbial markers that modify adjectives or adverbs. The system distinguishes between equality, superiority, and the absolute superlative. Mastering these nuances is essential for expressing opinions and evaluating options at a B1 level.",
+  "introductionRo": "Comparația în limba română se realizează prin intermediul unor mărci adverbiale specifice care determină adjectivele sau adverbele. Sistemul distinge între raporturile de egalitate, superioritate și superlativul absolut. Stăpânirea acestor nuanțe este esențială pentru exprimarea opiniilor și evaluarea opțiunilor la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Degrees of Comparison",
+      "headingRo": "Gradele de Comparație",
+      "content": "Most Romanian adjectives can be compared across three main levels: positive, comparative, and superlative. Unlike English, Romanian uses analytical constructions (adding words) rather than changing the suffix of the adjective.",
+      "contentRo": "Majoritatea adjectivelor românești pot fi comparate pe trei niveluri principale: pozitiv, comparativ și superlativ. Spre deosebire de limba engleză, româna folosește construcții analitice (adăugarea unor cuvinte) în locul schimbării sufixului adjectivului.",
+      "table": {
+        "headers": ["Pattern", "Adjective", "Comparative", "Example", "Translation"],
+        "rows": [
+          ["mai + adj.", "mare (big)", "mai mare", "El e mai mare decât mine.", "He is bigger than me."],
+          ["mai + adj.", "frumos (beautiful)", "mai frumos", "E mai frumos decât cred.", "He's more beautiful than I think."],
+          ["mai + adj.", "bun (good)", "mai bun", "Aceasta e mai bună.", "This one is better."],
+          ["mai + adj.", "rapid (fast)", "mai rapid", "Trenul e mai rapid.", "The train is faster."],
+          ["mai + adj.", "scump (expensive)", "mai scump", "E mai scump decât am crezut.", "It's more expensive than I thought."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "România este mai mare decât Moldova. (Romania is bigger than Moldova.)",
+          "en": "mai mare (bigger) + decât (than). The adjective agrees with the subject.",
+          "notes": "The adjective 'mare' is feminine in 'România este mai mare' because the subject is feminine."
+        },
+        {
+          "ro": "Acest film este mai interesant decât celălalt. (This movie is more interesting than the other one.)",
+          "en": "mai interesant (more interesting) + decât (than).",
+          "notes": "'decât' can be replaced by 'ca' in some contexts, but 'decât' is more common."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Comparative of Inferiority: mai puțin + adjective",
+      "headingRo": "Comparativ de Inferioritate: mai puțin + adjectiv",
+      "content": "The comparative of inferiority is formed with 'mai puțin' (less) + the adjective + 'decât' (than):",
+      "contentRo": "Comparativul de inferioritate se formează cu 'mai puțin' (mai puțin) + adjectivul + 'decât' (decât):",
+      "table": {
+        "headers": ["Pattern", "Example", "Translation"],
+        "rows": [
+          ["mai puțin + adj.", "El e mai puțin înalt decât mine.", "He is less tall than me."],
+          ["mai puțin + adj.", "E mai puțin important.", "It's less important."],
+          ["mai puțin + adj.", "Este mai puțin scumpă.", "It's less expensive."],
+          ["mai puțin + adj.", "Mâncarea e mai puțin bună.", "The food is less good."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Această problemă este mai puțin dificilă decât am crezut. (This problem is less difficult than I thought.)",
+          "en": "mai puțin dificilă (less difficult) + decât (than).",
+          "notes": "The adjective still agrees in gender and number with the noun it modifies."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Superlative Relative: cel mai + adjective",
+      "headingRo": "Superlativul Relativ: cel mai + adjectiv",
+      "content": "The superlative is formed with 'cel mai' (the most) + adjective. The article 'cel' changes to match the gender and number of the noun:",
+      "contentRo": "Superlativul se formează cu 'cel mai' (cel mai mult) + adjectiv. Articolul 'cel' se schimbă pentru a se potrivi cu genul și numărul substantivului:",
+      "table": {
+        "headers": ["Gender/Number", "Superlative Form", "Example", "Translation"],
+        "rows": [
+          ["Masc. sg.", "cel mai + adj.", "cel mai bun", "the best (masc.)"],
+          ["Fem. sg.", "cea mai + adj.", "cea mai bună", "the best (fem.)"],
+          ["Neut. sg.", "cel mai + adj.", "cel mai bun", "the best (neut.)"],
+          ["Masc. pl.", "cei mai + adj.", "cei mai buni", "the best (masc. pl.)"],
+          ["Fem. pl.", "cele mai + adj.", "cele mai bune", "the best (fem. pl.)"],
+          ["Neut. pl.", "cele mai + adj.", "cele mai bune", "the best (neut. pl.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Acesta este cel mai bun film pe care l-am văzut. (This is the best movie I've seen.)",
+          "en": "cel mai bun (the best) — masculine singular superlative.",
+          "notes": "The superlative article 'cel' agrees with 'film' (masculine)."
+        },
+        {
+          "ro": "Ea este cea mai frumoasă fată din clasă. (She is the most beautiful girl in the class.)",
+          "en": "cea mai frumoasă (the most beautiful) — feminine singular superlative.",
+          "notes": "'cea' agrees with 'fată' (feminine). The adjective 'frumoasă' also agrees."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Superlative of Inferiority: cel mai puțin + adjective",
+      "headingRo": "Superlativul de Inferioritate: cel mai puțin + adjectiv",
+      "content": "The superlative of inferiority is formed with 'cel mai puțin' (the least) + adjective:",
+      "contentRo": "Superlativul de inferioritate se formează cu 'cel mai puțin' (cel mai puțin) + adjectiv:",
+      "table": {
+        "headers": ["Gender/Number", "Form", "Example", "Translation"],
+        "rows": [
+          ["Masc. sg.", "cel mai puțin + adj.", "cel mai puțin important", "the least important (masc.)"],
+          ["Fem. sg.", "cea mai puțin + adj.", "cea mai puțin importantă", "the least important (fem.)"],
+          ["Masc. pl.", "cei mai puțin + adj.", "cei mai puțin importanți", "the least important (masc. pl.)"],
+          ["Fem. pl.", "cele mai puțin + adj.", "cele mai puțin importante", "the least important (fem. pl.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aceasta este cea mai puțin importantă problemă. (This is the least important problem.)",
+          "en": "cea mai puțin importantă (the least important) — feminine singular.",
+          "notes": "Both the article 'cea' and the adjective 'importantă' agree with the feminine noun."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Irregular Comparatives and Superlatives",
+      "headingRo": "Comparative și Superlative Neregulate",
+      "content": "Some very common adjectives have irregular comparative and superlative forms:",
+      "contentRo": "Unele adjective foarte comune au forme neregulate de comparativ și superlativ:",
+      "table": {
+        "headers": ["Positive", "Comparative", "Superlative", "Meaning"],
+        "rows": [
+          ["bun / bună", "mai bun / mai bună", "cel mai bun / cea mai bună", "good → better → the best"],
+          ["mare", "mai mare", "cel mai mare", "big → bigger → the biggest"],
+          ["mic / mică", "mai mic / mai mică", "cel mai mic / cea mai mică", "small → smaller → the smallest"],
+          ["frumos / frumoasă", "mai frumos / mai frumoasă", "cel mai frumos / cea mai frumoasă", "beautiful"],
+          ["rău / rea", "mai rău / mai rea", "cel mai rău / cea mai rea", "bad → worse → the worst"],
+          ["mult / multă", "mai mult / mai multă", "cel mai mult / cea mai multă", "much → more → the most"],
+          ["puțin / puțină", "mai puțin / mai puțină", "cel mai puțin / cea mai puțină", "little → less → the least"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Acesta este cel mai bun restaurant din oraș. (This is the best restaurant in the city.)",
+          "en": "bun → mai bun → cel mai bun (good → better → the best).",
+          "notes": "Note: 'cel mai bun' is regular in form (cel mai + bun), but the adjective itself is special."
+        },
+        {
+          "ro": "Astăzi vremea este mai rea decât ieri. (Today the weather is worse than yesterday.)",
+          "en": "rău → mai rău → cel mai rău (bad → worse → the worst).",
+          "notes": "The comparative of 'rău' is 'mai rău'. Superlative: 'cel mai rău'."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Comparative of Equality: tot așa de / la fel de",
+      "headingRo": "Comparativ de Egalitate: tot așa de / la fel de",
+      "content": "To say 'as...as', Romanian uses 'tot așa de' or 'la fel de' + adjective + 'ca' (as):",
+      "contentRo": "Pentru a spune 'tot așa de...ca', româna folosește 'tot așa de' sau 'la fel de' + adjectiv + 'ca' (ca):",
+      "table": {
+        "headers": ["Pattern", "Example", "Translation"],
+        "rows": [
+          ["la fel de + adj. + ca", "E la fel de bun ca al tău.", "It's as good as yours."],
+          ["tot așa de + adj. + ca", "E tot așa de frumoasă ca sora ei.", "She's as beautiful as her sister."],
+          ["la fel de + adj. + ca și", "E la fel de înalt ca și mine.", "He's as tall as me."],
+          ["tot atât de + adj. + ca", "E tot atât de greu ca înainte.", "It's just as hard as before."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "El este la fel de inteligent ca ea. (He is as intelligent as her.)",
+          "en": "'la fel de inteligent' (as intelligent) + 'ca ea' (as her).",
+          "notes": "'la fel de' is the most common way to express equality in comparison."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Using Comparatives in Everyday Speech",
+      "content": "Comparatives are essential for everyday Romanian. Here are some common patterns:",
+      "contentRo": "Comparativele sunt esențiale pentru româna de zi cu zi. Iată câteva modele comune:",
+      "rules": [
+        "mai bine (better — adverbial): Stai mai bine acasă. (You're better off staying home.)",
+        "mai mult (more): Vreau mai mult. (I want more.)",
+        "mai puțin (less): Am mai puțin timp. (I have less time.)",
+        "cu cât...cu atât (the more...the more): Cu cât citești mai mult, cu atât înveți mai bine.",
+        "din ce în ce + adj. (increasingly): Vremea e din ce în ce mai rece. (The weather is getting colder and colder.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using comparatives:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești comparativele:",
+      "rules": [
+        "Don't forget that the adjective must agree in gender and number: cea mai bună (fem.), cel mai bun (masc.)",
+        "Don't confuse 'decât' (than) with 'că' (that): E mai bun decât tine (not 'că tine')",
+        "Prefer 'decât' after comparatives: mai mare decât (though 'de' is also heard in informal speech)",
+        "Remember: 'cel mai' changes: cel (masc. sg.), cea (fem. sg.), cei (masc. pl.), cele (fem./neut. pl.)",
+        "Don't say 'mai bon' — the comparative of 'bun' is 'mai bun' (regular form with 'mai')"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Ea este cea mai inteligentă studentă. (She is the most intelligent student.)",
+          "en": "'cea' (feminine article) + 'mai inteligentă' (feminine adjective) — both agree with 'studentă'.",
+          "notes": "Common mistake: saying 'cel mai inteligentă' — mixing masculine and feminine."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Comparative of superiority: mai + adjective + decât (mai bun decât = better than)",
+    "Comparative of inferiority: mai puțin + adjective + decât (mai puțin bun = less good)",
+    "Superlative: cel/cea/cei/cele mai + adjective (cel mai bun = the best)",
+    "Superlative articles: cel (masc. sg.), cea (fem. sg.), cei (masc. pl.), cele (fem./neut. pl.)",
+    "Superlative of inferiority: cel/cea/cei/cele mai puțin + adjective",
+    "Equality: la fel de + adjective + ca (as...as)",
+    "Key irregular: bun → mai bun → cel mai bun; rău → mai rău → cel mai rău",
+    "The adjective in the comparative/superlative must agree in gender and number",
+    "'decât' is preferred after comparatives, though 'de' is also used in informal speech",
+    "din ce în ce + adj. = increasingly (din ce în ce mai bun = better and better)"
+  ],
+  "summaryPointsRo": [
+    "Comparativ de superioritate: mai + adjectiv + decât (mai bun decât = mai bun decât)",
+    "Comparativ de inferioritate: mai puțin + adjectiv + decât (mai puțin bun = mai puțin bun)",
+    "Superlativ: cel/cea/cei/cele mai + adjectiv (cel mai bun = cel mai bun)",
+    "Articole superlativ: cel (masc. sg.), cea (fem. sg.), cei (masc. pl.), cele (fem./neut. pl.)",
+    "Superlativ de inferioritate: cel/cea/cei/cele mai puțin + adjectiv",
+    "Egalitate: la fel de + adjectiv + ca (la fel de...ca)",
+    "Neregulate cheie: bun → mai bun → cel mai bun; rău → mai rău → cel mai rău",
+    "Adjectivul în comparativ/superlativ trebuie să se acorde în gen și număr",
+    "'decât' este preferat după comparative, deși 'de' se folosește și în vorbirea informală",
+    "din ce în ce + adj. = din ce în ce (din ce în ce mai bun = din ce în ce mai bun)"
+  ],
+  "relatedExercises": ["E14-comparative-transform"]
+}

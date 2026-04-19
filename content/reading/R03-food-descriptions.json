@@ -1,0 +1,142 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R03-food-descriptions",
+  "title": "Mâncare și Restaurant",
+  "titleEn": "Food & Restaurant",
+  "cefrLevel": "A2",
+  "texts": [
+    {
+      "id": "r03_001",
+      "title": "La restaurant",
+      "titleEn": "At the Restaurant",
+      "text": "Vineri seara, eu și prietenii mei am mers la un restaurant în centru. Restaurantul se numește 'Carul cu Bere' și este foarte popular în București. Am intrat și ne-am așezat la o masă lângă fereastră. Chelnerul ne-a adus meniul. Eu am citit meniul cu atenție — era mare și avea multe feluri de mâncare. În cele din urmă, am comandat o ciorbă de burtă ca primul fel. Pentru felul principal, am ales o tocăniță de ciuperci cu mămăligă. Prietenul meu, Dan, a luat o mămăligă cu brânză și smântână. Maria, o altă prietenă, a comandat o salată mare cu pui la grătar. La final, am luat desert — toți am comandat păpănași cu smântână și dulceață. Erau delicioși! Nota de plată a fost destul de mare, dar ne-am împărțit costul. Am lăsat și un bacșiș frumos chelnerului, pentru că servirea a fost excelentă.",
+      "translation": "On Friday evening, my friends and I went to a restaurant downtown. The restaurant is called 'Carul cu Bere' and is very popular in Bucharest. We went in and sat at a table by the window. The waiter brought us the menu. I read the menu carefully — it was big and had many dishes. In the end, I ordered a tripe soup as a starter. For the main course, I chose a mushroom stew with polenta. My friend Dan had polenta with cheese and sour cream. Maria, another friend, ordered a big salad with grilled chicken. At the end, we had dessert — we all ordered papanasi with sour cream and jam. They were delicious! The bill was quite big, but we split the cost. We also left a nice tip for the waiter, because the service was excellent.",
+      "vocabularyNotes": [
+        {"word": "felul principal", "meaning": "main course", "notes": "Common restaurant term"},
+        {"word": "tocăniță", "meaning": "stew", "notes": "Feminine noun (f.), diminutive of 'tocană'"},
+        {"word": "păpănași", "meaning": "traditional Romanian fried dough dessert with cheese", "notes": "Masculine noun (m. pl.)"},
+        {"word": "a se așeza", "meaning": "to sit down / to take a seat", "notes": "Reflexive verb"},
+        {"word": "dulceață", "meaning": "jam / preserve", "notes": "Feminine noun (f.)"},
+        {"word": "a împărți", "meaning": "to share / to split", "notes": "Verb, 4th conjugation"}
+      ],
+      "questions": [
+        {
+          "id": "r03_q1",
+          "type": "multiple-choice",
+          "question": "Cum se numește restaurantul?",
+          "questionEn": "What is the restaurant called?",
+          "options": ["Bistro Centru", "Carul cu Bere", "La Bunici", "Moldova Restaurant"],
+          "answer": "Carul cu Bere"
+        },
+        {
+          "id": "r03_q2",
+          "type": "comprehension",
+          "question": "Ce a comandat naratorul ca primul fel?",
+          "questionEn": "What did the narrator order as a starter?",
+          "answer": "Ciorbă de burtă",
+          "acceptableAnswers": ["ciorbă de burtă", "o ciorbă de burtă"],
+          "options": null
+        },
+        {
+          "id": "r03_q3",
+          "type": "multiple-choice",
+          "question": "Ce a comandat Maria?",
+          "questionEn": "What did Maria order?",
+          "options": [
+            "Tocăniță de ciuperci",
+            "Mămăligă cu brânză",
+            "Salată cu pui la grătar",
+            "Păpănași"
+          ],
+          "answer": "Salată cu pui la grătar"
+        },
+        {
+          "id": "r03_q4",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'nota de plată'?",
+          "questionEn": "What does 'nota de plată' mean?",
+          "answer": "the bill / the check",
+          "acceptableAnswers": ["the bill", "the check", "nota de plată", "nota de plata"],
+          "options": null
+        },
+        {
+          "id": "r03_q5",
+          "type": "comprehension",
+          "question": "De ce au lăsat bacșiș?",
+          "questionEn": "Why did they leave a tip?",
+          "answer": "Pentru că servirea a fost excelentă",
+          "acceptableAnswers": ["pentru că servirea a fost excelentă", "servirea a fost excelentă", "pentru servirea excelentă"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r03_002",
+      "title": "Gătit cu bunica",
+      "titleEn": "Cooking with Grandma",
+      "text": "Vacanța de vară este perioada mea preferată, pentru că merg la bunici în Moldova. Bunica mea, doamna Viorica, este cea mai bună bucătăreasă pe care o cunosc. În fiecare dimineață, ea se trezește devreme și pregătește micul dejun. De obicei, face ouă ochiuri cu slănină, pâine prăjită cu unt și o cană mare de cafea cu lapte. După micul dejun, mergem împreună la piața din sat. Acolo cumpărăm legume proaspete de la țărani: roșii roșii și suculente, castraveți crocanți, ceapă și usturoi din grădinile lor. Una din mâncările mele preferate este tocănița de cartofi cu carne de porc. Bunica taie cartofii în cuburi mici și îi pune la fiert cu ceapă, morcovi și boia dulce. Carnea o prăjește separat, apoi o amestecă cu legumele. Totul se gătește încet, la foc mic, timp de o oră. Când este gata, miroase a cer senin și a copilărie. Mâncăm cu mămăligă caldă și murături. Este cel mai bun lucru din lume. Anul acesta, bunica m-a învățat și să fac sarmale. Am reușit destul de bine, dar ale ei sunt mereu cele mai bune. Când plec înapoi la București, bunica îmi umple un borcan mare cu zacuscă și îmi spune: 'Să nu uiți să mănânci bine, dragul mamei!'",
+      "translation": "Summer vacation is my favorite time because I go to my grandparents in Moldova. My grandmother, Mrs. Viorica, is the best cook I know. Every morning, she wakes up early and prepares breakfast. Usually, she makes fried eggs with bacon, toast with butter, and a large cup of coffee with milk. After breakfast, we go together to the village market. There we buy fresh vegetables from the farmers: red and juicy tomatoes, crispy cucumbers, onions, and garlic from their gardens. One of my favorite dishes is potato stew with pork. Grandma cuts the potatoes into small cubes and boils them with onion, carrots, and sweet paprika. She fries the meat separately, then mixes it with the vegetables. Everything cooks slowly, on low heat, for an hour. When it's ready, it smells like a clear sky and childhood. We eat it with warm polenta and pickles. It's the best thing in the world. This year, grandma also taught me how to make sarmale. I did pretty well, but hers are always the best. When I go back to Bucharest, grandma fills a big jar with zacuscă for me and says: 'Don't forget to eat well, my dear!'",
+      "vocabularyNotes": [
+        {"word": "bucătăreasă", "meaning": "cook (female)", "notes": "Feminine noun (f.)"},
+        {"word": "slănină", "meaning": "bacon / cured pork fat", "notes": "Feminine noun (f.)"},
+        {"word": "țărani", "meaning": "peasants / farmers", "notes": "Masculine noun (m. pl.)"},
+        {"word": "boia dulce", "meaning": "sweet paprika", "notes": "Feminine noun (f.)"},
+        {"word": "murături", "meaning": "pickles / pickled vegetables", "notes": "Feminine noun (f. pl.)"},
+        {"word": "zacuscă", "meaning": "traditional Romanian vegetable spread (eggplant, peppers, onions)", "notes": "Feminine noun (f.)"},
+        {"word": "a prăji", "meaning": "to fry", "notes": "Verb, 4th conjugation"},
+        {"word": "dragul mamei", "meaning": "mother's dear / darling (term of endearment)", "notes": "Common expression used by grandmothers"}
+      ],
+      "questions": [
+        {
+          "id": "r03_q6",
+          "type": "multiple-choice",
+          "question": "Ce pregătește bunica de obicei la micul dejun?",
+          "questionEn": "What does grandma usually prepare for breakfast?",
+          "options": [
+            "Cereale cu lapte",
+            "Ouă ochiuri cu slănină, pâine prăjită cu unt și cafea cu lapte",
+            "Clătite cu dulceață",
+            "Supă de legume"
+          ],
+          "answer": "Ouă ochiuri cu slănină, pâine prăjită cu unt și cafea cu lapte"
+        },
+        {
+          "id": "r03_q7",
+          "type": "comprehension",
+          "question": "De unde cumpără legumele bunica și nepotul?",
+          "questionEn": "Where do grandma and the grandson buy vegetables?",
+          "answer": "De la piața din sat, de la țărani",
+          "acceptableAnswers": ["de la piața din sat", "de la piața din sat de la țărani", "de la țărani", "la piața din sat"],
+          "options": null
+        },
+        {
+          "id": "r03_q8",
+          "type": "vocabulary",
+          "question": "Ce este 'zacusca'?",
+          "questionEn": "What is 'zacuscă'?",
+          "answer": "traditional Romanian vegetable spread made from eggplant, peppers, and onions",
+          "acceptableAnswers": ["traditional Romanian vegetable spread", "vegetable spread", "zacuscă", "eggplant spread", " Romanian vegetable spread"],
+          "options": null
+        },
+        {
+          "id": "r03_q9",
+          "type": "multiple-choice",
+          "question": "Cu ce mănâncă tocănița de cartofi?",
+          "questionEn": "What is the potato stew eaten with?",
+          "options": ["Pâine", "Paste", "Mămăligă caldă și murături", "Orez"],
+          "answer": "Mămăligă caldă și murături"
+        },
+        {
+          "id": "r03_q10",
+          "type": "comprehension",
+          "question": "Ce îi dă bunica nepotului când pleacă în București?",
+          "questionEn": "What does grandma give the grandson when he leaves for Bucharest?",
+          "answer": "Un borcan mare cu zacuscă",
+          "acceptableAnswers": ["un borcan mare cu zacuscă", "un borcan cu zacuscă", "borcan cu zacuscă", "zacuscă"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

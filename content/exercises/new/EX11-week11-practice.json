@@ -1,0 +1,198 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX11-week11-practice",
+  "title": "Week 11 Practice: Exam Review",
+  "titleRo": "Exerciții Săptămâna 11: Recenzie de Examen",
+  "cefrLevel": "B1",
+  "prerequisites": [],
+  "estimatedMinutes": 35,
+  "instructions": "Mixed grammar review exercises for B1 exam preparation. Includes fill-in-the-blank, multiple-choice, error correction, writing and translation covering all grammar topics from the course.",
+  "instructionsRo": "Exerciții de recenzie gramaticală mixtă pentru pregătirea examenului B1. Include completare de spații, alegere multiplă, corectare a greșelilor, scriere și traducere acoperind toate subiectele gramaticale din curs.",
+  "sourceWeek": 11,
+  "exercises": [
+    {
+      "id": "ex11_001",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct article: 'Am văzut ___ filme interesante aseară.' (I saw some interesting films last night.)",
+      "promptRo": "Completează cu articolul corect: 'Am văzut ___ filme interesante aseară.'",
+      "sentence": "Am văzut ___ filme interesante aseară.",
+      "answer": "niște",
+      "acceptableAnswers": [
+        "niște"
+      ],
+      "explanation": "'Niște' is the plural indefinite article (some). It is used with plural countable nouns when the quantity is unspecified. 'Filme' is masculine plural (actually neuter, which takes masculine plural forms).",
+      "explanationRo": "'Niște' este articolul nehotărât plural. Se folosește cu substantive numărabile la plural când cantitatea nu este specificată. 'Filme' este plural masculin (de fapt neutru, care ia forme masculine la plural)."
+    },
+    {
+      "id": "ex11_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct verb form: 'Dacă ___ mai devreme, nu aș fi întârziat.' (If I had left earlier, I wouldn't have been late.)",
+      "promptRo": "Completează cu forma verbală corectă: 'Dacă ___ mai devreme, nu aș fi întârziat.'",
+      "sentence": "Dacă ___ mai devreme, nu aș fi întârziat.",
+      "answer": "aș fi plecat",
+      "acceptableAnswers": [
+        "aș fi plecat"
+      ],
+      "explanation": "'Aș fi plecat' is the past conditional (conditional perfect): 'aș fi' + past participle. This is used in unreal past conditionals (third conditional): 'Dacă aș fi plecat mai devreme...' (If I had left earlier...). The main clause uses 'nu aș fi întârziat' (I wouldn't have been late).",
+      "explanationRo": "'Aș fi plecat' este condiționalul trecut (perfectul condiționalului): 'aș fi' + participiu trecut. Se folosește în condiționalele ireale de trecut: 'Dacă aș fi plecat mai devreme...'. Propoziția principală folosește 'nu aș fi întârziat'."
+    },
+    {
+      "id": "ex11_003",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct pronoun: 'Cartea pe ___ mi-ai dat este foarte bună.' (The book that you gave me is very good.)",
+      "promptRo": "Completează cu pronumele corect: 'Cartea pe ___ mi-ai dat este foarte bună.'",
+      "sentence": "Cartea pe ___ mi-ai dat este foarte bună.",
+      "answer": "care",
+      "acceptableAnswers": [
+        "care",
+        "care "
+      ],
+      "explanation": "'Pe care' is the relative pronoun used as a direct object. Since 'cartea' (the book) is the direct object of 'a da' (to give), the relative pronoun needs the preposition 'pe': 'pe care'. Without 'pe', 'care' alone would only work as a subject.",
+      "explanationRo": "'Pe care' este pronumele relativ folosit ca obiect direct. Deoarece 'cartea' este obiectul direct al verbului 'a da', pronumele relativ necesită prepoziția 'pe': 'pe care'. Fără 'pe', 'care' singur ar funcționa doar ca subiect."
+    },
+    {
+      "id": "ex11_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct preposition and case: 'Sunt dependent ___ cafea dimineața.'",
+      "promptRo": "Completează cu prepoziția și cazul corect: 'Sunt dependent ___ cafea dimineața.'",
+      "sentence": "Sunt dependent ___ cafea dimineața.",
+      "answer": "de",
+      "acceptableAnswers": [
+        "de",
+        "de "
+      ],
+      "explanation": "'De' is the preposition that governs the accusative case after 'a fi dependent'. 'A fi dependent de ceva' = to be dependent on something. The noun 'cafea' stays in the accusative form (same as nominative for inanimate nouns).",
+      "explanationRo": "'De' este prepoziția care guvernează cazul acuzativ după 'a fi dependent'. 'A fi dependent de ceva' = a fi dependent de ceva. Substantivul 'cafea' rămâne la acuzativ (aceeași formă ca nominativul pentru substantive inanimate)."
+    },
+    {
+      "id": "ex11_005",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the subjunctive?",
+      "promptRo": "Care propoziție folosește corect conjunctivul?",
+      "answer": "Vreau să învețe românește.",
+      "options": [
+        "Vreau că învață românește.",
+        "Vreau să învețe românește.",
+        "Vreau de învață românește.",
+        "Vreau învață să românește."
+      ],
+      "explanation": "'Vreau să învețe' correctly uses the subjunctive: 'a vrea' + 'să' + subjunctive (3rd person singular 'învețe'). The subjunctive is required after verbs of desire, request, and command. 'Că' introduces a declarative clause, not a subjunctive.",
+      "explanationRo": "'Vreau să învețe' folosește corect conjunctivul: 'a vrea' + 'să' + conjunctiv (persoana a III-a singular 'învețe'). Conjunctivul este cerut după verbele de dorință, cerere și comandă. 'Că' introduce o propoziție declarativă, nu un conjunctiv.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_006",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence with correct adjective agreement:",
+      "promptRo": "Alege propoziția cu acordul corect al adjectivelor:",
+      "answer": "Florile cele mai frumoase sunt în grădină.",
+      "options": [
+        "Florile cele mai frumoși sunt în grădină.",
+        "Florile cele mai frumoase sunt în grădină.",
+        "Florile cel mai frumoasă sunt în grădină.",
+        "Florile cel mai frumoase sunt în grădină."
+      ],
+      "explanation": "'Cele mai frumoase' is correct: feminine plural superlative. 'Florile' is feminine plural, so the article is 'cele' (feminine plural) and the adjective is 'frumoase' (feminine plural). 'Frumoși' is masculine plural, 'frumoasă' is feminine singular, and 'cel' is masculine singular.",
+      "explanationRo": "'Cele mai frumoase' este corect: superlativ feminin plural. 'Florile' este feminin plural, deci articolul este 'cele' (feminin plural) și adjectivul este 'frumoase' (feminin plural).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_007",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the passive voice correctly?",
+      "promptRo": "Care propoziție folosește corect diateza pasivă?",
+      "answer": "Problema a fost rezolvată de echipă.",
+      "options": [
+        "Problema a rezolvat de echipă.",
+        "Problema a fost rezolvată de echipă.",
+        "Problema fost rezolvată de echipă.",
+        "Problema s-a rezolvat de echipă."
+      ],
+      "explanation": "'A fost rezolvată' is the correct passive: 'a fi' (auxiliary) + past participle. The past participle 'rezolvată' agrees with 'problema' (feminine singular). 'A rezolvat' is active voice. 'Fost' without 'a' is missing the auxiliary.",
+      "explanationRo": "'A fost rezolvată' este pasivul corect: 'a fi' (auxiliar) + participiu trecut. Participiul trecut 'rezolvată' se acordă cu 'problema' (feminin singular). 'A rezolvat' este diateza activă.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "El este mai bun ca mine la matematică, dar nu învață deloc.",
+      "answer": "El este mai bun decât mine la matematică, dar nu învață deloc.",
+      "explanation": "The error is using 'ca' instead of 'decât' in a comparative. In standard Romanian, the comparative structure is 'mai + adjective + decât': 'mai bun decât mine' (better than me). While 'ca' is sometimes used in spoken language, 'decât' is the standard form in writing and formal contexts.",
+      "explanationRo": "Greșeala este folosirea lui 'ca' în loc de 'decât' într-un comparativ. În româna standard, structura comparativă este 'mai + adjectiv + decât'. Deși 'ca' se folosește uneori în limba vorbită, 'decât' este forma standard în scris.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Noi am cumparat doua scaune noi pentru birou.",
+      "answer": "Noi am cumpărat două scaune noi pentru birou.",
+      "explanation": "Two errors: 'cumparat' should be 'cumpărat' (with ă diacritic), and 'doua' should be 'două' (with ă diacritic). Both words require the breve accent (ă), not the circumflex (â) or no accent. Romanian diacritics change meaning and pronunciation.",
+      "explanationRo": "Două greșeli: 'cumparat' trebuie să fie 'cumpărat' (cu diacritic ă), iar 'doua' trebuie să fie 'două' (cu diacritic ă). Ambele cuvinte necesită accentul breve (ă), nu circumflex (â).",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție:",
+      "sentence": "Fata care mama este doctor a venit la școală.",
+      "answer": "Fata a cărei mamă este doctor a venit la școală.",
+      "explanation": "The error is using 'care' instead of 'a cărei' for possessive meaning. When expressing 'whose' in a relative clause, use the possessive relative pronoun: 'a cărei' (feminine singular, agreeing with 'mamă'). The paradigm: al cărui (m.sg.), a cărei (f.sg.), al căror (m.pl.), ale căror (f.pl.).",
+      "explanationRo": "Greșeala este folosirea lui 'care' în loc de 'a cărei' pentru sens posesiv. Când exprimi 'al/a cărei/cărui' într-o propoziție relativă, folosește pronumele relativ posesiv: 'a cărei' (feminin singular, acordându-se cu 'mamă').",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_011",
+      "type": "writing",
+      "prompt": "Express your opinion about technology in education. Write 150-200 words. Use at least 3 connectors (pentru că, deși, totuși, în plus, pe de altă parte), varied grammar (present, past, conditional, subjunctive), and appropriate B1-level vocabulary.",
+      "promptRo": "Exprimă-ți părerea despre tehnologia în educație. Scrie 150-200 de cuvinte. Folosește cel puțin 3 conectori (pentru că, deși, totuși, în plus, pe de altă parte), gramatică variată (prezent, trecut, condițional, conjunctiv) și vocabular de nivel B1 adecvat.",
+      "answer": "Consider că tehnologia a schimbat fundamental educația în ultimii ani. Deși unii oameni cred că tehnologia distrag atenția elevilor, eu cred că, dacă este folosită corect, aceasta poate îmbunătăți semnificativ procesul de învățare.\n\nÎn primul rând, internetul ne oferă acces la o cantitate enormă de informații. Când eram copil, trebuia să mergem la bibliotecă pentru a căuta informații, dar acum putem găsi aproape orice online. În plus, platformele de învățare online au făcut posibil ca oamenii din întreaga lume să urmeze cursuri de la universități prestigioase.\n\nTotuși, recunosc că tehnologia are și dezavantaje. Dacă elevii petrec prea mult timp în fața ecranelor, ar putea pierde abilitatea de a comunica față în față. Pe de altă parte, cred că profesorii ar trebui să găsească un echilibru între utilizarea tehnologiei și metodele tradiționale de predare.\n\nÎn concluzie, dacă am fi responsabili în folosirea tehnologiei, aceasta ar putea fi un instrument extrem de valoros în educație.",
+      "explanation": "This writing exercise practices connectors (deși, dar, în plus, totuși, pe de altă parte, în concluzie, dacă), varied grammar (present 'consider', imperfect 'trebuia', conditional 'ar putea'/'ar trebui'/'aș fi', subjunctive 'să găsească'), and B1 vocabulary (procesul de învățare, platforme, prestigioase, dezavantaje, echilibru). The model answer demonstrates how to structure an opinion essay with clear arguments for and against.",
+      "explanationRo": "Acest exercițiu de scriere exersează conectorii (deși, dar, în plus, totuși, pe de altă parte, în concluzie, dacă), gramatica variată (prezent 'consider', imperfect 'trebuia', condițional 'ar putea'/'ar trebui'/'aș fi', conjunctiv 'să găsească') și vocabularul B1 (procesul de învățare, platforme, prestigioase, dezavantaje, echilibru).",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Grammar Range",
+            "description": "Use at least 3 different verb tenses/moods: present, past (perfect compus or imperfect), conditional, and subjunctive. Correct verb conjugation and agreement throughout the text.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Connectors",
+            "description": "Use at least 3 different connectors appropriately (pentru că, deși, totuși, în plus, pe de altă parte, în concluzie, etc.) to link ideas logically.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Use B1-level vocabulary related to technology and education. Avoid repetition and demonstrate word variety. Use proper diacritics.",
+            "maxPoints": 2
+          },
+          {
+            "name": "Content and Structure",
+            "description": "Present a clear opinion with supporting arguments. Structure the text logically (introduction, arguments for and against, conclusion). Write 150-200 words.",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      },
+      "acceptableAnswers": []
+    },
+    {
+      "id": "ex11_012",
+      "type": "translation",
+      "direction": "ro-to-en",
+      "prompt": "Translate the following Romanian sentences into English:\n1. Deși a plouat toată ziua, am reușit să terminăm proiectul la timp.\n2. Cartea pe care mi-ai împrumutat-o este cea mai interesantă pe care am citit-o anul acesta.\n3. Dacă aș ști răspunsul, ți l-aș spune imediat.",
+      "promptRo": "Traduce următoarele propoziții din română în engleză:\n1. Deși a plouat toată ziua, am reușit să terminăm proiectul la timp.\n2. Cartea pe care mi-ai împrumutat-o este cea mai interesantă pe care am citit-o anul acesta.\n3. Dacă aș ști răspunsul, ți l-aș spune imediat.",
+      "answer": "1. Although it rained all day, we managed to finish the project on time.\n2. The book that you lent me is the most interesting one I have read this year.\n3. If I knew the answer, I would tell you immediately.",
+      "acceptableAnswers": [
+        "1. Although it rained all day, we managed to finish the project on time.\n2. The book that you lent me is the most interesting one I have read this year.\n3. If I knew the answer, I would tell you immediately."
+      ],
+      "explanation": "Sentence 1 uses 'deși' (although) for concession + 'să terminăm' (subjunctive). Sentence 2 uses 'pe care' as direct object relative pronoun + 'cea mai interesantă' superlative (feminine). Sentence 3 uses present conditional 'aș ști' / 'aș spune' for a hypothetical present situation.",
+      "explanationRo": "Propoziția 1 folosește 'deși' pentru concesie + 'să terminăm' (conjunctiv). Propoziția 2 folosește 'pe care' ca pronume relativ obiect direct + 'cea mai interesantă' superlativ (feminin). Propoziția 3 folosește condiționalul prezent 'aș ști' / 'aș spune' pentru o situație ipotetică de prezent."
+    }
+  ]
+}

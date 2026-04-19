@@ -1,0 +1,171 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E05-adjective-agreement",
+  "title": "Adjective-Noun Agreement",
+  "titleRo": "Acordul Adjectivului cu Substantivul",
+  "cefrLevel": "A1",
+  "prerequisites": [
+    "G03-noun-gender",
+    "G05-adjective-agreement"
+  ],
+  "estimatedMinutes": 18,
+  "instructions": "Practice making Romanian adjectives agree with nouns in gender, number, and case.",
+  "instructionsRo": "Exersează acordul adjectivelor românești cu substantivele în gen, număr și caz.",
+  "sourceWeek": 3,
+  "exercises": [
+    {
+      "id": "e05_001",
+      "type": "multiple-choice",
+      "prompt": "Which adjective form agrees with the feminine noun 'carte'?",
+      "promptRo": "Care formă a adjectivului se acordă cu substantivul feminin 'carte'?",
+      "answer": "carte bună",
+      "options": [
+        "carte bun",
+        "carte bună",
+        "carte bunul",
+        "carte de bun"
+      ],
+      "explanation": "Feminine nouns require feminine adjective endings. 'Bun' → 'bună' for feminine: o carte bună.",
+      "explanationRo": "Substantivele feminine cer adjective la feminin. 'Bun' → 'bună' pentru feminin: o carte bună.",
+      "sourceGrammarId": "G05-adjective-agreement",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e05_002",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct masculine form of 'nou' (new): 'un băiat ___'",
+      "promptRo": "Completează cu forma masculină corectă a lui 'nou' : 'un băiat ___'",
+      "sentence": "Un băiat ___ vine la școală.",
+      "answer": "nou",
+      "acceptableAnswers": [
+        "nou"
+      ],
+      "explanation": "Masculine singular: nou. Feminine singular: nouă. Neuter singular (like masculine): nou.",
+      "explanationRo": "Masculin singular: nou. Feminin singular: nouă. Neutru singular (ca masculinul): nou.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    },
+    {
+      "id": "e05_003",
+      "type": "multiple-choice",
+      "prompt": "What is the correct plural form? 'băiat frumos' → 'băieți ___'",
+      "promptRo": "Care este forma corectă la plural? 'băiat frumos' → 'băieți ___'",
+      "answer": "frumoși",
+      "options": [
+        "frumoși",
+        "frumoase",
+        "frumos"
+      ],
+      "explanation": "Masculine plural adjective ending: -i. 'Frumos' → 'frumoși' (masculine plural). Feminine plural would be 'frumoase'.",
+      "explanationRo": "Terminația adjectivului la masculin plural: -i. 'Frumos' → 'frumoși' (masculin plural). Feminin plural ar fi 'frumoase'.",
+      "sourceGrammarId": "G05-adjective-agreement",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e05_004",
+      "type": "fill-blank",
+      "prompt": "Complete with the feminine singular form of 'mare' (big) for 'masă': 'o masă ___'",
+      "promptRo": "Completează cu forma feminină singular a lui 'mare' pentru 'masă': 'o masă ___'",
+      "sentence": "Avem o masă ___ în sufragerie.",
+      "answer": "mare",
+      "acceptableAnswers": [
+        "mare"
+      ],
+      "explanation": "'Mare' is irregular — it stays the same for masculine and feminine singular: un băiat mare, o masă mare. Only the plural changes: mari.",
+      "explanationRo": "'Mare' este neregulat — rămâne la fel pentru masculin și feminin singular. Doar pluralul se schimbă: mari.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    },
+    {
+      "id": "e05_005",
+      "type": "multiple-choice",
+      "prompt": "Which is correct? 'fete' (girls, plural) with 'mic' (small):",
+      "promptRo": "Care este corect? 'fete' (fete, plural) cu 'mic' (mic):",
+      "answer": "fete mici",
+      "options": [
+        "fete mic",
+        "fete mici",
+        "fete micile"
+      ],
+      "explanation": "Feminine plural of 'mic' is 'mici'. Rule: -ic → -ici for feminine plural. fete (f. pl.) + mici.",
+      "explanationRo": "Femininul plural al lui 'mic' este 'mici'. Regulă: -ic → -ici la feminin plural. fete (f. pl.) + mici.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    },
+    {
+      "id": "e05_006",
+      "type": "multiple-choice",
+      "prompt": "A neuter noun like 'scaun' (chair) takes which adjective form in the singular?",
+      "promptRo": "Un substantiv neutru ca 'scaun' (scaun) primește ce formă a adjectivului la singular?",
+      "answer": "Masculine form",
+      "options": [
+        "Masculine form",
+        "Feminine form",
+        "Special neuter form",
+        "No agreement needed"
+      ],
+      "explanation": "Neuter nouns take masculine adjective forms in the singular and feminine forms in the plural. Singular: un scaun bun (masc.). Plural: scaune bune (fem.).",
+      "explanationRo": "Substantivele neutre iau adjective la masculin la singular și la feminin la plural. Singular: un scaun bun. Plural: scaune bune.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    },
+    {
+      "id": "e05_007",
+      "type": "fill-blank",
+      "prompt": "Complete: 'copii ___' — use the correct plural form of 'fericit'.",
+      "promptRo": "Completează: 'copii ___' — folosește forma corectă la plural a lui 'fericit'.",
+      "sentence": "Copiii sunt ___ azi.",
+      "answer": "fericiți",
+      "acceptableAnswers": [
+        "fericiți"
+      ],
+      "explanation": "'Copii' is masculine plural. 'Fericit' → 'fericiți' for masculine plural. Feminine plural would be 'fericite'.",
+      "explanationRo": "'Copii' este masculin plural. 'Fericit' → 'fericiți' pentru masculin plural. Feminin plural ar fi 'fericite'.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    },
+    {
+      "id": "e05_008",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has correct adjective agreement?",
+      "promptRo": "Care propoziție are acordul adjectivului corect?",
+      "answer": "O casă frumoasă stă pe deal.",
+      "options": [
+        "O casă frumos stă pe deal.",
+        "O casă frumoasă stă pe deal.",
+        "Un casă frumoasă stă pe deal.",
+        "O casă frumoase stă pe deal."
+      ],
+      "explanation": "'Casă' is feminine singular, so the adjective must be feminine singular too: 'frumoasă'. Also, 'o' (not 'un') is the indefinite article for feminine.",
+      "explanationRo": "'Casă' este feminin singular, deci adjectivul trebuie să fie feminin singular: 'frumoasă'. De asemenea, 'o' (nu 'un') este articolul nehotărât pentru feminin.",
+      "sourceGrammarId": "G05-adjective-agreement",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e05_009",
+      "type": "fill-blank",
+      "prompt": "Complete with the feminine plural form of 'tânăr' (young): 'femei ___'",
+      "promptRo": "Completează cu forma feminină plural a lui 'tânăr' (tânăr): 'femei ___'",
+      "sentence": "Acele femei ___ sunt profesoare.",
+      "answer": "tinere",
+      "acceptableAnswers": [
+        "tinere"
+      ],
+      "explanation": "'Tânăr' → feminine singular 'tânără' → feminine plural 'tinere'. The vowel ă → e in the feminine plural.",
+      "explanationRo": "'Tânăr' → feminin singular 'tânără' → feminin plural 'tinere'. Vocala ă → e la feminin plural.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    },
+    {
+      "id": "e05_010",
+      "type": "multiple-choice",
+      "prompt": "What is the definite article + adjective form for 'om bun' (good man)?",
+      "promptRo": "Care este forma cu articol hotărât + adjectiv pentru 'om bun' (om bun)?",
+      "answer": "omul bun",
+      "options": [
+        "om bunul",
+        "omul bun",
+        "bunul om",
+        "omul de bun"
+      ],
+      "explanation": "In Romanian, the definite article attaches to the noun, not the adjective. 'Om' → 'omul bun' (not 'om bunul'). Compare with the adjective-first variant: 'bunul om' is also correct but more emphatic.",
+      "explanationRo": "În română, articolul hotărât se atașează substantivului, nu adjectivului. 'Om' → 'omul bun'. Varianta cu adjectivul întâi: 'bunul om' este de asemenea corectă dar mai expresivă.",
+      "sourceGrammarId": "G05-adjective-agreement"
+    }
+  ]
+}

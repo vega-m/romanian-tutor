@@ -1,0 +1,135 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "R02-pronouns-agreement",
+  "title": "Recapitulare: Pronume și Acordul Adjectivelor",
+  "titleRo": "Recapitulare: Pronume și Acordul Adjectivelor (Săptămâna 3)",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G03-nouns",
+    "G04-verb-intro"
+  ],
+  "estimatedMinutes": 15,
+  "instructions": "Review exercises for pronouns and adjective agreement at a B1 level. Focus on using emphatic forms and correct agreement in professional and social contexts.",
+  "instructionsRo": "Exerciții de recapitulare pentru pronume și acordul adjectivelor la nivel B1. Accentul cade pe folosirea formelor emfatice și a acordului corect în contexte profesionale și sociale.",
+  "sourceWeek": 3,
+  "exercises": [
+    {
+      "id": "r02_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct pronoun for a group of colleagues (mixed or masculine): '___ (They) au finalizat proiectul la timp.'",
+      "promptRo": "Alegeți pronumele corect pentru un grup de colegi (mixt sau masculin): '___ au finalizat proiectul la timp.'",
+      "answer": "Ei",
+      "options": [
+        "Ele",
+        "Ei",
+        "Dumnealor",
+        "Noi"
+      ],
+      "explanation": "'Ei' is the 3rd person plural masculine pronoun, used for groups of men or mixed groups. 'Dumnealor' is very formal; 'Ei' is standard for B1.",
+      "explanationRo": "'Ei' este pronumele persoana a III-a plural masculin, folosit pentru grupuri de bărbați sau grupuri mixte. 'Dumnealor' este foarte formal; 'Ei' este standard pentru B1."
+    },
+    {
+      "id": "r02_002",
+      "type": "multiple-choice",
+      "prompt": "What is the correct dative clitic for 'noi' in this professional context? 'Partenerii ___ au oferit un contract avantajos.'",
+      "promptRo": "Care este cliticul dativ corect pentru 'noi' în acest context profesional? 'Partenerii ___ au oferit un contract avantajos.'",
+      "answer": "ne",
+      "options": [
+        "ne",
+        "ni",
+        "nouă",
+        "le"
+      ],
+      "explanation": "The dative clitic for 'noi' is 'ne'. Sentence: 'Partenerii ne au oferit...' (usually written 'ne-au oferit'). It means 'The partners offered us'.",
+      "explanationRo": "Cliticul dativ pentru 'noi' este 'ne'. Propoziția: 'Partenerii ne au oferit...' (de obicei scris 'ne-au oferit'). Înseamnă 'Partenerii ne-au oferit'."
+    },
+    {
+      "id": "r02_003",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct adjective form: 'Rezultatele sondajului sunt foarte ___ (encouraging, neuter plural).'",
+      "promptRo": "Completați cu forma corectă a adjectivului: 'Rezultatele sondajului sunt foarte ___ .'",
+      "sentence": "Rezultatele sondajului sunt foarte ___ .",
+      "answer": "încurajatoare",
+      "acceptableAnswers": [
+        "încurajatoare",
+        "pozitive",
+        "promițătoare"
+      ],
+      "explanation": "'Rezultatele' is neuter plural. The adjective must agree: 'încurajatoare' (neuter/feminine plural). Masculine singular: 'încurajator'.",
+      "explanationRo": "'Rezultatele' este neutru plural. Adjectivul trebuie să fie de acord: 'încurajatoare' (neutru/feminin plural). Masculin singular: 'încurajator'."
+    },
+    {
+      "id": "r02_004",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct stressed form of the personal pronoun for emphasis? '___ (Him) l-am contactat pentru detalii.'",
+      "promptRo": "Care este forma accentuată corectă a pronumelui personal pentru accentuare? '___ l-am contactat pentru detalii.'",
+      "answer": "Pe el",
+      "options": [
+        "Pe el",
+        "Lui",
+        "Dânsul",
+        "Îl"
+      ],
+      "explanation": "To emphasize the object 'him' at the beginning of a sentence, use the stressed accusative form 'Pe el' followed by the clitic 'l-'.",
+      "explanationRo": "Pentru a accentua obiectul 'el' la începutul unei propoziții, folosiți forma accentuată de acuzativ 'Pe el' urmată de cliticul 'l-'."
+    },
+    {
+      "id": "r02_005",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct possessive form: 'Am analizat propunerea ___ (her) cu atenție.'",
+      "promptRo": "Completați cu forma posesivă corectă: 'Am analizat propunerea ___ cu atenție.'",
+      "sentence": "Am analizat propunerea ___ cu atenție.",
+      "answer": "ei",
+      "acceptableAnswers": [
+        "ei",
+        "sa"
+      ],
+      "explanation": "In B1 contexts, using 'ei' (her) is very natural. 'Propunerea sa' is also correct but more formal.",
+      "explanationRo": "În contextul B1, folosirea lui 'ei' este foarte naturală. 'Propunerea sa' este de asemenea corectă, dar mai formală."
+    },
+    {
+      "id": "r02_006",
+      "type": "multiple-choice",
+      "prompt": "What is the correct adjective agreement? 'Această soluție pare ___ (effective, feminine singular).'",
+      "promptRo": "Care este acordul corect al adjectivului? 'Această soluție pare ___ .'",
+      "answer": "eficientă",
+      "options": [
+        "eficient",
+        "eficientă",
+        "eficienți",
+        "eficiente"
+      ],
+      "explanation": "'Soluție' is feminine singular. Adjectives ending in a consonant usually add '-ă' for feminine singular: eficient → eficientă.",
+      "explanationRo": "'Soluție' este feminin singular. Adjectivele care se termină în consoană adaugă de obicei '-ă' pentru feminin singular: eficient → eficientă."
+    },
+    {
+      "id": "r02_007",
+      "type": "fill-blank",
+      "prompt": "Fill in with the correct reflexive pronoun: 'Managerii ___ ocupă de bunul mers al lucrurilor.'",
+      "promptRo": "Completați cu pronumele reflexiv corect: 'Managerii ___ ocupă de bunul mers al lucrurilor.'",
+      "sentence": "Managerii ___ ocupă de bunul mers al lucrurilor.",
+      "answer": "se",
+      "acceptableAnswers": [
+        "se"
+      ],
+      "explanation": "The reflexive pronoun for 3rd person plural is 'se'. The verb 'a se ocupa' (to take care of/to handle) always requires it.",
+      "explanationRo": "Pronumele reflexiv pentru persoana a III-a plural este 'se'. Verbul 'a se ocupa' îl necesită întotdeauna."
+    },
+    {
+      "id": "r02_008",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct possessive for a company or group: 'Sediul ___ (their) se află în centrul orașului.'",
+      "promptRo": "Alegeți posesivul corect pentru o companie sau un grup: 'Sediul ___ se află în centrul orașului.'",
+      "answer": "lor",
+      "options": [
+        "lor",
+        "său",
+        "lui",
+        "ei"
+      ],
+      "explanation": "'Lor' is the possessive for 3rd person plural (their). It is invariable and placed after the noun.",
+      "explanationRo": "'Lor' este posesivul pentru persoana a III-a plural. Este invariabil și plasat după substantiv."
+    }
+  ]
+}

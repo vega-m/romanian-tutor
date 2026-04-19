@@ -1,0 +1,164 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G17-prepositions",
+  "title": "Prepozițiile (Prepozițiile Românești)",
+  "titleEn": "Prepositions",
+  "cefrLevel": "B1",
+  "prerequisites": ["G04-noun-cases", "G03-noun-gender"],
+  "estimatedMinutes": 40,
+  "introduction": "Prepositions are invariant words that establish relationships between parts of a sentence. In Romanian, their usage is closely tied to the case system, with different prepositions requiring the Accusative, Genitive, or Dative forms of the following noun. Mastery of these connections is vital for grammatical precision.",
+  "introductionRo": "Prepozițiile sunt cuvinte invariabile care stabilesc relații între părți ale propoziției. În limba română, utilizarea lor este strâns legată de sistemul cazurilor, diferite prepoziții impunând formele de acuzativ, genitiv sau dativ pentru substantivul determinat. Stăpânirea acestor conexiuni este vitală pentru precizia gramaticală.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Prepositions Governing the Accusative",
+      "headingRo": "Prepozițiile care Guvernează Acuzativul",
+      "content": "The vast majority of Romanian prepositions require the Accusative case. These include fundamental prepositions of place, time, and manner. In most instances, the noun form remains the same as the Nominative.",
+      "contentRo": "Marea majoritate a prepozițiilor românești cer cazul acuzativ. Acestea includ prepoziții fundamentale de loc, de timp și de mod. În cele mai multe situații, forma substantivului rămâne aceeași cu cea de la nominativ.",
+      "table": {
+        "headers": ["Preposition", "Meaning", "Example", "Translation", "Notes"],
+        "rows": [
+          ["în", "in/into", "Cartea este în dulap.", "The book is in the closet.", "Also: în România, în casă"],
+          ["la", "at/to", "Merg la școală.", "I go to school.", "Also: la doctor, la cinema"],
+          ["pe", "on/onto", "Cartea este pe masă.", "The book is on the table.", "Also: pe stradă, pe masă"],
+          ["cu", "with", "Vorbesc cu Maria.", "I speak with Maria.", "Also: cu mașina, cu autobuzul"],
+          ["pentru", "for", "Acest cadou este pentru tine.", "This gift is for you.", "Also: pentru mine, pentru toți"],
+          ["fără", "without", "Nu pot fără tine.", "I can't without you.", "Also: fără probleme, fără îndoială"],
+          ["spre", "towards", "Spre nord.", "Towards the north.", "Also: spre casă"],
+          ["sub", "under", "Pisica este sub masă.", "The cat is under the table.", ""],
+          ["peste", "over/above", "Podul este peste râu.", "The bridge is over the river.", ""],
+          ["lângă", "near/next to", "Banca este lângă școală.", "The bank is near the school.", ""],
+          ["din", "from/out of", "Ea vine din România.", "She comes from Romania.", "Forms compound: din + noun"],
+          ["după", "after/behind", "După masă.", "After the meal.", ""],
+          ["înainte de", "before", "Înainte de ora 8.", "Before 8 o'clock.", "Also: înainte de a + infinitive"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Sunt în bucătărie.",
+          "en": "I am in the kitchen.",
+          "notes": "'în' + accusative: the preposition 'în' requires the accusative case."
+        },
+        {
+          "ro": "Mergem la magazin acum.",
+          "en": "We are going to the store now.",
+          "notes": "'la' + accusative: one of the most versatile prepositions."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Preposition pe",
+      "headingRo": "Prepoziția pe",
+      "content": "The preposition 'pe' is one of the most important and complex prepositions in Romanian. It is used for: location on a surface, direct objects of people, and specific destinations. When 'pe' is used with a person, it requires the accusative with the definite article.",
+      "contentRo": "Prepoziția 'pe' este una dintre cele mai importante și complexe prepoziții din română. Se folosește pentru: locație pe o suprafață, complemente directe de persoane și destinații specifice. Când 'pe' se folosește cu o persoană, cere acuzativul cu articolul hotărât.",
+      "table": {
+        "headers": ["Usage", "Example", "Translation"],
+        "rows": [
+          ["Surface location", "Cartea e pe masă.", "The book is on the table."],
+          ["Person as D.O.", "Văd pe Maria.", "I see Maria."],
+          ["Person (definite)", "Văd pe Maria.", "I see Maria."],
+          ["Means of transport", "Merg pe jos.", "I go on foot."],
+          ["Specific time", "Pe 15 martie.", "On March 15."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Îl caut pe profesor.",
+          "en": "I am looking for the teacher.",
+          "notes": "'pe' + definite article required when the direct object is a specific person."
+        },
+        {
+          "ro": "Scriu pe masă.",
+          "en": "I write on the table.",
+          "notes": "'pe' for surface location — on a table, on a wall, on the floor."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Prepositions Governing the Genitive",
+      "headingRo": "Prepozițiile care Guvernează Genitivul",
+      "content": "A specific group of prepositions require the genitive case. These include many compound prepositions and some simple ones:",
+      "contentRo": "Un grup specific de prepoziții cer genitivul. Acestea includ multe prepoziții compuse și câteva simple:",
+      "table": {
+        "headers": ["Preposition", "Meaning", "Example", "Translation"],
+        "rows": [
+          ["asupra", "upon/about", "Discuția asupra subiectului.", "The discussion about the subject."],
+          ["contra / împotriva", "against", "Lupta contra poluării.", "The fight against pollution."],
+          ["împrejurul", "around", "Împrejurul casei.", "Around the house."],
+          ["înaintea", "before", "Înaintea cursului.", "Before the class."],
+          ["deasupra", "above", "Deasupra mesei.", "Above the table."],
+          ["dedesubtul", "underneath", "Dedesubtul scaunului.", "Underneath the chair."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mașina este în fața casei.",
+          "en": "The car is in front of the house.",
+          "notes": "'în fața' is a compound preposition that governs the genitive: casa → casei."
+        },
+        {
+          "ro": "E din București.",
+          "en": "He/She is from Bucharest.",
+          "notes": "'din' and 'de la' require the ACCUSATIVE form: din București, de la magazin."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Common Prepositional Expressions",
+      "headingRo": "Expresii Prepoziționale Comune",
+      "content": "Many everyday Romanian phrases use prepositions in fixed combinations:",
+      "contentRo": "Multe expresii românești de zi cu zi folosesc prepoziții în combinații fixe:",
+      "table": {
+        "headers": ["Expression", "Meaning", "Example"],
+        "rows": [
+          ["în fața", "in front of", "În fața casei. (In front of the house.)"],
+          ["în spatele", "behind", "În spatele grădinii. (Behind the garden.)"],
+          ["în mijlocul", "in the middle of", "În mijlocul parcului. (In the middle of the park.)"],
+          ["în loc de", "instead of", "În loc de apă, am băut suc. (Instead of water, I drank juice.)"],
+          ["în ciuda", "despite", "În ciuda ploii, am ieșit. (Despite the rain, we went out.)"],
+          ["în afară de", "besides/except", "În afară de Ion, toți au venit. (Besides Ion, everyone came.)"],
+          ["datorită", "thanks to", "Datorită lui, am reușit. (Thanks to him, we succeeded.)"],
+          ["din cauza", "because of", "Din cauza vremii, am rămas. (Because of the weather, we stayed.)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "În fața școlii este un parc.",
+          "en": "In front of the school there is a park.",
+          "notes": "'în fața' + genitive: școală → școlii."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Heritage Speaker Tip",
+      "content": "You likely use prepositions correctly in speech without thinking about cases. The main thing to watch in writing is: 'pe' + person requires the definite article (Văd pe Maria, not just Văd pe Maria without context). Also, remember that 'de' + 'la' = 'de la' (from), and 'de' + 'a' can contract to 'd-' before vowels (de aici → de aici, not d-aici). Trust your ear — if a prepositional phrase sounds right, it probably is right!",
+      "contentRo": "Probabil folosești corect prepozițiile în vorbire fără să te gândești la cazuri. Lucrul principal de verificat în scris este: 'pe' + persoană necesită articolul hotărât (Văd pe Maria, nu doar Văd pe Maria fără context). De asemenea, amintește-ți că 'de' + 'la' = 'de la' (de la), și 'de' + 'a' se poate contracta la 'd-' înaintea vocalelor. Încrede-te în ureche — dacă o expresie prepozițională sună bine, probabil este corectă!"
+    }
+  ],
+  "summaryPoints": [
+    "Most prepositions govern the accusative case: în, la, pe, cu, pentru, fără, din, după, înainte de",
+    "'pe' is used for surfaces, persons as direct objects, and means of transport",
+    "Some prepositions govern the genitive: de, de la, asupra, înaintea",
+    "Compound prepositions: în fața, în spatele, în mijlocul, în loc de, în ciuda",
+    "'pe' + specific person requires the definite article: Văd pe Maria.",
+    "'de' can mean 'of', 'from', or form compounds: de la, de către, de pe",
+    "'din' means 'from' or 'out of' and takes the accusative",
+    "Prepositions are followed by nouns in the correct case, never by infinitives"
+  ],
+  "summaryPointsRo": [
+    "Majoritatea prepozițiilor guvernează acuzativul: în, la, pe, cu, pentru, fără, din, după, înainte de",
+    "'pe' se folosește pentru suprafețe, persoane ca complemente directe și mijloace de transport",
+    "Unele prepoziții guvernează genitivul: de, de la, asupra, înaintea",
+    "Prepoziții compuse: în fața, în spatele, în mijlocul, în loc de, în ciuda",
+    "'pe' + persoană specifică necesită articolul hotărât: Văd pe Maria.",
+    "'de' poate însemna 'al', 'de la' sau forma compuși: de la, de către, de pe",
+    "'din' înseamnă 'din' sau 'din' și cere acuzativul",
+    "Prepozițiile sunt urmate de substantive la cazul corect, niciodată de infinitive"
+  ],
+  "relatedExercises": ["E12-case-preposition"]
+}

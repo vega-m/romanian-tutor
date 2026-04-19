@@ -1,0 +1,219 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G25-word-order",
+  "title": "Ordinea Cuvintelor",
+  "titleEn": "Word Order",
+  "cefrLevel": "B1",
+  "prerequisites": ["G02-articles", "G03-noun-gender", "G09-present-tense"],
+  "estimatedMinutes": 35,
+  "introduction": "Word order in Romanian is relatively flexible compared to English, but it follows specific syntactic principles to indicate emphasis and grammatical relationships. While the standard pattern is Subject-Verb-Object (SVO), variations are common for pragmatic and stylistic reasons. Mastering these patterns is essential for achieving a natural, B1-level flow.",
+  "introductionRo": "Topica în limba română este relativ flexibilă în comparație cu limba engleză, însă urmează principii sintactice specifice pentru a indica emfaza și relațiile gramaticale. Deși modelul standard este Subiect-Verb-Complement (SVO), variațiile sunt frecvente din motive pragmatice și stilistice. Stăpânirea acestor tipare este esențială pentru a obține un flux natural al exprimării la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Neutral Word Order (SVO)",
+      "headingRo": "Topica Neutră (SVC)",
+      "content": "In a neutral statement, Romanian typically follows the Subject-Verb-Complement pattern. However, because verb endings often identify the subject, the subject is frequently omitted or placed after the verb for focus.",
+      "contentRo": "Într-un enunț neutru, limba română urmează, de regulă, modelul Subiect-Verb-Complement. Totuși, deoarece terminațiile verbale identifică adesea subiectul, acesta este frecvent omis sau plasat după verb pentru a sublinia importanța acestuia.",
+      "examples": [
+        {
+          "ro": "Ioan citește o carte. (Ioan reads a book.)",
+          "en": "Standard SVO — neutral statement.",
+          "notes": "Subject first, then verb, then object."
+        },
+        {
+          "ro": "Profesorul explică regula. (The teacher explains the rule.)",
+          "en": "Standard SVO in a classroom context.",
+          "notes": "This word order is always grammatically correct and carries no special emphasis."
+        },
+        {
+          "ro": "Noi mâncăm pizza în fiecare vineri. (We eat pizza every Friday.)",
+          "en": "SVO with an adverbial of time at the end.",
+          "notes": "Time adverbials typically go at the end of the sentence in Romanian."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Inversion for Emphasis (VSO)",
+      "headingRo": "Inversiunea pentru Accent (VSO)",
+      "content": "Putting the verb before the subject places emphasis on the action rather than the doer. This is common in storytelling, news, and when the action is the most important piece of information.",
+      "contentRo": "Așezarea verbului înaintea subiectului pune accentul pe acțiune, nu pe cel care o face. Aceasta este comună în povești, știri și atunci când acțiunea este cea mai importantă informație.",
+      "examples": [
+        {
+          "ro": "A venit Maria ieri. (Maria came yesterday.)",
+          "en": "Emphasis on the fact that she CAME (perhaps after a long wait).",
+          "notes": "VSO: Verb first signals emphasis on the action or event."
+        },
+        {
+          "ro": "S-a întâmplat un accident pe șosea. (An accident happened on the road.)",
+          "en": "Common in news reports — the event is the focus.",
+          "notes": "With reflexive/passive 's-a', this pattern is very frequent in Romanian."
+        },
+        {
+          "ro": "A plouat toată ziua! (It rained all day!)",
+          "en": "Impersonal verb — subject comes after the verb.",
+          "notes": "With impersonal and weather verbs, VSO is actually the default."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Topicalization: Moving the Object or Complement First",
+      "headingRo": "Tematizarea: Mutarea Obiectului sau Complementului la Început",
+      "content": "In Romanian, you can move the object or any complement to the front of the sentence to make it the topic (what the sentence is about). This is called topicalization and is extremely common in everyday speech.",
+      "contentRo": "În română, poți muta obiectul sau orice complement la începutul propoziției pentru a-l face subiectul discuției (despre ce este propoziția). Aceasta se numește tematizare și este extrem de comună în vorbirea de zi cu zi.",
+      "examples": [
+        {
+          "ro": "Cartea o citesc mâine. (The book — I'll read it tomorrow.)",
+          "en": "The book is the topic; we already know about it from context.",
+          "notes": "OSV order: the object 'cartea' is topicalized and doubled by the clitic 'o'."
+        },
+        {
+          "ro": "În România am crescut. (In Romania I grew up.)",
+          "en": "The place is the topic — we were talking about where people grew up.",
+          "notes": "Adv-SV: adverbial of place comes first."
+        },
+        {
+          "ro": "Acest film l-am văzut de trei ori. (This film I've seen three times.)",
+          "en": "Emphasis on 'this film' — it's the topic being discussed.",
+          "notes": "Note the clitic 'l-' which must stay before the verb, while the stressed object moves to the front."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Clitic Pronoun Placement",
+      "headingRo": "Plasarea Pronumelor Clitice",
+      "content": "Clitic pronouns (direct and indirect) have strict placement rules in Romanian. They typically go BEFORE the verb, but can move after in certain constructions. This is one of the trickiest aspects of Romanian word order.",
+      "contentRo": "Pronumele clitice (directe și indirecte) au reguli stricte de plasare în română. În mod obișnuit se plasează ÎNAINTEA verbului, dar pot muta după în anumite construcții. Aceasta este unul dintre cele mai dificile aspecte ale ordinii cuvintelor în română.",
+      "rules": [
+        "Clitics go BEFORE the finite verb: Mă vede. (He sees me.)",
+        "With infinitives, clitics attach to the infinitive: Vreau să-l văd. (I want to see him.)",
+        "With gerunds, clitics attach to the gerund: Văzându-l, am recunoscut-o. (Seeing him, I recognized her.)",
+        "In compound perfect, clitics go between 'am/ai/a...' and the participle: L-am văzut. (I saw him.)",
+        "Imperative positive: clitics AFTER the verb: Vedeți-l! (Look at him!)",
+        "Imperative negative: 'nu' comes BEFORE the clitic: Nu-l vedea! (Don't see him!)"
+      ],
+      "examples": [
+        {
+          "ro": "Mi-a dat cartea. (He gave me the book.)",
+          "en": "Dative clitic 'mi-' + auxiliary 'a' + past participle 'dat'.",
+          "notes": "The clitic must be in second position relative to the verb phrase."
+        },
+        {
+          "ro": "Ți-am trimis emailul. (I sent you the email.)",
+          "en": "Dative clitic 'ți-' before the auxiliary 'am'.",
+          "notes": "Compare: 'Am trimis ți-emailul' — WRONG. Clitics must precede the verb."
+        },
+        {
+          "ro": "Dă-mi telefonul! (Give me the phone!)",
+          "en": "Positive imperative: clitic 'mi' goes AFTER the verb.",
+          "notes": "But: 'Nu-mi da telefonul!' — Negative imperative: 'nu' comes before the clitic 'mi'."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Questions and Inversion",
+      "headingRo": "Întrebări și Inversiune",
+      "content": "Yes/no questions in Romanian often use subject-verb inversion, similar to French or Italian. The question word (ce, cine, unde, când) always comes first in information questions.",
+      "contentRo": "Întrebările da/nu în română folosesc adesea inversiunea subiect-verb, similar cu franceza sau italiana. Cuvântul interogativ (ce, cine, unde, când) vine mereu la început în întrebările cu informație.",
+      "examples": [
+        {
+          "ro": "Ai înțeles lecția? (Did you understand the lesson?)",
+          "en": "Standard question inversion: Verb + Subject.",
+          "notes": "This is the most common yes/no question pattern in Romanian."
+        },
+        {
+          "ro": "Vine mama mâine? (Is mom coming tomorrow?)",
+          "en": "Another example of V-S inversion in questions.",
+          "notes": "Compare declarative: 'Mama vine mâine.' (Mom is coming tomorrow.)"
+        },
+        {
+          "ro": "Unde mergem diseară? (Where are we going tonight?)",
+          "en": "Question word first, then verb, then subject (if expressed).",
+          "notes": "Question word + verb (+ subject). The subject can often be omitted."
+        },
+        {
+          "ro": "Ce carte citești? (What book are you reading?)",
+          "en": "Question word + noun + verb.",
+          "notes": "The interrogative pronoun comes before the noun it modifies."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Adverb and Adjective Position",
+      "headingRo": "Poziția Adverbelor și Adjectivelor",
+      "content": "Adverbs of time usually go at the end of the sentence. Adverbs of manner can go before or after the verb. Adjectives generally follow the noun they modify, but some common adjectives can precede for emphasis.",
+      "contentRo": "Adverbele de timp merg de obicei la sfârșitul propoziției. Adverbele de mod pot merge înainte sau după verb. Adjectivele urmează de obicei substantivul pe care îl modifică, dar unele adjective comune pot precede pentru accent.",
+      "rules": [
+        "Time adverbs: sentence-final — 'Am ajuns ieri.' (I arrived yesterday.)",
+        "Manner adverbs: after verb or before adjective — 'Vorbește bine românește.' (He speaks Romanian well.)",
+        "Adjectives: after noun (default) — 'o casă mare' (a big house)",
+        "Adjectives before noun: for emphasis/poetry — 'frumoasa casă' (the beautiful house)",
+        "Certain adjectives always precede: bun, nou, mic (when used figuratively)"
+      ],
+      "examples": [
+        {
+          "ro": "Ea cântă foarte frumos. (She sings very beautifully.)",
+          "en": "Manner adverb 'foarte frumos' after the verb.",
+          "notes": "'Foarte' (very) is an intensifier that precedes the adverb it modifies."
+        },
+        {
+          "ro": "Un om bun m-a ajutat. (A good man helped me.)",
+          "en": "Adjective 'bun' before the noun for emphasis.",
+          "notes": "When 'bun' means 'kind/good-hearted', it often precedes the noun. Note: 'a ajuta' takes the accusative (m-a ajutat)."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "B1 Exam Tip",
+      "content": "In the B1 exam, you may encounter literary or journalistic texts with non-standard word order. Don't panic — just identify the subject, verb, and object regardless of their position. Topicalization and inversion are common in formal writing and will appear in reading comprehension passages.",
+      "contentRo": "La examenul B1, poți întâlni texte literare sau jurnalistice cu ordine neobișnuită a cuvintelor. Nu te panica — identifică subiectul, verbul și obiectul indiferent de poziția lor. Tematizarea și inversiunea sunt comune în scrisul formal și vor apărea în textele de citire."
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Learners often make word order errors influenced by English or other languages they speak. Pay special attention to these:",
+      "contentRo": "Cursanții fac adesea greșeli de ordine a cuvintelor influențați de engleză sau alte limbi vorbite. Acordă atenție specială acestora:",
+      "rules": [
+        "Don't put clitics at the end of the sentence like in English object pronouns: 'Văd-l' is wrong — say 'Îl văd.'",
+        "Don't forget that question words always come FIRST: 'Tu unde mergi?' is awkward — say 'Unde mergi?'",
+        "Don't overuse SVO — native speakers frequently topicalize by moving the topic to the front",
+        "Don't place adverbs between the auxiliary and participle: 'Am ieri mers' is wrong — say 'Am mers ieri.'"
+      ],
+      "examples": [
+        {
+          "ro": "CORRECT: Cartea am citit-o. / INCORRECT: Am citit-o cartea (when 'cartea' is the topic).",
+          "en": "When the book is already known/mentioned, topicalize it to the front.",
+          "notes": "This OSV pattern with clitic doubling is extremely natural in Romanian."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Default Romanian word order is SVO (Subject-Verb-Object), like English",
+    "VSO (Verb-Subject-Object) is used for emphasis on the action/event",
+    "Topicalization: moving the object/complement to the front to set the topic",
+    "Clitic pronouns go BEFORE the verb (except positive imperatives: after)",
+    "Questions often use subject-verb inversion: 'Ai înțeles?' not 'Tu ai înțeles?'",
+    "Question words (ce, cine, unde, când) always come first",
+    "Time adverbs go at the end; manner adverbs after the verb",
+    "Adjectives normally follow the noun, but can precede for emphasis"
+  ],
+  "summaryPointsRo": [
+    "Ordinea de bază în română este SVO (Subiect-Verb-Obiect), ca în engleză",
+    "VSO (Verb-Subiect-Obiect) se folosește pentru accent pe acțiune/eveniment",
+    "Tematizarea: mutarea obiectului/complementului la început pentru a stabili subiectul",
+    "Pronumele clitice merg ÎNAINTEA verbului (cu excepția imperativului pozitiv: după)",
+    "Întrebările folosesc adesea inversiunea subiect-verb: 'Ai înțeles?' nu 'Tu ai înțeles?'",
+    "Cuvintele interogative (ce, cine, unde, când) vin mereu la început",
+    "Adverbele de timp merg la sfârșit; adverbele de mod după verb",
+    "Adjectivele urmează de obicei substantivul, dar pot precede pentru accent"
+  ],
+  "relatedExercises": ["E18-word-order-rearrange"]
+}

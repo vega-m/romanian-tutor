@@ -1,0 +1,214 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G06-personal-pronouns",
+  "title": "Pronumele Personale (Pronumele Personale în Română)",
+  "titleEn": "Personal Pronouns in Romanian",
+  "cefrLevel": "A2",
+  "prerequisites": ["G01-alphabet-reading", "G03-noun-gender"],
+  "estimatedMinutes": 40,
+  "introduction": "Personal pronouns are essential for natural communication, allowing you to avoid repetitive noun usage. In Romanian, they are particularly complex because they have both stressed and unstressed (clitic) forms, which change depending on their grammatical case. Mastering clitics is a key requirement for B1 fluency.",
+  "introductionRo": "Pronumele personale sunt esențiale pentru o comunicare naturală, permițându-vă să evitați repetarea substantivelor. În limba română, acestea sunt deosebit de complexe, deoarece au atât forme accentuate, cât și neaccentuate (clitice), care se modifică în funcție de cazul gramatical. Stăpânirea cliticelor este o condiție esențială pentru fluența la nivelul B1.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Nominative Case",
+      "headingRo": "Cazul Nominativ",
+      "content": "Nominative pronouns are the subjects of the sentence. In many cases, they are omitted because the verb ending already indicates the person, but they are used for emphasis or clarity.",
+      "contentRo": "Pronumele în nominativ îndeplinesc funcția de subiect în propoziție. De multe ori, acestea sunt omise deoarece terminația verbului indică deja persoana, însă sunt folosite pentru accentuare sau claritate.",
+      "table": {
+        "headers": ["Person", "Romanian", "English", "Example", "Translation"],
+        "rows": [
+          ["1st sg.", "eu", "I", "Eu merg.", "I go."],
+          ["2nd sg.", "tu", "you (informal)", "Tu vii.", "You come."],
+          ["3rd sg. masc.", "el", "he", "El doarme.", "He sleeps."],
+          ["3rd sg. fem.", "ea", "she", "Ea cântă.", "She sings."],
+          ["1st pl.", "noi", "we", "Noi mâncăm.", "We eat."],
+          ["2nd pl.", "voi", "you (plural)", "Voi așteptați.", "You (pl.) wait."],
+          ["3rd pl. masc.", "ei", "they (masc.)", "Ei joacă.", "They (m.) play."],
+          ["3rd pl. fem.", "ele", "they (fem.)", "Ele citesc.", "They (f.) read."],
+          ["2nd formal", "dumneavoastră", "you (formal)", "Dumneavoastră sunteți.", "You (formal) are."],
+          ["3rd formal", "dânsul/dânsa", "he/she (formal)", "Dânsul a venit.", "He (formal) came."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "(Eu) merg la școală. ((I) go to school.)",
+          "en": "The 'eu' is optional — 'Merg la școală' is perfectly clear from the verb ending.",
+          "notes": "Romanian is a pro-drop language: the subject pronoun can be omitted when the verb makes it clear."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Accusative Case",
+      "headingRo": "Cazul Acuzativ",
+      "content": "Accusative pronouns function as direct objects. Romanian uses a dual system: stressed forms (used for emphasis, often with the preposition 'pe') and unstressed forms (clitics), which are much more common in daily speech.",
+      "contentRo": "Pronumele în acuzativ îndeplinesc funcția de complement direct. Limba română folosește un sistem dublu: forme accentuate (utilizate pentru emfază, adesea însoțite de prepoziția „pe”) și forme neaccentuate (clitice), mult mai frecvente în vorbirea curentă.",
+      "table": {
+        "headers": ["Person", "Unstressed (before verb)", "Unstressed (after verb)", "Stressed", "Example (unstressed)", "Example (stressed)"],
+        "rows": [
+          ["eu", "mă", "-mă", "mine", "Mă vezi.", "Pe mine mă vezi."],
+          ["tu", "te", "-te", "tine", "Te văd.", "Pe tine te văd."],
+          ["el", "îl", "-l", "el", "Îl văd.", "Pe el îl văd."],
+          ["ea", "o", "-o", "ea", "O văd.", "Pe ea o văd."],
+          ["noi", "ne", "-ne", "noi", "Ne vede.", "Pe noi ne vede."],
+          ["voi", "vă", "-vă", "voi", "Vă vede.", "Pe voi vă vede."],
+          ["ei", "îi", "-i", "ei", "Îi vede.", "Pe ei îi vede."],
+          ["ele", "le", "-le", "ele", "Le vede.", "Pe ele le vede."],
+          ["formal", "vă", "-vă", "dumneavoastră", "Vă văd.", "Pe dumneavoastră vă văd."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mă auzi? (Can you hear me?)",
+          "en": "'mă' is the unstressed direct object pronoun for 'eu' — placed before the verb.",
+          "notes": "This is the form you'll hear most often in everyday speech."
+        },
+        {
+          "ro": "Pe mine nu mă interesează. (I don't care. / It doesn't interest me.)",
+          "en": "'Pe mine' is the stressed form — used for emphasis.",
+          "notes": "The stressed form requires 'pe' before persons: pe mine, pe tine, pe el, pe ea."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Dative Case",
+      "headingRo": "Cazul Dativ",
+      "content": "Dative pronouns represent the indirect object (to whom or for whom). Like the accusative, they have stressed and unstressed forms. Many common Romanian verbs, such as 'a plăcea' or 'a părea', strictly require the dative.",
+      "contentRo": "Pronumele în dativ reprezintă complementul indirect (cui sau pentru cine). La fel ca în acuzativ, există forme accentuate și neaccentuate. Multe verbe românești uzuale, precum „a plăcea” sau „a părea”, cer obligatoriu cazul dativ.",
+      "table": {
+        "headers": ["Person", "Unstressed", "Stressed", "Example (unstressed)", "Example (stressed)"],
+        "rows": [
+          ["eu", "îmi", "mie", "Îmi dai cartea?", "Mie îmi dai cartea?"],
+          ["tu", "îți", "ție", "Îți scriu.", "Ție îți scriu."],
+          ["el", "îi", "lui", "Îi spun adevărul.", "Lui îi spun adevărul."],
+          ["ea", "îi", "ei", "Îi dau telefon.", "Ei îi dau telefon."],
+          ["noi", "ne", "nouă", "Ne promit că vin.", "Nouă ne promit că vin."],
+          ["voi", "vă", "vouă", "Vă trimit un email.", "Vouă vă trimit un email."],
+          ["ei/ele", "le", "lor", "Le explic.", "Lor le explic."],
+          ["formal", "îi / vă", "dumneavoastră", "Îi/Vă mulțumesc.", "Dumneavoastră vă mulțumesc."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Îmi place cafeaua. (I like coffee. — lit. To me it is pleasing, the coffee.)",
+          "en": "'îmi' = to me (dative unstressed pronoun).",
+          "notes": "a plăcea always takes dative for the person who likes something."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Reflexive Pronouns",
+      "headingRo": "Pronumele Reflexive",
+      "content": "Reflexive pronouns are used when the subject and object are the same person. They are forms of the accusative/dative used reflexively:",
+      "contentRo": "Pronumele reflexive se folosesc când subiectul și obiectul sunt aceeași persoană. Ele sunt forme ale acuzativului/dativului folosite reflexiv:",
+      "table": {
+        "headers": ["Person", "Accusative Reflexive", "Dative Reflexive", "Example (acc.)", "Example (dat.)"],
+        "rows": [
+          ["eu", "mă", "îmi", "Mă spăl.", "Îmi spăl mâinile."],
+          ["tu", "te", "îți", "Te speli.", "Îți speli părul."],
+          ["el/ea", "se", "își", "Se spală.", "Își spală părul."],
+          ["noi", "ne", "ne", "Ne spălăm.", "Ne spălăm mâinile."],
+          ["voi", "vă", "vă", "Vă spălați.", "Vă spălați pe față."],
+          ["ei/ele", "se", "își", "Se spală.", "Își spală părul."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Mă trezesc devreme. (I wake up early.)",
+          "en": "'mă' is the reflexive pronoun — the subject (I) and object (myself) are the same.",
+          "notes": "a se trezi is a reflexive verb — the 'se' changes to match the subject."
+        },
+        {
+          "ro": "Își amintește totul. (He/she remembers everything.)",
+          "en": "'își' is the dative reflexive pronoun — used with a-și aminti.",
+          "notes": "Some reflexive verbs take dative reflexive pronouns instead of accusative."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Pronoun Placement Rules",
+      "headingRo": "Reguli de Plasare a Pronumelor",
+      "content": "Romanian pronoun placement follows specific rules:",
+      "contentRo": "Plasarea pronumelor românești urmează reguli specifice:",
+      "rules": [
+        "Before the verb (proclitic): Mă vede. (He sees me.) — most common in simple sentences",
+        "After the verb (enclitic): Vede-mă! (He sees me! — emphatic) or after imperatives: Dă-mi! (Give me!)",
+        "After compound tense auxiliaries: M-a văzut. (He saw me.) — between auxiliary and participle",
+        "Before the subjunctive marker 'să': Vreau să-l văd. (I want to see him.)",
+        "With gerund: Văzându-mă, a venit. (Seeing me, he came.)",
+        "Multiple pronouns: Îi dau cartea. → I give him the book. / Îi-o dau. (I give it to him.)"
+      ],
+      "examples": [
+        {
+          "ro": "M-a sunat ieri. (He/she called me yesterday.)",
+          "en": "'m-a' = mă (me) + a (has) — the pronoun goes between the negative particle or auxiliary and the participle.",
+          "notes": "In compound tenses: pronoun + auxiliary + participle. Not: a mă sunat."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Combining Pronouns",
+      "content": "When two pronouns appear together (indirect + direct object), they combine into specific forms. The indirect object pronoun comes first:",
+      "contentRo": "Când două pronume apar împreună (complement indirect + direct), ele se combină în forme specifice. Pronumele complement indirect vine primul:",
+      "rules": [
+        "îmi + îl = mi-l: Mi-l dă. (He gives it to me.)",
+        "îți + o = ți-o: Ți-o dau. (I give it to you.)",
+        "îi + le = i-le: I le dau. (I give them to him/her.)",
+        "ne + îl = ni-l: Ni-l dă. (He gives it to us.)",
+        "le + îl = li-l: Li-l dă. (He gives it to them.)",
+        "With negative: nu + combined pronoun: Nu i-l dau. (I don't give it to him.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Be careful with these frequent errors when using personal pronouns:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente când folosești pronumele personale:",
+      "rules": [
+        "Don't forget 'pe' before stressed person pronouns as direct objects: pe mine, pe tine, pe el",
+        "Don't use 'pe' with things: cartea (not 'pe cartea')",
+        "Don't confuse 'îl' (direct object, him) with 'îi' (indirect object, to him)",
+        "Don't place pronouns after the auxiliary in compound tenses: m-a văzut (not 'a mă văzut')",
+        "Remember: 'se' is both reflexive and impersonal — context determines meaning"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Pe el îl cunosc. (I know him.)",
+          "en": "Stressed form requires 'pe': pe el + îl (redundant but emphatic).",
+          "notes": "In casual speech, just 'Îl cunosc' (without 'pe') is more common."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Subject pronouns: eu, tu, el, ea, noi, voi, ei, ele — often omitted (pro-drop)",
+    "Unstressed direct object: mă, te, îl, o, ne, vă, îi, le",
+    "Stressed direct object (with 'pe'): pe mine, pe tine, pe el, pe ea, pe noi, pe voi, pe ei, pe ele",
+    "Unstressed dative: îmi, îți, îi, îi, ne, vă, le, le",
+    "Stressed dative: mie, ție, lui, ei, nouă, vouă, lor, lor",
+    "Reflexive: mă, te, se, ne, vă, se (accusative); îmi, îți, își, ne, vă, își (dative)",
+    "Pronoun placement: before verb (proclitic), after verb (enclitic), between auxiliary and participle",
+    "a plăcea uses dative: Îmi place (I like)",
+    "Combined pronouns: indirect + direct (i-l, ți-o, ni-l, etc.)",
+    "Formal address: dumneavoastră (you formal) — uses 2nd plural verb forms"
+  ],
+  "summaryPointsRo": [
+    "Pronume de subiect: eu, tu, el, ea, noi, voi, ei, ele — adesea omise (pro-drop)",
+    "Complement direct neaccentuat: mă, te, îl, o, ne, vă, îi, le",
+    "Complement direct accentuat (cu 'pe'): pe mine, pe tine, pe el, pe ea, pe noi, pe voi, pe ei, pe ele",
+    "Dativ neaccentuat: îmi, îți, îi, îi, ne, vă, le, le",
+    "Dativ accentuat: mie, ție, lui, ei, nouă, vouă, lor, lor",
+    "Reflexive: mă, te, se, ne, vă, se (acuzativ); îmi, îți, își, ne, vă, își (dativ)",
+    "Plasare pronume: înaintea verbului (proclitic), după verb (enclitic), între auxiliar și participiu",
+    "a plăcea folosește dativ: Îmi place (Îmi place)",
+    "Pronume combinate: indirect + direct (i-l, ți-o, ni-l, etc.)",
+    "Adresare formală: dumneavoastră (dumneavoastră) — folosește forme verbale de persoana a II-a plural"
+  ],
+  "relatedExercises": ["E04-pronoun-selection"]
+}

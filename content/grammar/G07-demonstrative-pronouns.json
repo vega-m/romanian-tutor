@@ -1,0 +1,197 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G07-demonstrative-pronouns",
+  "title": "Pronumele și Adjectivele Demonstrative",
+  "titleEn": "Demonstrative Pronouns and Adjectives",
+  "cefrLevel": "B1",
+  "prerequisites": ["G02-articles", "G03-noun-gender"],
+  "estimatedMinutes": 35,
+  "introduction": "Demonstrative pronouns and adjectives are used to identify or point out specific objects or people in relation to the speaker. In Romanian, they distinguish between proximity (this/these) and distance (that/those), and their form changes depending on whether they precede or follow the noun.",
+  "introductionRo": "Pronumele și adjectivele demonstrative sunt folosite pentru a identifica sau a indica obiecte sau persoane specifice în raport cu vorbitorul. În limba română, acestea fac distincția între proximitate (acest/aceasta) și depărtare (acel/aceea), iar forma lor se modifică în funcție de poziția față de substantiv.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The Proximity and Distance Forms",
+      "headingRo": "Formele de Apropiere și Depărtare",
+      "content": "These adjectives precede the noun and agree with it in gender and number. They distinguish between something near the speaker (proximity) and something farther away (distance).",
+      "contentRo": "Aceste adjective preced substantivul și se acordă cu acesta în gen și număr. Ele fac distincția între un obiect aflat în apropierea vorbitorului (proximitate) și unul aflat la distanță (depărtare).",
+      "table": {
+        "headers": ["Meaning", "Masculine", "Feminine", "Neuter", "Plural"],
+        "rows": [
+          ["THIS (near)", "acest băiat", "această fată", "acest copil", "acești băieți / aceste fete / aceste copii"],
+          ["THAT (far)", "acel băiat", "acea fată", "acel copil", "acei băieți / acele fete / acele copii"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Acest băiat este inteligent. (This boy is intelligent.)",
+          "en": "'acest' agrees with 'băiat' (masculine singular).",
+          "notes": "The demonstrative comes before the noun, like in English."
+        },
+        {
+          "ro": "Această carte este bună. (This book is good.)",
+          "en": "'această' agrees with 'carte' (feminine singular).",
+          "notes": "Note: 'această' has a full form and a short form 'asta' used in informal speech."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Short (Informal) Forms",
+      "headingRo": "Formele Scurte (Informale)",
+      "content": "In everyday spoken Romanian, shorter and more direct forms are almost exclusively used. While 'acest' is formal, 'ăsta' is the standard in conversation.",
+      "contentRo": "În limba română vorbită curent, se folosesc aproape exclusiv forme mai scurte și mai directe. În timp ce „acest” este formal, „ăsta” este standardul în conversație.",
+      "table": {
+        "headers": ["Full Form", "Short Form", "Gender/Number", "Example", "Meaning"],
+        "rows": [
+          ["acest", "ăsta", "masc. sg.", "ăsta băiat", "this boy"],
+          ["această", "asta", "fem. sg.", "asta carte", "this book"],
+          ["acești", "ăștia", "masc. pl.", "ăștia băieți", "these boys"],
+          ["aceste", "astea", "fem./neut. pl.", "astea cărți", "these books"],
+          ["acel", "ăla", "masc. sg.", "ăla băiat", "that boy"],
+          ["acea", "aia", "fem. sg.", "aia carte", "that book"],
+          ["acei", "ăia", "masc. pl.", "ăia băieți", "those boys"],
+          ["acele", "alea", "fem./neut. pl.", "alea cărți", "those books"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Dă-mi ăsta! (Give me this one!)",
+          "en": "In informal speech, the short form 'ăsta' is much more common than 'acest'.",
+          "notes": "Short forms are perfect for everyday conversation but use full forms in formal writing."
+        },
+        {
+          "ro": "Aia e problema. (That's the problem.)",
+          "en": "'aia' is the short form of 'acea' — extremely common in spoken Romanian.",
+          "notes": "When used as a pronoun (standing alone), short forms are the norm: Dă-mi aia. (Give me that.)"
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Demonstrative Pronouns",
+      "headingRo": "Pronumele Demonstrative",
+      "content": "When the demonstrative replaces the noun entirely, it functions as a pronoun. These forms are typically identical to the adjectives placed after the noun.",
+      "contentRo": "Atunci când demonstrativul înlocuiește complet substantivul, acesta funcționează ca pronume. Aceste forme sunt, de regulă, identice cu adjectivele plasate după substantiv.",
+      "table": {
+        "headers": ["Form", "Meaning", "Example (ro)", "Example (en)"],
+        "rows": [
+          ["acesta", "this one (masc.)", "Acesta este al meu.", "This one is mine."],
+          ["aceasta", "this one (fem.)", "Aceasta este o carte.", "This is a book."],
+          ["aceștia", "these (masc.)", "Aceștia sunt prietenii mei.", "These are my friends."],
+          ["acestea", "these (fem./neut.)", "Acestea sunt fructe.", "These are fruits."],
+          ["acela", "that one (masc.)", "Acela este mai bun.", "That one is better."],
+          ["aceea", "that one (fem.)", "Acea este problema.", "That is the problem."],
+          ["aceia", "those (masc.)", "Aceia sunt studenții.", "Those are the students."],
+          ["acelea", "those (fem./neut.)", "Acelea sunt merele.", "Those are the apples."]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Vreau acesta, nu acela. (I want this one, not that one.)",
+          "en": "Both 'acesta' and 'acela' function as pronouns here, standing in for a noun.",
+          "notes": "In speech, you'd hear: Vreau ăsta, nu ăla."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Demonstratives with Definite Articles",
+      "headingRo": "Demonstrativele cu Articol Hotărât",
+      "content": "When demonstratives modify a noun with a definite article, the structure is: demonstrative + definite noun:",
+      "contentRo": "Când demonstrativele modifică un substantiv cu articol hotărât, structura este: demonstrativ + substantiv determinat:",
+      "table": {
+        "headers": ["Demonstrative + Definite Article", "Example", "Meaning"],
+        "rows": [
+          ["acest + băiatul", "Acest băiatul este mare.", "This boy (specific) is tall."],
+          ["această + fata", "Această fata e simpatică.", "This girl (specific) is nice."],
+          ["acel + omul", "Acel om vine des.", "That man (specific) comes often."],
+          ["acea + casa", "Aceea casa e veche.", "That house (specific) is old."]
+        ]
+      },
+      "rules": [
+        "Demonstrative + definite article is used when referring to a specific known person/thing",
+        "This is different from English, where we say 'this THE boy' is not used",
+        "In Romanian, it emphasizes: 'this particular boy (that we both know)'",
+        "Common in formal writing and careful speech"
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "The Three Degrees of Distance",
+      "headingRo": "Cele Trei Grade de Distanță",
+      "content": "Romanian can express three degrees of distance, though the first two are most common:",
+      "contentRo": "Româna poate exprima trei grade de distanță, deși primele două sunt cele mai comune:",
+      "table": {
+        "headers": ["Degree", "Romanian", "English", "Example"],
+        "rows": [
+          ["Near speaker", "acest/această", "this", "Acesta e aici. (This is here.)"],
+          ["Near listener / far", "acel/acea", "that", "Acel e acolo. (That is there.)"],
+          ["Very far (rare/formal)", "acel/acea (emphatic)", "that (over there)", "Acel de departe... (That one far away...)"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Acest câine e al meu, acel e al vecinului. (This dog is mine, that one is the neighbor's.)",
+          "en": "The distinction between 'acest' (near) and 'acel' (far) mirrors English 'this' vs. 'that'.",
+          "notes": "A third degree (very far) can be expressed but is less common in everyday speech."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "heading": "Demonstratives in Everyday Speech",
+      "content": "In casual Romanian, the short forms are dominant. You will hear 'ăsta', 'ăla', 'asta', 'aia' much more often than the full forms. Mastering these short forms will make your Romanian sound natural:",
+      "contentRo": "În româna informală, formele scurte domină. Vei auzi 'ăsta', 'ăla', 'asta', 'aia' mult mai des decât formele complete. Stăpânirea acestor forme scurte va face ca româna ta să sune natural:",
+      "rules": [
+        "Cine e ăsta? (Who is this?)",
+        "Dă-mi aia de acolo. (Give me that one over there.)",
+        "Ăștia sunt prietenii mei. (These are my friends.)",
+        "Alea nu-mi plac. (I don't like those.)",
+        "Asta e tot. (That's all.)"
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Common Mistakes to Avoid",
+      "content": "Watch out for these frequent errors with demonstratives:",
+      "contentRo": "Ai grijă la aceste greșeli frecvente cu demonstrativele:",
+      "rules": [
+        "Don't confuse acest (this) with acel (that) — the vowel a- vs. a- looks similar but the meaning differs",
+        "Don't use the wrong gender form: acest carte is WRONG (feminine requires 'această')",
+        "Don't forget that neuter singular uses the masculine form: acest copil (not 'această copil')",
+        "In formal writing, use full forms; save short forms for speech",
+        "Remember: 'acesta' (masc. pronoun) vs. 'această' (fem. adjective) — different endings"
+      ],
+      "examples": [
+        {
+          "ro": "Correct: Această casă este frumoasă. (This house is beautiful.)",
+          "en": "'această' agrees with 'casă' (feminine singular).",
+          "notes": "Common mistake: saying 'acest casă' — the masculine form with a feminine noun."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "acest/această = this (near speaker); acel/acea = that (farther away)",
+    "Gender agreement: acest (masc. sg.), această (fem. sg.), acești (masc. pl.), aceste (fem./neut. pl.)",
+    "acel (masc. sg.), acea (fem. sg.), acei (masc. pl.), acele (fem./neut. pl.)",
+    "Short forms (spoken): ăsta, asta, ăștia, astea (this); ăla, aia, ăia, alea (that)",
+    "As pronouns (standing alone): acesta, aceasta, acela, aceea",
+    "Neuter singular uses masculine forms: acest copil (this child)",
+    "In formal writing, use full forms; in speech, short forms are the norm",
+    "Demonstrative + definite article for emphasis: acest băiatul (this particular boy)"
+  ],
+  "summaryPointsRo": [
+    "acest/această = acest (de aproape); acel/acea = acel (mai departe)",
+    "Acord de gen: acest (masc. sg.), această (fem. sg.), acești (masc. pl.), aceste (fem./neut. pl.)",
+    "acel (masc. sg.), acea (fem. sg.), acei (masc. pl.), acele (fem./neut. pl.)",
+    "Forme scurte (vorbit): ăsta, asta, ăștia, astea (acest); ăla, aia, ăia, alea (acel)",
+    "Ca pronume (singure): acesta, aceasta, acela, aceea",
+    "Neuterul singular folosește formele masculine: acest copil (acest copil)",
+    "În scrisul formal, folosește formele complete; în vorbire, formele scurte sunt norma",
+    "Demonstrativ + articol hotărât pentru accent: acest băiatul (acest băiat particular)"
+  ],
+  "relatedExercises": ["E13-demonstrative-drill"]
+}

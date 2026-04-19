@@ -1,0 +1,191 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "EX02-week2-practice",
+  "title": "Week 2 Practice: Articles and Gender",
+  "titleRo": "Exerciții Săptămâna 2: Articole și Gen",
+  "cefrLevel": "A1",
+  "prerequisites": [
+    "G02-articles",
+    "G03-noun-gender"
+  ],
+  "estimatedMinutes": 30,
+  "instructions": "Practice using articles and identifying noun gender in Romanian.",
+  "instructionsRo": "Exersează folosirea articolelor și identificarea genului substantivelor în limba română.",
+  "sourceWeek": 2,
+  "exercises": [
+    {
+      "id": "ex02_001",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct definite article: '___ (the) profesor predă la universitate.'",
+      "promptRo": "Completați cu articolul hotărât corect: '___ profesor predă la universitate.'",
+      "sentence": "___ profesor predă la universitate.",
+      "answer": "Profesorul",
+      "acceptableAnswers": [
+        "Profesorul",
+        "profesorul"
+      ],
+      "explanation": "'Profesor' is masculine, so it takes the definite article '-ul': profesor → profesorul.",
+      "explanationRo": "'Profesor' este masculin, deci primește articolul hotărât '-ul': profesor → profesorul."
+    },
+    {
+      "id": "ex02_002",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct indefinite article: '___ (a) oraș frumos se află lângă mare.'",
+      "promptRo": "Completați cu articolul nehotărât corect: '___ oraș frumos se află lângă mare.'",
+      "sentence": "___ oraș frumos se află lângă mare.",
+      "answer": "Un",
+      "acceptableAnswers": [
+        "Un",
+        "un"
+      ],
+      "explanation": "'Oraș' is neuter. Neuter nouns take the same indefinite article as masculine nouns: un oraș.",
+      "explanationRo": "'Oraș' este neutru. Substantivele neutre iau același articol nehotărât ca substantivele masculine: un oraș."
+    },
+    {
+      "id": "ex02_003",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct definite article (plural): '___ (the) mere sunt pe masă.'",
+      "promptRo": "Completați cu articolul hotărât corect (plural): '___ mere sunt pe masă.'",
+      "sentence": "___ mere sunt pe masă.",
+      "answer": "Merele",
+      "acceptableAnswers": [
+        "Merele",
+        "merele"
+      ],
+      "explanation": "'Mere' is the plural of 'măr' (neuter). Neuter plural nouns take the feminine definite article '-le': mere → merele.",
+      "explanationRo": "'Mere' este pluralul lui 'măr' (neutru). Substantivele neutre la plural iau articolul hotărât feminin '-le': mere → merele."
+    },
+    {
+      "id": "ex02_004",
+      "type": "fill-blank",
+      "prompt": "Fill in the correct indefinite article: 'Am primit ___ (some) cadouri frumoase.'",
+      "promptRo": "Completați cu articolul nehotărât corect: 'Am primit ___ cadouri frumoase.'",
+      "sentence": "Am primit ___ cadouri frumoase.",
+      "answer": "niște",
+      "acceptableAnswers": [
+        "niște"
+      ],
+      "explanation": "'Niște' is the plural indefinite article, used for all genders. 'Cadouri' is plural, so: niște cadouri.",
+      "explanationRo": "'Niște' este articolul nehotărât plural, folosit pentru toate genurile. 'Cadouri' este plural, deci: niște cadouri."
+    },
+    {
+      "id": "ex02_005",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'carte' (book)?",
+      "promptRo": "Ce gen este substantivul 'carte' (carte)?",
+      "answer": "Feminine",
+      "options": [
+        "Masculine",
+        "Feminine",
+        "Neuter",
+        "Plural only"
+      ],
+      "explanation": "'Carte' ends in '-e' and is feminine. The indefinite article is 'o carte' and the definite article is 'cartea'. Many nouns ending in '-e' are feminine in Romanian.",
+      "explanationRo": "'Carte' se termină în '-e' și este feminin. Articolul nehotărât este 'o carte', iar articolul hotărât este 'cartea'. Multe substantive terminate în '-e' sunt feminine în limba română."
+    },
+    {
+      "id": "ex02_006",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'lucru' (thing)?",
+      "promptRo": "Ce gen este substantivul 'lucru' (lucru)?",
+      "answer": "Neuter",
+      "options": [
+        "Masculine",
+        "Feminine",
+        "Neuter",
+        "Common"
+      ],
+      "explanation": "'Lucru' is neuter. Singular: un lucru → lucrul. Plural: lucruri → lucrurile. The neuter gender behaves like masculine in the singular and feminine in the plural.",
+      "explanationRo": "'Lucru' este neutru. Singular: un lucru → lucrul. Plural: lucruri → lucrurile. Genul neutru se comportă ca masculin la singular și ca feminin la plural."
+    },
+    {
+      "id": "ex02_007",
+      "type": "multiple-choice",
+      "prompt": "What gender is the noun 'bărbat' (man)?",
+      "promptRo": "Ce gen este substantivul 'bărbat' (bărbat)?",
+      "answer": "Masculine",
+      "options": [
+        "Masculine",
+        "Feminine",
+        "Neuter",
+        "Common"
+      ],
+      "explanation": "'Bărbat' is masculine. Despite ending in '-t' (which is common for neuter nouns), 'bărbat' is masculine: un bărbat → bărbatul. This is a common tricky noun because the ending does not clearly indicate gender.",
+      "explanationRo": "'Bărbat' este masculin. Deși se termină în '-t' (care este comun pentru substantivele neutre), 'bărbat' este masculin: un bărbat → bărbatul. Acesta este un substantiv dificil deoarece terminația nu indică clar genul."
+    },
+    {
+      "id": "ex02_008",
+      "type": "error-correction",
+      "prompt": "Find and correct the article error: 'O profesor nou a venit la școală.'",
+      "promptRo": "Găsiți și corectați eroarea de articol: 'O profesor nou a venit la școală.'",
+      "sentence": "O profesor nou a venit la școală.",
+      "answer": "Un profesor nou a venit la școală.",
+      "explanation": "'Profesor' is masculine, so the indefinite article must be 'un', not 'o'. 'O' is the feminine indefinite article. The correct form is: un profesor nou.",
+      "explanationRo": "'Profesor' este masculin, deci articolul nehotărât trebuie să fie 'un', nu 'o'. 'O' este articolul nehotărât feminin. Forma corectă este: un profesor nou."
+    },
+    {
+      "id": "ex02_009",
+      "type": "error-correction",
+      "prompt": "Find and correct the article error: 'Unii scaun este în cameră.'",
+      "promptRo": "Găsiți și corectați eroarea de articol: 'Unii scaun este în cameră.'",
+      "sentence": "Unii scaun este în cameră.",
+      "answer": "Scaunul este în cameră.",
+      "explanation": "'Unii' is a plural indefinite pronoun, not an article, and cannot be used with a singular noun. If the meaning is 'the chair', use the definite article: scaunul. If the meaning is 'a chair', use: un scaun.",
+      "explanationRo": "'Unii' este un pronume nehotărât plural, nu un articol, și nu poate fi folosit cu un substantiv singular. Dacă sensul este 'scaunul', folosiți articolul hotărât: scaunul. Dacă sensul este 'un scaun', folosiți: un scaun."
+    },
+    {
+      "id": "ex02_010",
+      "type": "error-correction",
+      "prompt": "Find and correct the article error: 'Telefonul ei este pe biroul mea.'",
+      "promptRo": "Găsiți și corectați eroarea de articol: 'Telefonul ei este pe biroul mea.'",
+      "sentence": "Telefonul ei este pe biroul mea.",
+      "answer": "Telefonul ei este pe biroul meu.",
+      "explanation": "'Biroul' is masculine (from 'birou', neuter noun that behaves like masculine in the singular), so the possessive adjective must be 'meu' (masculine), not 'mea' (feminine). The correct sentence is: Telefonul ei este pe biroul meu.",
+      "explanationRo": "'Biroul' este masculin (de la 'birou', substantiv neutru care se comportă ca masculin la singular), deci adjectivul posesiv trebuie să fie 'meu' (masculin), nu 'mea' (feminin). Propoziția corectă este: Telefonul ei este pe biroul meu."
+    },
+    {
+      "id": "ex02_011",
+      "type": "writing",
+      "prompt": "Describe your family in Romanian (40-60 words). Include at least 4 family members and use correct definite articles. Mention their gender using appropriate article forms.\n\nFor example: 'Tatăl meu se numește Ion. Mama mea este profesoară.'\n\nRemember: masculine nouns take -ul, feminine nouns take -a or change -ă to -a.",
+      "promptRo": "Descrie-ți familia în limba română (40-60 de cuvinte). Include cel puțin 4 membri ai familiei și folosește articole hotărâte corecte. Menționează genul lor folosind forme de articol adecvate.\n\nDe exemplu: 'Tatăl meu se numește Ion. Mama mea este profesoară.'\n\nAmintește-ți: substantivele masculine iau -ul, substantivele feminine iau -a sau schimbă -ă în -a.",
+      "answer": "Model answer:\n\nFamilia mea are patru persoane. Tata meu se numește Andrei și este inginer. Mama mea se numește Elena și este profesoară. Fratele meu, Mihai, este student la universitate. Sora mea, Ana, are zece ani și este elevă. Toată familia mea locuiește în București. Noi petrecem mult timp împreună la weekend.",
+      "rubric": {
+        "criteria": [
+          {
+            "name": "Articles",
+            "description": "Uses correct definite articles for each noun: -ul for masculine (bărbatul, fratele), -a for feminine (mama, sora). Indefinite articles (un, o) used correctly where needed.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Gender Agreement",
+            "description": "Possessive adjectives agree with the possessor (meu for masculine nouns, mea for feminine nouns). Demonstrative articles match gender.",
+            "maxPoints": 3
+          },
+          {
+            "name": "Vocabulary",
+            "description": "Uses appropriate family vocabulary (mamă, tată, frate, soră, bunic, bunică, etc.) and basic adjectives.",
+            "maxPoints": 2
+          },
+          {
+            "name": "Grammar",
+            "description": "Correct verb forms, word order, and basic sentence structure. Diacritics used properly.",
+            "maxPoints": 2
+          }
+        ],
+        "totalPoints": 10
+      }
+    },
+    {
+      "id": "ex02_012",
+      "type": "translation",
+      "prompt": "Translate the following Romanian sentence into English.",
+      "promptRo": "Traduceți următoarea propoziție românească în engleză.",
+      "direction": "ro-to-en",
+      "sentence": "O femeie și un bărbat citeau niște cărți în bibliotecă.",
+      "answer": "A woman and a man were reading some books in the library.",
+      "explanation": "'O femeie' = a woman (feminine indefinite article 'o'). 'Un bărbat' = a man (masculine indefinite article 'un'). 'Niște cărți' = some books (plural indefinite article 'niște'). 'În bibliotecă' = in the library. The verb 'citeau' is imperfect tense (were reading).",
+      "explanationRo": "'O femeie' = o femeie (articol nehotărât feminin 'o'). 'Un bărbat' = un bărbat (articol nehotărât masculin 'un'). 'Niște cărți' = niște cărți (articol nehotărât plural 'niște'). 'În bibliotecă' = în bibliotecă. Verbul 'citeau' este la imperfect (citeau)."
+    }
+  ]
+}

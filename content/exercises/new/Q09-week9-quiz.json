@@ -1,0 +1,238 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "Q09-week9-quiz",
+  "title": "Week 9 Quiz: Complex Verb Structures",
+  "titleRo": "Test Săptămâna 9: Structuri Verbale Complexe",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G15-conditional",
+    "G16-imperative",
+    "G17-passive",
+    "G23-participle",
+    "G24-infinitive-gerund"
+  ],
+  "estimatedMinutes": 25,
+  "instructions": "Test your knowledge of conditional sentences, imperative mood, passive voice, and non-finite verb forms.",
+  "instructionsRo": "Testează-ți cunoștințele despre propozițiile condiționale, modul imperativ, diateza pasivă și formele verbale nefinite.",
+  "sourceWeek": 9,
+  "exercises": [
+    {
+      "id": "q09_001",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct present conditional form: 'Dacă ___ bani, aș cumpăra o mașină nouă.' (If I had money, I would buy a new car.)",
+      "promptRo": "Alege forma corectă de condițional prezent: 'Dacă ___ bani, aș cumpăra o mașină nouă.'",
+      "answer": "aș avea",
+      "options": [
+        "aș avea",
+        "voi avea",
+        "am avut",
+        "aveam"
+      ],
+      "explanation": "The present conditional in Romanian is formed with the auxiliary 'aș, ai, ar, am, ați, ar' + infinitive (long form). For 'a avea', the present conditional is 'aș avea'. The main clause also uses the conditional: 'aș cumpăra'. 'Voi avea' is future, 'am avut' is perfect compus, and 'aveam' is imperfect.",
+      "explanationRo": "Condiționalul prezent în română se formează cu auxiliarul 'aș, ai, ar, am, ați, ar' + infinitiv (forma lungă). Pentru 'a avea', condiționalul prezent este 'aș avea'. Propoziția principală folosește de asemenea condiționalul: 'aș cumpăra'. 'Voi avea' este viitor, 'am avut' este perfect compus, iar 'aveam' este imperfect.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_002",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct imperative form for 'tu' (informal singular)? '___ aici, te rog!' (Come here, please!)",
+      "promptRo": "Care este forma corectă de imperativ pentru 'tu'? '___ aici, te rog!'",
+      "answer": "Vino",
+      "options": [
+        "Veni",
+        "Vino",
+        "Vine",
+        "A veni"
+      ],
+      "explanation": "The imperative for 'tu' of the verb 'a veni' is 'vino' (2nd person singular). The form 'veni' is the imperative for 'voi' (2nd person plural). 'Vine' is the present indicative (3rd person singular). 'A veni' is the infinitive, not the imperative.",
+      "explanationRo": "Imperativul pentru 'tu' al verbului 'a veni' este 'vino' (persoana a II-a singular). Forma 'veni' este imperativul pentru 'voi' (persoana a II-a plural). 'Vine' este indicativ prezent (persoana a III-a singular). 'A veni' este infinitivul, nu imperativul."
+    },
+    {
+      "id": "q09_003",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct passive voice transformation: 'Profesorul corectează testele.' → The passive form is:",
+      "promptRo": "Alege transformarea corectă la diateza pasivă: 'Profesorul corectează testele.' → Forma pasivă este:",
+      "answer": "Testele sunt corectate de profesor.",
+      "options": [
+        "Testele sunt corectate de profesor.",
+        "Testele corectează profesorul.",
+        "Testele au fost corectate de profesor.",
+        "Testele se corectează de profesor."
+      ],
+      "explanation": "The present passive is formed with 'sunt/este' + past participle + 'de' (by agent). 'Testele sunt corectate de profesor' = The tests are corrected by the teacher. Option 3 uses past tense ('au fost'), which does not match the present tense of the original. Option 2 is active voice. Option 4 uses the reflexive passive, which changes the meaning slightly.",
+      "explanationRo": "Pasivul prezent se formează cu 'sunt/este' + participiu trecut + 'de' (de agent). 'Testele sunt corectate de profesor' = Testele sunt corectate de profesor. Opțiunea 3 folosește timpul trecut ('au fost'), care nu corespunde timpului prezent din original. Opțiunea 2 este diateza activă. Opțiunea 4 folosește pasivul reflexiv."
+    },
+    {
+      "id": "q09_004",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses the gerund? The gerund in Romanian ends in '-ând' or '-ind'.",
+      "promptRo": "Care propoziție folosește corect gerunziul? Gerunziul în română se termină în '-ând' sau '-ind'.",
+      "answer": "A citit cartea stând pe fotoliu.",
+      "options": [
+        "A citit cartea stând pe fotoliu.",
+        "A citit cartea stănd pe fotoliu.",
+        "A citit cartea sta pe fotoliu.",
+        "Citit cartea stând pe fotoliu."
+      ],
+      "explanation": "The gerund of 'a sta' is 'stând' (with 'ând' ending for verb group 1, verbs ending in -a). 'Stănd' is incorrect — the gerund of 'a sta' is irregular: sta → stând. Option 3 uses the subjunctive 'să stea' without 'să'. Option 4 is grammatically incomplete.",
+      "explanationRo": "Gerunziul lui 'a sta' este 'stând' (cu terminația '-ând' pentru grupul 1, verbele terminate în -a). 'Stănd' este incorect — gerunziul lui 'a sta' este neregulat: sta → stând. Opțiunea 3 folosește subjonctivul 'să stea' fără 'să'. Opțiunea 4 este incompletă gramatical.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_005",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: infinitive or subjunctive? 'Vreau ___ la mare în weekend.' (I want to go to the sea on the weekend.)",
+      "promptRo": "Alege forma corectă: infinitiv sau subjonctiv? 'Vreau ___ la mare în weekend.'",
+      "answer": "să merg",
+      "options": [
+        "să merg",
+        "a merge",
+        "merg",
+        "voi merge"
+      ],
+      "explanation": "After verbs of desire and will ('a vrea', 'a dori', 'a vrea să'), Romanian uses the subjunctive ('să' + conjunctiv), not the infinitive: 'Vreau să merg' (I want to go). The infinitive 'a merge' is not used after 'a vrea' in modern Romanian. 'Merg' is present indicative without 'să', and 'voi merge' is future tense.",
+      "explanationRo": "După verbele de dorință și voință ('a vrea', 'a dori'), româna folosește subjonctivul ('să' + conjunctiv), nu infinitivul: 'Vreau să merg'. Infinitivul 'a merge' nu se folosește după 'a vrea' în româna modernă. 'Merg' este indicativ prezent fără 'să', iar 'voi merge' este viitor.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_006",
+      "type": "multiple-choice",
+      "prompt": "What is the past conditional form for 'a putea' (can/to be able) in the 1st person singular?",
+      "promptRo": "Care este forma de condițional trecut pentru 'a putea' la persoana I singular?",
+      "answer": "aș fi putut",
+      "options": [
+        "aș putea",
+        "aș fi putut",
+        "voi fi putut",
+        "am putut"
+      ],
+      "explanation": "The past conditional (condițional trecut/optativ trecut) is formed with the conditional auxiliary + 'fi' (in infinitive) + past participle: 'aș fi putut' (I could have / I would have been able to). 'Aș putea' is present conditional. 'Am putut' is past indicative. 'Voi fi putut' is future perfect.",
+      "explanationRo": "Condiționalul trecut se formează cu auxiliarul condițional + 'fi' (la infinitiv) + participiu trecut: 'aș fi putut' (aș fi putut). 'Aș putea' este condițional prezent. 'Am putut' este indicativ trecut. 'Voi fi putut' este viitor anterior.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_007",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct formal (polite) imperative: '___ , domnule profesor!' (Please sit down, professor!)",
+      "promptRo": "Alege imperativul corect (formal/politicos): '___ , domnule profesor!'",
+      "answer": "Vă rog să vă așezați",
+      "options": [
+        "Stai jos",
+        "Vă rog să vă așezați",
+        "Stați jos",
+        "Așezați-vă"
+      ],
+      "explanation": "The formal/polite imperative uses 'Vă rog să' + subjunctive: 'Vă rog să vă așezați' (Please sit down). This is the standard polite form addressed to 'dumneavoastră'. 'Stai jos' is too informal (tu form). 'Stați jos' sounds like a command rather than a polite request. 'Așezați-vă' is a direct imperative which can be perceived as impolite without 'vă rog'.",
+      "explanationRo": "Imperativul formal/politicos folosește 'Vă rog să' + subjonctiv: 'Vă rog să vă așezați'. Aceasta este forma standard politicoasă adresată lui 'dumneavoastră'. 'Stai jos' este prea informal (forma tu). 'Stați jos' sună ca o comandă, nu ca o cerere politicoasă.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_008",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct past participle of 'a scrie' (to write)?",
+      "promptRo": "Care este participiul trecut corect al verbului 'a scrie'?",
+      "answer": "scris",
+      "options": [
+        "scrind",
+        "scris",
+        "scriat",
+        "scrins"
+      ],
+      "explanation": "The past participle of 'a scrie' is 'scris' (written). This is an irregular participle — it does not follow the regular '-t' pattern. 'Scrind' would be a gerund form (but the gerund of 'a scrie' is 'scriind'). 'Scriat' and 'scrins' are not valid Romanian verb forms.",
+      "explanationRo": "Participiul trecut al lui 'a scrie' este 'scris'. Acesta este un participiu neregulat — nu urmează tiparul regulat '-t'. 'Scrind' ar fi o formă de gerunziu (dar gerunziul lui 'a scrie' este 'scriind'). 'Scriat' și 'scrins' nu sunt forme verbale românești valide."
+    },
+    {
+      "id": "q09_009",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence that correctly uses the reflexive passive voice:",
+      "promptRo": "Alege propoziția care folosește corect diateza pasivă reflexivă:",
+      "answer": "Limba română se vorbește în România.",
+      "options": [
+        "Limba română se vorbește în România.",
+        "Limba română este vorbită în România.",
+        "Limba română vorbește în România.",
+        "Limba română s-a vorbi în România."
+      ],
+      "explanation": "The reflexive passive (pasivul reflexiv) uses 'se' + verb in the 3rd person: 'se vorbește' (is spoken). This is the most natural way to express the passive in Romanian when the agent is unknown or unimportant. 'Este vorbită' is grammatically correct but sounds more formal and less natural. 'Vorbește' without 'se' is active voice. 'S-a vorbi' is incorrect.",
+      "explanationRo": "Pasivul reflexiv folosește 'se' + verb la persoana a III-a: 'se vorbește'. Aceasta este cea mai naturală modalitate de a exprima pasivul în română când agentul este necunoscut sau neimportant. 'Este vorbită' este corect gramatical, dar sună mai formal. 'Vorbește' fără 'se' este diateza activă.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct present conditional form (3rd person plural): 'Dacă ar avea timp, ___ cu noi la excursie.' (If they had time, they would come with us on the trip.)",
+      "promptRo": "Completează cu forma corectă de condițional prezent (persoana a III-a plural): 'Dacă ar avea timp, ___ cu noi la excursie.'",
+      "sentence": "Dacă ar avea timp, ___ cu noi la excursie.",
+      "answer": "ar veni",
+      "acceptableAnswers": [
+        "ar veni",
+        "ar veni ei"
+      ],
+      "explanation": "The present conditional of 'a veni' in the 3rd person plural is 'ar veni'. The conditional auxiliary 'ar' + infinitive 'a veni'. This matches the hypothetical context set by 'Dacă ar avea timp' (If they had time).",
+      "explanationRo": "Condiționalul prezent al lui 'a veni' la persoana a III-a plural este 'ar veni'. Auxiliarul condițional 'ar' + infinitivul 'a veni'. Aceasta se potrivește contextului ipotetic stabilit de 'Dacă ar avea timp'."
+    },
+    {
+      "id": "q09_011",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct imperative form (2nd person plural 'voi'): '___ atenție la drum!' (Pay attention to the road!)",
+      "promptRo": "Completează cu forma corectă de imperativ (persoana a II-a plural 'voi'): '___ atenție la drum!'",
+      "sentence": "___ atenție la drum!",
+      "answer": "Fiți",
+      "acceptableAnswers": [
+        "Fiți",
+        "Fiți voi"
+      ],
+      "explanation": "The imperative of 'a fi' (to be) for the 2nd person plural is 'fiți'. 'Fiți atenție la drum!' = Pay attention to the road! (addressed to multiple people). For the 2nd person singular, the imperative is 'fii': 'Fii atent la drum!'",
+      "explanationRo": "Imperativul lui 'a fi' la persoana a II-a plural este 'fiți'. 'Fiți atenție la drum!' = Fiți atenție la drum! (adresat mai multor persoane). La persoana a II-a singular, imperativul este 'fii': 'Fii atent la drum!'"
+    },
+    {
+      "id": "q09_012",
+      "type": "fill-blank",
+      "prompt": "Transform to passive voice (present): 'Copiii construiesc un castel de nisip.' → 'Un castel de nisip ___ de copii.' (A sand castle is being built by the children.)",
+      "promptRo": "Transformă la diateza pasivă (prezent): 'Copiii construiesc un castel de nisip.' → 'Un castel de nisip ___ de copii.'",
+      "sentence": "Un castel de nisip ___ de copii.",
+      "answer": "este construit",
+      "acceptableAnswers": [
+        "este construit",
+        "e construit"
+      ],
+      "explanation": "The present passive is formed with 'este' (3rd person singular of 'a fi') + past participle of the verb. The past participle of 'a construi' is 'construit'. So: 'Un castel de nisip este construit de copii.' For plural: 'sunt construite'.",
+      "explanationRo": "Pasivul prezent se formează cu 'este' (persoana a III-a singular a lui 'a fi') + participiul trecut al verbului. Participiul trecut al lui 'a construi' este 'construit'. Deci: 'Un castel de nisip este construit de copii.' La plural: 'sunt construite'."
+    },
+    {
+      "id": "q09_013",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this conditional sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție condițională:",
+      "sentence": "Dacă aș fi știut, aș venit la petrecere.",
+      "answer": "Dacă aș fi știut, aș fi venit la petrecere.",
+      "explanation": "In the past conditional (irrealis past), both clauses must use the past conditional form: 'aș fi' + past participle. The original sentence incorrectly uses present conditional ('aș venit') in the main clause instead of past conditional ('aș fi venit'). Correct: 'Dacă aș fi știut, aș fi venit la petrecere.' (If I had known, I would have come to the party.)",
+      "explanationRo": "În condiționalul trecut (irrealis trecut), ambele propoziții trebuie să folosească forma de condițional trecut: 'aș fi' + participiu trecut. Propoziția originală folosește incorect condiționalul prezent ('aș venit') în loc de condiționalul trecut ('aș fi venit'). Corect: 'Dacă aș fi știut, aș fi venit la petrecere.'",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_014",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this imperative sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție imperativă:",
+      "sentence": "Nu lua bunurile altora fără permisiune!",
+      "answer": "Nu lua bunurile altora fără permisiune! — Correct as written.",
+      "explanation": "Actually, this sentence is grammatically correct! 'Nu lua' is the correct negative imperative for 'tu' of 'a lua'. The negative imperative uses 'nu' + the affirmative imperative form (unlike the subjunctive, which uses 'să nu'). If the sentence had been 'Nu iei bunurile', that would be incorrect because 'iei' is indicative, not imperative. The sentence as given is already correct.",
+      "explanationRo": "De fapt, această propoziție este corectă gramatical! 'Nu lua' este imperativul negativ corect pentru 'tu' al verbului 'a lua'. Imperativul negativ folosește 'nu' + forma afirmativă a imperativului ( spre deosebire de subjonctiv, care folosește 'să nu'). Dacă propoziția ar fi fost 'Nu iei bunurile', aceasta ar fi incorectă pentru că 'iei' este indicativ, nu imperativ.",
+      "answerCorrected": "Nu lua bunurile altora fără permisiune!",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "q09_015",
+      "type": "error-correction",
+      "prompt": "Find and correct the error in this passive voice sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție la diateza pasivă:",
+      "sentence": "Cântecul a fost cântat de corul de copii.",
+      "answer": "Cântecul a fost interpretat de corul de copii.",
+      "explanation": "The error is the use of 'cântat' — the verb 'a cânta' (to sing) cannot be used in the passive voice for the same action. When a song is performed, Romanian uses 'a interpreta' (to perform/interpret) in the passive: 'a fost interpretat'. 'A cânta' in passive would literally mean 'was sung', which sounds redundant with 'cântec' (song). Alternatively, the reflexive passive 'Cântecul s-a cântat' is more natural for 'the song was sung'.",
+      "explanationRo": "Greșeala este folosirea lui 'cântat' — verbul 'a cânta' nu se folosește la pasiv pentru aceeași acțiune. Când un cântec este interpretat, româna folosește 'a interpreta' la pasiv: 'a fost interpretat'. 'A cânta' la pasiv ar suna redundant cu 'cântec'. Alternativ, pasivul reflexiv 'Cântecul s-a cântat' este mai natural.",
+      "acceptableAnswers": []
+    }
+  ]
+}

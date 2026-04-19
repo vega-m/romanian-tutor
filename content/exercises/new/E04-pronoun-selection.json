@@ -1,0 +1,200 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E04-pronoun-selection",
+  "title": "Personal Pronoun Selection",
+  "titleRo": "Alegerea Pronumelor Personale",
+  "cefrLevel": "A1",
+  "prerequisites": [
+    "G06-personal-pronouns"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Practice selecting the correct Romanian personal pronoun based on context and formality.",
+  "instructionsRo": "Exersează alegerea pronumelui personal românesc corect în funcție de context și formalitate.",
+  "sourceWeek": 3,
+  "exercises": [
+    {
+      "id": "e04_001",
+      "type": "multiple-choice",
+      "prompt": "You are talking to a close friend. Which pronoun do you use for 'you'?",
+      "promptRo": "Vorbești cu un prieten apropiat. Ce pronume folosești pentru 'you'?",
+      "answer": "tu",
+      "options": [
+        "tu",
+        "dumneavoastră",
+        "voi",
+        "el"
+      ],
+      "explanation": "'Tu' is the informal singular 'you', used with friends, family, and people your age.",
+      "explanationRo": "'Tu' este forma informală singular pentru 'tu', folosită cu prietenii, familia și persoanele de aceeași vârstă.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_002",
+      "type": "multiple-choice",
+      "prompt": "You are speaking to your boss at work. Which pronoun do you use?",
+      "promptRo": "Vorbești cu șeful tău la serviciu. Ce pronume folosești?",
+      "answer": "dumneavoastră",
+      "options": [
+        "tu",
+        "dumneavoastră",
+        "el",
+        "ei"
+      ],
+      "explanation": "'Dumneavoastră' is the formal/polite 'you' (singular or plural). Always use it with superiors, strangers, and elders.",
+      "explanationRo": "'Dumneavoastră' este forma politicoasă pentru 'tu' (singular sau plural). Se folosește mereu cu superiorii, necunoscuții și persoanele în vârstă.",
+      "sourceGrammarId": "G06-personal-pronouns",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e04_003",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct stressed pronoun for 'me'.",
+      "promptRo": "Completează cu pronumele de accent corect pentru 'me'.",
+      "sentence": "Cartea asta este pentru ___.",
+      "answer": "mine",
+      "acceptableAnswers": [
+        "mine"
+      ],
+      "explanation": "After prepositions like 'pentru', 'cu', 'la', use the stressed form of the pronoun: eu → mine (pentru mine).",
+      "explanationRo": "După prepoziții ca 'pentru', 'cu', 'la', se folosește forma de accent a pronumelui: eu → mine (pentru mine).",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_004",
+      "type": "multiple-choice",
+      "prompt": "What is the stressed pronoun for 'they' (mixed group of men and women)?",
+      "promptRo": "Care este pronumele de accent pentru 'they' (grup mixt de bărbați și femei)?",
+      "answer": "ei",
+      "options": [
+        "ele",
+        "ei",
+        "dumnealor",
+        "aceștia"
+      ],
+      "explanation": "For a mixed group, Romanian uses the masculine pronoun 'ei'. Only an all-female group uses 'ele'.",
+      "explanationRo": "Pentru un grup mixt, româna folosește pronumele masculin 'ei'. Doar un grup exclusiv feminin folosește 'ele'.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_005",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct stressed pronoun for 'him'.",
+      "promptRo": "Completează cu pronumele de accent corect pentru 'him'.",
+      "sentence": "Merg la școală cu ___.",
+      "answer": "el",
+      "acceptableAnswers": [
+        "el"
+      ],
+      "explanation": "After 'cu' (with), use the stressed form: el → el (cu el). The unstressed clitic 'îl' is not used after prepositions.",
+      "explanationRo": "După 'cu' (cu), se folosește forma de accent: el → el (cu el). Forma neaccentuată 'îl' nu se folosește după prepoziții.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_006",
+      "type": "multiple-choice",
+      "prompt": "Which pronoun correctly replaces 'Maria' in 'Maria este frumoasă' → '___ este frumoasă'?",
+      "promptRo": "Care pronume înlocuiește corect 'Maria' în 'Maria este frumoasă' → '___ este frumoasă'?",
+      "answer": "ea",
+      "options": [
+        "ea",
+        "el",
+        "eu",
+        "ea o"
+      ],
+      "explanation": "'Maria' is feminine, so we use 'ea' (she). The adjective stays feminine: ea este frumoasă.",
+      "explanationRo": "'Maria' este feminin, deci folosim 'ea' (ea). Adjectivul rămâne feminin: ea este frumoasă.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_007",
+      "type": "multiple-choice",
+      "prompt": "In the sentence 'Văd un câine. Îl văd.', what is 'Îl'?",
+      "promptRo": "În propoziția 'Văd un câine. Îl văd.', ce este 'Îl'?",
+      "answer": "Direct object clitic pronoun (him/it)",
+      "options": [
+        "Subject pronoun (he)",
+        "Direct object clitic pronoun (him/it)",
+        "Indirect object pronoun (to him)",
+        "Possessive pronoun (his)"
+      ],
+      "explanation": "'Îl' is the unstressed direct object pronoun (accusative clitic). It means 'him/it' and goes before the verb: îl văd = I see him.",
+      "explanationRo": "'Îl' este pronumele personal neaccentuat de obiect direct (acuzativ). Înseamnă 'îl' și se pune înaintea verbului: îl văd = îl văd.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_008",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct clitic pronoun for 'to her'.",
+      "promptRo": "Completează cu pronumele clitic corect pentru 'to her'.",
+      "sentence": "___ dau cartea.",
+      "answer": "Îi",
+      "acceptableAnswers": [
+        "Îi"
+      ],
+      "explanation": "'Îi' is the dative clitic for 'to her/to him'. It goes before the verb: îi dau cartea = I give the book to her/him.",
+      "explanationRo": "'Îi' este pronumele dativ pentru 'ei/lui'. Se pune înaintea verbului: îi dau cartea = îi dau cartea.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_009",
+      "type": "multiple-choice",
+      "prompt": "What is the correct form for 'we' in Romanian?",
+      "promptRo": "Care este forma corectă pentru 'we' în română?",
+      "answer": "noi",
+      "options": [
+        "noi",
+        "voi",
+        "ne",
+        "nouă"
+      ],
+      "explanation": "'Noi' means 'we' (subject pronoun, 1st person plural). 'Ne' is the clitic form (us/ourselves). 'Nouă' is the stressed form (after prepositions).",
+      "explanationRo": "'Noi' înseamnă 'noi' (pronume subiect, persoana I plural). 'Ne' este forma clitică. 'Nouă' este forma de accent.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct reflexive pronoun for 'herself'.",
+      "promptRo": "Completează cu pronumele reflexiv corect pentru 'herself'.",
+      "sentence": "Ea ___ spală în fiecare dimineață.",
+      "answer": "se",
+      "acceptableAnswers": [
+        "se"
+      ],
+      "explanation": "'Se' is the reflexive pronoun for 3rd person. 'Se spală' means 'she washes herself'.",
+      "explanationRo": "'Se' este pronumele reflexiv pentru persoana a III-a. 'Se spală' înseamnă 'se spală'.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    },
+    {
+      "id": "e04_011",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the formal 'you' correctly?",
+      "promptRo": "Care propoziție folosește corect 'formal you'?",
+      "answer": "Dumneavoastră sunteți din România?",
+      "options": [
+        "Dumneata ești din România?",
+        "Dumneavoastră sunteți din România?",
+        "Voi sunteți din România?",
+        "Dânsul este din România?"
+      ],
+      "explanation": "'Dumneavoastră' always takes a plural verb form even when addressing one person: 'sunteți' (not 'ești'). 'Dumneata' is a polite but familiar alternative.",
+      "explanationRo": "'Dumneavoastră' cere mereu verbul la plural chiar când te adresezi unei singure persoane: 'sunteți' (nu 'ești').",
+      "sourceGrammarId": "G06-personal-pronouns",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e04_012",
+      "type": "translation",
+      "prompt": "Translate to Romanian: 'They (all women) are at the library.'",
+      "promptRo": "Traduce în română: 'They (all women) are at the library.'",
+      "answer": "Ele sunt la bibliotecă.",
+      "acceptableAnswers": [
+        "Ele sunt la bibliotecă."
+      ],
+      "explanation": "For an all-female group, use 'ele' (they, feminine). Compare with 'ei' for mixed or all-male groups.",
+      "explanationRo": "Pentru un grup exclusiv feminin, se folosește 'ele' (ei, feminin). Compară cu 'ei' pentru grupuri mixte sau exclusiv masculine.",
+      "sourceGrammarId": "G06-personal-pronouns"
+    }
+  ]
+}

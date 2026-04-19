@@ -1,0 +1,52 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G28-suppositional",
+  "title": "Modul Prezumtiv (Probabilitatea)",
+  "titleEn": "The Suppositional Mood",
+  "cefrLevel": "B1+",
+  "prerequisites": ["G13-future-tense", "G14-subjunctive"],
+  "estimatedMinutes": 30,
+  "introduction": "The Suppositional mood (prezumtivul) is used to express an action that is probable, suspected, or doubted. While common in daily speech (e.g., 'he might be at home'), it is a marker of sophisticated B1+ level Romanian.",
+  "introductionRo": "Modul prezumtiv se folosește pentru a exprima o acțiune probabilă, bănuită sau nesigură. Deși este frecvent în vorbirea curentă (ex: „o fi acasă”), stăpânirea lui este un semn al unui nivel avansat B1+ de cunoaștere a limbii române.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Formation of the Suppositional",
+      "headingRo": "Formarea Prezumtivului",
+      "content": "The most common form (Present Suppositional) uses a future-like auxiliary followed by 'fi' and the main verb (usually in gerund or participle). In conversation, the shorter 'o fi' + participle is the standard.",
+      "contentRo": "Cea mai frecventă formă (Prezumtivul prezent) folosește un auxiliar de tipul viitorului, urmat de „fi” și verbul de bază. În conversație, structura scurtă „o fi” + participiu este standardul.",
+      "table": {
+        "headers": ["Person", "Auxiliary + fi", "Example", "Meaning"],
+        "rows": [
+          ["eu", "oi fi", "Eu oi fi greșit.", "I might have been wrong."],
+          ["tu", "ei fi / o-i fi", "O-i fi obosit.", "You might be tired."],
+          ["el/ea", "o fi", "O fi plecat deja.", "He/she might have left already."],
+          ["noi", "om fi", "Om fi uitat ceva?", "Might we have forgotten something?"],
+          ["voi", "oți fi", "Oți fi auzit știrile.", "You might have heard the news."],
+          ["ei/ele", "or fi", "Or fi ajuns acasă.", "They might have arrived home."]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Usage in Social Contexts",
+      "headingRo": "Utilizarea în Contexte Sociale",
+      "content": "Use the suppositional when you don't have certain information but want to make a guess based on signs you see.",
+      "contentRo": "Folosește prezumtivul atunci când nu ai o informație sigură, dar vrei să faci o presupunere bazată pe indiciile pe care le ai.",
+      "examples": [
+        {
+          "ro": "— Unde este Mihai? — O fi la birou. (— Where is Mihai? — He might be at the office.)",
+          "en": "'O fi' expresses probability without certainty.",
+          "notes": "Compare to 'Este la birou' (certainty) vs 'Va fi la birou' (future prediction)."
+        }
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Prezumtivul expresses doubt or probability",
+    "The standard spoken form is 'o' + personal auxiliary + 'fi'",
+    "Essential for discussing possibilities in B1 speaking tasks"
+  ],
+  "relatedExercises": []
+}

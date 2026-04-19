@@ -1,0 +1,140 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R09-nature-weather",
+  "title": "Texte despre Natură și Vreme",
+  "titleEn": "Nature and Weather Texts",
+  "cefrLevel": "B1",
+  "texts": [
+    {
+      "id": "r09_001",
+      "title": "Anotimpurile în România",
+      "titleEn": "The Seasons in Romania",
+      "text": "România are patru anotimpuri distincte, și fiecare are farmecul lui. Primăvara, natura se trezește la viață. Copacii înfloresc, câmpurile devin verzi, iar aerul este proaspăt și plin de parfumul florilor. Temperaturile sunt blânde, între 10 și 20 de grade Celsius, ceea ce face primăvara un anotimp perfect pentru plimbări în parc sau excursii în natură. Vara, soarele strălucește puternic, iar temperaturile pot ajunge la 35 de grade. Mulți români merg la mare, în Constanța sau Mamaia, unde se pot bucura de plaje și apă. Alții preferă munții, unde aerul este mai răcoros. Toamna, frunzele copacilor se schimbă în nuanțe de galben, portocaliu și roșu. Este un anotimp melancolic, dar foarte frumos. Oamenii culeg fructe și legume din grădini și pregătesc conserve pentru iarnă. Iarna, temperatura scade sub zero, și în multe regiuni ninge abundent. Munții Carpați sunt acoperiți de zăpadă, și turiștii vin să practice schiul și snowboardingul. În orașe, copiii se bucură de zăpadă și construiesc oameni de zăpadă. Deși iarna poate fi grea, românii o iubesc pentru sărbătorile de Crăciun și Anul Nou, când familiile se adună împreună.",
+      "translation": "Romania has four distinct seasons, and each has its own charm. In spring, nature comes to life. The trees bloom, the fields turn green, and the air is fresh and full of the fragrance of flowers. The temperatures are mild, between 10 and 20 degrees Celsius, which makes spring a perfect season for walks in the park or nature trips. In summer, the sun shines brightly, and temperatures can reach 35 degrees. Many Romanians go to the sea, to Constanța or Mamaia, where they can enjoy beaches and water. Others prefer the mountains, where the air is cooler. In autumn, tree leaves change to shades of yellow, orange, and red. It is a melancholic but very beautiful season. People pick fruits and vegetables from their gardens and prepare preserves for winter. In winter, the temperature drops below zero, and in many regions it snows abundantly. The Carpathian Mountains are covered in snow, and tourists come to practice skiing and snowboarding. In cities, children enjoy the snow and build snowmen. Although winter can be harsh, Romanians love it for the Christmas and New Year holidays, when families gather together.",
+      "vocabularyNotes": [
+        {"word": "anotimp", "meaning": "season (of the year)", "notes": "neuter noun (n.)"},
+        {"word": "a înflori", "meaning": "to bloom / to blossom", "notes": "verb, 4th conjugation"},
+        {"word": "blând", "meaning": "mild / gentle", "notes": "adjective, masculine form"},
+        {"word": "a se bucura de", "meaning": "to enjoy", "notes": "reflexive verb phrase"},
+        {"word": "nuanțe", "meaning": "shades / hues", "notes": "feminine noun (f. pl.)"},
+        {"word": "a aduna", "meaning": "to gather / to collect", "notes": "verb, 1st conjugation"}
+      ],
+      "questions": [
+        {
+          "id": "r09_q1",
+          "type": "multiple-choice",
+          "question": "La câte grade Celsius poate ajunge temperatura vara în România?",
+          "questionEn": "How many degrees Celsius can the temperature reach in summer in Romania?",
+          "options": ["20 de grade", "25 de grade", "30 de grade", "35 de grade"],
+          "answer": "35 de grade"
+        },
+        {
+          "id": "r09_q2",
+          "type": "comprehension",
+          "question": "Ce fac mulți români vara?",
+          "questionEn": "What do many Romanians do in summer?",
+          "answer": "Merg la mare, în Constanța sau Mamaia",
+          "acceptableAnswers": ["merg la mare", "la mare în Constanța sau Mamaia", "merg la mare în Constanța sau Mamaia"],
+          "options": null
+        },
+        {
+          "id": "r09_q3",
+          "type": "multiple-choice",
+          "question": "Ce fac oamenii toamna cu fructele și legumele?",
+          "questionEn": "What do people do with fruits and vegetables in autumn?",
+          "options": [
+            "Le vând la piață",
+            "Le pregătesc conserve pentru iarnă",
+            "Le dau vecinilor",
+            "Le aruncă"
+          ],
+          "answer": "Le pregătesc conserve pentru iarnă"
+        },
+        {
+          "id": "r09_q4",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'blând' în acest context?",
+          "questionEn": "What does 'blând' mean in this context?",
+          "answer": "mild / gentle (of temperature or weather)",
+          "acceptableAnswers": ["mild", "gentle", "mild / gentle", "blând"],
+          "options": null
+        },
+        {
+          "id": "r09_q5",
+          "type": "comprehension",
+          "question": "De ce iubesc românii iarna?",
+          "questionEn": "Why do Romanians love winter?",
+          "answer": "Pentru sărbătorile de Crăciun și Anul Nou, când familiile se adună",
+          "acceptableAnswers": ["pentru sărbătorile de Crăciun și Anul Nou", "pentru Crăciun și Anul Nou", "pentru sărbătorile de Crăciun și Anul Nou, când familiile se adună"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r09_002",
+      "title": "O Excursie în Munți",
+      "titleEn": "A Mountain Trip",
+      "text": "La sfârșitul lunii iulie, noi, un grup de prieteni, am decis să facem o excursie în Munții Bucegi. Am plecat din București vineri seara cu mașina și am ajuns în Sinaia pe la miezul nopții. Sâmbătă dimineața, vremea era excelentă — cerul era albastru și senin, iar temperatura era de aproximativ 22 de grade, perfectă pentru drumeție. Am urcat pe poteca spre Cabana Babele, printre păduri de conifere. Aerul de munte era proaspăt și curat, iar din când în când auzeam cântecul păsărilor. Pe drum, am întâlnit câțiva turiști din Germania și Austria. La cabană, priveliștea era spectaculoasă — puteam vedea întreaga vale, iar în zare se zărea Vârful Omu, cel mai înalt vârf din Bucegi. Din păcate, după-amiaza vremea s-a schimbat brusc. S-au adunat nori negri pe cer, a început să bată vântul puternic, și a venit o ploaie torențială. Am fost nevoiți să ne adăpostim la cabană timp de două ore. Când ploaia s-a oprit, soarele a apărut din nou și un curcubeu frumos s-a format pe cer. A fost o experiență memorabilă, deși ne-a învățat că în munți vremea se poate schimba oricând.",
+      "translation": "At the end of July, we, a group of friends, decided to take a trip to the Bucegi Mountains. We left Bucharest on Friday evening by car and arrived in Sinaia around midnight. Saturday morning, the weather was excellent — the sky was blue and clear, and the temperature was about 22 degrees, perfect for hiking. We climbed the trail toward Babele Cabin, through conifer forests. The mountain air was fresh and clean, and from time to time we could hear the birds singing. On the way, we met some tourists from Germany and Austria. At the cabin, the view was spectacular — we could see the entire valley, and in the distance Omu Peak, the highest peak in Bucegi, was visible. Unfortunately, the weather changed suddenly in the afternoon. Dark clouds gathered in the sky, a strong wind started blowing, and a torrential rain came. We were forced to take shelter at the cabin for two hours. When the rain stopped, the sun appeared again and a beautiful rainbow formed in the sky. It was a memorable experience, although it taught us that in the mountains the weather can change at any time.",
+      "vocabularyNotes": [
+        {"word": "drumeție", "meaning": "hike / hiking", "notes": "feminine noun (f.)"},
+        {"word": "potecă", "meaning": "trail / path", "notes": "feminine noun (f.)"},
+        {"word": "conifer", "meaning": "conifer / evergreen tree", "notes": "neuter noun (n.)"},
+        {"word": "priveliște", "meaning": "view / panorama / scenery", "notes": "feminine noun (f.)"},
+        {"word": "ploaie torențială", "meaning": "torrential rain / downpour", "notes": "feminine noun phrase"},
+        {"word": "a se adăposti", "meaning": "to take shelter", "notes": "reflexive verb, 4th conjugation"}
+      ],
+      "questions": [
+        {
+          "id": "r09_q6",
+          "type": "comprehension",
+          "question": "Când au plecat prietenii din București?",
+          "questionEn": "When did the friends leave Bucharest?",
+          "answer": "Vineri seara",
+          "acceptableAnswers": ["vineri seara", "vineri"],
+          "options": null
+        },
+        {
+          "id": "r09_q7",
+          "type": "multiple-choice",
+          "question": "Ce s-a întâmplat sâmbătă după-amiaza?",
+          "questionEn": "What happened on Saturday afternoon?",
+          "options": [
+            "Au urcat pe cel mai înalt vârf",
+            "Vremea s-a schimbat brusc și a plouat torențial",
+            "S-au pierdut pe potecă",
+            "Au întâlnit un urs"
+          ],
+          "answer": "Vremea s-a schimbat brusc și a plouat torențial"
+        },
+        {
+          "id": "r09_q8",
+          "type": "multiple-choice",
+          "question": "Ce au văzut pe cer după ploaie?",
+          "questionEn": "What did they see in the sky after the rain?",
+          "options": ["Nori negri", "O stea căzătoare", "Un curcubeu", "Luna"],
+          "answer": "Un curcubeu"
+        },
+        {
+          "id": "r09_q9",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'a se adăposti' în acest context?",
+          "questionEn": "What does 'a se adăposti' mean in this context?",
+          "answer": "to take shelter / to take cover",
+          "acceptableAnswers": ["to take shelter", "to take cover", "a se adăposti", "to take shelter / to take cover"],
+          "options": null
+        },
+        {
+          "id": "r09_q10",
+          "type": "comprehension",
+          "question": "Ce lecție a învățat grupul din această excursie?",
+          "questionEn": "What lesson did the group learn from this trip?",
+          "answer": "Că în munți vremea se poate schimba oricând",
+          "acceptableAnswers": ["că în munți vremea se poate schimba oricând", "vremea se schimbă oricând în munți", "vremea din munți se schimbă brusc"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

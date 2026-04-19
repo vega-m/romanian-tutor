@@ -1,0 +1,159 @@
+{
+  "$schema": "exercise-set",
+  "version": "1.0",
+  "id": "E14-comparative-transform",
+  "title": "Comparative and Superlative Transform",
+  "titleRo": "Exerciții de Comparativ și Superlativ",
+  "cefrLevel": "B1",
+  "prerequisites": [
+    "G21-comparatives"
+  ],
+  "estimatedMinutes": 20,
+  "instructions": "Transform Romanian adjectives into their comparative and superlative forms. Practice the patterns: mai + adjective, cel mai + adjective, and irregular forms.",
+  "instructionsRo": "Transformă adjectivele românești în formele lor de comparativ și superlativ. Exersează tiparele: mai + adjectiv, cel mai + adjectiv și formele neregulate.",
+  "sourceWeek": 8,
+  "exercises": [
+    {
+      "id": "e14_001",
+      "type": "fill-blank",
+      "prompt": "Form the comparative of 'mare' (big): ___ decât (bigger than).",
+      "promptRo": "Formează comparativul lui 'mare' (mare): ___ decât .",
+      "sentence": "Casa este ___ decât a noastră.",
+      "answer": "mai mare",
+      "acceptableAnswers": [
+        "mai mare"
+      ],
+      "explanation": "Regular comparative: mai + adjective. 'Mai mare' = bigger. Example: Casa este mai mare decât a noastră (The house is bigger than ours).",
+      "explanationRo": "Comparativ regulat: mai + adjectiv. 'Mai mare' = mai mare. Exemplu: Casa este mai mare decât a noastră."
+    },
+    {
+      "id": "e14_002",
+      "type": "fill-blank",
+      "prompt": "Form the superlative of 'bun' (good): ___ (the best).",
+      "promptRo": "Formează superlativul lui 'bun' (bun): ___ .",
+      "sentence": "Acesta este ___ film pe care l-am văzut.",
+      "answer": "cel mai bun",
+      "acceptableAnswers": [
+        "cel mai bun"
+      ],
+      "explanation": "'Bun' is irregular. Comparative: mai bun (better). Superlative: cel mai bun (the best). Do NOT add -ior or -ior to 'bun'.",
+      "explanationRo": "'Bun' este neregulat. Comparativ: mai bun (mai bun). Superlativ: cel mai bun (cel mai bun). NU adăuga -ior sau -ior la 'bun'."
+    },
+    {
+      "id": "e14_003",
+      "type": "multiple-choice",
+      "prompt": "What is the comparative of 'mic' (small)?",
+      "promptRo": "Care este comparativul lui 'mic' (mic)?",
+      "answer": "mai mic",
+      "options": [
+        "mior",
+        "mai mic",
+        "micior",
+        "cel mai mic"
+      ],
+      "explanation": "Regular comparative: mai + adjective. 'Mai mic' = smaller. The superlative would be 'cel mai mic' (the smallest).",
+      "explanationRo": "Comparativ regulat: mai + adjectiv. 'Mai mic' = mai mic. Superlativul ar fi 'cel mai mic' (cel mai mic)."
+    },
+    {
+      "id": "e14_004",
+      "type": "fill-blank",
+      "prompt": "Form the comparative of 'frumos' (beautiful): ___ decât (more beautiful than).",
+      "promptRo": "Formează comparativul lui 'frumos' (frumos): ___ decât (mai frumos decât).",
+      "sentence": "Grădina este ___ decât anul trecut.",
+      "answer": "mai frumoasă",
+      "acceptableAnswers": [
+        "mai frumoasă"
+      ],
+      "explanation": "Regular comparative: mai + adjective (agreeing with noun gender). 'Grădina' is feminine, so 'frumos' becomes 'mai frumoasă'.",
+      "explanationRo": "Comparativ regulat: mai + adjectiv (de acord cu genul substantivului). 'Grădina' este feminin, deci 'frumos' devine 'mai frumoasă'."
+    },
+    {
+      "id": "e14_005",
+      "type": "multiple-choice",
+      "prompt": "What is the superlative of 'reușit' (successful)?",
+      "promptRo": "Care este superlativul lui 'reușit' (reușit)?",
+      "answer": "cel mai reușit",
+      "options": [
+        "cel reușit",
+        "mai reușit",
+        "cel mai reușit",
+        "cel mai mult reușit"
+      ],
+      "explanation": "Regular superlative: cel mai + adjective. 'Cel mai reușit' = the most successful. This is the standard pattern for most Romanian adjectives.",
+      "explanationRo": "Superlativ regulat: cel mai + adjectiv. 'Cel mai reușit' = cel mai reușit. Acesta este tiparul standard pentru majoritatea adjectivelor românești.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e14_006",
+      "type": "fill-blank",
+      "prompt": "Form the comparative of 'rău' (bad): ___ decât (worse than).",
+      "promptRo": "Formează comparativul lui 'rău' (rău): ___ decât (mai rău decât).",
+      "sentence": "Vremea este ___ decât ieri.",
+      "answer": "mai rea",
+      "acceptableAnswers": [
+        "mai rea",
+        "mai rea"
+      ],
+      "explanation": "'Rău' is irregular. Comparative: mai rău / mai reu (worse). Feminine form: mai rea. Superlative: cel mai rău / cel mai reu (the worst).",
+      "explanationRo": "'Rău' este neregulat. Comparativ: mai rău / mai reu (mai rău). Forma feminină: mai rea. Superlativ: cel mai rău / cel mai reu (cel mai rău)."
+    },
+    {
+      "id": "e14_007",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct comparative form of 'mult' (much/many)?",
+      "promptRo": "Care este forma corectă de comparativ a lui 'mult' (mult)?",
+      "answer": "mai mult / mai mulți",
+      "options": [
+        "multior",
+        "mai mult / mai mulți",
+        "cel mai mult",
+        "mulsior"
+      ],
+      "explanation": "'Mult' is irregular. Comparative: mai mult (more, neuter singular), mai mulți (more, masculine plural), mai multe (more, feminine/neuter plural). Superlative: cel mai mult.",
+      "explanationRo": "'Mult' este neregulat. Comparativ: mai mult (mai mult, neutru singular), mai mulți (mai mulți, masculin plural), mai multe (mai multe, feminin/neutru plural). Superlativ: cel mai mult.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e14_008",
+      "type": "fill-blank",
+      "prompt": "Form the superlative of 'nou' (new): ___ (the newest).",
+      "promptRo": "Formează superlativul lui 'nou' (nou): ___ (cel mai nou).",
+      "sentence": "Aceasta este ___ tehnologie de pe piață.",
+      "answer": "cea mai nouă",
+      "acceptableAnswers": [
+        "cea mai nouă"
+      ],
+      "explanation": "Superlative with feminine noun: cea mai + adjective (feminine form). 'Tehnologie' is feminine, so: cea mai nouă (the newest).",
+      "explanationRo": "Superlativ cu substantiv feminin: cea mai + adjectiv (forma feminină). 'Tehnologie' este feminin, deci: cea mai nouă (cea mai nouă)."
+    },
+    {
+      "id": "e14_009",
+      "type": "multiple-choice",
+      "prompt": "How do you say 'as tall as' in Romanian?",
+      "promptRo": "Care este forma corectă pentru 'as tall as'?",
+      "answer": "la fel de înalt ca",
+      "options": [
+        "egal înalt cu",
+        "la fel de înalt ca",
+        "mai înalt ca",
+        "de înalt ca"
+      ],
+      "explanation": "The pattern for 'as [adjective] as' is: la fel de + adjective + ca. Example: El este la fel de înalt ca mine (He is as tall as me).",
+      "explanationRo": "Tiparul pentru 'la fel de [adjectiv] ca' este: la fel de + adjectiv + ca. Exemplu: El este la fel de înalt ca mine.",
+      "acceptableAnswers": []
+    },
+    {
+      "id": "e14_010",
+      "type": "fill-blank",
+      "prompt": "Complete with the correct form: Cartea este ___ (the least interesting) decât mi-am imaginat.",
+      "promptRo": "Completează cu forma corectă: Cartea este ___ decât mi-am imaginat.",
+      "sentence": "Cartea este ___ decât mi-am imaginat.",
+      "answer": "cea mai puțin interesantă",
+      "acceptableAnswers": [
+        "cea mai puțin interesantă"
+      ],
+      "explanation": "The 'least' form in Romanian uses: cel/cea mai puțin + adjective. Feminine: cea mai puțin interesantă (the least interesting). Masculine: cel mai puțin interesant.",
+      "explanationRo": "Forma 'cel mai puțin' în română folosește: cel/cea mai puțin + adjectiv. Feminin: cea mai puțin interesantă (cea mai puțin interesantă). Masculin: cel mai puțin interesant."
+    }
+  ]
+}

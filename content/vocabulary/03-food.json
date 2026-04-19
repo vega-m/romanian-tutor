@@ -1,0 +1,783 @@
+{
+  "$schema": "vocabulary",
+  "version": "1.0",
+  "theme": "food",
+  "themeRo": "Mâncare și Băuturi",
+  "themeEn": "Food & Dining",
+  "cefrLevel": "A1",
+  "words": [
+    {
+      "id": "v03_001",
+      "word": "mâncare",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "food / meal",
+      "translationRo": "mâncare (f.)",
+      "exampleSentence": "Mâncarea românească este foarte gustoasă.",
+      "exampleTranslation": "Romanian food is very tasty.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/mɨn.'ka.re/",
+      "tags": [
+        "food",
+        "essential"
+      ],
+      "relatedWords": [
+        "a mânca",
+        "gust"
+      ]
+    },
+    {
+      "id": "v03_002",
+      "word": "apă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "water",
+      "translationRo": "apă (f.)",
+      "exampleSentence": "Vreau un pahar cu apă, vă rog.",
+      "exampleTranslation": "I want a glass of water, please.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'a.pə/",
+      "tags": [
+        "drink",
+        "essential"
+      ],
+      "relatedWords": [
+        "cafea",
+        "ceai"
+      ]
+    },
+    {
+      "id": "v03_003",
+      "word": "pâine",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "bread",
+      "translationRo": "pâine (f.)",
+      "exampleSentence": "Cumpăr pâine proaspătă de la brutărie.",
+      "exampleTranslation": "I buy fresh bread from the bakery.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'pɨj.ne/",
+      "tags": [
+        "food",
+        "essential"
+      ],
+      "relatedWords": [
+        "brânză",
+        "unt"
+      ]
+    },
+    {
+      "id": "v03_004",
+      "word": "carne",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "meat",
+      "translationRo": "carne (f.)",
+      "exampleSentence": "Nu mănânc carne, sunt vegetarian.",
+      "exampleTranslation": "I don't eat meat, I'm vegetarian.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/'kar.ne/",
+      "tags": [
+        "food",
+        "essential"
+      ],
+      "relatedWords": [
+        "porc",
+        "vită",
+        "pui"
+      ]
+    },
+    {
+      "id": "v03_005",
+      "word": "pește",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "fish",
+      "translationRo": "pește (m.)",
+      "exampleSentence": "Peștele de la Dunăre este foarte bun.",
+      "exampleTranslation": "Fish from the Danube is very good.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'peʃ.te/",
+      "tags": [
+        "food"
+      ],
+      "relatedWords": [
+        "carne",
+        "saramură"
+      ]
+    },
+    {
+      "id": "v03_006",
+      "word": "brânză",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "cheese",
+      "translationRo": "brânză (f.)",
+      "exampleSentence": "Brânza de burduf se face în munți.",
+      "exampleTranslation": "Burduf cheese is made in the mountains.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'brɨn.zə/",
+      "tags": [
+        "food",
+        "dairy"
+      ],
+      "relatedWords": [
+        "telemea",
+        "cașcaval"
+      ]
+    },
+    {
+      "id": "v03_007",
+      "word": "ou",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "egg",
+      "translationRo": "ou (n.)",
+      "exampleSentence": "La micul dejun mănânc ouă ochiuri.",
+      "exampleTranslation": "For breakfast I eat fried eggs.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/ow/",
+      "tags": [
+        "food",
+        "essential"
+      ],
+      "relatedWords": [
+        "ouă",
+        "mic dejun"
+      ]
+    },
+    {
+      "id": "v03_008",
+      "word": "lapte",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "milk",
+      "translationRo": "lapte (n.)",
+      "exampleSentence": "Beți lapte dimineața?",
+      "exampleTranslation": "Do you drink milk in the morning?",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'lap.te/",
+      "tags": [
+        "drink",
+        "dairy"
+      ],
+      "relatedWords": [
+        "brânză",
+        "unt"
+      ]
+    },
+    {
+      "id": "v03_009",
+      "word": "unt",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "butter",
+      "translationRo": "unt (n.)",
+      "exampleSentence": "Pune unt pe pâine, te rog.",
+      "exampleTranslation": "Put butter on the bread, please.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/unt/",
+      "tags": [
+        "food",
+        "dairy"
+      ],
+      "relatedWords": [
+        "pâine",
+        "lapte"
+      ]
+    },
+    {
+      "id": "v03_010",
+      "word": "cafea",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "coffee",
+      "translationRo": "cafea (f.)",
+      "exampleSentence": "Beau cafea neagră în fiecare dimineață.",
+      "exampleTranslation": "I drink black coffee every morning.",
+      "frequency": 5,
+      "importance": 5,
+      "pronunciation": "/kaf.'e.a/",
+      "tags": [
+        "drink",
+        "essential"
+      ],
+      "relatedWords": [
+        "ceai",
+        "apă"
+      ]
+    },
+    {
+      "id": "v03_011",
+      "word": "ceai",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "tea",
+      "translationRo": "ceai (n.)",
+      "exampleSentence": "Ceaiul de mentă este foarte bun la stomac.",
+      "exampleTranslation": "Mint tea is very good for the stomach.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/tʃaj/",
+      "tags": [
+        "drink"
+      ],
+      "relatedWords": [
+        "cafea",
+        "apă"
+      ]
+    },
+    {
+      "id": "v03_012",
+      "word": "fructe",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "fruits",
+      "translationRo": "fructe (n. pl.)",
+      "exampleSentence": "Mănânc fructe în fiecare zi.",
+      "exampleTranslation": "I eat fruits every day.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'fruk.te/",
+      "tags": [
+        "food",
+        "healthy"
+      ],
+      "relatedWords": [
+        "legume",
+        "măr",
+        "portocală"
+      ]
+    },
+    {
+      "id": "v03_013",
+      "word": "legume",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "vegetables",
+      "translationRo": "legume (n. pl.)",
+      "exampleSentence": "Legumele de la piață sunt mai proaspete.",
+      "exampleTranslation": "Vegetables from the market are fresher.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/le.'gu.me/",
+      "tags": [
+        "food",
+        "healthy"
+      ],
+      "relatedWords": [
+        "fructe",
+        "salată",
+        "cartof"
+      ]
+    },
+    {
+      "id": "v03_014",
+      "word": "supă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "soup",
+      "translationRo": "supă (f.)",
+      "exampleSentence": "Mama face supă de pui duminica.",
+      "exampleTranslation": "Mom makes chicken soup on Sundays.",
+      "frequency": 5,
+      "importance": 4,
+      "pronunciation": "/'su.pə/",
+      "tags": [
+        "food",
+        "essential"
+      ],
+      "relatedWords": [
+        "ciorbă",
+        "borș"
+      ]
+    },
+    {
+      "id": "v03_015",
+      "word": "ciorbă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "sour soup (traditional Romanian)",
+      "translationRo": "ciorbă (f.)",
+      "exampleSentence": "Ciorba de burtă este un fel de mâncare românesc clasic.",
+      "exampleTranslation": "Tripe soup is a classic Romanian dish.",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/'tʃor.bə/",
+      "tags": [
+        "food",
+        "traditional"
+      ],
+      "relatedWords": [
+        "supă",
+        "borș"
+      ]
+    },
+    {
+      "id": "v03_016",
+      "word": "salată",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "salad",
+      "translationRo": "salată (f.)",
+      "exampleSentence": "Vreau o salată mare cu roșii și castraveți.",
+      "exampleTranslation": "I want a big salad with tomatoes and cucumbers.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/sa.'la.tə/",
+      "tags": [
+        "food"
+      ],
+      "relatedWords": [
+        "legume",
+        "roșie"
+      ]
+    },
+    {
+      "id": "v03_017",
+      "word": "cartof",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "potato",
+      "translationRo": "cartof (n.) / cartofi (pl.)",
+      "exampleSentence": "Cartofii prăjiți sunt cei mai buni.",
+      "exampleTranslation": "French fries are the best.",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/kar.'tof/",
+      "tags": [
+        "food"
+      ],
+      "relatedWords": [
+        "legume",
+        "cartofi prăjiți"
+      ]
+    },
+    {
+      "id": "v03_018",
+      "word": "roșie",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "tomato",
+      "translationRo": "roșie (f.) / roșii (pl.)",
+      "exampleSentence": "Roșiile din grădină sunt foarte dulci.",
+      "exampleTranslation": "The tomatoes from the garden are very sweet.",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/'ro.ʃi.je/",
+      "tags": [
+        "food",
+        "vegetable"
+      ],
+      "relatedWords": [
+        "castravete",
+        "salată"
+      ]
+    },
+    {
+      "id": "v03_019",
+      "word": "castravete",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "cucumber",
+      "translationRo": "castravete (n.) / castraveți (pl.)",
+      "exampleSentence": "Castraveții murați sunt delicioși.",
+      "exampleTranslation": "Pickled cucumbers are delicious.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/kas.tra.'ve.te/",
+      "tags": [
+        "food",
+        "vegetable"
+      ],
+      "relatedWords": [
+        "roșie",
+        "salată"
+      ]
+    },
+    {
+      "id": "v03_020",
+      "word": "măr",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "apple",
+      "translationRo": "măr (n.) / mere (pl.)",
+      "exampleSentence": "Un măr pe zi ține doctorul departe.",
+      "exampleTranslation": "An apple a day keeps the doctor away.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/mər/",
+      "tags": [
+        "food",
+        "fruit"
+      ],
+      "relatedWords": [
+        "fructe",
+        "portocală"
+      ]
+    },
+    {
+      "id": "v03_021",
+      "word": "portocală",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "orange (fruit)",
+      "translationRo": "portocală (f.) / portocale (pl.)",
+      "exampleSentence": "Sucul de portocale e plin de vitamine.",
+      "exampleTranslation": "Orange juice is full of vitamins.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/por.to.ka.'lə/",
+      "tags": [
+        "food",
+        "fruit"
+      ],
+      "relatedWords": [
+        "fructe",
+        "măr"
+      ]
+    },
+    {
+      "id": "v03_022",
+      "word": "vin",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "wine",
+      "translationRo": "vin (n.)",
+      "exampleSentence": "Vinul românesc de Murfatlar este apreciat în toată Europa.",
+      "exampleTranslation": "Romanian wine from Murfatlar is appreciated all over Europe.",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/vin/",
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "relatedWords": [
+        "bere",
+        "țuică"
+      ]
+    },
+    {
+      "id": "v03_023",
+      "word": "bere",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "beer",
+      "translationRo": "bere (f.)",
+      "exampleSentence": "O bere rece, vă rog!",
+      "exampleTranslation": "A cold beer, please!",
+      "frequency": 4,
+      "importance": 3,
+      "pronunciation": "/'be.re/",
+      "tags": [
+        "drink",
+        "alcohol"
+      ],
+      "relatedWords": [
+        "vin",
+        "țuică"
+      ]
+    },
+    {
+      "id": "v03_024",
+      "word": "sarmale",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "cabbage rolls (traditional dish)",
+      "translationRo": "sarmale (n. pl.)",
+      "exampleSentence": "Sarmalele se mănâncă cu smântână și mămăligă.",
+      "exampleTranslation": "Cabbage rolls are eaten with sour cream and polenta.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/sar.'ma.le/",
+      "tags": [
+        "food",
+        "traditional"
+      ],
+      "relatedWords": [
+        "mămăligă",
+        "ciorbă"
+      ]
+    },
+    {
+      "id": "v03_025",
+      "word": "mămăligă",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "polenta / cornmeal mush",
+      "translationRo": "mămăligă (f.)",
+      "exampleSentence": "Mămăliga se potrivește perfect cu brânza.",
+      "exampleTranslation": "Polenta goes perfectly with cheese.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/mə.mə.'li.ɡə/",
+      "tags": [
+        "food",
+        "traditional"
+      ],
+      "relatedWords": [
+        "sarmale",
+        "brânză"
+      ]
+    },
+    {
+      "id": "v03_026",
+      "word": "desert",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "dessert",
+      "translationRo": "desert (n.)",
+      "exampleSentence": "Pentru desert, am comandat papanasi.",
+      "exampleTranslation": "For dessert, I ordered papanasi.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/de.'sert/",
+      "tags": [
+        "food"
+      ],
+      "relatedWords": [
+        "prăjitură"
+      ]
+    },
+    {
+      "id": "v03_027",
+      "word": "prăjitură",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "cake / pastry",
+      "translationRo": "prăjitură (f.)",
+      "exampleSentence": "Bunica a făcut prăjitură cu mere și scorțișoară.",
+      "exampleTranslation": "Grandma made apple and cinnamon cake.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/prə.ʒi.'tu.rə/",
+      "tags": [
+        "food",
+        "dessert"
+      ],
+      "relatedWords": [
+        "desert",
+        "tort"
+      ]
+    },
+    {
+      "id": "v03_028",
+      "word": "tort",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "layer cake / birthday cake",
+      "translationRo": "tort (n.)",
+      "exampleSentence": "Tortul de ciocolată este preferatul meu.",
+      "exampleTranslation": "The chocolate cake is my favorite.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/tort/",
+      "tags": [
+        "food",
+        "dessert"
+      ],
+      "relatedWords": [
+        "prăjitură",
+        "desert"
+      ]
+    },
+    {
+      "id": "v03_029",
+      "word": "mic dejun",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "breakfast",
+      "translationRo": "mic dejun (n.)",
+      "exampleSentence": "Micul dejun este cea mai importantă masă.",
+      "exampleTranslation": "Breakfast is the most important meal.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/mik de.'ʒun/",
+      "tags": [
+        "meal",
+        "essential"
+      ],
+      "relatedWords": [
+        "prânz",
+        "cină"
+      ]
+    },
+    {
+      "id": "v03_030",
+      "word": "prânz",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "lunch",
+      "translationRo": "prânz (n.)",
+      "exampleSentence": "La prânz mergem la un restaurant bun.",
+      "exampleTranslation": "For lunch we go to a good restaurant.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/prɨnz/",
+      "tags": [
+        "meal",
+        "essential"
+      ],
+      "relatedWords": [
+        "mic dejun",
+        "cină"
+      ]
+    },
+    {
+      "id": "v03_031",
+      "word": "cină",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "dinner",
+      "translationRo": "cină (f.)",
+      "exampleSentence": "Cina e gata, veniți la masă!",
+      "exampleTranslation": "Dinner is ready, come to the table!",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'ki.nə/",
+      "tags": [
+        "meal",
+        "essential"
+      ],
+      "relatedWords": [
+        "prânz",
+        "mic dejun"
+      ]
+    },
+    {
+      "id": "v03_032",
+      "word": "restaurant",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "restaurant",
+      "translationRo": "restaurant (n.)",
+      "exampleSentence": "Acest restaurant are mâncare tradițională excelentă.",
+      "exampleTranslation": "This restaurant has excellent traditional food.",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/res.tau.'rant/",
+      "tags": [
+        "dining",
+        "essential"
+      ],
+      "relatedWords": [
+        "meniu",
+        "nota de plată"
+      ]
+    },
+    {
+      "id": "v03_033",
+      "word": "nota de plată",
+      "partOfSpeech": "noun",
+      "gender": "feminine",
+      "translationEn": "the bill / the check",
+      "translationRo": "nota de plată (f.)",
+      "exampleSentence": "Chelnerul, nota de plată, vă rog!",
+      "exampleTranslation": "Waiter, the bill, please!",
+      "frequency": 4,
+      "importance": 4,
+      "pronunciation": "/'no.ta de 'pla.tə/",
+      "tags": [
+        "dining",
+        "essential"
+      ],
+      "relatedWords": [
+        "restaurant",
+        "bacșiș"
+      ]
+    },
+    {
+      "id": "v03_034",
+      "word": "bacșiș",
+      "partOfSpeech": "noun",
+      "gender": "neuter",
+      "translationEn": "tip",
+      "translationRo": "bacșiș (n.)",
+      "exampleSentence": "În România, bacșișul este de obicei zece la sută.",
+      "exampleTranslation": "In Romania, the tip is usually ten percent.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/bak.'ʃiʃ/",
+      "tags": [
+        "dining",
+        "cultural"
+      ],
+      "relatedWords": [
+        "nota de plată",
+        "chelner"
+      ]
+    },
+    {
+      "id": "v03_035",
+      "word": "chelner",
+      "partOfSpeech": "noun",
+      "gender": "masculine",
+      "translationEn": "waiter",
+      "translationRo": "chelner (m.)",
+      "exampleSentence": "Chelnerul ne-a adus meniul.",
+      "exampleTranslation": "The waiter brought us the menu.",
+      "frequency": 3,
+      "importance": 3,
+      "pronunciation": "/kel.'ner/",
+      "tags": [
+        "dining"
+      ],
+      "relatedWords": [
+        "chelneriță",
+        "restaurant"
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "p03_001",
+      "phrase": "Poftă bună!",
+      "translationEn": "Enjoy your meal! (said before eating)",
+      "context": "Used by everyone at the table before starting to eat. Very common in Romania.",
+      "formality": "neutral",
+      "exampleResponse": "Mulțumesc, la fel!"
+    },
+    {
+      "id": "p03_002",
+      "phrase": "Ce poftă buna!",
+      "translationEn": "This looks delicious! (complimenting the food)",
+      "context": "Said when arriving at a table and the food smells or looks great",
+      "formality": "informal",
+      "exampleResponse": "Mănâncă, să vezi cum e!"
+    },
+    {
+      "id": "p03_003",
+      "phrase": "Nota de plată, vă rog.",
+      "translationEn": "The bill, please.",
+      "context": "Asking the waiter for the check at a restaurant",
+      "formality": "neutral",
+      "exampleResponse": "Imediat, domnule/doamnă."
+    },
+    {
+      "id": "p03_004",
+      "phrase": "Aș dori să comand...",
+      "translationEn": "I would like to order...",
+      "context": "Polite way to start ordering food at a restaurant",
+      "formality": "formal",
+      "exampleResponse": "Desigur, ce doriți?"
+    },
+    {
+      "id": "p03_005",
+      "phrase": "Să ne ia o țuică de-a gata!",
+      "translationEn": "Let's have a shot of țuică to start!",
+      "context": "Traditional toast before a meal at a Romanian gathering",
+      "formality": "informal",
+      "exampleResponse": "Noroc! / Sănătate!"
+    }
+  ]
+}

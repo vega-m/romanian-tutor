@@ -1,0 +1,243 @@
+{
+  "version": "1.0",
+  "title": "Română B1 — Pregătire pentru Examen",
+  "titleEn": "Romanian B1 — Exam Preparation",
+  "totalWeeks": 12,
+  "targetLevel": "B1",
+  "startLevel": "A1-A2",
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Alfabetul și Cititul",
+      "titleEn": "Alphabet and Reading",
+      "description": "Romanian alphabet, diacritics, pronunciation rules, reading simple texts",
+      "objectives": [
+        "Master all 31 letters of the Romanian alphabet",
+        "Understand diacritics (ă, â, î, ș, ț) and when to use them",
+        "Read simple words and short sentences correctly",
+        "Recognize common letter combinations and syllable patterns"
+      ],
+      "grammarTopics": ["G01-alphabet-reading"],
+      "vocabularyThemes": ["01-greetings", "W01-week1-words"],
+      "exercisesNew": ["E01-alphabet-drill", "Q01-week1-quiz", "EX01-week1-practice"],
+      "exercisesReview": [],
+      "readings": ["R01-simple-texts"],
+      "speakingPrompts": ["Prezintă-te: cum te cheamă, de unde ești, ce faci.", "Spune numele a 5 obiecte din cameră în română."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Can read a 100-word Romanian text with correct pronunciation"
+    },
+    {
+      "week": 2,
+      "title": "Articole și Genul Substantivelor",
+      "titleEn": "Articles and Noun Gender",
+      "description": "Indefinite and definite articles (enclitic!), noun genders, basic sentence structure",
+      "objectives": [
+        "Use indefinite articles (un, o, niște)",
+        "Use definite articles (enclitic: -ul, -a, -le, -i, -le)",
+        "Identify noun gender (masculine, feminine, neuter)",
+        "Form basic sentences with correct article agreement"
+      ],
+      "grammarTopics": ["G02-articles", "G03-noun-gender"],
+      "vocabularyThemes": ["02-family", "W02-week2-words"],
+      "exercisesNew": ["E02-article-agreement", "E03-noun-gender-drill", "Q02-week2-quiz", "EX02-week2-practice"],
+      "exercisesReview": ["E01-alphabet-drill"],
+      "readings": ["R02-family-texts"],
+      "speakingPrompts": ["Descrie-ți familia: câți membri are, cum îi cheamă.", "Spune 5 lucruri din casă cu articol hotărât (ex: masa, scaunul)."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Correctly gender and article-mark 50 common nouns"
+    },
+    {
+      "week": 3,
+      "title": "Pronume și Acorduri",
+      "titleEn": "Pronouns and Agreements",
+      "description": "Personal pronouns, possessives, adjective-noun agreement",
+      "objectives": [
+        "Use subject and object personal pronouns",
+        "Use possessive pronouns (meu, tău, său, etc.)",
+        "Make adjectives agree with nouns in gender, number, case",
+        "Form sentences with correct pronoun and adjective agreement"
+      ],
+      "grammarTopics": ["G06-personal-pronouns", "G08-possessive-pronouns", "G05-adjective-agreement"],
+      "vocabularyThemes": ["03-food", "W03-week3-words"],
+      "exercisesNew": ["E04-pronoun-selection", "E05-adjective-agreement", "Q03-week3-quiz", "EX03-week3-practice"],
+      "exercisesReview": ["E02-article-agreement", "E03-noun-gender-drill"],
+      "readings": ["R03-food-descriptions"],
+      "speakingPrompts": ["Descrie ce ai mâncat azi la prânz.", "Compară două restaurante: cum sunt diferite?"],
+      "dailyTimeMinutes": 90,
+      "milestone": "Form simple sentences with correct pronoun and adjective agreement"
+    },
+    {
+      "week": 4,
+      "title": "Verbele — Timpul Prezent",
+      "titleEn": "Verbs — Present Tense",
+      "description": "All 4 conjugation patterns, irregular verbs (a fi, a avea, a vrea, a merge)",
+      "objectives": [
+        "Recognize and use all 4 conjugation groups (-a, -ea, -e, -i/-î)",
+        "Conjugate common irregular verbs",
+        "Use present tense in daily descriptions and routines"
+      ],
+      "grammarTopics": ["G09-present-tense"],
+      "vocabularyThemes": ["04-daily-life", "W04-week4-words"],
+      "exercisesNew": ["E06-present-conjugation", "E07-verb-selection", "Q04-week4-quiz", "EX04-week4-practice"],
+      "exercisesReview": ["E04-pronoun-selection", "E05-adjective-agreement"],
+      "readings": ["R04-daily-routines"],
+      "speakingPrompts": ["Descrie-ți rutina zilnică de luni până vineri.", "Ce faci în weekend? Vorbește la prezent."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Conjugate 30+ verbs correctly in present tense"
+    },
+    {
+      "week": 5,
+      "title": "Timpurile Trecute",
+      "titleEn": "Past Tenses",
+      "description": "Compound past (perfect compus) and imperfect tense",
+      "objectives": [
+        "Form the compound past with 'am/ai/a/am/ați/au' + past participle",
+        "Use the imperfect for ongoing past actions and descriptions",
+        "Choose between compound past and imperfect appropriately"
+      ],
+      "grammarTopics": ["G10-past-compound", "G12-past-imperfect", "G26-pluperfect"],
+      "vocabularyThemes": ["05-travel", "W05-week5-words"],
+      "exercisesNew": ["E08-past-tense-choice", "E09-past-conjugation", "Q05-week5-quiz", "EX05-week5-practice"],
+      "exercisesReview": ["E06-present-conjugation", "E07-verb-selection", "E04-pronoun-selection"],
+      "readings": ["R05-travel-stories"],
+      "speakingPrompts": ["Unde ai fost în vacanță? Ce ai făcut acolo?", "Descrie un copilărie fericit folosind imperfectul."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Narrate simple past events using compound past and pluperfect correctly"
+    },
+    {
+      "week": 6,
+      "title": "Viitor, Subjonctiv și Negare",
+      "titleEn": "Future, Subjunctive and Negation",
+      "description": "Future tense, subjunctive mood (să + subjunctive), negation patterns",
+      "objectives": [
+        "Express future using 'voi + infinitive' and 'o să + subjunctive'",
+        "Use subjunctive after verbs like a vrea, a trebui, a putea",
+        "Apply negation correctly (nu, n-am, niciun, etc.)"
+      ],
+      "grammarTopics": ["G13-future-tense", "G14-subjunctive", "G20-negation"],
+      "vocabularyThemes": ["06-health", "W06-week6-words"],
+      "exercisesNew": ["E10-future-subjunctive", "E11-negation-drill", "Q06-week6-quiz", "EX06-week6-practice"],
+      "exercisesReview": ["E08-past-tense-choice", "E09-past-conjugation", "E06-present-conjugation"],
+      "readings": ["R06-health-texts"],
+      "speakingPrompts": ["Care sunt planurile tale pentru weekendul viitor?", "Ce nu ai voie să mănânci când ești bolnav?"],
+      "dailyTimeMinutes": 90,
+      "milestone": "Express future plans and wishes using future and subjunctive"
+    },
+    {
+      "week": 7,
+      "title": "Cazurile și Prepozițiile",
+      "titleEn": "Cases and Prepositions",
+      "description": "Genitive/dative cases, preposition-case governance, demonstrative pronouns",
+      "objectives": [
+        "Use genitive case for possession and quantity",
+        "Use dative case for indirect objects",
+        "Know which prepositions govern which cases",
+        "Use demonstrative pronouns correctly"
+      ],
+      "grammarTopics": ["G04-noun-cases", "G17-prepositions", "G07-demonstrative-pronouns", "G31-reflexive-verbs-deep-dive"],
+      "vocabularyThemes": ["07-work", "W07-week7-words"],
+      "exercisesNew": ["E12-case-preposition", "E13-demonstrative-drill", "Q07-week7-quiz", "EX07-week7-practice"],
+      "exercisesReview": ["E10-future-subjunctive", "E08-past-tense-choice", "E05-adjective-agreement"],
+      "readings": ["R07-workplace-texts"],
+      "speakingPrompts": ["Descrie-ți locul de muncă (sau studiile). Ce îți place la el?", "Explică unui prieten cum ajungi la birou."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Use genitive/dative cases correctly in simple sentences"
+    },
+    {
+      "week": 8,
+      "title": "Conexiuni și Comparări",
+      "titleEn": "Connections and Comparisons",
+      "description": "Conjunctions, connectors, comparatives, superlatives, relative clauses",
+      "objectives": [
+        "Connect sentences with conjunctions (și, dar, pentru că, deși, etc.)",
+        "Form comparatives and superlatives",
+        "Use relative clauses with care, cine, ce, căruia"
+      ],
+      "grammarTopics": ["G18-conjunctions", "G21-comparatives", "G22-relative-clauses", "G27-connectors-idioms"],
+      "vocabularyThemes": ["08-shopping", "W08-week8-words"],
+      "exercisesNew": ["E14-comparative-transform", "E15-connectors-drill", "Q08-week8-quiz", "EX08-week8-practice"],
+      "exercisesReview": ["E12-case-preposition", "E10-future-subjunctive", "E09-past-conjugation"],
+      "readings": ["R08-shopping-dialogues"],
+      "speakingPrompts": ["Compară două magazine: care e mai bun și de ce?", "Spune o poveste scurtă folosind 'pentru că', 'deși', 'dar'."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Form connected compound sentences with correct connectors"
+    },
+    {
+      "week": 9,
+      "title": "Structuri Complexe",
+      "titleEn": "Complex Structures",
+      "description": "Conditional mood, imperative, passive voice, non-finite forms",
+      "objectives": [
+        "Use conditional for hypothetical situations",
+        "Give commands and requests with imperative",
+        "Recognize passive voice constructions",
+        "Use infinitive, gerund, and participle"
+      ],
+      "grammarTopics": ["G15-conditional", "G16-imperative", "G23-passive-voice", "G24-infinitive-gerund", "G28-suppositional"],
+      "vocabularyThemes": ["09-nature", "W09-week9-words"],
+      "exercisesNew": ["E16-conditional-imperative", "E17-passive-transform", "Q09-week9-quiz", "EX09-week9-practice"],
+      "exercisesReview": ["E14-comparative-transform", "E12-case-preposition", "E10-future-subjunctive"],
+      "readings": ["R09-nature-weather"],
+      "speakingPrompts": ["Dacă ai putea călători oriunde, unde ai merge și de ce?", "Dă-i unui prieten 3 indicații folosind imperativul."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Use conditional and imperative correctly in context"
+    },
+    {
+      "week": 10,
+      "title": "Fluență în Scris",
+      "titleEn": "Writing Fluency",
+      "description": "Word order patterns, writing connected paragraphs, formal vs informal register",
+      "objectives": [
+        "Use correct Romanian word order in various sentence types",
+        "Write connected paragraphs on familiar topics",
+        "Distinguish formal and informal register"
+      ],
+      "grammarTopics": ["G25-word-order", "G19-numerals"],
+      "vocabularyThemes": ["10-culture", "W10-week10-words"],
+      "exercisesNew": ["E18-word-order-rearrange", "E19-register-identify", "Q10-week10-quiz", "EX10-week10-practice"],
+      "exercisesReview": ["E16-conditional-imperative", "E14-comparative-transform", "E12-case-preposition", "E08-past-tense-choice"],
+      "readings": ["R10-cultural-texts"],
+      "speakingPrompts": ["Descrie o tradiție românească pe care o cunoști.", "Scrie un mesaj informal unui prieten și apoi unul formal unui profesor."],
+      "dailyTimeMinutes": 90,
+      "milestone": "Write a 150-word connected text on a familiar topic"
+    },
+    {
+      "week": 11,
+      "title": "Practică de Examen — Parte 1",
+      "titleEn": "Exam Practice — Part 1",
+      "description": "B1 exam format, reading comprehension at B1 level, grammar review of weak areas",
+      "objectives": [
+        "Understand B1 exam format and question types",
+        "Complete B1-level reading comprehension tasks",
+        "Review and strengthen identified weak grammar areas"
+      ],
+      "grammarTopics": ["G11-past-simple", "G10-past-compound", "G14-subjunctive", "G29-past-narrative-logic", "G30-common-confusions"],
+      "vocabularyThemes": ["11-technology", "12-feelings", "W11-week11-words"],
+      "exercisesNew": ["E20-exam-reading-1", "E21-exam-grammar-1", "Q11-week11-quiz", "EX11-week11-practice"],
+      "exercisesReview": ["E18-word-order-rearrange", "E16-conditional-imperative", "E15-connectors-drill", "E13-demonstrative-drill"],
+      "readings": ["R10-cultural-texts"],
+      "speakingPrompts": ["Exprimă-ți părerea despre tehnologia în educație.", "Descrie o situație în care ai fost nervos și cum ai rezolvat."],
+      "dailyTimeMinutes": 120,
+      "milestone": "Complete a B1-style reading comprehension section and avoid common confusions"
+    },
+    {
+      "week": 12,
+      "title": "Practică de Examen — Parte 2",
+      "titleEn": "Exam Practice — Part 2",
+      "description": "Full exam simulation, timed writing, comprehensive grammar review",
+      "objectives": [
+        "Complete a full timed practice exam",
+        "Write exam-style texts under time pressure",
+        "Achieve 70%+ on practice exam"
+      ],
+      "grammarTopics": [],
+      "vocabularyThemes": ["13-exam-vocab", "W12-week12-words"],
+      "exercisesNew": ["E22-exam-full-1", "E23-exam-writing-1", "Q12-week12-quiz", "EX12-week12-practice"],
+      "exercisesReview": ["E20-exam-reading-1", "E21-exam-grammar-1", "E17-passive-transform", "E14-comparative-transform"],
+      "readings": ["R10-cultural-texts"],
+      "speakingPrompts": ["Prezentă-te ca la un interviu: de ce vrei să înveți românește?", "Rezumă un text scurt pe care l-ai citit recent."],
+      "dailyTimeMinutes": 120,
+      "milestone": "Score 70%+ on a full B1 practice exam"
+    }
+  ]
+}

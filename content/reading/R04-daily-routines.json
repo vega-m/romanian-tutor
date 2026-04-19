@@ -1,0 +1,111 @@
+{
+  "$schema": "reading-text",
+  "version": "1.0",
+  "id": "R04-daily-routines",
+  "title": "Rutine Zilnice",
+  "titleEn": "Daily Routines",
+  "cefrLevel": "A2",
+  "texts": [
+    {
+      "id": "r04_001",
+      "title": "O Zi cu Familia",
+      "titleEn": "A Day with the Family",
+      "text": "Sâmbăta este ziua mea preferată. Mă trezesc la opt dimineața, fără alarmă. Fac cafea pentru mine și pentru soția mea, iar ea pregătește micul dejun pentru copii. După micul dejun, mergem cu toții la piață. Cumpărăm legume proaspete, fructe și brânză de la țară. Copiii aleargă prin parc în timp ce noi stăm de vorbă. La prânz gătim împreună — facem sarmale, felul nostru preferat. După-amiaza, copiii se joacă în curte, iar eu citesc ziarul pe balcon. Seara, vizionăm un film împreună și mâncăm popcorn. Este o zi simplă, dar fericită.",
+      "translation": "Saturday is my favorite day. I wake up at eight in the morning, without an alarm. I make coffee for myself and for my wife, and she prepares breakfast for the kids. After breakfast, we all go to the market. We buy fresh vegetables, fruits, and countryside cheese. The kids run through the park while we chat. At lunch we cook together — we make sarmale, our favorite dish. In the afternoon, the kids play in the yard, and I read the newspaper on the balcony. In the evening, we watch a movie together and eat popcorn. It's a simple but happy day.",
+      "vocabularyNotes": [
+        {"word": "alarmă", "meaning": "alarm", "notes": "feminine noun (f.)"},
+        {"word": "piață", "meaning": "market", "notes": "feminine noun (f.)"},
+        {"word": "proaspete", "meaning": "fresh", "notes": "adjective, plural form of 'proaspăt'"},
+        {"word": "sarmale", "meaning": "cabbage rolls (traditional dish)", "notes": "feminine plural noun"},
+        {"word": "popcorn", "meaning": "popcorn", "notes": "neuter noun (n.)"}
+      ],
+      "questions": [
+        {
+          "id": "r04_q1",
+          "type": "comprehension",
+          "question": "Când se trezește naratorul sâmbăta?",
+          "questionEn": "When does the narrator wake up on Saturday?",
+          "answer": "La opt dimineața",
+          "acceptableAnswers": ["la opt dimineața", "la opt", "8", "opt"],
+          "options": null
+        },
+        {
+          "id": "r04_q2",
+          "type": "multiple-choice",
+          "question": "Ce gătesc la prânz?",
+          "questionEn": "What do they cook for lunch?",
+          "options": ["Ciorbă de pui", "Sarmale", "Mămăligă cu brânză", "Pizza"],
+          "answer": "Sarmale"
+        },
+        {
+          "id": "r04_q3",
+          "type": "comprehension",
+          "question": "Ce face naratorul după-amiaza?",
+          "questionEn": "What does the narrator do in the afternoon?",
+          "answer": "Citește ziarul pe balcon",
+          "acceptableAnswers": ["citește ziarul pe balcon", "citește ziarul", "citi ziarul"],
+          "options": null
+        },
+        {
+          "id": "r04_q4",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'proaspete' în acest context?",
+          "questionEn": "What does 'proaspete' mean in this context?",
+          "answer": "fresh",
+          "acceptableAnswers": ["fresh", "proaspete", "nou"],
+          "options": null
+        }
+      ]
+    },
+    {
+      "id": "r04_002",
+      "title": "Rutina unei Studente",
+      "titleEn": "A Student's Routine",
+      "text": "Numele meu este Elena și sunt studentă în anul al doilea la universitate. În zilele de curs, mă scol la șase și jumătate. Mă spăl, mă îmbrac și iau un mic dejun rapid — de obicei, un sandviș și o cafea. Merg la facultate cu metroul. Cursurile încep la opt și se termină la douăsprezece. După curs, mănânc la cantina universității cu colegele mele. După-amiaza studiez la bibliotecă până la cinci. Uneori merg la sala de sport sau mă întâlnesc cu prietenele. Seara, gătesc ceva simplu și apoi învăț până la unsprezece. Înainte de culcare, mă uit puțin la telefon. Este o viață obositoare, dar îmi place.",
+      "translation": "My name is Elena and I am a second-year university student. On course days, I get up at six thirty. I wash, get dressed, and have a quick breakfast — usually a sandwich and a coffee. I go to the university by metro. Classes start at eight and finish at twelve. After class, I eat at the university canteen with my classmates. In the afternoon I study at the library until five. Sometimes I go to the gym or meet up with friends. In the evening, I cook something simple and then study until eleven. Before bed, I look at my phone a little. It's a tiring life, but I enjoy it.",
+      "vocabularyNotes": [
+        {"word": "a se scula", "meaning": "to wake up / to get up", "notes": "reflexive verb, 1st conjugation"},
+        {"word": "facultate", "meaning": "faculty / university department", "notes": "feminine noun (f.)"},
+        {"word": "cantină", "meaning": "canteen / cafeteria", "notes": "feminine noun (f.)"},
+        {"word": "sala de sport", "meaning": "the gym", "notes": "feminine noun phrase"},
+        {"word": "obositoare", "meaning": "tiring / exhausting", "notes": "adjective, feminine form of 'obositor'"}
+      ],
+      "questions": [
+        {
+          "id": "r04_q5",
+          "type": "multiple-choice",
+          "question": "Cum merge Elena la facultate?",
+          "questionEn": "How does Elena get to the university?",
+          "options": ["Pe jos", "Cu autobuzul", "Cu metroul", "Cu bicicleta"],
+          "answer": "Cu metroul"
+        },
+        {
+          "id": "r04_q6",
+          "type": "comprehension",
+          "question": "La ce oră se termină cursurile?",
+          "questionEn": "What time do classes end?",
+          "answer": "La douăsprezece",
+          "acceptableAnswers": ["la douăsprezece", "12", "douăsprezece"],
+          "options": null
+        },
+        {
+          "id": "r04_q7",
+          "type": "multiple-choice",
+          "question": "Ce mănâncă Elena de obicei la micul dejun?",
+          "questionEn": "What does Elena usually eat for breakfast?",
+          "options": ["Ouă și bacon", "Un sandviș și o cafea", "Cereale cu lapte", "Pâine cu unt"],
+          "answer": "Un sandviș și o cafea"
+        },
+        {
+          "id": "r04_q8",
+          "type": "vocabulary",
+          "question": "Ce înseamnă 'obositoare'?",
+          "questionEn": "What does 'obositoare' mean?",
+          "answer": "tiring / exhausting",
+          "acceptableAnswers": ["tiring", "exhausting", "obositoare", "obositor"],
+          "options": null
+        }
+      ]
+    }
+  ]
+}

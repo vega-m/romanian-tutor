@@ -1,0 +1,63 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G29-past-narrative-logic",
+  "title": "Logica Narativă a Timpurilor Trecute",
+  "titleEn": "Past Narrative Logic",
+  "cefrLevel": "B1",
+  "prerequisites": ["G10-past-compound", "G12-past-imperfect", "G26-pluperfect"],
+  "estimatedMinutes": 45,
+  "introduction": "To tell a story effectively in Romanian, you must know how to combine the three main past tenses. The Imperfect sets the scene, the Compound Past moves the action forward, and the Pluperfect handles flashbacks. This 'Past Spectrum' is the key to natural storytelling.",
+  "introductionRo": "Pentru a nara eficient în limba română, trebuie să știi cum să combini cele trei timpuri principale ale trecutului. Imperfectul creează cadrul, Perfectul Compus face acțiunea să înainteze, iar Mai-mult-ca-perfectul gestionează flashback-urile. Acest „spectru al trecutului” este cheia unei relatări naturale.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "The 3 Layers of a Story",
+      "headingRo": "Cele 3 Straturi ale unei Narațiuni",
+      "content": "Think of your story as a painting: the background, the main figures, and the events that happened before the painting was made.",
+      "contentRo": "Gândește-te la povestea ta ca la un tablou: fundalul, figurile principale și evenimentele care au avut loc înainte de realizarea tabloului.",
+      "table": {
+        "headers": ["Layer", "Tense", "Function", "Example (ro)"],
+        "rows": [
+          ["Background / Scene", "Imperfect", "Descriptions, weather, ongoing states", "Era o zi frumoasă... (It was a beautiful day...)"],
+          ["Action / Foreground", "Perfect Compus", "Specific completed events", "Dintr-odată, a sunat telefonul. (Suddenly, the phone rang.)"],
+          ["Flashback", "Mai-mult-ca-perfect", "Actions before the main story", "Uitasem cheile în mașină. (I had forgotten the keys in the car.)"]
+        ]
+      }
+    },
+    {
+      "type": "explanation",
+      "heading": "Combining the Tenses",
+      "headingRo": "Combinarea Timpurilor",
+      "content": "A natural B1 paragraph often looks like this: Scene (Imperfect) → Event (Perfect Compus) → Explanation/Flashback (Pluperfect).",
+      "contentRo": "Un paragraf natural la nivelul B1 arată adesea astfel: Cadru (Imperfect) → Eveniment (Perfect Compus) → Explicație/Flashback (Mai-mult-ca-perfect).",
+      "examples": [
+        {
+          "ro": "Afară ploua încet (Imp.). Am deschis umbrela (P.C.) pentru că uitasem (M.M.C.P.) să iau haina de ploaie.",
+          "en": "It was raining (ongoing state). I opened the umbrella (event) because I had forgotten (prior action) to take the raincoat.",
+          "notes": "Note how the logic of time is preserved through the choice of tenses."
+        }
+      ]
+    },
+    {
+      "type": "practice-point",
+      "heading": "Narrative Connectors",
+      "headingRo": "Conectori Narativi",
+      "content": "Use these words to link your past actions smoothly:",
+      "contentRo": "Folosește aceste cuvinte pentru a lega fluid acțiunile tale din trecut:",
+      "rules": [
+        "Dintr-odată / Deodată (Suddenly) — signals a switch to Perfect Compus",
+        "În timp ce / Pe când (While) — signals a background action in the Imperfect",
+        "Pentru că deja / Deoarece (Because already) — often leads to a Pluperfect",
+        "Apoi / După aceea (Then / After that) — links events in Perfect Compus"
+      ]
+    }
+  ],
+  "summaryPoints": [
+    "Imperfect = Background (settings, habits)",
+    "Perfect Compus = Foreground (actions, events)",
+    "Pluperfect = Past of the Past (flashbacks)",
+    "Mastering the mix is essential for the B1 speaking and writing exams"
+  ],
+  "relatedExercises": []
+}
