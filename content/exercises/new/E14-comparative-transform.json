@@ -145,15 +145,15 @@
     {
       "id": "e14_010",
       "type": "fill-blank",
-      "prompt": "Complete with the correct form: Cartea este ___ (the least interesting) decât mi-am imaginat.",
+      "prompt": "Complete with the correct form: Cartea este ___ (less interesting) decât mi-am imaginat.",
       "promptRo": "Completează cu forma corectă: Cartea este ___ decât mi-am imaginat.",
       "sentence": "Cartea este ___ decât mi-am imaginat.",
-      "answer": "cea mai puțin interesantă",
+      "answer": "mai puțin interesantă",
       "acceptableAnswers": [
-        "cea mai puțin interesantă"
+        "mai puțin interesantă"
       ],
-      "explanation": "The 'least' form in Romanian uses: cel/cea mai puțin + adjective. Feminine: cea mai puțin interesantă (the least interesting). Masculine: cel mai puțin interesant.",
-      "explanationRo": "Forma 'cel mai puțin' în română folosește: cel/cea mai puțin + adjectiv. Feminin: cea mai puțin interesantă (cea mai puțin interesantă). Masculin: cel mai puțin interesant."
+      "explanation": "Comparative of inferiority: mai puțin + adjective + decât. Feminine: mai puțin interesantă (less interesting). The 'decât' (than) particle signals a comparison between two things.",
+      "explanationRo": "Comparativul de inferioritate: mai puțin + adjectiv + decât. Feminin: mai puțin interesantă (mai puțin interesantă). Particula 'decât' semnalează o comparație între două lucruri."
     }
   ]
 }

@@ -7,8 +7,8 @@
   "cefrLevel": "A1",
   "prerequisites": ["G03-noun-gender"],
   "estimatedMinutes": 15,
-  "instructions": "Identify the gender of Romanian nouns. Remember: masculine ends in consonant or -u, feminine ends in -ă/-e/-ea, neuter ends in -u or -o, and some are irregular.",
-  "instructionsRo": "Identifică genul substantivelor românești. Masculinul se termină în consoană sau -u, femininul în -ă/-e/-ea, neutru în -u sau -o, dar sunt și excepții.",
+  "instructions": "Identify the gender of Romanian nouns. Remember: masculine usually ends in a consonant or -e, feminine ends in -ă/-e/-ea, and neuter usually ends in a consonant or -u/-ou.",
+  "instructionsRo": "Identifică genul substantivelor românești. Masculinul se termină de obicei în consoană sau -e, femininul în -ă/-e/-ea, iar neutrul în consoană sau -u/-ou.",
   "sourceWeek": 2,
   "exercises": [
     {

@@ -148,8 +148,8 @@
         "Nouă mergem la cinema diseară.",
         "Noi merge la cinema diseară."
       ],
-      "explanation": "'Noi' is the subject pronoun for 'we'. It takes the 1st person plural verb form: 'mergem'. 'Ne' is the clitic form (not used as subject). 'Nouă' is the stressed form (used after prepositions).",
-      "explanationRo": "'Noi' este pronumele subiect pentru 'noi'. Primește verbul la persoana I plural: 'mergem'. 'Ne' este forma clitică. 'Nouă' este forma accentuată (folosită după prepoziții).",
+      "explanation": "'Noi' is the subject pronoun for 'we'. It takes the 1st person plural verb form: 'mergem'. 'Ne' is the unstressed clitic form (us). 'Nouă' is the stressed Dative form (to us).",
+      "explanationRo": "'Noi' este pronumele subiect pentru 'noi'. Primește verbul la persoana I plural: 'mergem'. 'Ne' este forma clitică neaccentuată. 'Nouă' este forma de accent pentru dativ (nouă).",
       "acceptableAnswers": []
     },
     {
@@ -162,8 +162,9 @@
       "acceptableAnswers": [
         "meu"
       ],
-      "explanation": "'Câine' is a masculine singular noun. The possessive pronoun for 'eu' must agree: 'meu' (masculine singular). 'Acesta este câinele meu' or 'Acesta este câine meu'.",
-      "explanationRo": "'Câine' este un substantiv masculin singular. Pronumele posesiv pentru 'eu' trebuie să fie de acord: 'meu' (masculin singular). 'Acesta este câinele meu' sau 'Acesta este câine meu'."
+      "explanation": "'Câine' is a masculine singular noun. The possessive pronoun for 'eu' must agree: 'meu' (masculine singular). Standard usage: 'Acesta este câinele meu'.",
+      "explanationRo": "'Câine' este un substantiv masculin singular. Pronumele posesiv pentru 'eu' trebuie să fie de acord: 'meu' (masculin singular). Utilizarea standard: 'Acesta este câinele meu'.",
+      "acceptableAnswers": []
     },
     {
       "id": "q03_011",

@@ -170,12 +170,12 @@
       "prompt": "Conjugate 'a mânca' (to eat) in the imperfect for 'noi': Noi ___ la restaurant când a sunat telefonul.",
       "promptRo": "Conjugă 'a mânca' la imperfect pentru 'noi': Noi ___ la restaurant când a sunat telefonul.",
       "sentence": "Noi ___ la restaurant când a sunat telefonul.",
-      "answer": "mâncau",
+      "answer": "mâncam",
       "acceptableAnswers": [
-        "mâncau"
+        "mâncam"
       ],
-      "explanation": "The imperfect of 'a mânca' for 'noi' is 'mâncau'. Note: 1st person plural and 3rd person plural are identical in the imperfect (mâncau). The context ('noi') clarifies the meaning. The imperfect is used here because eating was in progress when the phone rang.",
-      "explanationRo": "Imperfectul lui 'a mânca' pentru 'noi' este 'mâncau'. Observă: persoana I plural și a III-a plural sunt identice la imperfect (mâncau). Contextul ('noi') clarifică sensul. Imperfectul se folosește aici pentru că mâncatul era în desfășurare când a sunat telefonul."
+      "explanation": "The imperfect of 'a mânca' for 'noi' is 'mâncam'. Full conjugation: eu mâncam, tu mâncai, el/ea mânca, noi mâncam, voi mâncați, ei/ele mâncau. The imperfect is used here because eating was in progress when the phone rang.",
+      "explanationRo": "Imperfectul lui 'a mânca' pentru 'noi' este 'mâncam'. Conjugarea completă: eu mâncam, tu mâncai, el/ea mânca, noi mâncam, voi mâncați, ei/ele mâncau. Imperfectul se folosește aici pentru că mâncatul era în desfășurare când a sunat telefonul."
     },
     {
       "id": "q05_012",

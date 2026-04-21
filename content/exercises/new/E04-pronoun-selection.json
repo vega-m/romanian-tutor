@@ -139,8 +139,8 @@
     {
       "id": "e04_009",
       "type": "multiple-choice",
-      "prompt": "What is the correct form for 'we' in Romanian?",
-      "promptRo": "Care este forma corectă pentru 'we' în română?",
+      "prompt": "What is the correct form for 'we' (subject) in Romanian?",
+      "promptRo": "Care este forma corectă pentru 'we' (subiect) în română?",
       "answer": "noi",
       "options": [
         "noi",
@@ -148,8 +148,8 @@
         "ne",
         "nouă"
       ],
-      "explanation": "'Noi' means 'we' (subject pronoun, 1st person plural). 'Ne' is the clitic form (us/ourselves). 'Nouă' is the stressed form (after prepositions).",
-      "explanationRo": "'Noi' înseamnă 'noi' (pronume subiect, persoana I plural). 'Ne' este forma clitică. 'Nouă' este forma de accent.",
+      "explanation": "'Noi' means 'we' (subject pronoun, 1st person plural). 'Ne' is the unstressed clitic form (us/ourselves). 'Nouă' is the stressed Dative form (to us).",
+      "explanationRo": "'Noi' înseamnă 'noi' (pronume subiect, persoana I plural). 'Ne' este forma clitică neaccentuată. 'Nouă' este forma de accent pentru dativ (nouă).",
       "sourceGrammarId": "G06-personal-pronouns"
     },
     {
@@ -162,8 +162,8 @@
       "acceptableAnswers": [
         "se"
       ],
-      "explanation": "'Se' is the reflexive pronoun for 3rd person. 'Se spală' means 'she washes herself'.",
-      "explanationRo": "'Se' este pronumele reflexiv pentru persoana a III-a. 'Se spală' înseamnă 'se spală'.",
+      "explanation": "'Se' is the reflexive pronoun for 3rd person singular and plural. 'Se spală' means 'she washes herself'.",
+      "explanationRo": "'Se' este pronumele reflexiv pentru persoana a III-a singular și plural. 'Se spală' înseamnă 'se spală'.",
       "sourceGrammarId": "G06-personal-pronouns"
     },
     {
@@ -178,8 +178,8 @@
         "Voi sunteți din România?",
         "Dânsul este din România?"
       ],
-      "explanation": "'Dumneavoastră' always takes a plural verb form even when addressing one person: 'sunteți' (not 'ești'). 'Dumneata' is a polite but familiar alternative.",
-      "explanationRo": "'Dumneavoastră' cere mereu verbul la plural chiar când te adresezi unei singure persoane: 'sunteți' (nu 'ești').",
+      "explanation": "'Dumneavoastră' is the standard polite 'you' and always takes a plural verb form even when addressing one person: 'sunteți'. 'Dumneata' is also polite but more familiar.",
+      "explanationRo": "'Dumneavoastră' este forma politicoasă standard și cere mereu verbul la plural chiar când te adresezi unei singure persoane: 'sunteți'.",
       "sourceGrammarId": "G06-personal-pronouns",
       "acceptableAnswers": []
     },

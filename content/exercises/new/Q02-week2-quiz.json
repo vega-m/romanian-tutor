@@ -32,8 +32,8 @@
     {
       "id": "q02_002",
       "type": "multiple-choice",
-      "prompt": "What gender is the noun 'copac' (tree)?",
-      "promptRo": "Ce gen este substantivul 'copac' (copac)?",
+      "prompt": "What gender is the noun 'scaun' (chair)?",
+      "promptRo": "Ce gen este substantivul 'scaun' (scaun)?",
       "answer": "Neuter",
       "options": [
         "Masculine",
@@ -41,8 +41,8 @@
         "Neuter",
         "Common"
       ],
-      "explanation": "'Copac' is neuter. In the singular, neuter nouns behave like masculine (copacul), and in the plural, like feminine (copacii → copacele). Many nouns ending in a consonant are neuter.",
-      "explanationRo": "'Copac' este neutru. La singular, substantivele neutre se comportă ca cele masculine (copacul), iar la plural, ca cele feminine (copacele). Multe substantive terminate în consoană sunt neutre."
+      "explanation": "'Scaun' is neuter. In the singular, neuter nouns behave like masculine (un scaun, scaunul), and in the plural, like feminine (niște scaune, scaunele).",
+      "explanationRo": "'Scaun' este neutru. La singular, substantivele neutre se comportă ca cele masculine (un scaun, scaunul), iar la plural, ca cele feminine (niște scaune, scaunele)."
     },
     {
       "id": "q02_003",
@@ -56,8 +56,8 @@
         "femeiul",
         "femeiele"
       ],
-      "explanation": "'Femeie' is feminine and ends in '-e'. For feminine nouns ending in '-e', the definite article replaces '-e' with '-a': femeie → femeia. The article is not added as a separate suffix.",
-      "explanationRo": "'Femeie' este feminin și se termină în '-e'. Pentru substantivele feminine terminate în '-e', articolul hotărât înlocuiește '-e' cu '-a': femeie → femeia. Articolul nu se adaugă ca sufix separat."
+      "explanation": "'Femeie' is feminine and ends in '-e'. For feminine nouns ending in '-e', the ending changes to '-ea': femeie → femeia.",
+      "explanationRo": "'Femeie' este feminin și se termină în '-e'. Pentru substantivele feminine terminate în '-e', terminația se schimbă în '-ea': femeie → femeia."
     },
     {
       "id": "q02_004",
@@ -124,15 +124,15 @@
       "type": "multiple-choice",
       "prompt": "What happens to neuter nouns in the plural?",
       "promptRo": "Ce se întâmplă cu substantivele neutre la plural?",
-      "answer": "They take feminine plural endings: copac → copace → copacele",
+      "answer": "They take feminine plural endings: scaun → scaune → scaunele",
       "options": [
-        "They take masculine plural endings: copac → copaci → copacii",
-        "They take feminine plural endings: copac → copace → copacele",
-        "They keep the same ending: copac → copac → copacul",
+        "They take masculine plural endings: scaun → scauni → scaunul",
+        "They take feminine plural endings: scaun → scaune → scaunele",
+        "They keep the same ending: scaun → scaun → scaunul",
         "Neuter nouns do not have plural forms"
       ],
-      "explanation": "Neuter nouns behave like masculine in the singular (copacul) but like feminine in the plural (copacele). The plural ending is typically '-e' and the definite article is '-le'.",
-      "explanationRo": "Substantivele neutre se comportă ca cele masculine la singular (copacul), dar ca cele feminine la plural (copacele). Terminația pluralului este de obicei '-e', iar articolul hotărât este '-le'."
+      "explanation": "Neuter nouns behave like masculine in the singular (scaunul) but like feminine in the plural (scaunele). The plural ending is typically '-e' and the definite article is '-le'.",
+      "explanationRo": "Substantivele neutre se comportă ca cele masculine la singular (scaunul), dar ca cele feminine la plural (scaunele). Terminația pluralului este de obicei '-e', iar articolul hotărât este '-le'."
     },
     {
       "id": "q02_009",

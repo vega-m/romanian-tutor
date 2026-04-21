@@ -188,8 +188,8 @@
         "Nu a deschide",
         "Deschizând nu"
       ],
-      "explanation": "Negative imperative: 'Nu' + present subjunctive. 'A deschide' → 'Nu deschide'. The 'să' is dropped in imperative constructions.",
-      "explanationRo": "Imperativ negativ: 'Nu' + subjonctiv prezent. 'A deschide' → 'Nu deschide'. 'Să' cade în construcțiile imperativului."
+      "explanation": "Negative imperative (tu form): 'Nu' + infinitive (without 'a'). 'A deschide' → 'Nu deschide'. The negative imperative for 'tu' is always identical to the infinitive form.",
+      "explanationRo": "Imperativ negativ (forma tu): 'Nu' + infinitiv (fără 'a'). 'A deschide' → 'Nu deschide'. Imperativul negativ pentru 'tu' este întotdeauna identic cu forma de infinitiv."
     },
     {
       "id": "e22_013",
@@ -259,8 +259,8 @@
       "acceptableAnswers": [
         "cu"
       ],
-      "explanation": "Means of transport in Romanian uses 'cu': 'cu autobuzul', 'cu metroul', 'cu mașina'. However, in the accusative construction, the article can be dropped: 'cu autobuz'.",
-      "explanationRo": "Mijloacele de transport în română folosesc 'cu': 'cu autobuzul', 'cu metroul', 'cu mașina'. Totuși, în construcția acuzativului, articolul poate fi omis: 'cu autobuz'."
+      "explanation": "Means of transport in Romanian typically use the preposition 'cu': 'cu autobuzul', 'cu mașina'. In certain contexts like this sentence, the unarticulated 'cu autobuz' is also acceptable.",
+      "explanationRo": "Mijloacele de transport în română folosesc de regulă prepoziția 'cu': 'cu autobuzul', 'cu mașina'. În anumite contexte, se acceptă și forma nearticulată 'cu autobuz'."
     },
     {
       "id": "e22_018",

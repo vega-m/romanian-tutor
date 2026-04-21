@@ -41,8 +41,8 @@
         "Ul"
       ],
       "answer": "Un",
-      "explanation": "'Copil' is a neuter noun (neuter nouns ending in consonant take 'un' as indefinite article). In Romanian, neuter nouns use masculine forms in the singular: 'un copil'. In the plural they use feminine forms: 'niște copii'.",
-      "explanationRo": "'Copil' este un substantiv neutru (substantivele neutre care se termină în consoană primesc 'un' ca articol nehotărât). În limba română, substantivele neutre folosesc formele masculine la singular: 'un copil'. La plural folosesc formele feminine: 'niște copii'."
+      "explanation": "'Copil' is a masculine noun. In Romanian, masculine singular nouns take 'un' as the indefinite article. The plural is 'copii', which takes 'niște'.",
+      "explanationRo": "'Copil' este un substantiv masculin. În limba română, substantivele masculine la singular primesc 'un' ca articol nehotărât. Pluralul este 'copii', care primește 'niște'."
     },
     {
       "id": "q12_003",
@@ -64,17 +64,17 @@
       "id": "q12_004",
       "type": "multiple-choice",
       "topic": "Possessive Adjectives",
-      "question": "Complete the sentence correctly: 'Aceasta este ______ mașină.' (ei = her)",
-      "questionRo": "Completați propoziția corect: 'Aceasta este ______ mașină.' (ei = a ei)",
+      "question": "Complete the sentence correctly: 'Aceasta este ______ mașină.' (her = a ei)",
+      "questionRo": "Completați propoziția corect: 'Aceasta este ______ mașină.' (her = a ei)",
       "options": [
         "lui",
         "ei",
-        "sale",
+        "sa",
         "lor"
       ],
-      "answer": "sale",
-      "explanation": "When the possessor is mentioned with a stressed pronoun ('ei'), the possessive adjective 'sale' is used: 'mașina ei' or 'mașina sale'. Both are grammatically correct, but 'sale' is required when the possessor is not immediately adjacent. 'Lui' is masculine, 'lor' is plural.",
-      "explanationRo": "Când posesorul este menționat cu un pronume cu accent ('ei'), se folosește adjectivul posesiv 'sale': 'mașina ei' sau 'mașina sale'. Ambele sunt corecte, dar 'sale' este necesar când posesorul nu este imediat adiacent. 'Lui' este masculin, 'lor' este plural."
+      "answer": "ei",
+      "explanation": "To express 'her' in Romanian, you can use the genitive pronoun 'ei' or the possessive adjective 'sa'. 'Mașina ei' is very common. 'Mașina sa' is also correct, with 'sa' agreeing with the feminine singular noun 'mașină'. 'Lui' means 'his', 'lor' means 'their'.",
+      "explanationRo": "Pentru a exprima posesia la persoana a III-a feminin, se folosește pronumele în genitiv 'ei' sau adjectivul posesiv 'sa'. 'Mașina ei' este forma cea mai comună."
     },
     {
       "id": "q12_005",

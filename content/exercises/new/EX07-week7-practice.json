@@ -45,15 +45,15 @@
     {
       "id": "ex07_003",
       "type": "fill-blank",
-      "prompt": "Fill in the blank with the correct dative form of 'copiii' (the children): 'Le povestesc ___ o basm.' (I tell the children a fairy tale.)",
-      "promptRo": "Completează spațiul liber cu forma corectă de dativ a lui 'copiii': 'Le povestesc ___ o basm.'",
-      "sentence": "Le povestesc ___ o basm.",
+      "prompt": "Fill in the blank with the correct dative form of 'copiii' (the children): 'Le povestesc ___ un basm.' (I tell the children a fairy tale.)",
+      "promptRo": "Completează spațiul liber cu forma corectă de dativ a lui 'copiii': 'Le povestesc ___ un basm.'",
+      "sentence": "Le povestesc ___ un basm.",
       "answer": "copiilor",
       "acceptableAnswers": [
         "copiilor"
       ],
-      "explanation": "'Copiii' is a masculine plural noun. In the dative plural, the ending is '-lor': 'copiii' → 'copiilor'. The sentence 'Le povestesc copiilor o basm' means 'I tell the children a fairy tale'. The dative clitic 'Le' (to them) is reinforced by 'copiilor'.",
-      "explanationRo": "'Copiii' este un substantiv masculin plural. La dativ plural, terminația este '-lor': 'copiii' → 'copiilor'. Propoziția 'Le povestesc copiilor o basm' înseamnă 'Le povestesc copiilor o basm'. Clitica dativ 'Le' (lor) este întărită de 'copiilor'."
+      "explanation": "'Copiii' is a masculine plural noun. In the dative plural, the ending is '-lor': 'copiii' → 'copiilor'. The sentence 'Le povestesc copiilor un basm' means 'I tell the children a fairy tale'. 'Basm' is neuter (un basm).",
+      "explanationRo": "'Copiii' este un substantiv masculin plural. La dativ plural, terminația este '-lor': 'copiii' → 'copiilor'. Propoziția 'Le povestesc copiilor un basm' înseamnă 'Le povestesc copiilor un basm'. 'Basm' este neutru (un basm)."
     },
     {
       "id": "ex07_004",
@@ -148,7 +148,7 @@
       "type": "writing",
       "prompt": "Describe your job or your studies (lucrul tău sau studiile tale) using correct cases and prepositions. Write 8-10 sentences. Include: at least 3 different cases (nominative, accusative, genitive, dative), at least 4 different prepositions (pe, la, de, în, cu, spre/către, despre, etc.), and at least 2 demonstrative pronouns or adjectives (acest/această, acel/acea, aceasta/aceea, etc.).",
       "promptRo": "Descrie lucrul tău sau studiile tale folosind cazuri și prepoziții corecte. Scrie 8-10 propoziții. Include: cel puțin 3 cazuri diferite (nominativ, acuzativ, genitiv, dativ), cel puțin 4 prepoziții diferite (pe, la, de, în, cu, spre/către, despre etc.) și cel puțin 2 pronume sau adjective demonstrative (acest/această, acel/acea, aceasta/aceea etc.).",
-      "answer": "Model answer:\n\nEu sunt student la Universitatea din București. Fac parte la Facultatea de Litere. Merg la cursuri în fiecare zi de luni până vineri. Profesorii facultății sunt foarte bine pregătiți. Îi dau profesorului meu lucrările la timp. Această universitate are o bibliotecă mare, unde studiem pentru examene. În bibliotecă, stau la masă și citesc cărți despre istoria României. Acel coleg de la grupa mea lucrează și el la proiectul de cercetare. Vorbesc cu colegii mei despre temele pentru examen. Spre seară, mă întorc acasă cu autobuzul. Aceste studii îmi plac foarte mult.",
+      "answer": "Model answer:\n\nEu sunt student la Universitatea din București. Fac parte din Facultatea de Litere. Merg la cursuri în fiecare zi de luni până vineri. Profesorii facultății sunt foarte bine pregătiți. Îi dau profesorului meu lucrările la timp. Această universitate are o bibliotecă mare, unde studiem pentru examene. În bibliotecă, stau la masă și citesc cărți despre istoria României. Acel coleg de la grupa mea lucrează și el la proiectul de cercetare. Vorbesc cu colegii mei despre temele pentru examen. Spre seară, mă întorc acasă cu autobuzul. Aceste studii îmi plac foarte mult.",
       "rubric": {
         "criteria": [
           {

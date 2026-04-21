@@ -31,16 +31,16 @@
     {
       "id": "e13_002",
       "type": "fill-blank",
-      "prompt": "Complete with the correct demonstrative pronoun: ___ (that) femeie este profesoara mea.",
-      "promptRo": "Completează cu pronumele demonstrativ corect: ___ femeie este profesoara mea.",
+      "prompt": "Complete with the correct demonstrative adjective: ___ (that) femeie este profesoara mea.",
+      "promptRo": "Completează cu adjectivul demonstrativ corect: ___ femeie este profesoara mea.",
       "sentence": "___ femeie este profesoara mea.",
-      "answer": "Aceea",
+      "answer": "Acea",
       "acceptableAnswers": [
-        "Aceea",
+        "Acea",
         "acea"
       ],
-      "explanation": "'Aceea' is the feminine singular demonstrative pronoun for 'that' (farther from the speaker). It agrees with 'femeie' (feminine).",
-      "explanationRo": "'Aceea' este pronumele demonstrativ feminin singular pentru 'acea' (mai departe de vorbitor). Este de acord cu 'femeie' (feminin)."
+      "explanation": "'Acea' is the feminine singular demonstrative adjective for 'that' when it comes BEFORE the noun. If it were after, we would use 'femeia aceea'.",
+      "explanationRo": "'Acea' este adjectivul demonstrativ feminin singular pentru 'acea' când stă ÎNAINTEA substantivului. Dacă ar fi după, am folosi 'femeia aceea'."
     },
     {
       "id": "e13_003",
@@ -54,23 +54,23 @@
         "aceste cărțile",
         "aceia cărți"
       ],
-      "explanation": "'Aceste' = these (feminine/neuter plural, close). With 'carte': aceste cărți (these books). 'Acele' = those (feminine/neuter plural, far).",
-      "explanationRo": "'Aceste' = aceste (feminin/neutru plural, aproape). Cu 'carte': aceste cărți (aceste cărți). 'Acele' = acele (feminin/neutru plural, departe).",
+      "explanation": "'Aceste' = these (feminine/neuter plural, close). In the 'before' position, the noun remains unarticulated: 'aceste cărți'.",
+      "explanationRo": "'Aceste' = aceste (feminin/neutru plural, aproape). În poziția 'înainte', substantivul rămâne nearticulat: 'aceste cărți'.",
       "acceptableAnswers": []
     },
     {
       "id": "e13_004",
       "type": "fill-blank",
-      "prompt": "Complete with the correct demonstrative pronoun: ___ (those) băieți sunt din clasa mea.",
-      "promptRo": "Completează cu pronumele demonstrativ corect: ___ băieți sunt din clasa mea.",
+      "prompt": "Complete with the correct demonstrative adjective: ___ (those) băieți sunt din clasa mea.",
+      "promptRo": "Completează cu adjectivul demonstrativ corect: ___ băieți sunt din clasa mea.",
       "sentence": "___ băieți sunt din clasa mea.",
-      "answer": "Aceia",
+      "answer": "Acei",
       "acceptableAnswers": [
-        "Aceia",
-        "aceia"
+        "Acei",
+        "acei"
       ],
-      "explanation": "'Aceia' = those (masculine plural, farther away). For masculine animate nouns in the plural, 'aceia' is used. 'Acești' would be the close form.",
-      "explanationRo": "'Aceia' = aceia (masculin plural, mai departe). Pentru substantivele masculine animate la plural, se folosește 'aceia'. 'Acești' ar fi forma de aproape."
+      "explanation": "'Acei' = those (masculine plural adjective, before noun). 'Aceia' is the pronoun form (used alone or after the noun: 'băieții aceia').",
+      "explanationRo": "'Acei' = acei (adjectiv masculin plural, înaintea substantivului). 'Aceia' este forma de pronume."
     },
     {
       "id": "e13_005",

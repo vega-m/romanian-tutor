@@ -82,7 +82,7 @@
       "options": [
         "rămâne (to remain)",
         "rămîne (to remain)",
-        "rămâne (to remain)",
+        "ramâne (to remain)",
         "râmîne (to remain)"
       ],
       "explanation": "The rule: 'â' is used in the middle of words, 'î' at the beginning or end. 'Rămâne' correctly uses 'â' inside the word and 'ă' in the first syllable.",
@@ -115,8 +115,8 @@
         "/he/ (like 'he' in 'hello')",
         "/ʒe/ (like 'ge' in 'mirage')"
       ],
-      "explanation": "Before 'e' and 'i', 'g' makes the /dʒ/ sound (like English 'j'). So 'ge' = /dʒe/, as in 'geam' (window) = /dʒam/.",
-      "explanationRo": "Înainte de 'e' și 'i', 'g' face sunetul /dʒ/ (ca 'j' în engleză). Deci 'ge' = /dʒe/, ca în 'geam' (geam) = /dʒam/."
+      "explanation": "Before 'e' and 'i', 'g' makes the /dʒ/ sound (like English 'j'). So 'ge' = /dʒe/, as in 'deget' (finger) = /'de.dʒet/.",
+      "explanationRo": "Înainte de 'e' și 'i', 'g' face sunetul /dʒ/ (ca 'j' în engleză). Deci 'ge' = /dʒe/, ca în 'deget' (deget) = /'de.dʒet/."
     },
     {
       "id": "q01_008",

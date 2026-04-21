@@ -96,17 +96,17 @@
     {
       "id": "q07_006",
       "type": "multiple-choice",
-      "prompt": "The preposition 'de' can be followed by which case(s)?",
-      "promptRo": "Prepoziția 'de' poate fi urmată de care caz(uri)?",
-      "answer": "Genitive and Accusative",
+      "prompt": "The preposition 'de' is typically followed by which case?",
+      "promptRo": "Prepoziția 'de' este urmată de obicei de care caz?",
+      "answer": "Accusative",
       "options": [
-        "Genitive and Accusative",
-        "Dative only",
-        "Nominative only",
-        "Genitive only"
+        "Accusative",
+        "Genitive",
+        "Dative",
+        "Nominative"
       ],
-      "explanation": "The preposition 'de' can be followed by either the genitive or the accusative case. With the accusative, 'de' indicates origin or material: 'venit de la București' (come from Bucharest), 'masă de lemn' (wooden table). With the genitive, it indicates quantity or partitive: 'o mulțime de oameni' (a lot of people).",
-      "explanationRo": "Prepoziția 'de' poate fi urmată de cazul genitiv sau acuzativ. Cu acuzativul, 'de' indică proveniența sau materialul: 'venit de la București', 'masă de lemn'. Cu genitivul, indică cantitatea: 'o mulțime de oameni'."
+      "explanation": "In standard Romanian, the preposition 'de' requires the accusative case: 'o cană de apă' (a cup of water), 'venit de departe' (come from far). Although it can sometimes express relationships like 'of', the noun following 'de' remains in its unarticulated accusative form.",
+      "explanationRo": "În româna standard, prepoziția 'de' cere cazul acuzativ: 'o cană de apă', 'venit de departe'. Deși poate exprima relații precum 'al', substantivul care urmează după 'de' rămâne în forma sa nearticulată de acuzativ."
     },
     {
       "id": "q07_007",

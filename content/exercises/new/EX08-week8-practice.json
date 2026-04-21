@@ -143,10 +143,10 @@
       "type": "error-correction",
       "prompt": "Find and correct the error in this sentence:",
       "promptRo": "Găsește și corectează greșeala din această propoziție:",
-      "sentence": "Băiatul a cărui mamă este doctor a venit la școală.",
-      "answer": "Băiatul al cărui mamă este doctor a venit la școală.",
-      "explanation": "The error is 'a cărui' instead of 'al cărui'. The possessive relative pronoun requires the article 'al' before 'cărui': 'al cărui' (whose, masculine singular). This is because the possessed noun determines the form. The complete paradigm: al cărui (m. sg.), a cărei (f. sg.), al căror (m. pl.), ale căror (f. pl.).",
-      "explanationRo": "Greșeala este 'a cărui' în loc de 'al cărui'. Pronumele relativ posesiv necesită articolul 'al' înainte de 'cărui': 'al cărui'. Paradigma completă: al cărui (m. sg.), a cărei (f. sg.), al căror (m. pl.), ale căror (f. pl.).",
+      "sentence": "Băiatul care tată este doctor a venit la școală.",
+      "answer": "Băiatul al cărui tată este doctor a venit la școală.",
+      "explanation": "The error is using 'care' instead of the possessive relative pronoun 'al cărui'. Since the antecedent 'băiatul' is masculine and the possessed noun 'tată' is also masculine singular, the correct form is 'al cărui'.",
+      "explanationRo": "Greșeala este folosirea lui 'care' în loc de pronumele relativ posesiv 'al cărui'. Deoarece antecedentul 'băiatul' este masculin și substantivul posedat 'tată' este tot masculin singular, forma corectă este 'al cărui'.",
       "acceptableAnswers": []
     },
     {

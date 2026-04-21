@@ -154,17 +154,17 @@
     {
       "id": "e05_010",
       "type": "multiple-choice",
-      "prompt": "What is the definite article + adjective form for 'om bun' (good man)?",
-      "promptRo": "Care este forma cu articol hotărât + adjectiv pentru 'om bun' (om bun)?",
+      "prompt": "What is the standard definite form for 'om bun' (good man)?",
+      "promptRo": "Care este forma hotărâtă standard pentru 'om bun' (om bun)?",
       "answer": "omul bun",
       "options": [
         "om bunul",
         "omul bun",
-        "bunul om",
+        "oameni buni",
         "omul de bun"
       ],
-      "explanation": "In Romanian, the definite article attaches to the noun, not the adjective. 'Om' → 'omul bun' (not 'om bunul'). Compare with the adjective-first variant: 'bunul om' is also correct but more emphatic.",
-      "explanationRo": "În română, articolul hotărât se atașează substantivului, nu adjectivului. 'Om' → 'omul bun'. Varianta cu adjectivul întâi: 'bunul om' este de asemenea corectă dar mai expresivă.",
+      "explanation": "In Romanian, the definite article usually attaches to the noun, not the adjective, in standard word order (noun + adjective). 'Om' → 'omul bun'. Placing the adjective first ('bunul om') is possible but more emphatic/poetic and less common in everyday speech.",
+      "explanationRo": "În română, articolul hotărât se atașează de obicei substantivului, nu adjectivului, în ordinea standard (substantiv + adjectiv). 'Om' → 'omul bun'.",
       "sourceGrammarId": "G05-adjective-agreement"
     }
   ]

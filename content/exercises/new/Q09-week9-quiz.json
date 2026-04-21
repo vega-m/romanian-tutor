@@ -175,16 +175,16 @@
     {
       "id": "q09_011",
       "type": "fill-blank",
-      "prompt": "Complete with the correct imperative form (2nd person plural 'voi'): '___ atenție la drum!' (Pay attention to the road!)",
-      "promptRo": "Completează cu forma corectă de imperativ (persoana a II-a plural 'voi'): '___ atenție la drum!'",
-      "sentence": "___ atenție la drum!",
+      "prompt": "Complete with the correct imperative form (2nd person plural 'voi'): '___ atenți la drum!' (Be careful on the road!)",
+      "promptRo": "Completează cu forma corectă de imperativ (persoana a II-a plural 'voi'): '___ atenți la drum!'",
+      "sentence": "___ atenți la drum!",
       "answer": "Fiți",
       "acceptableAnswers": [
         "Fiți",
         "Fiți voi"
       ],
-      "explanation": "The imperative of 'a fi' (to be) for the 2nd person plural is 'fiți'. 'Fiți atenție la drum!' = Pay attention to the road! (addressed to multiple people). For the 2nd person singular, the imperative is 'fii': 'Fii atent la drum!'",
-      "explanationRo": "Imperativul lui 'a fi' la persoana a II-a plural este 'fiți'. 'Fiți atenție la drum!' = Fiți atenție la drum! (adresat mai multor persoane). La persoana a II-a singular, imperativul este 'fii': 'Fii atent la drum!'"
+      "explanation": "The imperative of 'a fi' (to be) for the 2nd person plural is 'fiți'. 'Fiți atenți la drum!' = Be careful on the road! (addressed to multiple people). The adjective 'atenți' (masculine plural) agrees with the implied subject 'voi'.",
+      "explanationRo": "Imperativul lui 'a fi' la persoana a II-a plural este 'fiți'. 'Fiți atenți la drum!' = Fiți atenți la drum! (adresat mai multor persoane). Adjectivul 'atenți' (masculin plural) se acordă cu subiectul subînțeles 'voi'."
     },
     {
       "id": "q09_012",
@@ -214,13 +214,12 @@
     {
       "id": "q09_014",
       "type": "error-correction",
-      "prompt": "Find and correct the error in this imperative sentence:",
-      "promptRo": "Găsește și corectează greșeala din această propoziție imperativă:",
-      "sentence": "Nu lua bunurile altora fără permisiune!",
-      "answer": "Nu lua bunurile altora fără permisiune! — Correct as written.",
-      "explanation": "Actually, this sentence is grammatically correct! 'Nu lua' is the correct negative imperative for 'tu' of 'a lua'. The negative imperative uses 'nu' + the affirmative imperative form (unlike the subjunctive, which uses 'să nu'). If the sentence had been 'Nu iei bunurile', that would be incorrect because 'iei' is indicative, not imperative. The sentence as given is already correct.",
-      "explanationRo": "De fapt, această propoziție este corectă gramatical! 'Nu lua' este imperativul negativ corect pentru 'tu' al verbului 'a lua'. Imperativul negativ folosește 'nu' + forma afirmativă a imperativului ( spre deosebire de subjonctiv, care folosește 'să nu'). Dacă propoziția ar fi fost 'Nu iei bunurile', aceasta ar fi incorectă pentru că 'iei' este indicativ, nu imperativ.",
-      "answerCorrected": "Nu lua bunurile altora fără permisiune!",
+      "prompt": "Find and correct the error in this negative imperative sentence:",
+      "promptRo": "Găsește și corectează greșeala din această propoziție imperativă negativă:",
+      "sentence": "Nu să vii mâine la noi.",
+      "answer": "Nu veni mâine la noi.",
+      "explanation": "The error is 'Nu să vii' — the negative imperative for 'tu' is formed with 'nu' + the infinitive (without 'a'): 'nu veni'. The construction 'nu să vii' incorrectly uses the negative subjunctive instead of the negative imperative.",
+      "explanationRo": "Greșeala este 'Nu să vii' — imperativul negativ pentru 'tu' se formează cu 'nu' + infinitivul: 'nu veni'. Construcția 'nu să vii' folosește incorect subjonctivul negativ în loc de imperativul negativ.",
       "acceptableAnswers": []
     },
     {

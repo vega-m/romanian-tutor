@@ -52,8 +52,8 @@
       "sentence": "___ meu are doi copii.",
       "answer": "Fratele",
       "acceptableAnswers": ["Fratele", "fratele"],
-      "explanation": "'Frate' is masculine, so it takes -ul: frate → fratele.",
-      "explanationRo": "'Frate' este masculin, deci primește -ul: frate → fratele.",
+      "explanation": "Masculine nouns ending in -e take the definite article -le: frate → fratele.",
+      "explanationRo": "Substantivele masculine terminate în -e primesc articolul hotărât -le: frate → fratele.",
       "sourceGrammarId": "G02-articles"
     },
     {
@@ -64,8 +64,8 @@
       "sentence": "___ este foarte rece azi.",
       "answer": "Apa",
       "acceptableAnswers": ["Apa", "apa"],
-      "explanation": "'Apă' is feminine, ending in -ă. Replace -ă with -a: apă → apa.",
-      "explanationRo": "'Apă' este feminin, se termină în -ă. Înlocuiește -ă cu -a: apă → apa.",
+      "explanation": "Feminine nouns ending in -ă form the definite article by replacing -ă with -a: apă → apa.",
+      "explanationRo": "Substantivele feminine terminate în -ă formează articolul hotărât prin înlocuirea lui -ă cu -a: apă → apa.",
       "sourceGrammarId": "G02-articles"
     },
     {
@@ -75,8 +75,8 @@
       "promptRo": "Care este forma corectă cu articol hotărât pentru 'măr' (măr)?",
       "answer": "mărul",
       "options": ["măru", "măra", "mărul", "măr"],
-      "explanation": "'Măr' is a neuter noun. Neuter nouns use -ul in the singular: măr → mărul.",
-      "explanationRo": "'Măr' este un substantiv neutru. Substantivele neutre folosesc -ul la singular: măr → mărul.",
+      "explanation": "'Măr' is a neuter noun. Neuter nouns use the masculine singular article -ul: măr → mărul.",
+      "explanationRo": "'Măr' este un substantiv neutru. Substantivele neutre folosesc articolul masculin singular -ul: măr → mărul.",
       "sourceGrammarId": "G02-articles"
     },
     {
@@ -86,24 +86,24 @@
       "promptRo": "Traduce în română: 'The book is on the table.'",
       "answer": "Cartea este pe masă.",
       "acceptableAnswers": ["Cartea este pe masă.", "Cartea e pe masă."],
-      "explanation": "'Carte' (f.) → 'cartea'. 'Masă' (f.) → 'masa'. After the preposition 'pe', we use the unarticulated form for locations (pe masă), or the articulated form for specific objects (pe masa). Both 'pe masă' and 'pe masa' are grammatically possible, but 'pe masă' is the common general expression.",
-      "explanationRo": "'Carte' (f.) → 'cartea'. 'Masă' (f.) → 'masa'. După prepoziția 'pe', folosim forma nearticulată pentru locații (pe masă), sau forma articulată pentru obiecte specifice (pe masa).",
+      "explanation": "'Carte' (f.) → 'cartea' (e changes to ea). After most prepositions of location like 'pe' or 'în', we use the unarticulated (indefinite) form when the noun is not modified: 'pe masă' (on the table).",
+      "explanationRo": "'Carte' (f.) → 'cartea'. După majoritatea prepozițiilor de loc ca 'pe' sau 'în', folosim forma nearticulată când substantivul nu este determinat: 'pe masă'.",
       "sourceGrammarId": "G02-articles"
     },
     {
       "id": "e02_008",
       "type": "multiple-choice",
-      "prompt": "What happens to feminine nouns ending in -e or -ea when forming the definite article?",
-      "promptRo": "Ce se întâmplă cu substantivele feminine terminate în -e sau -ea la formarea articolului hotărât?",
-      "answer": "They add -a as a suffix",
+      "prompt": "What happens to feminine nouns ending in -e (like 'floare') when forming the definite article?",
+      "promptRo": "Ce se întâmplă cu substantivele feminine terminate în -e (ca 'floare') la formarea articolului hotărât?",
+      "answer": "The -e changes to -ea",
       "options": [
-        "They replace the ending with -a",
+        "The -e changes to -ea",
         "They add -ul",
-        "They add -a as a suffix",
+        "They add -ua",
         "They stay the same"
       ],
-      "explanation": "Feminine nouns ending in -e/-ea do not lose their ending. Instead, -ua or -a is added: cafea → cafeaua, carte → cartea (which also loses -e, gaining -ea → -a).",
-      "explanationRo": "Substantivele feminine terminate în -e/-ea nu își pierd terminația. Se adaugă -ua sau -a: cafea → cafeaua, carte → cartea.",
+      "explanation": "Feminine nouns ending in -e change that ending to -ea: floare → floarea, carte → cartea. Nouns ending in -ea (like cafea) add -ua: cafeaua.",
+      "explanationRo": "Substantivele feminine terminate în -e schimbă acea terminație în -ea: floare → floarea, carte → cartea. Substantivele terminate în -ea (ca cafeaua) adaugă -ua: cafeaua.",
       "sourceGrammarId": "G02-articles"
     },
     {
@@ -114,8 +114,8 @@
       "sentence": "___ lui lucrează la școală.",
       "answer": "Soția",
       "acceptableAnswers": ["Soția", "soția"],
-      "explanation": "'Soție' is feminine. The -e ending is replaced by -ea for the definite article: soție → soția.",
-      "explanationRo": "'Soție' este feminin. Terminația -e este înlocuită cu -ea pentru articolul hotărât: soție → soția.",
+      "explanation": "Feminine nouns ending in -ie form the definite article by replacing the final -e with -a, resulting in the ending -ia: soție → soția.",
+      "explanationRo": "Substantivele feminine terminate în -ie formează articolul hotărât prin înlocuirea lui -e final cu -a, rezultând terminația -ia: soție → soția.",
       "sourceGrammarId": "G02-articles"
     },
     {

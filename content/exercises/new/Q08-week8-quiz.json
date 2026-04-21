@@ -187,8 +187,7 @@
       "sentence": "Persoanei ___ i-am scris nu i-a răspuns încă.",
       "answer": "căreia",
       "acceptableAnswers": [
-        "căreia",
-        "carei"
+        "căreia"
       ],
       "explanation": "'Căreia' is the dative form of 'care' for feminine singular. Since 'persoanei' is feminine singular dative, we use 'căreia': 'Persoanei căreia i-am scris' (The person to whom I wrote). The dative forms are: căruia (m. sg.), căreia (f. sg.), cărora (pl.).",
       "explanationRo": "'Căreia' este forma de dativ a lui 'care' pentru feminin singular. Deoarece 'persoanei' este feminin singular dativ, folosim 'căreia'. Formele de dativ sunt: căruia (m. sg.), căreia (f. sg.), cărora (pl.)."

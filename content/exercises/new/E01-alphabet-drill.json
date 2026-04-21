@@ -90,8 +90,8 @@
       "sentence": "Before 'e' and 'i', 'g' = ___",
       "answer": "/dʒ/",
       "acceptableAnswers": ["/dʒ/", "dʒ", "dj", "j"],
-      "explanation": "Before 'e' and 'i', 'g' makes the /dʒ/ sound: geam = /dʒam/, ghid = /ɡid/. But 'gh' = /ɡ/: ghem = /ɡem/.",
-      "explanationRo": "Înainte de 'e' și 'i', 'g' face sunetul /dʒ/: geam = /dʒam/, ghid = /ɡid/. Dar 'gh' = /ɡ/: ghem = /ɡem/."
+      "explanation": "Before 'e' and 'i', 'g' makes the /dʒ/ sound (like 'j' in 'jam'): geam = /dʒam/, deget = /'de.dʒet/. But 'gh' followed by 'e' or 'i' makes a hard /ɡ/ sound: ghem = /ɡem/, ghid = /ɡid/.",
+      "explanationRo": "Înainte de 'e' și 'i', 'g' face sunetul /dʒ/ (ca 'j' în 'jam'): geam = /dʒam/, deget = /'de.dʒet/. Dar 'gh' urmat de 'e' sau 'i' face un sunet /ɡ/ dur: ghem = /ɡem/, ghid = /ɡid/."
     },
     {
       "id": "e01_009",
@@ -110,23 +110,23 @@
     {
       "id": "e01_010",
       "type": "multiple-choice",
-      "prompt": "How is the final 'i' in 'copii' (children) pronounced?",
-      "promptRo": "Cum se pronunță 'i' final din 'copii' (copii)?",
-      "answer": "Soft/palatalized — it makes the previous 'i' longer",
-      "options": ["It's silent — don't pronounce it at all", "Soft/palatalized — it makes the previous 'i' longer", "Like a full 'i' — /ko.pi.i/", "Like 'ee' — /ko.pi.ij/"],
-      "explanation": "Final 'i' in Romanian is often soft/palatalized. In 'copii' /ko.'pi.j/, it palatalizes the previous consonant. You probably already do this naturally!",
-      "explanationRo": "'i' final în română este adesea soft/palatalizat. În 'copii' /ko.'pi.j/, palatalizează consoana precedentă."
+      "prompt": "In Romanian, a single final 'i' (as in 'băieți') is usually pronounced as:",
+      "promptRo": "În română, un singur 'i' final (ca în 'băieți') este de obicei pronunțat ca:",
+      "answer": "A soft, palatalized sound (not a full vowel)",
+      "options": ["A full 'i' vowel like in 'see'", "A soft, palatalized sound (not a full vowel)", "It is always silent", "Like a 'y' at the end of 'fly'"],
+      "explanation": "Final 'i' in words like 'băieți', 'cărți', or 'ești' is a palatalized sound, not a full vowel. However, in 'copii', the double 'ii' represents a full vowel sound. You likely already do this naturally as a heritage speaker!",
+      "explanationRo": "'i' final în cuvinte precum 'băieți', 'cărți' sau 'ești' este un sunet palatalizat, nu o vocală deplină. Totuși, în 'copii', dublul 'ii' reprezintă un sunet de vocală plină."
     },
     {
       "id": "e01_011",
       "type": "fill-blank",
-      "prompt": "Which letter is different between these two words: 'casă' (house) and 'caz' (case/situation)?",
-      "promptRo": "Ce literă este diferită între aceste două cuvinte: 'casă' (casă) și 'caz' (caz/situație)?",
-      "sentence": "The difference is: 'casă' has ___, 'caz' doesn't",
+      "prompt": "Which diacritic is the only difference between 'fată' (girl) and 'fata' (the girl)?",
+      "promptRo": "Care semn diacritic este singura diferență între 'fată' (fată) și 'fata' (fata)?",
+      "sentence": "The difference is: 'fată' has ___, 'fata' doesn't",
       "answer": "ă",
-      "acceptableAnswers": ["ă", "the letter ă"],
-      "explanation": "'casă' (house) and 'caz' (case/situation) are different words! The 'ă' changes the meaning completely. This is why diacritics matter.",
-      "explanationRo": "'casă' (casă) și 'caz' (caz/situație) sunt cuvinte diferite! 'ă' schimbă complet sensul. De aceea diacriticele sunt importante."
+      "acceptableAnswers": ["ă", "the letter ă", "ă-breve"],
+      "explanation": "The 'ă' at the end of 'fată' marks the indefinite form (a girl), while 'fata' is the definite form (the girl). This shows how one diacritic changes the entire grammar!",
+      "explanationRo": "'ă' de la sfârșitul lui 'fată' marchează forma nehotărâtă (o fată), în timp ce 'fata' este forma hotărâtă (fata). Aceasta arată cum un singur semn diacritic schimbă întreaga gramatică!"
     },
     {
       "id": "e01_012",
