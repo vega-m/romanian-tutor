@@ -114,7 +114,37 @@
     },
     {
       "type": "explanation",
-      "heading": "Conditional Sentences (If...then...)",
+      "heading": "The Past Conditional (Condiționalul Trecut)",
+      "headingRo": "Condiționalul Trecut",
+      "content": "The Past Conditional is used to express actions that WOULD HAVE happened but didn't (regrets or counterfactuals). It is formed using the conditional auxiliaries + 'fi' + the past participle of the main verb.",
+      "contentRo": "Condiționalul trecut se folosește pentru a exprima acțiuni care S-AR FI întâmplat, dar nu au avut loc (regrete sau situații ipotetice din trecut). Se formează folosind auxiliarii condiționalului + „fi” + participiul trecut al verbului de bază.",
+      "table": {
+        "headers": ["Person", "Auxiliary + fi", "Participle", "Example (ro)", "Translation"],
+        "rows": [
+          ["eu", "aș fi", "mers", "aș fi mers", "I would have gone"],
+          ["tu", "ai fi", "văzut", "ai fi văzut", "you would have seen"],
+          ["el/ea", "ar fi", "știut", "ar fi știut", "he/she would have known"],
+          ["noi", "am fi", "venit", "am fi venit", "we would have come"],
+          ["voi", "ați fi", "făcut", "ați fi făcut", "you (pl) would have done"],
+          ["ei/ele", "ar fi", "ajuns", "ar fi ajuns", "they would have arrived"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Aș fi venit la tine, dar am fost ocupat. (I would have come to you, but I was busy.)",
+          "en": "aș fi venit = I would have come (past regret).",
+          "notes": "The auxiliary 'fi' stays the same for all persons in the past conditional."
+        },
+        {
+          "ro": "Dacă aș fi știut, te-aș fi sunat. (If I had known, I would have called you.)",
+          "en": "A classic past conditional sentence: 'dacă aș fi știut' + 'te-aș fi sunat'.",
+          "notes": "Note the hyphen in 'te-aș' where the pronoun attaches to the auxiliary."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Conditional sentences (If...then...)",
       "headingRo": "Propoziții Conditionale (Dacă...atunci...)",
       "content": "Romanian conditional sentences follow patterns similar to English, but with some differences:",
       "contentRo": "Propozițiile conditionale românești urmează modele similare cu engleza, dar cu câteva diferențe:",

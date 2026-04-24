@@ -30,14 +30,15 @@
       "week": 2,
       "title": "Articole și Genul Substantivelor",
       "titleEn": "Articles and Noun Gender",
-      "description": "Indefinite and definite articles (enclitic!), noun genders, basic sentence structure",
+      "description": "Indefinite and definite articles (enclitic!), noun genders, plural formation, and basic sentence structure",
       "objectives": [
         "Use indefinite articles (un, o, niște)",
         "Use definite articles (enclitic: -ul, -a, -le, -i, -le)",
         "Identify noun gender (masculine, feminine, neuter)",
+        "Form plurals of nouns (masculine, feminine, neuter) with common consonant/vowel shifts",
         "Form basic sentences with correct article agreement"
       ],
-      "grammarTopics": ["G02-articles", "G03-noun-gender"],
+      "grammarTopics": ["G02-articles", "G03-noun-gender", "G32-plural-formation"],
       "vocabularyThemes": ["02-family", "W02-week2-words"],
       "exercisesNew": ["E02-article-agreement", "E03-noun-gender-drill", "Q02-week2-quiz", "EX02-week2-practice"],
       "exercisesReview": ["E01-alphabet-drill"],

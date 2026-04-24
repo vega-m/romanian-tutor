@@ -57,11 +57,10 @@
         "headers": ["Ending", "Example Words", "Definite Form", "Translation"],
         "rows": [
           ["-ă", "casă, fată, mamă, școală", "casa, fata, mama, școala", "house, girl, mother, school"],
-          ["-e", "carte, cafea, cheie, zi", "cartea, cafeaua, cheia, ziua", "book, coffee, key, day"],
-          ["-a", "floare, femeie, sora", "floarea, femeia, sora", "flower, woman, sister"],
-          ["-ie", "familie, baie, parte", "familia, baia, partea", "family, bathroom, part"],
-          ["-i", "știri, zi", "știrile, ziua", "news, day"],
-          ["-e (certain)", "noapte, pâine, vulpe", "noaptea, pâinea, vulpea", "night, bread, fox"]
+          ["-e", "carte, floare, noapte, parte", "cartea, floarea, noaptea, partea", "book, flower, night, part"],
+          ["-ie", "familie, baie, soție", "familia, baia, soția", "family, bathroom, wife"],
+          ["-ea", "cafea, stea, măsea", "cafeaua, steaua, măseaua", "coffee, star, tooth"],
+          ["-i", "zi, vineri, marți", "ziua (irreg.), vinerea, marțea", "day, Friday, Tuesday"]
         ]
       },
       "examples": [
@@ -122,10 +121,10 @@
       "table": {
         "headers": ["Ending", "Example Words", "Definite Form", "Translation"],
         "rows": [
-          ["consonant", "băiat, copac, frate, tată, câine", "băiatul, copacul, fratele, tatăl, câinele", "boy, tree, brother, father, dog"],
-          ["-u", "fiu, loc, teatru, restaurant", "fiul, locul, teatrul, restaurantul", "son, place, theater, restaurant"],
-          ["-eu", "student, leu, nume (rare)", "studentul, leul, numele", "student, lion, name"],
-          ["-e (certain)", "pere, bărbat, copile", "perele, bărbatul, copilul", "pear (neuter), man (masc.), child (masc.)"]
+          ["consonant", "băiat, copac, pom, bărbat", "băiatul, copacul, pomul, bărbatul", "boy, tree, tree, man"],
+          ["-e", "frate, câine, perete, munte", "fratele, câinele, peretele, muntele", "brother, dog, wall, mountain"],
+          ["-u", "fiu, leu, codru", "fiul, leul, codrul", "son, lion, forest"],
+          ["-ă (persons)", "tată, unchi, popă", "tatăl, unchiul, popa", "father, uncle, priest"]
         ]
       },
       "examples": [
@@ -379,20 +378,20 @@
       "type": "explanation",
       "heading": "Animals — Grammatical vs. Natural Gender",
       "headingRo": "Animalele — Genul Gramatical vs. Genul Natural",
-      "content": "Animal nouns in Romanian follow grammatical gender, which may differ from the natural (biological) gender. When you need to specify the sex of an animal, you can add a modifier:",
-      "contentRo": "Substantivele de animale în română urmează genul gramatical, care poate diferi de genul natural (biologic). Când trebuie să specifici sexul unui animal, poți adăuga un modificator:",
+      "content": "Animal nouns in Romanian follow grammatical gender. When you need to specify the sex of an animal, you can often use a specific word for the male or female:",
+      "contentRo": "Substantivele de animale în română urmează genul gramatical. Când trebuie să specifici sexul unui animal, poți folosi adesea un cuvânt specific pentru mascul sau femelă:",
       "table": {
-        "headers": ["Animal (Gram. Gender)", "Male", "Female", "Translation"],
+        "headers": ["Animal (Generic)", "Male (Masculin)", "Female (Feminin)", "Translation"],
         "rows": [
           ["câine (m.)", "un câine", "o cățea", "dog"],
           ["pisică (f.)", "un motan", "o pisică", "cat"],
           ["cal (m.)", "un cal", "o iapă", "horse"],
           ["porc (m.)", "un porc", "o scroafă", "pig"],
-          ["oaie (f.)", "un berbec / o oaie", "o oaie", "sheep"],
+          ["oaie (f.)", "un berbec", "o oaie", "sheep"],
           ["lup (m.)", "un lup", "o lupoaie", "wolf"],
           ["urs (m.)", "un urs", "o ursoaică", "bear"],
           ["găină (f.)", "un cocoș", "o găină", "chicken"],
-          ["rață (f.)", "un rață", "o rață", "duck"]
+          ["rață (f.)", "un rățoi", "o rață", "duck"]
         ]
       },
       "examples": [

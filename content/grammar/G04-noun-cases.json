@@ -208,7 +208,17 @@
     },
     {
       "type": "tip",
-      "heading": "Prepositions That Require the Genitive",
+      "heading": "The 'Feminine Secret' Rule",
+      "headingRo": "Secretul Genitivului Feminin",
+      "content": "A huge shortcut for Genitive/Dative: For almost all feminine nouns, the singular Genitive/Dative form (the one used with -ei or -ii) is identical to the Nominative Plural form you learned in G32.",
+      "contentRo": "O scurtătură majoră pentru Genitiv-Dativ: Pentru aproape toate substantivele feminine, forma de Genitiv-Dativ singular este identică cu forma de Plural Nominativ învățată în G32.",
+      "rules": [
+        "Plural: o fată → două fete. Genitive: o carte a fetei.",
+        "Plural: o casă → două case. Genitive: ușa casei.",
+        "Plural: o floare → două flori. Genitive: culoarea florii.",
+        "If you know the plural (G32), you already know the feminine Genitive singular stem!"
+      ]
+    },
       "content": "Some prepositions always require the noun that follows to be in the genitive case:",
       "contentRo": "Unele prepoziții cer întotdeauna ca substantivul care urmează să fie în cazul genitiv:",
       "rules": [

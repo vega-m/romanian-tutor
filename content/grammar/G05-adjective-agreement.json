@@ -88,10 +88,9 @@
         ]
       },
       "rules": [
-        "Neuter singular: uses masculine adjective form",
-        "Neuter plural: uses FEMININE plural adjective form",
-        "Neuter singular = masculine adjective; neuter plural = feminine adjective",
-        "Note: some neuter nouns may take feminine plural forms for certain adjectives"
+        "Neuter singular: ALWAYS uses masculine adjective form",
+        "Neuter plural: ALWAYS uses feminine plural adjective form",
+        "Neuter plural = feminine plural adjective: scaune bune (not 'scaune buni')"
       ],
       "examples": [
         {

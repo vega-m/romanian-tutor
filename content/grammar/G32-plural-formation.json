@@ -1,0 +1,150 @@
+{
+  "$schema": "grammar-lesson",
+  "version": "1.0",
+  "id": "G32-plural-formation",
+  "title": "Formarea Pluralului (Substantive)",
+  "titleEn": "Plural Formation (Nouns)",
+  "cefrLevel": "A1-A2",
+  "prerequisites": ["G03-noun-gender"],
+  "estimatedMinutes": 50,
+  "introduction": "Forming plurals in Romanian is more complex than in English. It involves not just adding an ending (-i, -e, -uri), but often changing the vowels or consonants within the word itself. Mastering these patterns is essential for using articles and adjectives correctly.",
+  "introductionRo": "Formarea pluralului în limba română este mai complexă decât în engleză. Aceasta implică nu doar adăugarea unei terminații (-i, -e, -uri), ci adesea și schimbarea vocalelor sau consoanelor din interiorul cuvântului. Stăpânirea acestor tipare este esențială pentru utilizarea corectă a articolelor și adjectivelor.",
+  "sections": [
+    {
+      "type": "explanation",
+      "heading": "Masculine Plurals: The '-i' Ending",
+      "headingRo": "Pluralul Masculin: Terminația „-i”",
+      "content": "Most masculine nouns form the plural by adding '-i'. Crucially, this '-i' triggers 'phonetic alternations' (consonant shifts) in the stem of the word.",
+      "contentRo": "Majoritatea substantivelor masculine formează pluralul adăugând „-i”. Esențial este că acest „-i” declanșează „alternanțe fonetice” (schimbări de consoane) în rădăcina cuvântului.",
+      "table": {
+        "headers": ["Consonant Shift", "Singular", "Plural", "Translation"],
+        "rows": [
+          ["t → ți", "băiat", "băieți", "boy → boys"],
+          ["d → zi", "brad", "brazi", "fir tree → fir trees"],
+          ["s → și", "urs", "urși", "bear → bears"],
+          ["st → ști", "artist", "artiști", "artist → artists"],
+          ["c → ci", "medic", "medici", "doctor → doctors"],
+          ["g → gi", "biolog", "biologi", "biologist → biologists"],
+          ["l → (drops)", "copil", "copii", "child → children (irregular)"],
+          ["n → n", "om (irreg.)", "oameni", "man → people/men"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "un băiat → doi băieți",
+          "en": "one boy → two boys (t becomes ți)",
+          "notes": "The 'i' at the end of 'băieți' is short/soft (palatalized), not a full 'ee' sound."
+        },
+        {
+          "ro": "un medic → doi medici",
+          "en": "one doctor → two doctors (c becomes ci)",
+          "notes": "The 'ci' is pronounced like 'ch' in 'church'."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Feminine Plurals: '-e' or '-i'",
+      "headingRo": "Pluralul Feminin: „-e” sau „-i”",
+      "content": "Feminine nouns are more varied. They typically end in '-e' or '-i', and often involve vowel shifts (ă → e or a → e).",
+      "contentRo": "Substantivele feminine sunt mai variate. Se termină de obicei în „-e” sau „-i” și implică adesea alternanțe vocalice (ă → e sau a → e).",
+      "table": {
+        "headers": ["Pattern", "Singular", "Plural", "Translation"],
+        "rows": [
+          ["-ă → -e", "casă", "case", "house → houses"],
+          ["-ă → -e", "fată", "fete", "girl → girls"],
+          ["-e → -i", "carte", "cărți", "book → books"],
+          ["-e → -i", "floare", "flori", "flower → flowers"],
+          ["-ie → -ii", "familie", "familii", "family → families"],
+          ["-ea → -ele", "stea", "stele", "star → stars"],
+          ["-ea → -ele", "cafea", "cafele", "coffee → coffees"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "o masă → două mese",
+          "en": "one table → two tables (a...ă → e...e shift)",
+          "notes": "Internal vowel shifts are very common in feminine nouns."
+        },
+        {
+          "ro": "o școală → două școli",
+          "en": "one school → two schools (oa → o shift)",
+          "notes": "The diphthong 'oa' often reduces to 'o' in the plural."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Neuter Plurals: '-e' or '-uri'",
+      "headingRo": "Pluralul Neutru: „-e” sau „-uri”",
+      "content": "Neuter nouns behave like feminine in the plural. They mostly take '-e' or '-uri'. Objects and abstract concepts often take '-uri'.",
+      "contentRo": "Substantivele neutre se comportă ca femininele la plural. Primesc în mare parte terminația „-e” sau „-uri”. Obiectele și conceptele abstracte primesc adesea „-uri”.",
+      "table": {
+        "headers": ["Ending", "Singular", "Plural", "Translation"],
+        "rows": [
+          ["-e", "scaun", "scaune", "chair → chairs"],
+          ["-e", "oraș", "orașe", "city → cities"],
+          ["-e", "creion", "creioane", "pencil → pencils"],
+          ["-uri", "răspuns", "răspunsuri", "answer → answers"],
+          ["-uri", "cadou", "cadouri", "gift → gifts"],
+          ["-uri", "drum", "drumuri", "road → roads"],
+          ["-uri", "pat", "paturi", "bed → beds"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "un tabel → două tabele",
+          "en": "one table/list → two tables/lists",
+          "notes": "Many technical or structural words use '-e'."
+        },
+        {
+          "ro": "un lucru → două lucruri",
+          "en": "one thing → two things",
+          "notes": "'-uri' is a very strong, common ending for neuter nouns."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
+      "heading": "Common Irregular Plurals",
+      "headingRo": "Plurale Neregulate Comune",
+      "content": "Some of the most common words in Romanian have irregular plurals that must be memorized.",
+      "contentRo": "Unele dintre cele mai comune cuvinte din limba română au plurale neregulate care trebuie memorate.",
+      "table": {
+        "headers": ["Singular", "Plural", "Translation", "Note"],
+        "rows": [
+          ["om", "oameni", "man/person → people", "Total stem change"],
+          ["copil", "copii", "child → children", "Final -l drops, adds -i"],
+          ["soră", "surori", "sister → sisters", "Vowel change o → u"],
+          ["nume", "nume", "name → names", "Invariant (stays the same)"],
+          ["ochi", "ochi", "eye → eyes", "Invariant"],
+          ["pui", "pui", "chicken/young → chickens", "Invariant"],
+          ["zi", "zile", "day → days", "Adds -le"],
+          ["mână", "mâini", "hand → hands", "Vowel change â → âi"]
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "heading": "Heritage Speaker Ear",
+      "headingRo": "Urechea Vorbitorului de Origine",
+      "content": "You probably say 'doi băieți' and 'două fete' correctly by instinct. Your challenge is **writing** them. Remember that the plural '-i' is often silent (it just makes the consonant before it sound different). When writing, always check: did I change the consonant? (t → ț, s → ș). If you hear a 'sh' sound at the end of a plural, it's probably written with '-și'.",
+      "contentRo": "Probabil spui 'doi băieți' și 'două fete' corect din instinct. Provocarea ta este **scrierea** lor. Amintește-ți că '-i'-ul de la plural este adesea mut (doar face consoana dinainte să sune diferit). Când scrii, verifică mereu: am schimbat consoana? (t → ț, s → ș). Dacă auzi un sunet 'ș' la sfârșitul unui plural, probabil se scrie cu '-și'."
+    }
+  ],
+  "summaryPoints": [
+    "Masculine plurals add -i and change stem consonants (t→ți, d→zi, s→și)",
+    "Feminine plurals use -e or -i and change stem vowels (ă→e, a→e)",
+    "Neuter plurals use -e or -uri",
+    "Irregulars to know: om/oameni, copil/copii, soră/surori, zi/zile",
+    "Plural endings are the base for adding definite articles (băieți → băieții)"
+  ],
+  "summaryPointsRo": [
+    "Pluralul masculin adaugă -i și schimbă consoanele (t→ți, d→zi, s→și)",
+    "Pluralul feminin folosește -e sau -i și schimbă vocalele (ă→e, a→e)",
+    "Pluralul neutru folosește -e sau -uri",
+    "Neregulate de știut: om/oameni, copil/copii, soră/surori, zi/zile",
+    "Terminațiile de plural sunt baza pentru adăugarea articolelor hotărâte (băieți → băieții)"
+  ],
+  "relatedExercises": ["E03-noun-gender-drill"]
+}

@@ -97,24 +97,22 @@
     },
     {
       "type": "explanation",
-      "heading": "Demonstratives with Definite Articles",
-      "headingRo": "Demonstrativele cu Articol Hotărât",
-      "content": "When demonstratives modify a noun with a definite article, the structure is: demonstrative + definite noun:",
-      "contentRo": "Când demonstrativele modifică un substantiv cu articol hotărât, structura este: demonstrativ + substantiv determinat:",
+      "heading": "Position and Articulation Rule",
+      "headingRo": "Regula de Poziție și Articulare",
+      "content": "A crucial rule in Romanian: when the demonstrative comes BEFORE the noun, the noun is UNARTICULATED. When the demonstrative comes AFTER the noun, the noun must have a DEFINITE ARTICLE.",
+      "contentRo": "O regulă esențială în română: când demonstrativul stă ÎNAINTEA substantivului, substantivul este NEARTICULAT. Când demonstrativul stă DUPĂ substantiv, acesta trebuie să aibă ARTICOL HOTĂRÂT.",
       "table": {
-        "headers": ["Demonstrative + Definite Article", "Example", "Meaning"],
+        "headers": ["Position", "Construction", "Example", "Meaning"],
         "rows": [
-          ["acest + băiatul", "Acest băiatul este mare.", "This boy (specific) is tall."],
-          ["această + fata", "Această fata e simpatică.", "This girl (specific) is nice."],
-          ["acel + omul", "Acel om vine des.", "That man (specific) comes often."],
-          ["acea + casa", "Aceea casa e veche.", "That house (specific) is old."]
+          ["Before (Adjective)", "Demonstrative + Unarticulated Noun", "acest băiat / acea fată", "this boy / that girl"],
+          ["After (Adjective)", "Articulated Noun + Demonstrative", "băiatul acesta / fata aceea", "this boy / that girl"]
         ]
       },
       "rules": [
-        "Demonstrative + definite article is used when referring to a specific known person/thing",
-        "This is different from English, where we say 'this THE boy' is not used",
-        "In Romanian, it emphasizes: 'this particular boy (that we both know)'",
-        "Common in formal writing and careful speech"
+        "Before: 'acest' + 'băiat' (no article). WRONG: 'acest băiatul'.",
+        "After: 'băiatul' + 'acesta' (with article). WRONG: 'băiat acesta'.",
+        "The forms ending in -a (acesta, aceea, aceștia, acelea) are used in the AFTER position or as STANDALONE pronouns.",
+        "The short forms (acest, acel, această, acea) are used in the BEFORE position."
       ]
     },
     {

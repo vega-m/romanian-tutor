@@ -74,6 +74,29 @@
     },
     {
       "type": "explanation",
+      "heading": "Reflexive Possessive: său, sa, săi, sale",
+      "headingRo": "Posesivul Reflexiv: său, sa, săi, sale",
+      "content": "Romanian has a specific 3rd person possessive used to mean 'his/her OWN'. While 'lui' is common in speech, 'său' is essential for B1 level writing and clear distinction of ownership.",
+      "contentRo": "Româna are un posesiv specific de persoana a III-a care înseamnă „propriu/proprie”. În timp ce „lui” este comun în vorbire, „său” este esențial pentru scrierea la nivel B1 și pentru distincția clară a posesiei.",
+      "table": {
+        "headers": ["Possessed Object", "Form", "Example", "Meaning"],
+        "rows": [
+          ["Masc. sg.", "său", "prietenul său", "his (own) friend"],
+          ["Fem. sg.", "sa", "mașina sa", "his/her (own) car"],
+          ["Masc. pl.", "săi", "copiii săi", "his (own) children"],
+          ["Fem. pl.", "sale", "hainele sale", "his/her (own) clothes"]
+        ]
+      },
+      "examples": [
+        {
+          "ro": "Ion citește cartea sa. (Ion is reading his [own] book.)",
+          "en": "Use 'sa' to emphasize it belongs to the subject.",
+          "notes": "If you say 'Ion citește cartea lui', it could mean Ion is reading another man's book."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
       "heading": "Special Feature: 3rd Person Possessives",
       "headingRo": "Trăsătură Specială: Posesivele Persoanei a III-a",
       "content": "The 3rd person possessives are unique: 'lui' (his), 'ei' (her), 'lor' (their). They do NOT change form for gender or number of the possessed object — they always stay the same:",

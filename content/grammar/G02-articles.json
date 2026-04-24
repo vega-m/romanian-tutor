@@ -69,18 +69,18 @@
       "examples": [
         {
           "ro": "băiat → băiatul (the boy), pom → pomul (the tree)",
-          "en": "Masculine singular: add -ul after consonant, -ul (or -le after vowel)",
-          "notes": "Most masculine nouns take -ul. After a vowel ending, the article may be -ul (pom → pomul)."
+          "en": "Masculine singular: add -ul after consonant, -le after -e",
+          "notes": "Most masculine nouns take -ul. Nouns ending in -e take -le (e.g., frate → fratele)."
         },
         {
           "ro": "carte → cartea (the book), floare → floarea (the flower)",
-          "en": "Feminine singular: add -a, or -ua for words ending in -ie/-ea",
-          "notes": "Feminine nouns ending in -ie or -ea get -ua: floare → floarea, cafea → cafeaua."
+          "en": "Feminine singular: add -a (usually replacing -ă or changing -e to -ea)",
+          "notes": "Feminine nouns ending in -e change that ending to -ea: carte → cartea. Nouns ending in -ă change it to -a: fată → fata."
         },
         {
           "ro": "scaun → scaunul (the chair), nume → numele (the name)",
           "en": "Neuter singular: behaves like masculine for articles — -ul or -le",
-          "notes": "Neuter nouns use the same article endings as masculine in the singular."
+          "notes": "Neuter nouns use the same article endings as masculine in the singular: -ul for consonants, -le for those ending in -e."
         }
       ]
     },
@@ -94,21 +94,21 @@
         "headers": ["Indefinite", "Definite", "What Changed", "Gender"],
         "rows": [
           ["un băiat", "băiatul", "-ul added", "masculine"],
-          ["o fată", "fata", "ă → a + article", "feminine"],
+          ["o fată", "fata", "ă → a", "feminine"],
           ["un copil", "copilul", "-ul added", "masculine"],
           ["un pom", "pomul", "-ul added", "masculine"],
           ["o cafea", "cafeaua", "ea → eaua", "feminine"],
-          ["o floare", "floarea", "e → ea + a", "feminine"],
-          ["un nume", "numele", "e → ele", "neuter/masculine"],
+          ["o floare", "floarea", "e → ea", "feminine"],
+          ["un nume", "numele", "e → ele (article is -le)", "neuter/masculine"],
           ["un student", "studentul", "-ul added", "masculine"],
-          ["o întâmplare", "întâmplarea", "e → ea + a", "feminine"],
-          ["un leu", "leul", "-ul added (note: vowel ending)", "neuter"]
+          ["o întâmplare", "întâmplarea", "e → ea", "feminine"],
+          ["un leu", "leul", "-l added to -u", "masculine"]
         ]
       },
       "examples": [
         {
           "ro": "o mamă → mama (the mother)",
-          "en": "The ă at the end becomes 'a' and the article is absorbed into it",
+          "en": "The ă at the end becomes 'a' (the article is -a)",
           "notes": "This is a very common pattern: feminine nouns ending in -ă drop the ă and take -a."
         },
         {
@@ -119,7 +119,7 @@
         {
           "ro": "o femeie → femeia (the woman)",
           "en": "Nouns ending in -ie become -ia when the article is added",
-          "notes": "Pattern: -ie → -ia (e disappears, i + a merge): femeie → femeia, zi → ziua."
+          "notes": "Pattern: -ie → -ia (final -e is replaced by -a): femeie → femeia. Similarly, zi → ziua."
         }
       ]
     },
@@ -162,29 +162,28 @@
       "type": "explanation",
       "heading": "Possessive Articles (Articol Genitival)",
       "headingRo": "Articolul Genitival",
-      "content": "Romanian uses a special possessive article (also called the genitival article) before nouns in the genitive case. It corresponds to 'of the' in English and is essential for expressing possession:",
-      "contentRo": "Româna folosește un articol posesiv special (numit și articol genitival) înaintea substantivelor în cazul genitiv. Corespunde lui 'of the' în engleză și este esențial pentru exprimarea posesiei:",
+      "content": "The possessive article (al, a, ai, ale) is used to show ownership. CRITICAL RULE: The article agrees with the thing being possessed (the object), NOT the owner.",
+      "contentRo": "Articolul posesiv (al, a, ai, ale) se folosește pentru a exprima posesia. REGULĂ CRITICĂ: Articolul se acordă cu obiectul posedat, NU cu posesorul.",
       "table": {
-        "headers": ["Article", "Gender", "Number", "Example", "Translation"],
+        "headers": ["Possessed Object", "Article", "Example (RO)", "Translation"],
         "rows": [
-          ["al", "masculine", "singular", "cartea băiatului / o carte a băiatului", "the boy's book / a book of a boy's"],
-          ["a", "feminine", "singular", "cartea fetei / o carte a unei fete", "the girl's book / a book of a girl's"],
-          ["al", "neuter", "singular", "numele orașului", "the city's name"],
-          ["ai", "masculine", "plural", "cărțile elevilor", "the students' books"],
-          ["ale", "feminine", "plural", "cărțile profesoarelor", "the teachers' books"],
-          ["ale", "neuter", "plural", "scaunele școlii", "the school's chairs"]
+          ["Masculine Singular", "al", "un prieten al tatălui", "a friend of the father"],
+          ["Feminine Singular", "a", "o mașină a Mariei", "a car of Maria's"],
+          ["Neuter Singular", "al", "un scaun al bunicului", "a chair of the grandfather's"],
+          ["Masculine Plural", "ai", "doi prieteni ai tatălui", "two friends of the father"],
+          ["Fem./Neut. Plural", "ale", "două mașini ale Mariei", "two cars of Maria's"]
         ]
       },
       "examples": [
         {
-          "ro": "Cartea fetei este pe masă.",
-          "en": "The girl's book is on the table.",
-          "notes": "When the possessor has the definite article (fetei), the genitival article al/a/ai/ale is not needed."
+          "ro": "un coleg al meu (a colleague of mine) / o colegă a mea (a colleague of mine)",
+          "en": "Note how 'al' changes to 'a' because 'colegă' is feminine.",
+          "notes": "The article always matches the gender/number of the item owned."
         },
         {
-          "ro": "Mașina bărbatului este nouă.",
-          "en": "The man's car is new.",
-          "notes": "When the possessor has the definite article (bărbatului), the genitival article al/a/ai/ale is not needed."
+          "ro": "cărțile ale profesorului (the teacher's books)",
+          "en": "Since 'cărțile' is feminine plural, we use 'ale'.",
+          "notes": "In 'Cartea profesorului' (The teacher's book), we don't need 'a' because the definite article is already on 'cartea'."
         }
       ]
     },
@@ -311,29 +310,29 @@
       "contentRo": "Încearcă să transformi aceste sintagme nehotărâte în hotărâte. Răspunsurile arată transformarea:",
       "examples": [
         {
-          "ro": "un frate → fratele (the brother)",
-          "en": "un frate → fratele — masculine, consonant ending, add -ul",
-          "notes": "Simple -ul addition for most masculine nouns."
+          "ro": "un băiat → băiatul (the boy)",
+          "en": "un băiat → băiatul — masculine, consonant ending, add -ul",
+          "notes": "Simple -ul addition for most masculine nouns ending in a consonant."
         },
         {
           "ro": "o soră → sora (the sister)",
-          "en": "o soră → sora — feminine, the 'o' is replaced by the enclitic -a",
-          "notes": "Feminine nouns ending in -a already contain the article form."
+          "en": "o soră → sora — feminine, the ending -ă is replaced by the article -a",
+          "notes": "Feminine nouns ending in -ă typically change to -a."
         },
         {
           "ro": "o cafea → cafeaua (the coffee)",
-          "en": "o cafea → cafeaua — feminine ending in -ea, becomes -eaua",
+          "en": "o cafea → cafeaua — feminine ending in -ea, takes the article -ua",
           "notes": "The -ea ending expands to -eaua when the definite article is added."
         },
         {
-          "ro": "un perete → peretele (the wall)",
-          "en": "un perete → peretele — masculine ending in -e, takes -le",
-          "notes": "Nouns ending in -e often take -le instead of -ul."
+          "ro": "un frate → fratele (the brother)",
+          "en": "un frate → fratele — masculine ending in -e, takes -le",
+          "notes": "Nouns ending in -e take -le instead of -ul."
         },
         {
           "ro": "un nume → numele (the name)",
-          "en": "un nume → numele — neuter/masculine ending in -e, takes -le",
-          "notes": "Both neuter and masculine nouns ending in -e typically take -le."
+          "en": "un nume → numele — neuter ending in -e, takes -le",
+          "notes": "Neuter nouns ending in -e take -le, following the same pattern as masculine nouns."
         }
       ]
     }

@@ -108,6 +108,25 @@
     },
     {
       "type": "explanation",
+      "heading": "Prepositions and Infinitives",
+      "headingRo": "Prepozițiile și Infinitivul",
+      "content": "Unlike some other languages, Romanian can use certain prepositions (like 'pentru' or 'fără') directly with the infinitive (with 'a').",
+      "contentRo": "Spre deosebire de alte limbi, româna poate folosi anumite prepoziții (precum 'pentru' sau 'fără') direct cu infinitivul (cu 'a').",
+      "examples": [
+        {
+          "ro": "Am venit pentru a te vedea.",
+          "en": "I came to (for to) see you.",
+          "notes": "'pentru a' + infinitive is very common for purpose."
+        },
+        {
+          "ro": "A plecat fără a spune nimic.",
+          "en": "He left without saying anything.",
+          "notes": "'fără a' + infinitive is the standard way to express 'without [doing]'."
+        }
+      ]
+    },
+    {
+      "type": "explanation",
       "heading": "Common Prepositional Expressions",
       "headingRo": "Expresii Prepoziționale Comune",
       "content": "Many everyday Romanian phrases use prepositions in fixed combinations:",
@@ -141,24 +160,24 @@
     }
   ],
   "summaryPoints": [
-    "Most prepositions govern the accusative case: în, la, pe, cu, pentru, fără, din, după, înainte de",
+    "Most prepositions govern the accusative case: în, la, pe, cu, pentru, fără, din, după, de, de la, înainte de",
     "'pe' is used for surfaces, persons as direct objects, and means of transport",
-    "Some prepositions govern the genitive: de, de la, asupra, înaintea",
-    "Compound prepositions: în fața, în spatele, în mijlocul, în loc de, în ciuda",
+    "Some prepositions govern the genitive: asupra, împotriva, înaintea, deasupra, dedesubtul",
+    "Compound prepositions with genitive: în fața, în spatele, în mijlocul",
     "'pe' + specific person requires the definite article: Văd pe Maria.",
     "'de' can mean 'of', 'from', or form compounds: de la, de către, de pe",
     "'din' means 'from' or 'out of' and takes the accusative",
-    "Prepositions are followed by nouns in the correct case, never by infinitives"
+    "Some prepositions can be followed by infinitives (e.g., pentru a, fără a)"
   ],
   "summaryPointsRo": [
-    "Majoritatea prepozițiilor guvernează acuzativul: în, la, pe, cu, pentru, fără, din, după, înainte de",
+    "Majoritatea prepozițiilor guvernează acuzativul: în, la, pe, cu, pentru, fără, din, după, de, de la, înainte de",
     "'pe' se folosește pentru suprafețe, persoane ca complemente directe și mijloace de transport",
-    "Unele prepoziții guvernează genitivul: de, de la, asupra, înaintea",
-    "Prepoziții compuse: în fața, în spatele, în mijlocul, în loc de, în ciuda",
+    "Unele prepoziții guvernează genitivul: asupra, împotriva, înaintea, deasupra, dedesubtul",
+    "Prepoziții compuse cu genitiv: în fața, în spatele, în mijlocul",
     "'pe' + persoană specifică necesită articolul hotărât: Văd pe Maria.",
     "'de' poate însemna 'al', 'de la' sau forma compuși: de la, de către, de pe",
     "'din' înseamnă 'din' sau 'din' și cere acuzativul",
-    "Prepozițiile sunt urmate de substantive la cazul corect, niciodată de infinitive"
+    "Unele prepoziții pot fi urmate de infinitive (de ex., pentru a, fără a)"
   ],
   "relatedExercises": ["E12-case-preposition"]
 }

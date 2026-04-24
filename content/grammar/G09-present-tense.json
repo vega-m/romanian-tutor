@@ -44,23 +44,23 @@
       "type": "explanation",
       "heading": "The 2nd Conjugation (Verbs ending in -ea)",
       "headingRo": "Conjugarea a II-a (Verbe terminate în -ea)",
-      "content": "A relatively small group of verbs, many of which are essential for daily communication. The characteristic vowel 'e' is maintained in most forms of the paradigm.",
-      "contentRo": "Un grup relativ restrâns de verbe, dintre care multe sunt esențiale pentru comunicarea zilnică. Vocala caracteristică „e” se menține în majoritatea formelor paradigmei.",
+      "content": "A relatively small group of verbs, many of which are essential for daily communication. Note that 'a bea' (to drink) is irregular in the 3rd person plural.",
+      "contentRo": "Un grup restrâns de verbe, esențiale pentru comunicare. Rețineți că 'a bea' este neregulat la persoana a III-a plural.",
       "table": {
-        "headers": ["Person", "Ending", "a bea (to drink) [ACC]", "a vedea (to see) [ACC]", "a putea (to be able)"],
+        "headers": ["Person", "Ending", "a bea (to drink)", "a vedea (to see)", "a putea (can)"],
         "rows": [
           ["eu", "-(zero)", "beau", "văd", "pot"],
           ["tu", "-i", "bei", "vezi", "poți"],
           ["el/ea", "-e", "bea", "vede", "poate"],
           ["noi", "-em", "bem", "vedem", "putem"],
           ["voi", "-eți", "beți", "vedeți", "puteți"],
-          ["ei/ele", "-(zero)", "bea", "văd", "pot"]
+          ["ei/ele", "-(zero)", "beau", "văd", "pot"]
         ]
       },
       "examples": [
         {
-          "ro": "Vedeți acest fișier pe ecran? (Do you see this file on the screen?)",
-          "en": "Modern context: Video calls / Online presentations.",
+          "ro": "Ei beau cafea acum. (They are drinking coffee now.)",
+          "en": "Note: 'ei beau' is plural, 'eu beau' is singular. They look the same!",
           "notes": "a vedea (2nd conj.) is irregular in many forms."
         },
         {
@@ -77,7 +77,7 @@
       "content": "This group includes many fundamental verbs. Unlike other conjugations, the 3rd conjugation does not typically take suffixes like '-ez' or '-esc'.",
       "contentRo": "Acest grup cuprinde numeroase verbe fundamentale. Spre deosebire de alte conjugări, conjugarea a III-a nu primește, de regulă, sufixe precum „-ez” sau „-esc”.",
       "table": {
-        "headers": ["Person", "Ending", "a scrie (to write) [ACC/DAT]", "a merge (to walk/go)", "a înțelege (to understand) [ACC]"],
+        "headers": ["Person", "Ending", "a scrie (to write)", "a merge (to go)", "a înțelege (to understand)"],
         "rows": [
           ["eu", "-(zero)", "scriu", "merg", "înțeleg"],
           ["tu", "-i", "scrii", "mergi", "înțelegi"],
@@ -104,29 +104,29 @@
       "type": "explanation",
       "heading": "The 4th Conjugation (Verbs ending in -i or -î)",
       "headingRo": "Conjugarea a IV-a (Verbe terminate în -i sau -î)",
-      "content": "This group is very diverse and includes verbs that take the '-esc' suffix. Phonetic changes, especially in the 3rd person singular, are common and must be memorized.",
-      "contentRo": "Acest grup este foarte diversificat și include numeroase verbe care primesc sufixul „-esc”. Modificările fonetice, în special la persoana a III-a singular, sunt frecvente și trebuie memorate.",
+      "content": "This group has two patterns: 'Simple' and '-esc'. Most -i verbs follow the '-esc' pattern.",
+      "contentRo": "Acest grup are două modele: 'Simplu' și '-esc'. Majoritatea verbelor în -i urmează modelul '-esc'.",
       "table": {
-        "headers": ["Person", "Ending", "a dormi (to sleep)", "a fugi (to run)", "a auzi (to hear) [ACC]", "a coborî (to descend)"],
+        "headers": ["Person", "Simple (-i)", "With -esc (-i)", "Simple (-î)"],
         "rows": [
-          ["eu", "-(zero)", "dorm", "fug", "aud", "cobor"],
-          ["tu", "-i", "dormi", "fugi", "auzi", "cobori"],
-          ["el/ea", "-e", "doarme", "fuge", "aude", "coboară"],
-          ["noi", "-im", "dormim", "fugim", "auzim", "coborâm"],
-          ["voi", "-iți", "dormiți", "fugiți", "auziți", "coborâți"],
-          ["ei/ele", "-(zero)", "dorm", "fug", "aud", "cobor"]
+          ["eu", "dorm", "cit-esc", "cobor"],
+          ["tu", "dormi", "cit-ești", "cobori"],
+          ["el/ea", "doarm-e", "cit-ește", "coboară"],
+          ["noi", "dormim", "citim", "coborâm"],
+          ["voi", "dormiți", "citiți", "coborâți"],
+          ["ei/ele", "dorm", "cit-esc", "cobor"]
         ]
       },
       "examples": [
         {
           "ro": "Mă scuzați, nu aud bine din cauza conexiunii. (Excuse me, I can't hear well because of the connection.)",
           "en": "Modern context: Troubleshooting / Remote meetings.",
-          "notes": "a auzi (4th conj.) is essential for communication."
+          "notes": "a auzi (4th conj. simple) is essential for communication."
         },
         {
           "ro": "Colegii mei coboară la prânz acum. (My colleagues are going down for lunch now.)",
           "en": "Modern context: Office routine.",
-          "notes": "a coborî (4th conj. in -î) follows the 'coboară' pattern in 3rd person."
+          "notes": "a coborî (4th conj. simple) follows the 'coboară' pattern in 3rd person."
         }
       ]
     },
